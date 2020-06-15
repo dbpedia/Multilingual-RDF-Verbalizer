@@ -1,0 +1,13 @@
+gensim
+matplotlib
+networkx
+numpy
+pandas
+rdflib
+scikit_learn
+tqdm
+python-louvain
+rdflib==5.0.0
+pickle
+json
+argparse
