@@ -1,0 +1,29 @@
+@en | ""
+\n | ""
+"1878"^^xsd:gYear | 1878
+"1987"^^xsd:gYear | 1987
+^^xsd:positiveInteger | ""
+^^xsd:double | ""
+"51969173" | 51969173
+"76798317" | 76798317
+"57392246" | 57392246
+"49805501" | 49805501
+"8805735" | 8805735
+"318875313" | 318875313
+"46451790" | 46451790
+"27367194" | 27367194
+"01461102" | 1461102
+"57059226" | 57059226
+"45644811" | 45644811
+"78771100" | 78771100
+"1480153" | 1480153
+"60040714" | 60040714
+"93645978" | 93645978
+"32024459" | 32024459
+"89646863" | 89646863
+"83646315" | 83646315
+"Annie Dunne" | Annie_Dunne
+"DeMarce short stories in the" | "DeMarce short stories in the The Grantville Gazettes"
+"issues II, III, IV, V and VI" | "DeMarce short stories in the The Grantville Gazettes"
+"Virginia DeMarce and" | "Virginia DeMarce and Eric Flint"
+"and" | "DeMarce short stories in the The Grantville Gazettes"

@@ -12,6 +12,26 @@ from rdf2vec import RDF2VecTransformer
 
 import argparse
 from os import makedirs
+from os import listdir
+
+def load_supplementary(folder):
+    lexicon_files = [file for file in listdir(folder) if file.endswith("_lexicon.csv")]
+    substitute_files = [file for file in listdir(folder) if file.startswith("dbp-substitute")]
+
+    # Reading lexicon files
+    lexicon_triples = dict()
+    for lex_file in lexicon_files:
+        with open(folder + "/" + lex_file) as f:
+            lexicon_triples.update({line.split(",")[0].strip(): line.split(",")[1].strip() 
+                                    for line in f if line.split(",")[0].strip() != "" and line.split(",")[1].strip() != ""})
+
+    substitute_triples = dict()
+    for subs_file in substitute_files:
+        with open(folder + "/" + subs_file) as f:
+            substitute_triples.update({line.split("|")[0].strip(): line.split("|")[1].strip() 
+                                    for line in f if line.split("|")[0].strip() != "" and line.split("|")[1].strip() != ""})
+    return lexicon_triples, substitute_triples
+
 
 def load_knowledge_graph(filenames, filetype = "nt", strategy="rnd"):
     '''
@@ -57,6 +77,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('-dbpedia', "--dbpedia", nargs='*', help="DBpedia files")
     parser.add_argument('-vocab', "--vocab", type=str, help="Vocabulary input. It is usually a pickle.")
+    parser.add_argument('-sup', "--supplementary", type=str, help="Folder where there are several triple modifications")
     parser.add_argument('-embed-size', "--embedding-size", type=int)
     parser.add_argument('-depth', "--depth", type=int)
     parser.add_argument('-algorithm', "--algorithm", type=str, choices=['rnd', 'wl'])
@@ -80,6 +101,9 @@ def main():
     print("Vocabulary size:\t", len(vocab_dataset))
     print("Vocabulary loaded")
 
+    load_supplementary(args.supplementary)
+
+    '''
     sg = 1 if args.skip_gram else 0
 
     print("Loading the knowledge graph by using ", model, "...")
@@ -114,7 +138,7 @@ def main():
         name = folder + "/embeddings." + "cbow" + ".emb" + str(args.embedding_size) + ".win" + str(args.window_size)
         
     np.save(name, embeddings)
-
+    '''
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,39 @@
+"700"^^xsd:nonNegativeInteger | 700
+"~700"@en | 700
+"250"^^xsd:nonNegativeInteger | 250
+"16000"^^xsd:nonNegativeInteger | 16000
+"16000" | 16000
+"737"^^xsd:nonNegativeInteger | 737
+"~10000"@en | 10000
+"10000"^^xsd:nonNegativeInteger | 10000
+"600"^^xsd:nonNegativeInteger | 600
+"100"^^xsd:nonNegativeInteger | 100
+^^<http://dbpedia.org/datatype/minute> | (minutes)
+@en | ""
+^^xsd:date | ""
+^^xsd:decimal | ""
+\n | ""
+^^xsd:nonNegativeInteger | ""
+^^xsd:double | ""
+"23"^^xsd:positiveInteger | 23
+"20"^^xsd:positiveInteger | 20
+"34"^^xsd:positiveInteger | 34
+"45"^^xsd:positiveInteger | 45
+"12"^^xsd:positiveInteger | 12
+"60"^^xsd:positiveInteger | 60
+"22"^^xsd:positiveInteger | 22
+"3"^^xsd:positiveInteger | 3
+"50"^^xsd:positiveInteger | 50
+"1985"^^xsd:gYear | 1985
+"1911"^^xsd:gYear | 1911
+"1904"^^xsd:gYear | 1904
+"1913"^^xsd:gYear | 1913
+^^<http://dbpedia.org/datatype/squareMetre> | (square metres)
+^^<http://dbpedia.org/datatype/usDollar> | (dollars)
+^^<http://dbpedia.org/datatype/foot> | (feet)
+^^<http://dbpedia.org/datatype/squareFoot> | (square feet)
+^^<http://dbpedia.org/datatype/metre> | (metres)
+"Helmut Jahn" | Helmut_Jahn
+"Urban, ,In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090." | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+1_Decembrie_1918_University,_Alba_Iulia | 1_Decembrie_1918_University
+Aarhus_University,_School_of_Business_and_Social_Sciences | School of Business and Social Sciences at the Aarhus University

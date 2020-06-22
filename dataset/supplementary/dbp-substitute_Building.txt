@@ -1,0 +1,66 @@
+@en | ""
+\n | ""
+"28.0"^^xsd:double | 28.0 (metres)
+"30843.8"^^xsd:double | 30843.8 (square metres)
+"140000.0"^^xsd:double | 140000.0 (square metres)
+"39500.0"^^xsd:double | 39500.0 (square metres)
+"42.0"^^xsd:double | "42 m"
+"111484.0"^^xsd:double | 111484 (square metres)
+"121.92"^^xsd:double | 121.92 (metres)
+"1200.0"^^xsd:double | 1200 (square metres)
+"3746.66"^^xsd:double | 3746.66 (square metres)
+"62145.3"^^xsd:double | 62145.3 (square metres)
+"2009-06-01"^^xsd:date | "1 June 2009"
+"2009-10-02"^^xsd:date | "2009-10-02"
+"1988-11-22"^^xsd:date | "1988-11-22"
+"2013-09-28"^^xsd:date | "2013-09-28"
+"2007-03-30"^^xsd:date | "30 March 2007"
+"1987-02-27"^^xsd:date | "1987-02-27"
+"1980-04-23"^^xsd:date | "1980-04-23"
+"476"^^xsd:nonNegativeInteger | 476
+"814"^^xsd:nonNegativeInteger | 814
+"23"^^xsd:positiveInteger | 23
+"20"^^xsd:positiveInteger | 20
+"34"^^xsd:positiveInteger | 34
+"45"^^xsd:positiveInteger | 45
+"12"^^xsd:positiveInteger | 12
+"60"^^xsd:positiveInteger | 60
+"22"^^xsd:positiveInteger | 22
+"3"^^xsd:positiveInteger | 3
+"50"^^xsd:positiveInteger | 50
+"1985"^^xsd:gYear | 1985
+"1911"^^xsd:gYear | 1911
+"1904"^^xsd:gYear | 1904
+"1913"^^xsd:gYear | 1913
+"62145.25893504"^^<http://dbpedia.org/datatype/squareMetre> | 62145.3 (square metres)
+"111483.648"^^<http://dbpedia.org/datatype/squareMetre> | 111484 (square metres)
+"140000.0"^^<http://dbpedia.org/datatype/squareMetre> | 140000.0 (square metres)
+"3746.66"^^<http://dbpedia.org/datatype/squareMetre> | 3746.66 (square metres)
+"39500.0"^^<http://dbpedia.org/datatype/squareMetre> | 39500.0 (square metres)
+"120770.0"^^<http://dbpedia.org/datatype/squareMetre> | 120770.0 (square metres)
+"1.2E8"^^<http://dbpedia.org/datatype/usDollar> | "120 million (Australian dollars)"
+"1.1E8"^^<http://dbpedia.org/datatype/usDollar> | "110 million (dollars)"
+"7.5E7"^^<http://dbpedia.org/datatype/usDollar> | "75.0 million (dollars)"
+"400.0"^^<http://dbpedia.org/datatype/foot> | 121.92 (metres)
+"1200000.0"^^<http://dbpedia.org/datatype/squareFoot> | 111484 (square metres)
+"28.0"^^<http://dbpedia.org/datatype/metre> | 28.0 (metres)
+"Helmut Jahn" | Helmut_Jahn
+"1976" | 1976
+"1981" | 1981
+"1988" | 1988
+"1983" | 1983
+"1985" | 1985
+"2009" | 2009
+"1910" | 1910
+"1929" | 1929
+"1862" | 1862
+"1961" | 1961
+"1931" | 1931
+"1995" | 1995
+"Sri Lanka" | Sri_Lanka
+".Asherton, Texas" | Asherton,_Texas
+"108St Georges Terrace" | "108 St Georges Terrace"
+"Lalbhai Dalpatbhai Campus, nearCEPT University, opp.Gujarat University, University Road" | "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road"
+"A$120 million" | "120 million (Australian dollars)"
+"(original structure); 1832 (current structure)" | "1700"
+"Offices:" | 62145.3 (square metres)

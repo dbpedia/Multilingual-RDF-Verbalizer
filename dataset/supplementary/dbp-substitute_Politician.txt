@@ -1,0 +1,58 @@
+@en | ""
+\n | ""
+"1958-11-02"^^xsd:date | 1958-11-02
+"1936-05-21"^^xsd:date | 1936-05-21
+"1999-05-29"^^xsd:date | 1999-05-29
+"1965-01-03"^^xsd:date | 1965-01-03
+"1921-04-11"^^xsd:date | 1921-04-11
+"1921-04-11"^^xsd:date | 1921-04-11
+"2005-05-05"^^xsd:date | 2005-05-05
+"9312"^^xsd:nonNegativeInteger | 9312
+"1979-03-30"^^xsd:date | 1979-03-30
+"1953-06-30"^^xsd:date | 1953-06-30
+"1974-03-04"^^xsd:date | 1974-03-04
+"1935"^^xsd:gYear | 1935
+"1953-06-30"^^xsd:date | 1953-06-30
+"1905-03-04"^^xsd:date | 1905-03-04
+"1901-03-04"^^xsd:date | 1901-03-04
+"1856"^^xsd:gYear | 1856
+"1856-09-22"^^xsd:date | 1856-09-22
+"1941-07-03"^^xsd:date | 1941-07-03
+"1941"^^xsd:gYear | 1941
+"1896-02-01"^^xsd:date | 1896-02-01
+"1891-05-20"^^xsd:date | 1891-05-20
+"1857-03-04"^^xsd:date | 1857-03-04
+"1875-03-04"^^xsd:date | 1875-03-04
+"1885-01-21"^^xsd:date | 1885-01-21
+"1939-01-03"^^xsd:date | 1939-01-03
+"1947-01-21"^^xsd:date | 1947-01-21
+"1949-07-11"^^xsd:date | 1949-07-11
+"1857-03-03"^^xsd:date | 1857-03-03
+"1853-03-04"^^xsd:date | 1853-03-04
+"1793-10-23"^^xsd:date | 1793-10-23
+"1793-10-23"^^xsd:date | 1793-10-23
+"," | New_Britain,_Connecticut
+"Radboud University Nijmegen" | Radboud_University_Nijmegen
+"House of Representatives (Netherlands)" | House_of_Representatives_(Netherlands)
+"Secretary of State of Vermont" | Secretary_of_State_of_Vermont
+"Technical Institute, Kaduna" | Technical_Institute,_Kaduna
+"Member of theCongress of Deputies" | "Member of the Congress of Deputies"
+"Member of theConnecticut Senatefrom the26th District" | "Member of the Connecticut Senate from the 26th District"
+"Deputy Parliamentary Spokesman ofPopular Orthodox Rally" | "Deputy Parliamentary Spokesman of Popular Orthodox Rally"
+"Member of theTexas State SenatefromDistrict 4(Port Arthur)" | "Member of the Texas State Senate from District 4 (Port Arthur)"
+"Member of the Texas State Senate from District 4" | "Member of the Texas State Senate from District 4 (Port Arthur)"
+List_of_Provisional_Presidents_of_Argentine_Senate | "Provisional President of the Argentine Senate"
+List_of_Presidents_pro_tempore_of_the_Texas_Senate | President_pro_tempore_of_the_Texas_Senate
+"for Gravesham" | Member_of_Parliament_for_Gravesham
+"Member of theHellenic Parliament" | Member of the Hellenic Parliament
+"Parti Pesaka Bumiputera Bersatu" | Parti_Pesaka_Bumiputera_Bersatu
+"Chief of Defence Staff" | Chief_of_the_Defence_Staff_(Nigeria)
+"Spokesman ofPopular Orthodox Rally" | "Spokesman of Popular Orthodox Rally"
+%22Parasol%22 | "Parasol"
+"Leiden University" | Leiden_University
+Law | Leiden_University
+Sociology | Erasmus_University_Rotterdam
+"from Connecticut's 4th district" | "Member of the U.S. House of Representatives from Connecticut's 4th district"
+"Member of the" | "Member of the U.S. House of Representatives from Connecticut's 4th district"
+"Mayor of Stamford, Connecticut" | Mayor_of_Stamford,_Connecticut
+"American" | United_States

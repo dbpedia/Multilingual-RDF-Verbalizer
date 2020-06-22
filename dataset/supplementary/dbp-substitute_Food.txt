@@ -1,0 +1,32 @@
+@en | ""
+\n | ""
+"18.0"^^<http://dbpedia.org/datatype/gram> | 18.0 g
+"18.0"^^xsd:double | 18.0 g
+"4.8"^^<http://dbpedia.org/datatype/gram> | 4.8 g
+"4.8"^^xsd:double | 4.8 g
+"1.8"^^<http://dbpedia.org/datatype/gram> | 1.8 g
+"1.8"^^xsd:double | 1.8 g
+"30.0"^^<http://dbpedia.org/datatype/gram> | 30.0 g
+"30.0"^^xsd:double | 30.0 g
+"1999"^^xsd:gYear | 1999
+"Bread,almonds,garlic,water,olive oil" | "Bread, almonds, garlic, water, olive oil"
+"Tomatoes, guanciale, cheese , olive oil" | "Tomatoes, guanciale, cheese, olive oil"
+"Tomatoes,guanciale, cheese (Pecorino Romano),olive oil" | "Tomatoes, guanciale, cheese, olive oil"
+"compressed rice cooked inbanana leafwith vegetables or minced meat fillings" | "compressed rice cooked in banana leaf with vegetables or minced meat fillings"
+"Tomatoes,red chili,garlic,olive oil" | "Tomatoes, red chili, garlic, olive oil"
+"White rice,cuttlefishorsquid,cephalopod ink,cubanelle peppers" | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"
+"\"Squeezed\" or \"smashed\"fried chickenserved withsambal" | "Squeezed" or "smashed" fried chicken served with sambal
+"\"Squeezed\" or \"smashed\" fried chicken served with sambal" | "Squeezed" or "smashed" fried chicken served with sambal
+"Breadandbacon, with acondiment, oftenketchuporbrown sauce" | "Bread and bacon, with a condiment, often ketchup or brown sauce"
+"Meringue, ice cream,sponge cakeorChristmas pudding" | "Meringue, ice cream, sponge cake or Christmas pudding"
+"Bakewell tart" | Bakewell_tart
+"Ground beef,tapioca,noodle, ricevermicelli, beefbroth, kailan,celery, salted vegetables, fried shallots" | "Ground beef, tapioca, noodle, rice vermicelli, beef broth, kailan, celery, salted vegetables, fried shallots"
+"fried fish dumpling with tofu and vegetables inpeanut sauce" | "fried fish dumpling with tofu and vegetables in peanut sauce"
+"noodles,porkorgans,vegetables,chicken,shrimp,beef" | "noodles, pork organs, vegetables, chicken, shrimp, beef"
+"Kway teow (flat rice noodles), beef tenderloin, gula Melaka ,sliced, dried black beans, garlic, dark soy sauce, lengkuas (galangal or blue ginger), oyster sauce, soya sauce, chilli and sesame oil" | "Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil"
+"Kway teow , beef tenderloin, gula Melaka ,sliced, dried black beans, garlic, dark soy sauce, lengkuas , oyster sauce, soya sauce, chilli and sesame oil" | "Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil"
+"red beans,pork belly, whiterice,ground meat,chicharon,fried egg,plantain(patacones),chorizo, arepa, hogao sauce,black pudding(morcilla),avocadoandlemon" | "red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon"
+"Gram flour,vegetables" | "Gram flour, vegetables"
+"Rome" | Rome
+"Indonesia" | Indonesia
+"Indonesia, derived from Chinese meat ball" | Indonesia

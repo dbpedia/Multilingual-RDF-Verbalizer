@@ -1,0 +1,18 @@
+@en | ""
+\n | ""
+"Big Hero 6(2014)" | Big_Hero_6_(film)
+^^xsd:date | ""
+"Marv Wolfman" | Marv_Wolfman
+"Steve Bright" | Steve_Bright
+Airman_(comics) | Airman_(comicsCharacter)
+Amazing-Man_(Centaur_Publications) | Amazing-Man_(comicsCharacter)
+Arrow_(comics) | The_Arrow_(comicsCharacter)
+Balder_(comics) | Balder_(comicsCharacter)
+Asterix_(character) | Asterix_(comicsCharacter)
+Arion_(comics) | Arion_(comicsCharacter)
+Bolt_(DC_Comics) | Bolt_(comicsCharacter)
+Blockbuster_(DC_Comics) | Blockbuster_(comicsCharacter)
+Auron_(comics) | Auron_(comicsCharacter)
+Black_Knight_(Dane_Whitman) | Dane_Whitman_Black_Knight_(comicsCharacter)
+Ballistic_(DC_Comics) | Ballistic_(comicsCharacter)
+Roger_McKenzie_(comics) | Roger_McKenzie_(comic_book_writer)

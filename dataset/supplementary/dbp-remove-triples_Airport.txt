@@ -1,0 +1,8 @@
+Aarhus_Airport | city | Denmark
+Al-Taqaddum_Air_Base | cityServed | Iraq
+Al-Taqaddum_Air_Base | city | Iraq
+Amsterdam_Airport_Schiphol | cityServed | Netherlands
+Amsterdam_Airport_Schiphol | city | Netherlands
+Antwerp_International_Airport | city | Belgium
+Athens_International_Airport | cityServed | Greece
+Athens_International_Airport | city | Greece

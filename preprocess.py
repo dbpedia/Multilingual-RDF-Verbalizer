@@ -106,7 +106,7 @@ if __name__ == '__main__':
       from google.colab import drive
 
       drive.mount('/content/gdrive', force_remount=True)
-      OUTPUT_DIR = '/content/gdrive/My Drive/data/processed_graphs/{}/{}'.format(args.lang,
+      OUTPUT_DIR = '/content/gdrive/My Drive/webnlg-2020/processed_graphs/{}/{}'.format(args.lang,
                                                                                  args.model)
       if not os.path.isdir(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
@@ -116,7 +116,7 @@ if __name__ == '__main__':
         pickle.dump(vocab, fp)
 
     else:
-      OUTPUT_DIR = 'data/processed_graphs/{}/{}'.format(args.lang,
+      OUTPUT_DIR = 'webnlg-2020/processed_graphs/{}/{}'.format(args.lang,
                                                         args.model)
       if not os.path.isdir(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
@@ -172,7 +172,7 @@ if __name__ == '__main__':
         from google.colab import drive
 
         drive.mount('/content/gdrive', force_remount=True)
-        OUTPUT_DIR = '/content/gdrive/My Drive/data/processed_graphs/{}/{}'.format(args.lang,
+        OUTPUT_DIR = '/content/gdrive/My Drive/webnlg-2020/processed_graphs/{}/{}'.format(args.lang,
                                                                                    args.model)
         if not os.path.isdir(OUTPUT_DIR):
           os.makedirs(OUTPUT_DIR)
@@ -182,7 +182,7 @@ if __name__ == '__main__':
           pickle.dump(vocab, fp)
 
       else:
-        OUTPUT_DIR = 'data/processed_graphs/{}/{}'.format(args.lang, args.model)
+        OUTPUT_DIR = 'webnlg-2020/processed_graphs/{}/{}'.format(args.lang, args.model)
         if not os.path.isdir(OUTPUT_DIR):
           os.makedirs(OUTPUT_DIR)
         # save the vocab file
@@ -199,13 +199,13 @@ if __name__ == '__main__':
       from google.colab import drive
 
       drive.mount('/content/gdrive', force_remount=True)
-      OUTPUT_DIR = '/content/gdrive/My Drive/data/processed_graphs/{}/{}'.format(args.lang,
+      OUTPUT_DIR = '/content/gdrive/My Drive/webnlg-2020/processed_graphs/{}/{}'.format(args.lang,
                                                                                  args.model)
       if not os.path.isdir(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
 
     else:
-      OUTPUT_DIR = 'data/processed_graphs/{}/{}'.format(args.lang, args.model)
+      OUTPUT_DIR = 'webnlg-2020/processed_graphs/{}/{}'.format(args.lang, args.model)
       if not os.path.isdir(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
     with open(OUTPUT_DIR + '/' + 'train', 'wb') as fp:

@@ -1,0 +1,5 @@
+_ | _ | "None"@en
+Bakso | hasVariant | Chinese_cuisine
+Bakso | hasVariant | Vietnamese_cuisine
+Bakso | hasVariant | Pho
+Bandeja_paisa | creatorOfDish | List_of_ethnic_groups_of_Africa

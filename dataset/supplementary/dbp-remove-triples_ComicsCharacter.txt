@@ -1,0 +1,7 @@
+Ben_Urich | alterEgo | "*"@en
+April_O'Neil | fullName | "April O'Neil"@en
+Bianca_Castafiore | fullName | "Bianca Castafiore"@en
+BBC | keyPerson | BBC_Trust
+Gardner_Fox | award | Murphy_Anderson
+Gardner_Fox | award | Mike_Sekowsky
+Scott_Adsit | occupation | Scott_Adsit__1

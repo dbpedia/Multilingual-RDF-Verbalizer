@@ -33,6 +33,8 @@ def _train_gat_trans(args):
   (dataset, eval_set, test_set, BUFFER_SIZE, BATCH_SIZE, steps_per_epoch,
    src_vocab_size, src_vocab, tgt_vocab_size, tgt_vocab, max_length_targ, dataset_size) = GetGATDataset(args)
 
+  break
+
   model = TransGAT(args, src_vocab_size, src_vocab,
                    tgt_vocab_size, max_length_targ, tgt_vocab)
 
@@ -100,15 +102,18 @@ def _train_gat_trans(args):
   def evaluate(nodes, labels, node1, node2, targets=None):
     predictions = model(nodes, labels, node1,
                         node2, targ=None, mask=None)
+    
     pred = [(predictions['outputs'].numpy().tolist())]
 
-    predictions = model.metric_layer([predictions, targets])
-    batch_loss = loss_layer([predictions, targ])
+    #predictions = model.metric_layer([predictions, targets])
+    #batch_loss = loss_layer([predictions, targets])
 
-    acc = model.metrics[0].result()
-    ppl = model.metrics[-1].result()
-    batch_loss = train_loss(batch_loss)
-
+    #acc = model.metrics[0].result()
+    #ppl = model.metrics[-1].result()
+    #batch_loss = train_loss(batch_loss)
+    acc = 0
+    batch_loss = 0
+    ppl = 0
     return batch_loss, acc, ppl, pred
 
   # Eval function
@@ -138,16 +143,35 @@ def _train_gat_trans(args):
         return batch_loss/steps, acc/steps, ppl/steps
 
   # Test function
-  def test_step():
+  def test():
     model.trainable = False
     eval_results = open(TestResults, 'w+')
 
-    acc = 0
-    ppl = 0
-    batch_loss = 0
-
     for (batch, (nodes, labels, node1, node2)) in tqdm(enumerate(test_set)):
-      _, _, _, pred = evaluate(nodes, labels, node1, node2, targets=None)
+      _, _, _, pred = evaluate(nodes, labels, node1, node2)
+
+      if args.sentencepiece == 'True':
+        for i in range(len(pred[0])):
+          sentence = (tgt_vocab.DecodeIds(list(pred[0][i])))
+          sentence = sentence.partition("<start>")[2].partition("<end>")[0]
+          eval_results.write(sentence + '\n')
+      else:
+        for i in pred:
+          sentences = tgt_vocab.sequences_to_texts(i)
+          sentence = [j.partition("<start>")[2].partition("<end>")[0] for j in sentences]
+          for w in sentence:
+            eval_results.write((w + '\n'))
+
+    eval_results.close()
+    model.trainable = True
+
+  # Test function
+  def dev():
+    model.trainable = False
+    eval_results = open(EvalResultsFile, 'w+')
+
+    for (batch, (nodes, labels, node1, node2, _)) in tqdm(enumerate(eval_set)):
+      _, _, _, pred = evaluate(nodes, labels, node1, node2)
 
       if args.sentencepiece == 'True':
         for i in range(len(pred[0])):
@@ -192,12 +216,12 @@ def _train_gat_trans(args):
                        f"Step {PARAMS['step']} Train Accuracy: {acc.numpy()}"
                        f" Loss: {train_loss.result()} Perplexity: {ppl.numpy()} \n")
 
-      if batch % args.eval_steps == 0:
-        batch_loss, acc, ppl = eval_step(5)
-        print('Eval \t Train Loss {:.4f} '
-              'Accuracy {:.4f} Perplex {:.4f}'.format(batch_loss,
-                                                      acc.numpy(),
-                                                      ppl.numpy()))
+      #if batch % args.eval_steps == 0:
+      #  batch_loss, acc, ppl = eval_step(5)
+      #  print('Eval \t Train Loss {:.4f} '
+      #        'Accuracy {:.4f} Perplex {:.4f}'.format(batch_loss,
+      #                                                acc.numpy(),
+      #                                                ppl.numpy()))
 
       if batch % args.checkpoint == 0:
         print("Saving checkpoint \n")
@@ -207,4 +231,5 @@ def _train_gat_trans(args):
     else:
       break
 
-  test_step()
+  dev()
+  test()

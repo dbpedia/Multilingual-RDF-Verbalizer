@@ -1,0 +1,26 @@
+creator,creator,Black_Pirate | creator | Sheldon_Moldoff
+series,series,Baymax | series | Big_Hero_6_(film)
+product,product,BBC | product | BBC_Radio
+firstAired,firstAired,"Bananaman | firstAired | ""1983-10-03""^^xsd:date"
+distributor,distributor,Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures
+children,child,Bill_Oddie | children | Kate_Hardie
+keyPerson,keyPerson,"BBC | keyPerson | Tony_Hall,_Baron_Hall_of_Birkenhead"
+network,broadcastedBy,Bananaman | network | BBC
+keyPeople,keyPerson,BBC | keyPeople | Rona_Fairhead
+firstAppearance,firstAppearanceInFilm,"Baymax | firstAppearance | ""Big Hero 6(2014)"""
+birthPlace,birthPlace,Bill_Oddie | birthPlace | Rochdale
+alterEgo,alternativeName,"Ballistic_(DC_Comics) | alterEgo | ""Kelvin Mao""@en"
+occupation,occupation,Scott_Adsit | occupation | Scott_Adsit__1
+award,award,Doug_Moench | award | Inkpot_Award
+awards,award,Jan_Duursema | awards | Eisner_Award
+lastAired,lastAired,"Bananaman | lastAired | ""1986-04-15""^^xsd:date"
+starring,starring,Bananaman | starring | Tim_Brooke-Taylor
+child,child,Bill_Oddie | child | Kate_Hardie
+nationality,nationality,John_Buscema | nationality | Americans
+fullName,fullName,"Ben_Urich | fullName | ""Benjamin Urich""@en"
+creators,creator,Black_Knight_(Dane_Whitman) | creators | John_Buscema
+foundedBy,foundedBy,"BBC | foundedBy | John_Reith,_1st_Baron_Reith"
+characterName,,"Blockbuster_(DC_Comics) | characterName | ""Blockbuster""@en"
+locationCity,locationCity,BBC | locationCity | Broadcasting_House
+voice,voice,Baymax | voice | Scott_Adsit
+first,firstAppearanceInFilm,Baymax | first | Big_Hero_6_(film)

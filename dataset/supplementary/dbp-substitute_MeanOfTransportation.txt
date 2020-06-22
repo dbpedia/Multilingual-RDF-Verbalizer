@@ -1,0 +1,166 @@
+"3.04 m"@en | 3.04 m
+"8.3 m"@en | 8.3 m
+@en | ""
+\n | ""
+Alhambra_(1855) | Alhambra
+"Dodge" | Dodge
+"Argentina" | Argentina
+"Airbus Defence and Space for" | Airbus_Defence_and_Space
+"Supermini" | Supermini
+"Marysville Auto Plant" | Marysville_Auto_Plant
+"Yuzhnoye Design Bureau" | Yuzhnoye_Design_Office
+", Petrol" | "Petrol"
+", Australia" | "Australia"
+", Mexico" | "Mexico"
+", USA" | "USA"
+"Bertone" | Gruppo_Bertone
+"** at stern stabilizers." | 3.8 m
+"**Box keel depth :" | 4.6 m
+"May 1950 &ndash; August 1956" | "May 1950 - August 1956"
+"9-speedZF9HPautomatic(V6)" | "9-speed ZF 9HP automatic (V6)"
+"4-speedautomatic(ZF 4HP18Q)" | "4-speed automatic (ZF 4HP18Q)"
+"4-speedautomatic(ZF 4HP18QE)" | "4-speed automatic (ZF 4HP18QE)"
+"5-speedmanual" | "5-speed manual"
+"6-speedmanual(Getrag)" | "6-speed manual (Getrag)"
+"track" | 127.0 (inches)
+"*2 × MTU 16V 2000 M60*" | "2 × MTU 16V 2000 M60 engine"
+"Samuda Brothers Cubitt Town, London" | Samuda_Brothers
+"Provided spare parts forNAeL Minas Geraisand remainder was scrapped in 2000" | "Provided spare parts for NAeL Minas Geraisand and remainder was scrapped in 2000"
+"and all-syncromesh, centre change lever, open tubular propellor shaft" | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"
+"single plate clutch, separate 4-speed gearbox all-silent" | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"
+"with metal joints (arranged in a straight line), spiral bevel fully floating back axle" | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"
+"Front-engine, front-wheel-drive Quattro in A1 Quattro" | Front-engine,_front-wheel-drive_layout
+"SEAT Ibiza Mk4" | SEAT_Ibiza
+"Volkswagen Polo Mk5" | Volkswagen_Polo
+230 | 230 (cubic inches)
+1955_Dodge__1 | Straight-six_engine
+1955_Dodge__2 | V8_engine
+1955_Dodge__3 | V8_engine
+1955_Dodge__4 | V8_engine
+1955_Dodge__5 | V8_engine
+Abarth_1000_GT_Coupé__1 | Straight-four_engine
+Acura_TLX__10 | V6_engine
+Acura_TLX__5 | Inline-four_engine
+Alfa_Romeo_164__1 | Straight-four_engine
+Alfa_Romeo_164__2 | Straight-four_engine
+Alfa_Romeo_164__3 | V6_engine
+Alfa_Romeo_164__4 | V6_engine
+Alfa_Romeo_164__5 | Straight-four_engine
+Alvis_Speed_25__2 | 4387.0 (cubicCentimetres)
+Alvis_Speed_25__3 | Straight-six_engine
+Alvis_Speed_25__6 | Straight-six_engine
+106 | Straight-six_engine
+137 | Straight-six_engine
+"I6" | AMC_straight-6_engine
+"V8" | AMC_V8_engine
+Aston_Martin_V8__1 | 5.3 (litres)
+Audi_A1__1 | 1.2 (litres)
+Audi_A1__2 | 1.2 (litres)
+Audi_A1__3 | 1.2 (litres)
+Audi_A1__4 | 1.2 (litres)
+Audi_A1__5 | 1.2 (litres)
+"120.0"^^<http://dbpedia.org/datatype/inch> | 120.0 (inches)
+"3.048"^^xsd:double | 120.0 (inches)
+"2005-04-07"^^xsd:date | 2005-04-07
+"2005-04-06"^^xsd:date | 2005-04-06
+"125800.0"^^<http://dbpedia.org/datatype/millimetre> | 125800.0 (millimetres)
+"2004-01-22"^^xsd:date | 2004-01-22
+"2005-04-07"^^xsd:date | 2005-04-07
+"2005-04-06"^^xsd:date | 2005-04-06
+"1850.0"^^<http://dbpedia.org/datatype/tonne> | 1850.0 (tonnes)
+1.85e+09 | 1850.0 (tonnes)
+"2004-12-16"^^xsd:date | 2004-12-16
+"2004-01-22"^^xsd:date | 2004-01-22
+"24.0"^^xsd:double | 24.0
+"2160.0"^^<http://dbpedia.org/datatype/millimetre> | 2160.0 (millimetres)
+"1958"^^xsd:gYear | 1958
+"1958"^^xsd:gYear | 1958
+"2.16"^^xsd:double | 2160.0 (millimetres)
+"1.55"^^xsd:double | 1.55
+"2.4"^^xsd:double | 2.4 (litres)
+"3.5"^^xsd:double | 3.5 (litres)
+"2009-03-22"^^xsd:date | 2009-03-22
+"2009-04-04"^^xsd:date | 2009-04-04
+"252.0"^^xsd:double | 252000.0 (millimetres)
+"2009-03-22"^^xsd:date | 2009-03-22
+"252000.0"^^<http://dbpedia.org/datatype/millimetre> | 252000.0 (millimetres)
+"32.2"^^xsd:double | 32.2
+"--04-04"^^xsd:gMonthDay | 2009-04-04
+"2009-03-22"^^xsd:date | 2009-03-22
+"2009-03-22"^^xsd:date | 2009-03-22
+"40.744"^^xsd:double | 40.744
+"2013-03-17"^^xsd:date | 2013-03-17
+"2013-03-16"^^xsd:date | 2013-03-16
+"2013-03-11"^^xsd:date | 2013-03-11
+"253.26"^^xsd:double | 253260.0 (millimetres)
+"2013-03-17"^^xsd:date | 2013-03-17
+"253260.0"^^<http://dbpedia.org/datatype/millimetre> | 253260.0 (millimetres)
+"32.2"^^xsd:double | 32.2
+"--03-16"^^xsd:gMonthDay | 2013-03-16
+"2013-03-11"^^xsd:date | 2013-03-11
+"2013-03-17"^^xsd:date | 2013-03-17
+"2008-12-17"^^xsd:date | 2008-12-17
+"2013-03-17"^^xsd:date | 2013-03-17
+"38.892"^^xsd:double | 38.892
+"1950"^^xsd:gYear | 1950
+"17068.8"^^<http://dbpedia.org/datatype/millimetre> | 17068.8 (millimetres)
+"99.83"^^xsd:double | 99.83
+"21.2"^^xsd:double | 21.2
+"2.5"^^xsd:double | 2.5 (litres)
+"63.8"^^xsd:double | 63800.0 (millimetres)
+"1855-07-07"^^xsd:date | 1855-07-07
+"63800.0"^^<http://dbpedia.org/datatype/millimetre> | 63800.0 (millimetres)
+"8.3"^^xsd:double | 8.3 m
+"1855-05-31"^^xsd:date | 1855-05-31
+"1855-07-07"^^xsd:date | 1855-07-07
+"18.52"^^xsd:double | 18.52
+"1.524"^^xsd:double | 1.524 (metres)
+"5.0"^^<http://dbpedia.org/datatype/foot> | 1.524 (metres)
+"1"^^xsd:nonNegativeInteger | 1
+"1.524"^^<http://dbpedia.org/datatype/metre> | 1.524 (metres)
+"2"^^xsd:nonNegativeInteger | 2
+"1"^^xsd:nonNegativeInteger | 1
+"3225.8"^^<http://dbpedia.org/datatype/millimetre> | 127.0 (inches)
+"25.63"^^xsd:double | 31.48 tax horsepower
+"31.48"^^xsd:double | 31.48 tax horsepower
+"3571.0"^^<http://dbpedia.org/datatype/cubicCentimetre> | 4387.0 (cubicCentimetres)
+"4387.0"^^<http://dbpedia.org/datatype/cubicCentimetre> | 4387.0 (cubicCentimetres)
+"1937"^^xsd:gYear | 1937
+"123.0"^^<http://dbpedia.org/datatype/inch> | 127.0 (inches)
+"127.0"^^<http://dbpedia.org/datatype/inch> | 127.0 (inches)
+"3.2258"^^xsd:double | 127.0 (inches)
+"56.0"^^<http://dbpedia.org/datatype/inch> | 127.0 (inches)
+"45.0"^^xsd:double | 45000.0 (millimetres)
+"45000.0"^^<http://dbpedia.org/datatype/millimetre> | 45000.0 (millimetres)
+"3.8"^^xsd:double | 3.8 m
+"4.8"^^xsd:double | 3.8 m
+"1.2"^^xsd:double | 1.2 (litres)
+"4.6"^^xsd:double | 4.6 m
+"1969-01-25"^^xsd:date | 1969-01-25
+"8.334"^^xsd:double | 8.334
+"2013-09-18"^^xsd:date | 2013-09-18
+"2014-07-13"^^xsd:date | 2014-07-13
+"2014-10-28"^^xsd:date | 2014-10-28
+"--01-09"^^xsd:gMonthDay | 2014-01-09
+"--04-21"^^xsd:gMonthDay | 2013-04-21
+"2013-04-21"^^xsd:date | 2013-04-21
+"2014-01-09"^^xsd:date | 2014-01-09
+"2014-10-28"^^xsd:date | 2014-10-28
+"3.9"^^<http://dbpedia.org/datatype/metre> | 3.9 (metres)
+"192.0"^^xsd:double | 192000.0 (millimetres)
+"192000.0"^^<http://dbpedia.org/datatype/millimetre> | 192000.0 (millimetres)
+"24.4"^^xsd:double | 24.4
+"2003-09-27"^^xsd:date | 2003-09-27
+"2004-12-18"^^xsd:date | 2004-12-18
+"2009-12-18"^^xsd:date | 2009-12-18
+"1996-06-04"^^xsd:date | 1996-06-04
+"2002-12-11"^^xsd:date | 2002-12-11
+"2004-03-02"^^xsd:date | 2004-03-02
+"2005-08-11"^^xsd:date | 2005-08-11
+"2008-03-09"^^xsd:date | 2008-03-09
+"5.4"^^<http://dbpedia.org/datatype/metre> | 5.4 (metres)
+"5.3"^^xsd:double | 5.3 (litres)
+"3.04"^^xsd:double | 3.04 m
+"1998-03-16"^^xsd:date | 1998-03-16
+"2002-12-05"^^xsd:date | 2002-12-05
+"2004-08-31"^^xsd:date | 2004-08-31

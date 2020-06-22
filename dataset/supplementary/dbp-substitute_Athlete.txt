@@ -1,0 +1,51 @@
+@en | ""
+\n | ""
+Alan_Martin_(footballer,_born_1989) | Alan_Martin_(footballer)
+Steve_Davis_(footballer,_born_1965) | Steve_Davis_(footballer)
+Forward_(association_football) | Forward_(football)
+Defender_(association_football) | Defender_(football)
+History_of_the_St._Louis_Rams | St._Louis_Rams
+"→ Accrington Stanley" | Accrington_Stanley_F.C.
+"→ Barrow" | Barrow_A.F.C.
+"→ Anzhi Makhachkala" | FC_Anzhi_Makhachkala
+"→ Sparta Prague" | Sparta_Prague
+"→ Terek Grozny" | FC_Terek_Grozny
+"→ Tom Tomsk" | FC_Tom_Tomsk
+"→ Sampdoria" | U.C._Sampdoria
+"→ FK Mughan" | FK_Mughan
+"AS Lyon Duchère" | AS_Lyon_Duchère
+"1989-02-24"^^xsd:date | 1989-02-24
+"0.0"^^<http://dbpedia.org/datatype/centimetre> | 178.0 (centimetres)
+"1976-07-01"^^xsd:date | 1976-07-01
+"1989"^^xsd:gYear | 1989
+"1987-09-27"^^xsd:date | 1987-09-27
+"1986"^^xsd:gYear | 1986
+"2.032"^^xsd:double | 2.032
+"1995"^^xsd:gYear | 1995
+"1.9304"^^xsd:double | 1.9304
+"2011"^^xsd:gYear | 2011
+"185.0"^^<http://dbpedia.org/datatype/centimetre> | 185.0 (centimetres)
+"185.42"^^<http://dbpedia.org/datatype/centimetre> | 185.42 (centimetres)
+"1988-01-08"^^xsd:date | 1988-01-08
+"1989-07-10"^^xsd:date | 1989-07-10
+"1989-07-10"^^xsd:date | 1989-07-10
+"1987"^^xsd:gYear | 1987
+"1989-01-01"^^xsd:date | 1989-01-01
+"2011"^^xsd:gYear | 2011
+"1.905"^^xsd:double | 1.905
+"1986"^^xsd:gYear | 1986
+"2011"^^xsd:gYear | 2011
+"1986-08-11"^^xsd:date | 1986-08-11
+"94802.4"^^xsd:double | 94.8024 (kilograms)
+"1989-05-09"^^xsd:date | 1989-05-09
+"1986-10-12"^^xsd:date | 1986-10-12
+"96.1632"^^<http://dbpedia.org/datatype/kilogram> | 96.1632 (kilograms)
+"99.792"^^<http://dbpedia.org/datatype/kilogram> | 99.792 (kilograms)
+"1.905"^^xsd:double | 1.905
+"1995-09-02"^^xsd:date | 1995-09-02
+"1.9558"^^xsd:double | 1.9558
+"1948"^^xsd:gYear | 1948
+"1989"^^xsd:gYear | 1989
+"94.8024"^^<http://dbpedia.org/datatype/kilogram> | 94.8024 (kilograms)
+"1996-05-30"^^xsd:date | 1996-05-30
+AS_Lyon_Duchère | AS_Lyon-Duchère

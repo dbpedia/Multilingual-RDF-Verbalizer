@@ -1,0 +1,56 @@
+senators,senators,California | senators | Dianne_Feinstein
+selection,was selected by NASA,Alan_Bean | selection | 1963
+mission,was a crew member of,Alan_Bean | mission | Apollo_12
+years,served as Chief of the Astronaut Office in,William_Anders | years | 1976
+almaMater,almaMater,"Buzz_Aldrin | almaMater | ""Massachusetts Institute of Technology, Sc.D. 1963""@en"
+leaderName,leaderName,St._Louis | leaderName | Francis_G._Slay
+alternativeNames,alternativeNames,"Buzz_Aldrin | alternativeNames | ""Edwin E. Aldrin, Jr.""@en"
+occupation,occupation,William_Anders | occupation | Fighter_pilot
+title,title,Alan_Shepard | title | Chief_of_the_Astronaut_Office
+source,,"William_Anders | source | ""William A. Anders.""@en"
+operator,operator,Apollo_11 | operator | NASA
+birthDate,birthDate,"Alan_Bean | birthDate | ""1932-03-15""^^xsd:date"
+partsType,partsType,Dallas | partsType | List_of_counties_in_Texas
+affiliations,affiliations,University_of_Texas_at_Austin | affiliations | University_of_Texas_System
+leader,leader,United_States | leader | Joe_Biden
+otherDevice,,"Alan_Shepard | otherDevice | ""expert""@en"
+athletics,compete in,University_of_Texas_at_Austin | athletics | Big_12_Conference
+battle,battle,United_States_Navy_Reserve | battle | War_on_Terror
+crew2Up,backup pilot,Apollo_8 | crew2Up | Buzz_Aldrin
+ribbon,was awarded,"Alan_Shepard | ribbon | ""American Defense Service ribbon.svg""@en"
+fossil,fossil,California | fossil | Smilodon
+isPartOf,isPartOf,Alba_Iulia | isPartOf | Alba_County
+governingBody,governingBody,Dallas | governingBody | Dallas_(city_council)
+gemstone,gemstone,California | gemstone | Benitoite
+bird,bird,New_Hampshire | bird | Purple_finch
+birthName,birthName,"Alan_Bean | birthName | ""Alan LaVern Bean""@en"
+awards,awards,Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)
+nationality,nationality,Alan_Bean | nationality | United_States
+garrison,based in,"United_States_Navy | garrison | Arlington_County,_Virginia"
+aircraftAttack,attackAircraft,Air_Force_Reserve_Command | aircraftAttack | Fairchild_Republic_A-10_Thunderbolt_II
+rank,,Elliot_See | rank | United_States_Navy_Reserve
+crewMembers,crewMembers,Apollo_8 | crewMembers | Frank_Borman
+aircraftBomber,bomberAircraft,Air_Force_Reserve_Command | aircraftBomber | Boeing_B-52_Stratofortress
+timeInSpace,timeInSpace,"William_Anders | timeInSpace | ""8820.0""^^<http://dbpedia.org/datatype/minute>"
+sports,sports,"Acharya_Institute_of_Technology | sports | ""University Level Cricket, Hand Ball, Throw Ball, Tennis, Kabaddi, Kho Kho, Basketball, Football, Volleyball, Table Tennis, Chess and Carrom""@en"
+decorations,decorations,United_States_Navy | decorations | Navy_Unit_Commendation
+crew1Up,commander,Apollo_8 | crew1Up | Frank_Borman
+birthPlace,birthPlace,"Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey"
+commander5Label,highest-ranking officer,United_States_Navy | commander5Label | Master_Chief_Petty_Officer_of_the_Navy
+part,part,"Dallas | part | Collin_County,_Texas"
+representative,representative,British_Hong_Kong | representative | Chris_Patten
+mascot,mascot,University_of_Texas_at_Austin | mascot | Hook_'em_(mascot)
+affiliation,affiliation,University_of_Texas_at_Austin | affiliation | University_of_Texas_System
+deathPlace,deathPlace,Elliot_See | deathPlace | St._Louis
+dateOfRet,dateOfRetirement,"Alan_Shepard | dateOfRet | ""1974-08-01""^^xsd:date"
+insignia,,Alan_Bean | insignia | 40
+battles,battles,United_States_Navy_Reserve | battles | War_on_Terror
+establishedEvent,,England | establishedEvent | Acts_of_Union_1707
+upperhouse,,New_Hampshire | upperhouse | New_Hampshire_Senate
+higher,higher,Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal
+status,status,"Alan_Bean | status | ""Retired""@en"
+commander4Label,second highest-ranking officer,United_States_Navy | commander4Label | Vice_Chief_of_Naval_Operations
+date,in magazine archive of date,"Alan_Shepard | date | ""20100527185932""^^xsd:decimal"
+president,president,University_of_Texas_at_Austin | president | Gregory_L._Fenves
+deathDate,deathDate,"Elliot_See | deathDate | ""1966-02-28""^^xsd:date"
+secondCommander,secretary,United_States_Navy | secondCommander | Ray_Mabus

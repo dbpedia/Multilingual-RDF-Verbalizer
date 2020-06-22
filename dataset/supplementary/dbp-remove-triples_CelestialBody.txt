@@ -1,0 +1,5 @@
+_ | formerName | "none"@en
+1036_Ganymed | formerName | ";;"@en
+(29075)_1950_DA | epoch | "(Uncertainty=0)"
+(410777)_2009_FD | epoch | "(Uncertainty=0)"
+(29075)_1950_DA | epoch | 2011

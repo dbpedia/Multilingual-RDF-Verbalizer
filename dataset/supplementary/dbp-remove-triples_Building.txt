@@ -1,0 +1,17 @@
+_ | _ | "None"@en
+_ | stateFlag | 1
+_ | countryFlag | 1
+Dallas | _ | Dallas
+108_St_Georges_Terrace | address | 108
+320_South_Boston_Building | address | 320
+320_South_Boston_Building | address | "320 South Boston"@en
+108_St_Georges_Terrace | address | "108St Georges Terrace"@en
+Akita_Museum_of_Art | address | 1
+Alan_B._Miller_Hall | address | 101
+Alan_B._Miller_Hall | cost | "5.21E7"^^<http://dbpedia.org/datatype/usDollar>
+300_North_LaSalle | location | 321
+3Arena | location | 3
+AC_Hotel_Bella_Sky_Copenhagen | architect | 3
+200_Public_Square | location | 200
+250_Delaware_Avenue | location | 250
+Virginia | language | Kingdom_of_England

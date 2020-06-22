@@ -1,0 +1,44 @@
+leaderName,leaderName,Catalonia | leaderName | Carles_Puigdemont
+family,family,Avocado | family | Lauraceae
+creator,creator,"Bakewell_pudding | creator | ""Rutland Arms, Bakewell, in 1820""@en"
+demonym,demonym,India | demonym | Indian_people
+related,related,Bhajji | related | Pakora
+carbohydrate,carbohydrate,"Barny_Cakes | carbohydrate | ""18.0""^^xsd:double"
+currency,currency,Mexico | currency | Mexican_peso
+year,year,"Barny_Cakes | year | ""1999""^^xsd:gYear"
+hasVariant,dishVariation,Bakewell_pudding | hasVariant | Bakewell_tart
+protein,protein,"Barny_Cakes | protein | ""1.8""^^xsd:double"
+mainIngredient,mainIngredients,"Arròs_negre | mainIngredient | ""White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers""@en"
+officialLanguage,officialLanguage,Philippines | officialLanguage | Philippine_English
+ordo,order,Almond | ordo | Rosales
+creatorOfDish,creatorOfDish,Asam_pedas | creatorOfDish | Padang_cuisine
+binomialAuthority,,Sweet_potato | binomialAuthority | Carl_Linnaeus
+languages,language,Philippines | languages | Arabic
+unrankedDivisio,division,Sweet_potato | unrankedDivisio | Flowering_plant
+leaderTitle,leaderTitle,United_States | leaderTitle | President_of_the_United_States
+ethnicGroup,ethnicGroup,Malaysia | ethnicGroup | Malaysian_Chinese
+capital,capital,Italy | capital | Rome
+isPartOf,isPartOf,Derbyshire_Dales | isPartOf | Derbyshire
+ingredientName,mainIngredients,"Bhajji | ingredientName | ""Gram flour,vegetables"""
+leader,leaderName,Mexico | leader | Silvano_Aureoles_Conejo
+ingredient,ingredient,Bandeja_paisa | ingredient | Avocado
+division,division,Sweet_potato | division | Flowering_plant
+ethnicGroups,ethnicGroup,Philippines | ethnicGroups | Ilocano_people
+fat,fat,"Barny_Cakes | fat | ""4.8""^^xsd:double"
+foundationPlace,foundationPlace,Mondelez_International | foundationPlace | Chicago
+subdivisionName,administrativeCounty,Derbyshire_Dales | subdivisionName | Derbyshire
+familia,family,Almond | familia | Rosaceae
+alternateName,alternativeName,"Asam_pedas | alternateName | ""Asam padeh""@en"
+servingSize,servingSize,"Barny_Cakes | servingSize | ""30.0""^^xsd:double"
+class,class,Chicken | class | Bird
+similarDish,similarDish,"Bhajji | similarDish | ""Pakora and other fritters made from wheat or corn flour""@en"
+language,language,Philippines | language | Philippine_Spanish
+course,course,Bionico | course | Dessert
+country,country,Amatriciana_sauce | country | Italy
+region,region,Bhajji | region | Karnataka
+variations,dishVariation,Batagor | variations | Shumai
+servingTemperature,servingTemperature,"Bakewell_pudding | servingTemperature | ""Warm (freshly baked) or cold"""
+alias,alternativeName,"Bhajji | alias | ""Bhaji, bajji""@en"
+served,served,"Bakewell_pudding | served | ""Warm  or cold""@en"
+genus,genus,Lemon | genus | Citrus
+order,order,Sweet_potato | order | Solanales

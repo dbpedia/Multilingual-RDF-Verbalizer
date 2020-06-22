@@ -1,0 +1,27 @@
+@en | ""
+\n | ""
+"50000"^^xsd:nonNegativeInteger | 50000
+"27250"^^xsd:nonNegativeInteger | 27250
+"23900"^^xsd:nonNegativeInteger | 23900
+"39371"^^xsd:nonNegativeInteger | 39371
+"4150"^^xsd:nonNegativeInteger | 4150
+"10000"^^xsd:nonNegativeInteger | 10000
+"1500"^^xsd:nonNegativeInteger | 1500
+"3180"^^xsd:nonNegativeInteger | 3180
+"5300"^^xsd:nonNegativeInteger | 5300
+"19238"^^xsd:nonNegativeInteger | 19238
+"70634"^^xsd:nonNegativeInteger | 70634
+"47290"^^xsd:nonNegativeInteger | 47290
+"69618"^^xsd:nonNegativeInteger | 69618
+"53502"^^xsd:nonNegativeInteger | 53502
+"5000"^^xsd:nonNegativeInteger | 5000
+"17000"^^xsd:nonNegativeInteger | 17000
+"3000"^^xsd:nonNegativeInteger | 3000
+"17023"^^xsd:nonNegativeInteger | 17023
+"3500"^^xsd:nonNegativeInteger | 3500
+"Dave Laughlin" | Dave_Laughlin
+"Denzil Antonio" | Denzil_Antonio
+"Max Huiberts" | Max_Huiberts
+"Blackpool" | Blackpool
+"Jorge Humberto Rodríguez" | Jorge_Humberto_Rodríguez
+"AFC Ajax NV" | AFC_Ajax_N.V.

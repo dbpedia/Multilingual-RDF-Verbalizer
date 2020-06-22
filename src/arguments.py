@@ -133,6 +133,10 @@ parser.add_argument(
 parser.add_argument(
   '--scheduler_step', type=int, required=False, help='Step to start learning rate scheduler')
 
+parser.add_argument(
+  '--seed', type=int, required=False, help='Seed')
+parser.add_argument(
+  '--save_dir', type=str, required=False, help='Output directory')
 
 # inference parameters
 

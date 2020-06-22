@@ -1,0 +1,51 @@
+origin,origin,Ahmet_Ertegun | origin | United_States
+leaderName,leaderName,Paraguay | leaderName | Juan_Afara
+activeYearsStartYear,activeYearsStartYear,"Abradab | activeYearsStartYear | ""1994""^^xsd:gYear"
+hometown,origin,"Ahmet_Ertegun | hometown | Washington,_D.C."
+associatedActs,associatedBand/associatedMusicalArtist,"Andrew_Rayel | associatedActs | ""Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi""@en"
+demonym,demonym,Uruguay | demonym | Uruguayans
+birthDate,birthDate,"Ace_Wilder | birthDate | ""1982-07-23""^^xsd:date"
+placeOfDeath,deathPlace,Agustín_Barboza | placeOfDeath | Paraguay
+currency,currency,Uruguay | currency | Uruguayan_peso
+recordLabel,recordLabel,Anders_Osborne | recordLabel | Alligator_Records
+alternativeNames,alternativeName,"Allen_Forrest | alternativeNames | ""Matchstik, Match, Allan, Forrester, Alan, Foster, Forest Matchstick, Matchstix, Allen Forrest""@en"
+stylisticOrigins,stylisticOrigin,Indie_rock | stylisticOrigins | New_wave_music
+derivatives,derivative,Rhythm_and_blues | derivatives | Disco
+dateOfDeath,deathDate,"Alfred_Garth_Jones | dateOfDeath | ""c. 1944""@en"
+birthYear,birthYear,"Ace_Wilder | birthYear | ""1982""^^xsd:gYear"
+anthem,anthem,Uruguay | anthem | National_Anthem_of_Uruguay
+musicSubgenre,musicSubgenre,Hip_hop_music | musicSubgenre | Gangsta_rap
+officialLanguage,officialLanguage,Canada | officialLanguage | French_language
+label,recordLabel,Alison_O'Donnell | label | Fruits_de_Mer_Records
+instrument,instrument,Aaron_Deer | instrument | Guitar
+instruments,instrument,Indie_rock | instruments | Guitar
+leaderTitle,leaderTitle,London | leaderTitle | European_Parliament
+ethnicGroup,ethnicGroup,United_States | ethnicGroup | African_Americans
+capital,capital,United_Kingdom | capital | London
+isPartOf,isPartOf,Asunción | isPartOf | Gran_Asunción
+derivative,derivative,Rhythm_and_blues | derivative | Funk
+governingBody,governingBody,London | governingBody | Greater_London_Authority
+occupation,occupation,Ace_Wilder | occupation | Singing
+leader,leaderName,Uruguay | leader | Tabaré_Vázquez
+location,location,Alligator_Records | location | Chicago
+dateOfBirth,birthDate,"Al_Anderson_(NRBQ) | dateOfBirth | ""1947-03-13""^^xsd:date"
+birthPlace,birthPlace,Aleksandra_Kovač | birthPlace | Socialist_Republic_of_Serbia
+associatedBand,associatedBand/associatedMusicalArtist,Alfredo_Zitarrosa | associatedBand | Ciro_Pérez
+distributingCompany,distributingCompany,RCA_Records | distributingCompany | Sony_Music_Entertainment
+activeYearsEndYear,activeYearsEndYear,"Albennie_Jones | activeYearsEndYear | ""1950""^^xsd:gYear"
+musicFusionGenre,musicFusionGenre,Pop_music | musicFusionGenre | Disco
+subdivisionName,isPartOf,Asunción | subdivisionName | Gran_Asunción
+background,background,"Aleksandra_Kovač | background | ""solo_singer"""
+genre,genre,Aleksandra_Kovač | genre | Pop_music
+nationality,nationality,Alfred_Garth_Jones | nationality | United_Kingdom
+stylisticOrigin,stylisticOrigin,Hip_hop_music | stylisticOrigin | Disco
+placeOfBirth,birthPlace,Agustín_Barboza | placeOfBirth | Paraguay
+parentCompany,parentCompany,Philips_Records | parentCompany | Universal_Music_Group
+associatedMusicalArtist,associatedBand/associatedMusicalArtist,Aaron_Bertram | associatedMusicalArtist | Kids_Imagine_Nation
+fusiongenres,musicFusionGenre,Pop_music | fusiongenres | Disco
+bandMember,bandMember,Suburban_Legends | bandMember | Brian_Robertson_(trombonist)
+language,language,Canada | language | French_language
+country,country,Montevideo | country | Uruguay
+alias,alternativeName,"Ahmet_Ertegun | alias | ""A. Nugetre""@en"
+deathPlace,deathPlace,Alfred_Garth_Jones | deathPlace | Sidcup
+field,professionalField,Alfred_Garth_Jones | field | Illustration

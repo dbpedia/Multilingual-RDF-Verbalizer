@@ -1,0 +1,41 @@
+discoverer,discoverer,1036_Ganymed | discoverer | Walter_Baade
+Planet/minimumTemperature,minimumTemperature,"(66063)_1998_RO1 | Planet/minimumTemperature | ""202.15""^^<http://dbpedia.org/datatype/kelvin>"
+rotationPeriod,rotationPeriod,"11264_Claudiomaccone | rotationPeriod | ""11473.9""^^xsd:double"
+escapeVelocity,escapeVelocity,"1097_Vicia | escapeVelocity | ""40.32""^^xsd:double"
+discovered,discovered,"107_Camilla | discovered | ""1868-11-17""^^xsd:date"
+orbitalPeriod,orbitalPeriod,101_Helena | orbitalPeriod | 1.3104e+08
+almaMater,almaMater,Walter_Baade | almaMater | University_of_Göttingen
+absoluteMagnitude,absoluteMagnitude,"107_Camilla | absoluteMagnitude | ""7.08""^^xsd:double"
+surfaceArea,surfaceArea,10_Hygiea | surfaceArea | 8.37081e+11
+doctoralStudent,doctoralStudent,Walter_Baade | doctoralStudent | Allan_Sandage
+education,almaMater,James_Craig_Watson | education | University_of_Michigan
+deathCause,deathCause,James_Craig_Watson | deathCause | Peritonitis
+temperature,temperature,"10_Hygiea | temperature | ""164.0""^^xsd:double"
+density,density,"(66391)_1999_KW4 | density | ""2000.0""^^xsd:double"
+minTemp,minimumTemperature,"(66063)_1998_RO1 | minTemp | ""202.0""^^<http://dbpedia.org/datatype/kelvin>"
+Planet/apoapsis,apoapsis,"1101_Clematis | Planet/apoapsis | ""5.20906E8""^^<http://dbpedia.org/datatype/kilometre>"
+stateOfOrigin,stateOfOrigin,James_Craig_Watson | stateOfOrigin | Canada
+Planet/maximumTemperature,maximumTemperature,"(66063)_1998_RO1 | Planet/maximumTemperature | ""500.0""^^<http://dbpedia.org/datatype/kelvin>"
+epoch,epoch,"10_Hygiea | epoch | ""27 June 2015 (JD2457200.5)"""
+Planet/orbitalPeriod,orbitalPeriod,"107_Camilla | Planet/orbitalPeriod | ""9.999999999999998E-4""^^<http://dbpedia.org/datatype/day>"
+Planet/periapsis,periapsis,"101_Helena | Planet/periapsis | ""3.31683E8""^^<http://dbpedia.org/datatype/kilometre>"
+minimumTemperature,minimumTemperature,"(66063)_1998_RO1 | minimumTemperature | ""202.0""^^xsd:double"
+birthPlace,birthPlace,Walter_Baade | birthPlace | Preußisch_Oldendorf
+singleTemperature,temperature,"11264_Claudiomaccone | singleTemperature | ""~173 K""@en"
+Planet/meanTemperature,meanTemperature,"(66063)_1998_RO1 | Planet/meanTemperature | ""265.15""^^<http://dbpedia.org/datatype/kelvin>"
+avgSpeed,averageSpeed,"1099_Figneria | avgSpeed | ""16.37""^^<http://dbpedia.org/datatype/kilometrePerSecond>"
+Planet/averageSpeed,averageSpeed,"110_Lydia | Planet/averageSpeed | ""17.99""^^<http://dbpedia.org/datatype/kilometrePerSecond>"
+Planet/density,density,"101_Helena | Planet/density | ""2000.0""^^<http://dbpedia.org/datatype/kilogramPerCubicMetre>"
+nationality,nationality,N._R._Pogson | nationality | England
+averageSpeed,averageSpeed,"11264_Claudiomaccone | averageSpeed | ""65844.0""^^xsd:double"
+placeOfBirth,birthPlace,N._R._Pogson | placeOfBirth | Nottingham
+periapsis,periapsis,(29075)_1950_DA | periapsis | 1.2495e+11
+formerName,formerName,"1001_Gaussia | formerName | ""A911 MD""@en"
+doctoralStudents,doctoralStudent,Walter_Baade | doctoralStudents | Halton_Arp
+Planet/temperature,temperature,"101_Helena | Planet/temperature | ""173.0""^^<http://dbpedia.org/datatype/kelvin>"
+mass,mass,"(29075)_1950_DA | mass | "">4 kg""@en"
+deathPlace,deathPlace,"James_Craig_Watson | deathPlace | Madison,_Wisconsin"
+apoapsis,apoapsis,101_Helena | apoapsis | 4.41092e+11
+Planet/surfaceArea,surfaceArea,"10_Hygiea | Planet/surfaceArea | ""837080.744""^^<http://dbpedia.org/datatype/squareKilometre>"
+Planet/mass,mass,
+absMagnitude,absoluteMagnitude,

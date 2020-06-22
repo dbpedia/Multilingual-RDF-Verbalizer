@@ -1,0 +1,217 @@
+@en | ""
+\n | ""
+&minus; | -
+"286.4526850031616"^^<http://dbpedia.org/datatype/squareKilometre> | 286.5 (square kilometres)
+"286.5"^^<http://dbpedia.org/datatype/squareKilometre> | 286.5 (square kilometres)
+"523.951"^^xsd:double | 524.0
+"524.0"^^xsd:double | 524.0
+"429.9"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 429.9 (inhabitants per square kilometre)
+"429.9"^^xsd:double | 429.9 (inhabitants per square kilometre)
+"161.53755844165633"^^<http://dbpedia.org/datatype/squareKilometre> | 161.54 (square kilometres)
+"161.54"^^<http://dbpedia.org/datatype/squareKilometre> | 161.54 (square kilometres)
+"880000.0"^^xsd:double | 0.88 (square kilometres)
+"880596.0"^^xsd:double | 0.88 (square kilometres)
+"306.0"^^xsd:double | 306.0
+"306.019"^^xsd:double | 306.0
+"1239.3"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 1239.3 (inhabitants per square kilometre)
+"1239.3"^^xsd:double | 1239.3 (inhabitants per square kilometre)
+"1239.349318705397"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 1239.3 (inhabitants per square kilometre)
+"1239.35"^^xsd:double | 1239.3 (inhabitants per square kilometre)
+"144.7"^^<http://dbpedia.org/datatype/squareKilometre> | 144.7 (square kilometres)
+"144.7803353677824"^^<http://dbpedia.org/datatype/squareKilometre> | 144.7 (square kilometres)
+"61.8744"^^xsd:double | 62.0
+"62.0"^^xsd:double | 62.0
+"534.9445406605588"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 535.0 (inhabitants per square kilometre)
+"534.945"^^xsd:double | 535.0 (inhabitants per square kilometre)
+"535.0"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 535.0 (inhabitants per square kilometre)
+"535.0"^^xsd:double | 535.0 (inhabitants per square kilometre)
+"45.97"^^<http://dbpedia.org/datatype/squareKilometre> | 45.97 (square kilometres)
+"45.972288958464"^^<http://dbpedia.org/datatype/squareKilometre> | 45.97 (square kilometres)
+"540000.0"^^xsd:double | 0.54 (square kilometres)
+"543898.0"^^xsd:double | 0.54 (square kilometres)
+"64.008"^^xsd:double | 64.008
+"1104.0977325679783"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 1104.1 (inhabitants per square kilometre)
+"1104.1"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 1104.1 (inhabitants per square kilometre)
+"1104.1"^^xsd:double | 1104.1 (inhabitants per square kilometre)
+"490.9"^^<http://dbpedia.org/datatype/squareKilometre> | 490.9 (square kilometres)
+"1142.3"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 1142.3 (inhabitants per square kilometre)
+"1142.3"^^xsd:double | 1142.3 (inhabitants per square kilometre)
+"6.81"^^<http://dbpedia.org/datatype/squareKilometre> | 6.81 (square kilometres)
+"6.81166873018368"^^<http://dbpedia.org/datatype/squareKilometre> | 6.81 (square kilometres)
+"264.871"^^xsd:double | 265.0
+"265.0"^^xsd:double | 265.0
+"755.3"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 755.3 (inhabitants per square kilometre)
+"755.3"^^xsd:double | 755.3 (inhabitants per square kilometre)
+"755.3316527565869"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 755.3 (inhabitants per square kilometre)
+"755.332"^^xsd:double | 755.3 (inhabitants per square kilometre)
+"55.4"^^<http://dbpedia.org/datatype/squareKilometre> | 55.4 (square kilometres)
+"55.4257455611904"^^<http://dbpedia.org/datatype/squareKilometre> | 55.4 (square kilometres)
+"100000.0"^^xsd:double | 1.0 (square kilometres)
+"345.948"^^xsd:double | 346.0
+"346.0"^^xsd:double | 346.0
+"1071.6265410345586"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 992.6 (inhabitants per square kilometre)
+"1071.63"^^xsd:double | 992.6 (inhabitants per square kilometre)
+"992.6"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 992.6 (inhabitants per square kilometre)
+"992.6"^^xsd:double | 992.6 (inhabitants per square kilometre)
+"233.8759263633408"^^<http://dbpedia.org/datatype/squareKilometre> | 233.9 (square kilometres)
+"233.9"^^<http://dbpedia.org/datatype/squareKilometre> | 233.9 (square kilometres)
+"1098.8"^^xsd:double | 1099.0
+"1099.0"^^xsd:double | 1099.0
+"746.0"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 746.0 (inhabitants per square kilometre)
+"746.0"^^xsd:double | 746.0 (inhabitants per square kilometre)
+"801.355"^^xsd:double | 746.0 (inhabitants per square kilometre)
+"801.3550300548465"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 746.0 (inhabitants per square kilometre)
+"131.5998858742825"^^<http://dbpedia.org/datatype/squareKilometre> | 131.6 (square kilometres)
+"131.6"^^<http://dbpedia.org/datatype/squareKilometre> | 131.6 (square kilometres)
+"47.8536"^^xsd:double | 48.0
+"48.0"^^xsd:double | 48.0
+"336265"^^xsd:nonNegativeInteger | 336265
+"107.43"^^<http://dbpedia.org/datatype/squareKilometre> | 107.43 (square kilometres)
+"107.43270681673728"^^<http://dbpedia.org/datatype/squareKilometre> | 107.43 (square kilometres)
+"267.919"^^xsd:double | 268.0
+"268.0"^^xsd:double | 268.0
+"523.863"^^xsd:double | 523.9 (inhabitants per square kilometre)
+"523.8634087103906"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 523.9 (inhabitants per square kilometre)
+"523.9"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 523.9 (inhabitants per square kilometre)
+"523.9"^^xsd:double | 523.9 (inhabitants per square kilometre)
+"16.55"^^<http://dbpedia.org/datatype/squareKilometre> | 16.55 (square kilometres)
+"16.55002402504704"^^<http://dbpedia.org/datatype/squareKilometre> | 16.55 (square kilometres)
+"324.0"^^xsd:double | 324.0
+"324.002"^^xsd:double | 324.0
+"524.481"^^xsd:double | 524.5 (inhabitants per square kilometre)
+"524.4811721640585"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 524.5 (inhabitants per square kilometre)
+"524.5"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 524.5 (inhabitants per square kilometre)
+"524.5"^^xsd:double | 524.5 (inhabitants per square kilometre)
+"74.33"^^<http://dbpedia.org/datatype/squareKilometre> | 74.33 (square kilometres)
+"74.3326587666432"^^<http://dbpedia.org/datatype/squareKilometre> | 74.33 (square kilometres)
+"1580.66"^^xsd:double | 1580.7 (inhabitants per square kilometre)
+"1580.6636268569193"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 1580.7 (inhabitants per square kilometre)
+"1580.7"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 1580.7 (inhabitants per square kilometre)
+"1580.7"^^xsd:double | 1580.7 (inhabitants per square kilometre)
+"75.324"^^<http://dbpedia.org/datatype/squareKilometre> | 75.324 (square kilometres)
+"75.3246242129019"^^<http://dbpedia.org/datatype/squareKilometre> | 75.324 (square kilometres)
+"13.0"^^xsd:double | 13.0
+"13.1064"^^xsd:double | 13.0
+"102372"^^xsd:nonNegativeInteger | 102372
+"9450994531"^^xsd:decimal | 94509, 94531
+"682817214469972"^^xsd:decimal | 682817214469972
+"258.2"^^<http://dbpedia.org/datatype/squareKilometre> | 258.2 (square kilometres)
+"258.2218146004992"^^<http://dbpedia.org/datatype/squareKilometre> | 258.2 (square kilometres)
+"184.0"^^xsd:double | 184.0
+"184.099"^^xsd:double | 184.0
+"1472.0"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 1472.0 (inhabitants per square kilometre)
+"1472.0"^^xsd:double | 1472.0 (inhabitants per square kilometre)
+"347.1"^^<http://dbpedia.org/datatype/squareKilometre> | 347.1 (square kilometres)
+"1299.0"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 1299.0 (inhabitants per square kilometre)
+"1299.0"^^xsd:double | 1299.0 (inhabitants per square kilometre)
+"44.125"^^<http://dbpedia.org/datatype/squareKilometre> | 44.125 (square kilometres)
+"44.125627435794435"^^<http://dbpedia.org/datatype/squareKilometre> | 44.125 (square kilometres)
+"1421.16"^^xsd:double | 1421.2 (inhabitants per square kilometre)
+"1421.164825163035"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 1421.2 (inhabitants per square kilometre)
+"1421.2"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 1421.2 (inhabitants per square kilometre)
+"1421.2"^^xsd:double | 1421.2 (inhabitants per square kilometre)
+"4.14"^^<http://dbpedia.org/datatype/squareKilometre> | 4.14 (square kilometres)
+"4.1439809765376"^^<http://dbpedia.org/datatype/squareKilometre> | 4.14 (square kilometres)
+"166.0"^^xsd:double | 166.0
+"166.116"^^xsd:double | 166.0
+"783.0537877399345"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 783.1 (inhabitants per square kilometre)
+"783.054"^^xsd:double | 783.1 (inhabitants per square kilometre)
+"783.1"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 783.1 (inhabitants per square kilometre)
+"783.1"^^xsd:double | 783.1 (inhabitants per square kilometre)
+"140.8"^^<http://dbpedia.org/datatype/squareKilometre> | 140.8 (square kilometres)
+"153.0682973208576"^^<http://dbpedia.org/datatype/squareKilometre> | 140.8 (square kilometres)
+"213.97"^^xsd:double | 214.0
+"214.0"^^xsd:double | 214.0
+"368.65"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 368.65 (inhabitants per square kilometre)
+"368.65"^^xsd:double | 368.65 (inhabitants per square kilometre)
+"77.41"^^<http://dbpedia.org/datatype/squareKilometre> | 77.41 (square kilometres)
+"77.41474461794303"^^<http://dbpedia.org/datatype/squareKilometre> | 77.41 (square kilometres)
+"914.7918442346171"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 914.8 (inhabitants per square kilometre)
+"914.792"^^xsd:double | 914.8 (inhabitants per square kilometre)
+"914.8"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 914.8 (inhabitants per square kilometre)
+"914.8"^^xsd:double | 914.8 (inhabitants per square kilometre)
+"1.0"^^xsd:double | 1.0
+"1.0E-6"^^<http://dbpedia.org/datatype/squareKilometre> | 1.0E-6
+"703.9587683893247"^^<http://dbpedia.org/datatype/squareKilometre> | 703.95 (square kilometres)
+"1296.65"^^xsd:double | 1296.65 (inhabitants per square kilometre)
+"1296.654601076267"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre> | 1296.65 (inhabitants per square kilometre)
+"325" | 325
+"234, 330" | 234, 330
+"229" | 229
+"541, 458" | 541, 458
+"505, 575" | 505, 575
+"765" | 765
+"770, 404, 678" | 770, 404, 678
+"806" | 806
+"657/714" | 657, 714
+"765" | 765
+"734" | 734
+"925" | 925
+"682, 817,214, 469, 972" | 682, 817, 214, 469, 972
+"404/678/470" | 404, 678, 470
+"609" | 609
+"334" | 334
+"512 & 737" | 512, 737
+682817214469972 | 682, 817, 214, 469, 972
+234330 | 234, 330
+541458 | 541, 458
+505575 | 505, 575
+770404678 | 770, 404, 678
+"94509, 94531" | 94509, 94531
+"Don Guardian" | Don_Guardian
+"City Manager" | City_Manager
+2.86453e+08 | 286.5 (square kilometres)
+2.865e+08 | 286.5 (square kilometres)
+1.42449e+07 | 14.2 (square kilometres)
+1.42e+07 | 14.2 (square kilometres)
+1.61538e+08 | 161.54 (square kilometres)
+1.6154e+08 | 161.54 (square kilometres)
+1.4478e+08 | 144.7 (square kilometres)
+1.447e+08 | 144.7 (square kilometres)
+4.59723e+07 | 45.97 (square kilometres)
+4.597e+07 | 45.97 (square kilometres)
+4.862e+08 | 486.2 (square kilometres)
+4.909e+08 | 490.9 (square kilometres)
+6.81167e+06 | 6.81 (square kilometres)
+6.81e+06 | 6.81 (square kilometres)
+5.54257e+07 | 55.4 (square kilometres)
+5.54e+07 | 55.4 (square kilometres)
+2.33876e+08 | 233.9 (square kilometres)
+2.339e+08 | 233.9 (square kilometres)
+1.316e+08 | 131.6 (square kilometres)
+2.52783e+06 | 25.2 (square kilometres)
+2.527e+06 | 25.2 (square kilometres)
+1.07433e+08 | 107.43 (square kilometres)
+1.0743e+08 | 107.43 (square kilometres)
+1.655e+07 | 16.55 (square kilometres)
+7.43327e+07 | 74.33 (square kilometres)
+7.433e+07 | 74.33 (square kilometres)
+7.53246e+07 | 75.324 (square kilometres)
+7.5324e+07 | 75.324 (square kilometres)
+2.58222e+08 | 258.2 (square kilometres)
+2.582e+08 | 258.2 (square kilometres)
+8.28796e+06 | 82.8 (square kilometres)
+8.3e+06 | 82.8 (square kilometres)
+3.449e+08 | 344.9 (square kilometres)
+3.471e+08 | 347.1 (square kilometres)
+4.41256e+07 | 44.125 (square kilometres)
+4.4125e+07 | 44.125 (square kilometres)
+4.14398e+06 | 4.14 (square kilometres)
+4.14e+06 | 4.14 (square kilometres)
+1.408e+08 | 140.8 (square kilometres)
+1.53068e+08 | 140.8 (square kilometres)
+1.036e+06 | 1.7 (square kilometres)
+1.7e+06 | 1.7 (square kilometres)
+7.74147e+07 | 77.41 (square kilometres)
+7.741e+07 | 77.41 (square kilometres)
+6.86088e+08 | 686.0 (square kilometres)
+7.03959e+08 | 703.95 (square kilometres)
+"United States" | United_States
+"Richard J. Berry" | Richard_J._Berry
+"Christopher Taylor" | Christopher_Taylor_(politician)
+"Mayor" | Mayor
+"United States representatives" | United_States_House_of_Representatives
+"Clerk" | Clerk_(municipal_official)
+City_manager | City_Manager
+"New Mexico" | New_Mexico
+"Texas" | Texas

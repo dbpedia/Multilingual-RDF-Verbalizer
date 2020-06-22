@@ -1,0 +1,3 @@
+Alpharetta,_Georgia | areaWater | "0.0"^^xsd:double
+Albuquerque,_New_Mexico | leaderTitle | "U.S. House"@en
+Anaheim,_California | subdivisionName | "Orange"@en
