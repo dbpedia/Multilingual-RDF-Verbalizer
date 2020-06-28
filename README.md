@@ -12,23 +12,25 @@ python3.6 build_subgraph_from_webnlg.py \
    -output <path for saving the Knowledge subgraph>
 ```
 ### Node embeddings generation
-##### RDF2Vec
+#### RDF2Vec
 
 Folder rdf2vec contains the same code as [pyRDF2Vec] with some small modifications for generating node embeddings in the WebNLG.
-
+To run:
 ```
-    python3.6 generate_embeddings_general.py 
+    cd rdf2vec
+    python3.6 execute.py 
        -dbpedia ../webnlg-dbpedia/subgraph_webnlg.ttl \
        -vocab vocabs/gat/eng/src_vocab -embed-size 300 -depth 8 \
-       -algorithm rnd wl -wl-iter 4 -walks 200 -jobs 5 -window 5 -sg \
+       -algorithm rnd -walks 200 -jobs 5 -window 5 -sg \
        -max-iter 30 -negative 25 -min-count 1 -oe subgraph_embeddings -seed 13 \
        -webnlg dataset/challenge2020_train_dev/en/train -sup dataset/supplementary
 ```
 
-##### PYKE
+#### PYKE
 
 Folder pyke contains the same code as [PYKE] with some small modifications for generating node embeddings in the WebNLG.
-
+To install: ./install_pyke.sh | conda activate pyke
+To run:
 ```
     cd pyke
     python3.6 execute.py --kg_path KGs/webnlg-dbpedia/subgraph_webnlg.ttl \
