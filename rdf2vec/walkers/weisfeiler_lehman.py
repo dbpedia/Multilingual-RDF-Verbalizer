@@ -1,14 +1,17 @@
 from hashlib import md5
-from rdf2vec.walkers import RandomWalker
+import sys
+
 from collections import defaultdict
-from rdf2vec.graph import Vertex
+from .random import RandomWalker
+
+sys.path.append("..")
+from graph import Vertex
 
 
 class WeisfeilerLehmanWalker(RandomWalker):
-    def __init__(self, depth, walks_per_graph, wl_iterations=4, out=None):
+    def __init__(self, depth, walks_per_graph, wl_iterations=4):
         super(WeisfeilerLehmanWalker, self).__init__(depth, walks_per_graph)
         self.wl_iterations = wl_iterations
-        self.out = out
     
     def _create_label(self, graph, vertex, n):
         """Take labels of neighbors, sort them lexicographically and join."""
@@ -43,15 +46,9 @@ class WeisfeilerLehmanWalker(RandomWalker):
 
     def extract(self, graph, instances):
         self._weisfeiler_lehman(graph)
-        f = None
-        if self.out != None:
-            f = open(self.out, "w")
-
         canonical_walks = set()
         for instance in instances:
             walks = self.extract_random_walks(graph, Vertex(str(instance)))
-            if len(walks) == 1 and self.out != None:
-                f.write(instance + "\n")
 
             for n in range(self.wl_iterations + 1):
                 for walk in walks:
@@ -63,7 +60,5 @@ class WeisfeilerLehmanWalker(RandomWalker):
                             canonical_walk.append(self._label_map[hop][n])
 
                     canonical_walks.add(tuple(canonical_walk))
-                    
-        if self.out != None:
-            f.close()                
+              
         return canonical_walks

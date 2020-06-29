@@ -61,7 +61,7 @@ class RDF2VecTransformer():
     """
     def __init__(self, vector_size=500, walkers=RandomWalker(2, float('inf')),
                  n_jobs=1, window=5, sg=1, max_iter=10, negative=25, 
-                 min_count=1):
+                 min_count=1, print_walks=False):
         self.vector_size = vector_size
         self.walkers = walkers
         self.n_jobs = n_jobs
@@ -70,6 +70,7 @@ class RDF2VecTransformer():
         self.max_iter = max_iter
         self.negative = negative
         self.min_count = min_count
+        self.print_walks = print_walks
 
     def fit(self, graph, instances):
         """Fit the embedding network based on provided instances.
@@ -90,6 +91,8 @@ class RDF2VecTransformer():
         """
         self.walks_ = []
         for walker in self.walkers:
+            if self.print_walks:
+                walker.print_walks(graph, instances, "paths.txt")
             self.walks_ += list(walker.extract(graph, instances))
 
         print('Extracted {} walks for {} instances!'.format(len(self.walks_),

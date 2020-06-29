@@ -22,7 +22,6 @@ if args.seed is not None:
   tf.reset_default_graph()
   tf.set_random_seed(args.seed)
   random.seed(args.seed)
-  tf.random.set_seed(args.seed)
   np.random.seed(args.seed)
 
 if args.enc_type == 'rnn' and args.dec_type == "rnn":

@@ -1,5 +1,9 @@
-from benchmark_reader import Benchmark
-from benchmark_reader import select_files
+import sys
+
+
+sys.path.append("..")
+from benchmark_reader import Benchmark, select_files
+
 from os import listdir
 
 def load_supplementary(folder):
@@ -22,6 +26,10 @@ def load_supplementary(folder):
 
 
 def load_triples_webnlg(files):
+    """
+       Load all triples of the webnlg files 
+       files: webnlg files (train, dev for each language)
+    """
 
     triples = set()
     for path_to_corpus in files:
@@ -35,3 +43,15 @@ def load_triples_webnlg(files):
                   triple.o.strip()))
 
     return list(triples)
+
+
+noisy_urls = ["http://dbpedia.org/resource/", "http://www.w3.org/1999/02/22-rdf-syntax-ns#", "http://www.w3.org/2002/07/owl#", "http://dbpedia.org/ontology/", "http://xmlns.com/foaf/0.1/", "http://www.w3.org/2000/01/rdf-schema#", "http://purl.org/dc/terms/", "http://dbpedia.org/datatype/"]
+
+def clean_url(url):
+    """
+        Removes urls to obtain only the node name
+    """
+    for noisy_url in noisy_urls:
+        url = str(url).replace(noisy_url,"").lower()
+    return url
+

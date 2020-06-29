@@ -1,13 +1,16 @@
-from rdf2vec.walkers import Walker
-from rdf2vec.graph import Vertex
+
 import numpy as np
 from hashlib import md5
+import sys
+
+from .walker import Walker
+sys.path.append("..")
+from graph import Vertex
 
 
 class RandomWalker(Walker):
-    def __init__(self, depth, walks_per_graph, out=None):
+    def __init__(self, depth, walks_per_graph):
         super(RandomWalker, self).__init__(depth, walks_per_graph)
-        self.out = out
 
     def extract_random_walks(self, graph, root):
         """Extract random walks of depth - 1 hops rooted in root."""
@@ -41,14 +44,9 @@ class RandomWalker(Walker):
         return list(walks)
 
     def extract(self, graph, instances):
-        f = None
-        if self.out != None:
-            f = open(self.out, "w")
         canonical_walks = set()
         for instance in instances:
             walks = self.extract_random_walks(graph, Vertex(str(instance)))
-            if len(walks) == 1 and self.out != None:
-                f.write(instance + "\n")
             for walk in walks:
                 canonical_walk = []
                 for i, hop in enumerate(walk):
@@ -59,6 +57,4 @@ class RandomWalker(Walker):
                         canonical_walk.append(str(digest))
 
                 canonical_walks.add(tuple(canonical_walk))
-        if self.out != None:
-            f.close()
         return canonical_walks

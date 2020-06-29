@@ -33,6 +33,7 @@ if __name__ == '__main__':
                         help="Perform Type prediction.")
     parser.add_argument('-webnlg', "--webnlg", nargs='*', required=False, help="WebNLG dataset (en/train en/dev ...)")
     parser.add_argument('-sup', "--supplementary", type=str, required=False, help="Folder where there are several triple modifications")
+    parser.add_argument('-output-name', "--output-name", default="PYKE_50_embd.csv" , type=str, required=False, help="CSV embeddings file")
 
     args = parser.parse_args()
     kg_path = args.kg_path
@@ -64,23 +65,23 @@ if __name__ == '__main__':
 
     extra_triples = []
     if args.supplementary is not None:
-        print("Loading supplementary data ...")
+        logger.info("Loading supplementary data ...")
         lexicon_triples, substitute_triples = load_supplementary(args.supplementary)
-        print("Supplementary data loaded. (" + str(len(lexicon_triples)), "lexicon triples and", 
+        logger.info("Supplementary data loaded. (" + str(len(lexicon_triples)) + "lexicon triples and" + 
           str(len(substitute_triples)), "substitute triples)")
         extra_triples += [triple for triple in lexicon_triples]
         extra_triples += [triple for triple in substitute_triples]
 
     if args.webnlg is not None:
-        print("Loading WebNLG triples ...")
+        logger.info("Loading WebNLG triples ...")
         webnlg_triples = load_triples_webnlg(args.webnlg)
-        print(str(len(webnlg_triples)), "modified WebNLG triples loaded")
+        logger.info(str(len(webnlg_triples)) + " modified WebNLG triples loaded")
         extra_triples += [triple for triple in webnlg_triples]
 
     if len(extra_triples) == 0:
         holder = parser.pipeline_of_preprocessing(kg_path)
     else:
-        holder = parser.pipeline_of_preprocessing(kg_path, extra_triples)
+        holder = parser.pipeline_of_preprocessing(kg_path, extra_triples=extra_triples)
 
     vocab_size = len(holder)
 
@@ -95,7 +96,7 @@ if __name__ == '__main__':
 
     vocab = ut.deserializer(path=storage_path, serialized_name='vocabulary')
     learned_embeddings.index = [i for i in vocab]
-    learned_embeddings.to_csv(storage_path + '/PYKE_50_embd.csv')
+    learned_embeddings.to_csv(storage_path + '/' + args.output_name, encoding="utf-8")
 
     # This crude workaround performed to serialize dataframe with corresponding terms.
     learned_embeddings.index = [i for i in range(len(vocab))]

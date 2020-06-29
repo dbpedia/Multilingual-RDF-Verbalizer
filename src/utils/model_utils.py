@@ -29,7 +29,7 @@ def _set_up_dirs(args):
   else:
     from google.colab import drive
     drive.mount('/content/gdrive')
-    OUTPUT_DIR = '/content/gdrive/My Drive/ckpts/' + args.lang
+    OUTPUT_DIR = '/content/gdrive/My Drive/' + args.save_dir + '/ckpts/' + args.lang
     EvalResultsFile = OUTPUT_DIR + '/eval_results.txt'
     TestResults = OUTPUT_DIR + '/test_results.txt'
     log_dir = OUTPUT_DIR + '/logs'

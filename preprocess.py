@@ -52,6 +52,8 @@ parser.add_argument(
   '--sentencepiece_model', type=str, required=False, help='SentencePiece model')
 parser.add_argument(
   '--sentencepiece', type=str, required=True, help='Use SentencePiece or not ')
+parser.add_argument(
+  '--output', type=str, required=True, help='Folder where data preprocessing is saved')
 
 args = parser.parse_args()
 
@@ -106,7 +108,7 @@ if __name__ == '__main__':
       from google.colab import drive
 
       drive.mount('/content/gdrive', force_remount=True)
-      OUTPUT_DIR = '/content/gdrive/My Drive/webnlg-2020/processed_graphs/{}/{}'.format(args.lang,
+      OUTPUT_DIR = '/content/gdrive/My Drive/{}/{}/{}'.format(args.output, args.lang,
                                                                                  args.model)
       if not os.path.isdir(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
@@ -116,7 +118,7 @@ if __name__ == '__main__':
         pickle.dump(vocab, fp)
 
     else:
-      OUTPUT_DIR = 'webnlg-2020/processed_graphs/{}/{}'.format(args.lang,
+      OUTPUT_DIR = '{}/{}/{}'.format(args.output, args.lang,
                                                         args.model)
       if not os.path.isdir(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
@@ -172,7 +174,7 @@ if __name__ == '__main__':
         from google.colab import drive
 
         drive.mount('/content/gdrive', force_remount=True)
-        OUTPUT_DIR = '/content/gdrive/My Drive/webnlg-2020/processed_graphs/{}/{}'.format(args.lang,
+        OUTPUT_DIR = '/content/gdrive/My Drive/{}/{}/{}'.format(args.output, args.lang,
                                                                                    args.model)
         if not os.path.isdir(OUTPUT_DIR):
           os.makedirs(OUTPUT_DIR)
@@ -182,7 +184,7 @@ if __name__ == '__main__':
           pickle.dump(vocab, fp)
 
       else:
-        OUTPUT_DIR = 'webnlg-2020/processed_graphs/{}/{}'.format(args.lang, args.model)
+        OUTPUT_DIR = '{}/{}/{}'.format(args.output, args.lang, args.model)
         if not os.path.isdir(OUTPUT_DIR):
           os.makedirs(OUTPUT_DIR)
         # save the vocab file
@@ -199,13 +201,13 @@ if __name__ == '__main__':
       from google.colab import drive
 
       drive.mount('/content/gdrive', force_remount=True)
-      OUTPUT_DIR = '/content/gdrive/My Drive/webnlg-2020/processed_graphs/{}/{}'.format(args.lang,
+      OUTPUT_DIR = '/content/gdrive/My Drive/{}/{}/{}'.format(args.output, args.lang,
                                                                                  args.model)
       if not os.path.isdir(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
 
     else:
-      OUTPUT_DIR = 'webnlg-2020/processed_graphs/{}/{}'.format(args.lang, args.model)
+      OUTPUT_DIR = '{}/{}/{}'.format(args.output, args.lang, args.model)
       if not os.path.isdir(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
     with open(OUTPUT_DIR + '/' + 'train', 'wb') as fp:

@@ -29,6 +29,12 @@ if __name__ == "__main__":
   args = get_args()
   global step
 
+  if args.seed is not None:
+    tf.reset_default_graph()
+    tf.set_random_seed(args.seed)
+    random.seed(args.seed)
+    np.random.seed(args.seed)
+
   # set up dirs
   (OUTPUT_DIR, EvalResultsFile,
    TestResults, log_file, log_dir) = _set_up_dirs(args)

@@ -18,18 +18,9 @@ import matplotlib.pyplot as plt
 
 from sklearn.decomposition import PCA
 
+from webnlg_util import clean_url
+
 warnings.filterwarnings('ignore')
-
-
-noisy_urls = ["http://dbpedia.org/resource/", "http://www.w3.org/1999/02/22-rdf-syntax-ns#", "http://www.w3.org/2002/07/owl#", "http://dbpedia.org/ontology/", "http://xmlns.com/foaf/0.1/", "http://www.w3.org/2000/01/rdf-schema#", "http://purl.org/dc/terms/", "http://dbpedia.org/datatype/"]
-
-def clean_url(url):
-    """
-        Removes urls to obtain only the node name
-    """
-    for noisy_url in noisy_urls:
-        url = str(url).replace(noisy_url,"").lower()
-    return url
 
 
 def performance_debugger(func_name):
@@ -282,9 +273,16 @@ class Parser:
             if 'rdf-syntax-ns#type' in p:
                 type_info[vocabulary[ss]].add(vocabulary[oo])
 
+        self.logger.info("Before")
+        self.logger.info('Number of RDF triples:\t{0}'.format(num_of_rdf))
+        self.logger.info('Number of vocabulary terms:\t{0}'.format(len(vocabulary)))
+        self.logger.info('Number of subjects with type information:\t{0}'.format(len(type_info)))
+        self.logger.info('Number of types :\t{0}'.format(len(set(itertools.chain.from_iterable(type_info.values())))))
+
         #Adding extra triples
         for s, p, o in extra_triples:
 
+            num_of_rdf += 1
             # mapping from string to vocabulary
             vocabulary.setdefault(s, len(vocabulary))
             vocabulary.setdefault(p, len(vocabulary))
@@ -295,6 +293,7 @@ class Parser:
             inverted_index.setdefault(vocabulary[o], []).extend([vocabulary[s], vocabulary[p]])        
         ###################################################################
 
+        self.logger.info("After")
         self.logger.info('Number of RDF triples:\t{0}'.format(num_of_rdf))
         self.logger.info('Number of vocabulary terms:\t{0}'.format(len(vocabulary)))
         self.logger.info('Number of subjects with type information:\t{0}'.format(len(type_info)))
