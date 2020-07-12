@@ -2,7 +2,6 @@ gensim
 matplotlib
 numpy
 pandas
-rdflib
 scikit_learn
 python-louvain
 rdflib==5.0.0
