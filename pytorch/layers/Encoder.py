@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from EncoderLayer import EncoderLayer
+from layers.EncoderLayer import EncoderLayer
 
 class Encoder(nn.Module):
     def __init__(self, 

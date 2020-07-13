@@ -1,6 +1,7 @@
 from layers.Decoder import Decoder
 from layers.Encoder import Encoder
 import torch
+import torch.nn as nn
 
 class Seq2Seq(nn.Module):
     def __init__(self, 

@@ -1,4 +1,4 @@
-from DecoderLayer import DecoderLayer
+from layers.DecoderLayer import DecoderLayer
 import torch
 import torch.nn as nn
 
