@@ -72,7 +72,7 @@ def initialize_weights(m):
     if hasattr(m, 'weight') and m.weight.dim() > 1:
         nn.init.xavier_uniform_(m.weight.data)
 
-def build_model(source_vocabs, target_vocabs, device):
+def build_model(source_vocabs, target_vocabs, device, max_length):
 
 	HID_DIM = 256
 	ENC_LAYERS = 3
@@ -91,7 +91,8 @@ def build_model(source_vocabs, target_vocabs, device):
 			ENC_HEADS, 
 			ENC_PF_DIM, 
 			ENC_DROPOUT, 
-			device)
+			device,
+      max_length=max_length)
 	enc.apply(initialize_weights);
 
 	models = []
@@ -106,7 +107,8 @@ def build_model(source_vocabs, target_vocabs, device):
 				ENC_HEADS, 
 				ENC_PF_DIM, 
 				ENC_DROPOUT, 
-				device)
+				device,
+        max_length=max_length)
 		dec.apply(initialize_weights);
 
 		model = Seq2Seq(enc, dec, constants.PAD_IDX, constants.PAD_IDX, device).to(device)
@@ -124,6 +126,8 @@ def train(model, loader, optimizer, criterion, clip):
 	#for i, (src, tgt) in enumerate(loader):
 	(src, tgt) = next(iter(loader))
 	optimizer.zero_grad()
+
+  #print(tgt[:,:-1].size())
 	output, _ = model(src, tgt[:,:-1])        
 	#output = [batch size, tgt len - 1, output dim]
 	#tgt = [batch size, tgt len]
@@ -209,7 +213,7 @@ train_loaders = build_dataset(train_source_files, train_target_files, batch_size
 dev_loaders = build_dataset(dev_source_files, dev_target_files, batch_size, \
 			source_vocabs=source_vocabs, target_vocabs=target_vocabs, mtl=mtl)
 
-models = build_model(source_vocabs, target_vocabs, device)
+models = build_model(source_vocabs, target_vocabs, device, max_length)
 
 optimizers = []
 for model in models:
@@ -226,17 +230,15 @@ print_loss_total = 0  # Reset every print_every
 
 for _iter in range(1, steps + 1):
 
-
-
-
 	train_loss = train(models[0], train_loaders[0], optimizers[0], criterion, CLIP)
+	print("%d - %.4f" % (_iter, train_loss))
 	print_loss_total += train_loss
 
 	if _iter % print_every == 0:
 		print_loss_avg = print_loss_total / print_every
 		print_loss_total = 0
-		print('%s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
-                                         iter, iter / n_iters * 100, print_loss_avg))
+		print('%s (%d %d%%) %.4f' % (timeSince(start, _iter / steps),
+                                         _iter, _iter / steps * 100, print_loss_avg))
 
 
 '''
@@ -266,6 +268,7 @@ while steps > 0:
 
 
 		
+
 
 
 

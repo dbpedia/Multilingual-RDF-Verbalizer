@@ -38,6 +38,10 @@ class Decoder(nn.Module):
         #enc_src = [batch size, src len, hid dim]
         #trg_mask = [batch size, trg len]
         #src_mask = [batch size, src len]
+        print(trg.size())
+        print(enc_src.size())
+        print(trg_mask.size())
+        print(src_mask.size())
                 
         batch_size = trg.shape[0]
         trg_len = trg.shape[1]
@@ -61,3 +65,4 @@ class Decoder(nn.Module):
         #output = [batch size, trg len, output dim]
             
         return output, attention
+
