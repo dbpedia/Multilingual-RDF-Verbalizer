@@ -5,6 +5,7 @@ class Vocab(object):
 	def __init__(self, lower=True):
 		self.vocab = {"<unk>": 0, "<pad>": 1, "<sos>": 2, "<eos>": 3}
 		self.lower = lower
+		self.inverse_vocab = {}
 
 	def build_vocab(self, filenames, min_frequency = 0):
 		aux = []
@@ -22,6 +23,8 @@ class Vocab(object):
 		for key in aux:
 			self.vocab[key] = len(self.vocab)
 
+		self.inverse_vocab = {v: k for k, v in self.vocab.items()}
+
 	def stoi(self, key):
 
 		key = key.lower() if self.lower else key
@@ -32,7 +35,9 @@ class Vocab(object):
 			return 0
 
 	def itos(self, index):
-		return
+		if index < len(self.vocab):
+			return self.inverse_vocab[index]
+		return "<unk>"
 
 	def convert_sentence_to_ids(self, sentences):
 		tokens_to_ids = []
