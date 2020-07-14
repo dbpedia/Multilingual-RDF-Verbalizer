@@ -1,0 +1,58 @@
+from collections import Counter
+
+class Vocab(object):
+
+	def __init__(self, lower=True):
+		self.vocab = {"<unk>": 0, "<pad>": 1, "<sos>": 2, "<eos>": 3}
+		self.lower = lower
+
+	def build_vocab(self, filenames, min_frequency = 0):
+		aux = []
+
+		for filename in filenames:
+			with open(filename, "r") as f:
+				aux = aux + [token for line in f for token in line.split()]
+
+		freq = Counter(aux)
+		aux = [key for key in freq if freq[key] >= min_frequency]
+
+		i = len(self.vocab)
+		for e in aux:
+			key = (e.lower() if self.lower else e)
+			self.vocab[key] = i
+			i += 1
+
+	def stoi(self, key):
+
+		key = key.lower() if self.lower else key
+
+		if key in self.vocab:
+			return self.vocab[key]
+		else:
+			return 0
+
+	def itos(self, index):
+		return
+
+	def convert_tokens_to_ids(self, tokens):
+		return [self.stoi(token) for token in tokens]
+
+	def len(self):
+		return len(self.vocab)
+
+	def add_word(self, word):
+		return self.vocab[word]
+
+
+#my_vocab = Vocab()
+#my_vocab.build_vocab(["../data/ordering/dev.src", "../data/structing/dev.src"])
+
+#text = "<sos> <TRIPLE> Abilene_Regional_Airport cityServed Abilene,_Texas </TRIPLE> <TRIPLE> Abilene,_Texas isPartOf Texas </TRIPLE> <eos> <pad> <pad> <pad> <pad>"
+#tokens = text.lower().split()
+#ids = my_vocab.convert_tokens_to_ids(tokens)
+#print(ids)
+			
+			
+	
+
+

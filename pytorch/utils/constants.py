@@ -1,0 +1,5 @@
+
+EOS_IDX = 3
+SOS_IDX = 2
+PAD_IDX = 1
+UNK_IDX = 0
