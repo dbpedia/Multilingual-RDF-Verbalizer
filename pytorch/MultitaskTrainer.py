@@ -161,17 +161,17 @@ def evaluate(model, loader, criterion, task_id=0):
 			#output = [batch size * tgt len - 1, output dim]
 			#tgt = [batch size * tgt len - 1]
 
-			loss = criterion(output, trg)
+			loss = criterion(output, tgt)
 			epoch_loss += loss.item()
 
-	return epoch_loss / len(iterator)
+	return epoch_loss / len(loader)
 
 
 
 
 #device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 device = torch.device('cpu')
-batch_size = 128
+batch_size = 32
 max_length = 100
 mtl = True
 
@@ -212,9 +212,9 @@ multitask_model = build_model(source_vocabs, target_vocabs, device, max_length)
 
 optimizer = torch.optim.Adam(multitask_model.parameters(), lr = LEARNING_RATE)
 
-steps = 10000
-print_every = 100
-evaluation_step = 500
+steps = 1000
+print_every = 5
+evaluation_step = 35
 
 task_id = 0
 
@@ -231,7 +231,7 @@ for _iter in range(1, steps + 1):
 	if _iter % print_every == 0:
 		print_loss_avg = print_loss_total / print_every
 		print_loss_total = 0  
-		print(f'\tTrain Loss: {train_loss:.3f} | Train PPL: {math.exp(train_loss):7.3f}')
+		print(f'Task: {task_id:d} | Step: {_iter:d} | Train Loss: {train_loss:.3f} | Train PPL: {math.exp(train_loss):7.3f}')
 
 
 	if _iter % evaluation_step == 0:
@@ -241,7 +241,7 @@ for _iter in range(1, steps + 1):
 		if valid_loss < best_valid_loss:
 			print("New better...saving...")
 			best_valid_loss = valid_loss
-			torch.save(model.state_dict(), 'tut6-model.pt')
+			torch.save(multitask_model.state_dict(), 'tut6-model.pt')
 			print("Saved")
 
 		print("Changing to the next task ...")
@@ -251,33 +251,8 @@ for _iter in range(1, steps + 1):
 		else:
 			task_id += 1
 
-'''
-while steps > 0:
-
-	model_idx = 0
-
-	start_time = time.time()
-
-	train_loss = train(models[model_idx], train_loaders[model_idx], optimizers[model_idx], criterion, CLIP)
-	valid_loss = evaluate(models[model_idx], dev_loaders[model_idx], criterion)
-
-	end_time = time.time()
-
-	epoch_mins, epoch_secs = epoch_time(start_time, end_time)
-
-	if valid_loss < best_valid_loss:
-		best_valid_loss = valid_loss
-		torch.save(model.state_dict(), 'tut6-model.pt')
-
-	print(f'Epoch: {epoch+1:02} | Time: {epoch_mins}m {epoch_secs}s')
-	print(f'\tTrain Loss: {train_loss:.3f} | Train PPL: {math.exp(train_loss):7.3f}')
-	print(f'\t Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f}')
-
-'''
-
-
-
 		
+
 
 
 
