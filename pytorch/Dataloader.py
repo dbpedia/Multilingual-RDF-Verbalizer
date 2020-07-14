@@ -1,6 +1,7 @@
 from torch.utils.data import DataLoader
 from torch.utils.data import Dataset
 from utils.vocab import Vocab
+import torch
 
 class ParallelDataset(Dataset):
 
@@ -23,17 +24,18 @@ class ParallelDataset(Dataset):
 
 			
 	def __len__(self):
-		return len(self.df)
+		return len(self.data_source)
 
 	def __getitem__(self, index):
 
-		src_tokens = self.padding_sentence(self.data_source[index])
-		tgt_tokens = self.padding_sentence(self.data_target[index])
+		print(self.data_source[index])
+		src_tokens = self.padding_sentences(self.data_source[index])
+		tgt_tokens = self.padding_sentences(self.data_target[index])
 
-		src_tokens_ids = self.source_vocab.convert_tokens_to_ids(src_tokens)
+		src_tokens_ids = self.source_vocab.convert_sentence_to_ids(src_tokens)
 		src_tokens_ids_tensor = torch.tensor(src_tokens_ids)
 
-		tgt_tokens_ids = self.target_vocab.convert_tokens_to_ids(tgt_tokens)
+		tgt_tokens_ids = self.target_vocab.convert_sentence_to_ids(tgt_tokens)
 		tgt_tokens_ids_tensor = torch.tensor(tgt_tokens_ids)
 
 
@@ -43,12 +45,19 @@ class ParallelDataset(Dataset):
 	def read_file(self, filename):
 		data = []
 		with open(filename, "r") as f:
-			data.append(line.split() for line in f)
+			for line in f:
+				data.append(line.strip().split()) 
 		return data
+
+	def padding_sentences(self, sentences):
+		tokens = []
+		for sentence in sentences:
+			tokens.append(self.padding_sentence(sentence))
+		return tokens
 
 
 	def padding_sentence(self, tokens):
-		tokens = ['<sos>'] + tokens + ['<eos>']
+		tokens = ['<sos>'] + list(tokens) + ['<eos>']
 
 		if len(tokens) < self.max_length:
 			tokens = tokens + ['<pad>' for _ in range(self.max_length - len(tokens))]
@@ -64,6 +73,7 @@ class ParallelDataset(Dataset):
 
 def get_dataloader (dataset, batch_size, shuffle=False):
 	return DataLoader(dataset, batch_size = batch_size, shuffle = shuffle, num_workers = 5)
+
 
 
 

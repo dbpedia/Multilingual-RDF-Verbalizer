@@ -34,6 +34,12 @@ class Vocab(object):
 	def itos(self, index):
 		return
 
+	def convert_sentence_to_ids(self, sentences):
+		tokens_to_ids = []
+		for sentence in sentences:  
+			tokens_to_ids.append(self.convert_tokens_to_ids(sentence))
+		return tokens_to_ids
+
 	def convert_tokens_to_ids(self, tokens):
 		return [self.stoi(token) for token in tokens]
 
@@ -54,5 +60,6 @@ class Vocab(object):
 			
 			
 	
+
 
 

@@ -10,7 +10,7 @@ from layers.Encoder import Encoder
 from layers.Decoder import Decoder
 
 import torch
-import torch.nn
+import torch.nn as nn
 
 import numpy as np
 import random
@@ -56,15 +56,20 @@ def build_dataset(source_files, target_files, batch_size, shuffle=False, \
 	loaders = []
 
 	for index, (source_file, target_file) in enumerate(zip(source_files, target_files)):
+
 		if mtl is True:
 			_set = ParallelDataset(source_file, target_file, max_length = max_length, \
 									source_vocab = source_vocabs[0], target_vocab = target_vocabs[index])
 		else:
 			_set = ParallelDataset(source_file, target_file, max_length = max_length, \
 									source_vocab = source_vocabs[0], target_vocab = target_vocabs[0])
+
+	#for i in range(3):
+	#	sample = _set[i]
+	#	print(i, sample)
+
 		loader = get_dataloader(_set, batch_size, shuffle=shuffle)
 		loaders.append(loader)
-
 	return loaders
 
 def initialize_weights(m):
@@ -142,7 +147,7 @@ def train(model, loader, optimizer, criterion, clip):
 		torch.nn.utils.clip_grad_norm_(model.parameters(), clip)
 
 		optimizer.step()
-        _loss += loss.item()
+		_loss += loss.item()
 
 		if (i+1) % print_step == 0:
 			print(f'\tTrain Loss: {_loss/(i+1):.3f} | Train PPL: {math.exp(_loss/(i+1)):7.3f}')			
@@ -152,13 +157,11 @@ def train(model, loader, optimizer, criterion, clip):
 
 def evaluate(model, loader, criterion):
     
-    model.eval()
-    
-    epoch_loss = 0
-    
-    with torch.no_grad():
-    
-        for i, (src, tgt) in enumerate(loader):
+	model.eval()  
+	epoch_loss = 0
+	with torch.no_grad():
+
+		for i, (src, tgt) in enumerate(loader):
 
 			output, _ = model(src, tgt[:,:-1])
 			#output = [batch size, tgt len - 1, output dim]
@@ -181,7 +184,7 @@ def evaluate(model, loader, criterion):
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 batch_size = 64
-max_length = 300
+max_length = 100
 mtl = True
 
 LEARNING_RATE = 0.0005
@@ -190,11 +193,17 @@ LEARNING_RATE = 0.0005
 criterion = nn.CrossEntropyLoss(ignore_index = constants.PAD_IDX)
 
 
-dev_source_files = ["data/ordering/dev.src", "data/structing/dev.src", "data/lexicalization/dev.src"]
-dev_target_files = ["data/ordering/dev.trg", "data/structing/dev.trg", "data/lexicalization/dev.trg"]
+#dev_source_files = ["data/ordering/dev.src", "data/structing/dev.src", "data/lexicalization/dev.src"]
+#dev_target_files = ["data/ordering/dev.trg", "data/structing/dev.trg", "data/lexicalization/dev.trg"]
 
-train_source_files = ["data/ordering/train.src", "data/structing/train.src", "data/lexicalization/train.src"]
-train_target_files = ["data/ordering/train.trg", "data/structing/train.trg", "data/lexicalization/train.trg"]
+dev_source_files = ["data/ordering/dev.src"]
+dev_target_files = ["data/ordering/dev.trg"]
+
+#train_source_files = ["data/ordering/train.src", "data/structing/train.src", "data/lexicalization/train.src"]
+#train_target_files = ["data/ordering/train.trg", "data/structing/train.trg", "data/lexicalization/train.trg"]
+
+train_source_files = ["data/structing/train.src"]
+train_target_files = ["data/structing/train.trg"]
 
 
 N_EPOCHS = 10
@@ -208,10 +217,14 @@ source_vocabs, target_vocabs = build_vocab(train_source_files, train_target_file
 train_loaders = build_dataset(train_source_files, train_target_files, batch_size, \
 			source_vocabs=source_vocabs, target_vocabs=target_vocabs, shuffle=True, mtl=mtl)
 
-dev_loaders = build_dataset(dev_source_files, dev_target_files, batch_size, \
-			source_vocabs=source_vocabs, target_vocabs=target_vocabs, mtl=mtl)
+#dev_loaders = build_dataset(dev_source_files, dev_target_files, batch_size, \
+#			source_vocabs=source_vocabs, target_vocabs=target_vocabs, mtl=mtl)
 
 models = build_model(source_vocabs, target_vocabs, device)
+
+print(len(train_loaders[0]))
+for ee in train_loaders[0]:
+  print(ee)
 
 optimizers = []
 for model in models:
@@ -222,6 +235,9 @@ steps = 10000
 print_step = 100
 evaluation_step = 500
 
+train_loss = train(models[0], train_loaders[0], optimizers[0], criterion, CLIP)
+
+'''
 while steps > 0:
 
 	model_idx = 0
@@ -243,11 +259,12 @@ while steps > 0:
 	print(f'\tTrain Loss: {train_loss:.3f} | Train PPL: {math.exp(train_loss):7.3f}')
 	print(f'\t Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f}')
 
-
+'''
 
 
 
 		
+
 
 
 
