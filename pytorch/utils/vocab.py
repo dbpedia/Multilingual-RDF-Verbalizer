@@ -11,16 +11,16 @@ class Vocab(object):
 
 		for filename in filenames:
 			with open(filename, "r") as f:
-				aux = aux + [token for line in f for token in line.split()]
+				v = [token for line in f for token in line.split()]
+				if self.lower:
+					v = [e.lower() for e in v]
+				aux = aux + v
 
 		freq = Counter(aux)
 		aux = [key for key in freq if freq[key] >= min_frequency]
 
-		i = len(self.vocab)
-		for e in aux:
-			key = (e.lower() if self.lower else e)
-			self.vocab[key] = i
-			i += 1
+		for key in aux:
+			self.vocab[key] = len(self.vocab)
 
 	def stoi(self, key):
 
@@ -60,6 +60,7 @@ class Vocab(object):
 			
 			
 	
+
 
 
 

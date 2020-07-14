@@ -77,6 +77,3 @@ class ParallelDataset(Dataset):
 def get_dataloader (dataset, batch_size, shuffle=False):
 	return DataLoader(dataset, batch_size = batch_size, shuffle = shuffle, num_workers = 5)
 
-
-
-

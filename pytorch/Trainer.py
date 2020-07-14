@@ -101,6 +101,8 @@ def build_model(source_vocabs, target_vocabs, device, max_length):
 
 		OUTPUT_DIM = target_vocab.len()
 
+		print("output_dim", OUTPUT_DIM)
+
 		dec = Decoder(OUTPUT_DIM, 
 				HID_DIM, 
 				ENC_LAYERS, 
@@ -127,7 +129,7 @@ def train(model, loader, optimizer, criterion, clip):
 	(src, tgt) = next(iter(loader))
 	optimizer.zero_grad()
 
-  #print(tgt[:,:-1].size())
+	#print(tgt)
 	output, _ = model(src, tgt[:,:-1])        
 	#output = [batch size, tgt len - 1, output dim]
 	#tgt = [batch size, tgt len]
@@ -226,19 +228,33 @@ evaluation_step = 500
 
 model_idx = 0
 
+best_valid_loss = float('inf')
 print_loss_total = 0  # Reset every print_every
 
 for _iter in range(1, steps + 1):
 
-	train_loss = train(models[0], train_loaders[0], optimizers[0], criterion, CLIP)
-	print("%d - %.4f" % (_iter, train_loss))
+	train_loss = train(models[model_idx], train_loaders[model_idx], optimizers[model_idx], criterion, CLIP)
 	print_loss_total += train_loss
 
 	if _iter % print_every == 0:
 		print_loss_avg = print_loss_total / print_every
-		print_loss_total = 0
-		print('%s (%d %d%%) %.4f' % (timeSince(start, _iter / steps),
-                                         _iter, _iter / steps * 100, print_loss_avg))
+		print_loss_total = 0  
+
+	if _iter % evaluation_step == 0:
+		print("Evaluating on dev set")
+		valid_loss = evaluate(models[model_idx], dev_loaders[model_idx], criterion)
+		if valid_loss < best_valid_loss:
+			best_valid_loss = valid_loss
+			torch.save(model.state_dict(), 'tut6-model.pt')
+
+		print("Changing to the next task ...")
+    if model_idx == len(models) - 1:
+			print("All tasks  were trained once. Restarting")
+			model_idx = 0
+    else:
+			model_idx += 1
+		#print('%s (%d %d%%) %.4f' % (timeSince(start, _iter / steps),
+    #                                     _iter, _iter / steps * 100, print_loss_avg))
 
 
 '''
@@ -268,6 +284,7 @@ while steps > 0:
 
 
 		
+
 
 
 

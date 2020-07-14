@@ -37,19 +37,13 @@ class Decoder(nn.Module):
         #trg = [batch size, trg len]
         #enc_src = [batch size, src len, hid dim]
         #trg_mask = [batch size, trg len]
-        #src_mask = [batch size, src len]
-        print(trg.size())
-        print(enc_src.size())
-        print(trg_mask.size())
-        print(src_mask.size())
+        #src_mask = [batch size, src len]   
                 
         batch_size = trg.shape[0]
         trg_len = trg.shape[1]
         
         pos = torch.arange(0, trg_len).unsqueeze(0).repeat(batch_size, 1).to(self.device)
-                            
-        #pos = [batch size, trg len]
-            
+
         trg = self.dropout((self.tok_embedding(trg) * self.scale) + self.pos_embedding(pos))
                 
         #trg = [batch size, trg len, hid dim]
@@ -65,4 +59,5 @@ class Decoder(nn.Module):
         #output = [batch size, trg len, output dim]
             
         return output, attention
+
 
