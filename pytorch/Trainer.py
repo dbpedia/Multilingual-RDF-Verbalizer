@@ -64,10 +64,6 @@ def build_dataset(source_files, target_files, batch_size, shuffle=False, \
 			_set = ParallelDataset(source_file, target_file, max_length = max_length, \
 									source_vocab = source_vocabs[0], target_vocab = target_vocabs[0])
 
-	#for i in range(3):
-	#	sample = _set[i]
-	#	print(i, sample)
-
 		loader = get_dataloader(_set, batch_size, shuffle=shuffle)
 		loaders.append(loader)
 	return loaders
@@ -125,34 +121,27 @@ def train(model, loader, optimizer, criterion, clip):
 
 	_loss = 0
 
-	print_step = 100
-	evaluation_step = 500
+	#for i, (src, tgt) in enumerate(loader):
+	(src, tgt) = next(iter(loader))
+	optimizer.zero_grad()
+	output, _ = model(src, tgt[:,:-1])        
+	#output = [batch size, tgt len - 1, output dim]
+	#tgt = [batch size, tgt len]
+	output_dim = output.shape[-1]
+	output = output.contiguous().view(-1, output_dim)
+	tgt = tgt[:,1:].contiguous().view(-1)
+	#output = [batch size * tgt len - 1, output dim]
+	#tgt = [batch size * tgt len - 1]
 
-	for i, (src, tgt) in enumerate(loader):
+	loss = criterion(output, tgt)
+	loss.backward()
 
-		optimizer.zero_grad()
+	torch.nn.utils.clip_grad_norm_(model.parameters(), clip)
 
-		output, _ = model(src, tgt[:,:-1])        
-		#output = [batch size, tgt len - 1, output dim]
-		#tgt = [batch size, tgt len]
-		output_dim = output.shape[-1]
-		output = output.contiguous().view(-1, output_dim)
-		tgt = tgt[:,1:].contiguous().view(-1)
-		#output = [batch size * tgt len - 1, output dim]
-		#tgt = [batch size * tgt len - 1]
+	optimizer.step()
+	_loss += loss.item()
 
-		loss = criterion(output, tgt)
-		loss.backward()
-
-		torch.nn.utils.clip_grad_norm_(model.parameters(), clip)
-
-		optimizer.step()
-		_loss += loss.item()
-
-		if (i+1) % print_step == 0:
-			print(f'\tTrain Loss: {_loss/(i+1):.3f} | Train PPL: {math.exp(_loss/(i+1)):7.3f}')			
-
-	return _loss / len(loader)
+	return _loss
 
 
 def evaluate(model, loader, criterion):
@@ -181,9 +170,9 @@ def evaluate(model, loader, criterion):
 
 
 
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-
-batch_size = 64
+#device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+device = torch.device('cpu')
+batch_size = 128
 max_length = 100
 mtl = True
 
@@ -193,17 +182,17 @@ LEARNING_RATE = 0.0005
 criterion = nn.CrossEntropyLoss(ignore_index = constants.PAD_IDX)
 
 
-#dev_source_files = ["data/ordering/dev.src", "data/structing/dev.src", "data/lexicalization/dev.src"]
-#dev_target_files = ["data/ordering/dev.trg", "data/structing/dev.trg", "data/lexicalization/dev.trg"]
+dev_source_files = ["data/ordering/dev.src", "data/structing/dev.src", "data/lexicalization/dev.src"]
+dev_target_files = ["data/ordering/dev.trg", "data/structing/dev.trg", "data/lexicalization/dev.trg"]
 
-dev_source_files = ["data/ordering/dev.src"]
-dev_target_files = ["data/ordering/dev.trg"]
+#dev_source_files = ["data/ordering/dev.src"]
+#dev_target_files = ["data/ordering/dev.trg"]
 
-#train_source_files = ["data/ordering/train.src", "data/structing/train.src", "data/lexicalization/train.src"]
-#train_target_files = ["data/ordering/train.trg", "data/structing/train.trg", "data/lexicalization/train.trg"]
+train_source_files = ["data/ordering/train.src", "data/structing/train.src", "data/lexicalization/train.src"]
+train_target_files = ["data/ordering/train.trg", "data/structing/train.trg", "data/lexicalization/train.trg"]
 
-train_source_files = ["data/structing/train.src"]
-train_target_files = ["data/structing/train.trg"]
+#train_source_files = ["data/structing/train.src"]
+#train_target_files = ["data/structing/train.trg"]
 
 
 N_EPOCHS = 10
@@ -217,14 +206,10 @@ source_vocabs, target_vocabs = build_vocab(train_source_files, train_target_file
 train_loaders = build_dataset(train_source_files, train_target_files, batch_size, \
 			source_vocabs=source_vocabs, target_vocabs=target_vocabs, shuffle=True, mtl=mtl)
 
-#dev_loaders = build_dataset(dev_source_files, dev_target_files, batch_size, \
-#			source_vocabs=source_vocabs, target_vocabs=target_vocabs, mtl=mtl)
+dev_loaders = build_dataset(dev_source_files, dev_target_files, batch_size, \
+			source_vocabs=source_vocabs, target_vocabs=target_vocabs, mtl=mtl)
 
 models = build_model(source_vocabs, target_vocabs, device)
-
-print(len(train_loaders[0]))
-for ee in train_loaders[0]:
-  print(ee)
 
 optimizers = []
 for model in models:
@@ -232,10 +217,27 @@ for model in models:
 	optimizers.append(optimizer)
 
 steps = 10000
-print_step = 100
+print_every = 100
 evaluation_step = 500
 
-train_loss = train(models[0], train_loaders[0], optimizers[0], criterion, CLIP)
+model_idx = 0
+
+print_loss_total = 0  # Reset every print_every
+
+for _iter in range(1, steps + 1):
+
+
+
+
+	train_loss = train(models[0], train_loaders[0], optimizers[0], criterion, CLIP)
+	print_loss_total += train_loss
+
+	if _iter % print_every == 0:
+		print_loss_avg = print_loss_total / print_every
+		print_loss_total = 0
+		print('%s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
+                                         iter, iter / n_iters * 100, print_loss_avg))
+
 
 '''
 while steps > 0:
