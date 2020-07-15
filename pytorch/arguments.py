@@ -80,7 +80,7 @@ parser.add_argument(
 parser.add_argument(
   '-gpu','--gpu', action='store_true', required=False, help='Use GPU or CPU')
 parser.add_argument(
-  '--save_dir', type=str, required=False, help='Output directory')
+  '-save-dir','--save_dir', type=str, required=True, default="/content/", help='Output directory')
 
 # inference parameters
 
