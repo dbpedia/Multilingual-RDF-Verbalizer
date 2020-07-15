@@ -46,7 +46,7 @@ def build_vocab(source_files, target_files, mtl=False):
 
 
 def build_dataset(source_files, target_files, batch_size, shuffle=False, \
-			source_vocabs=None, target_vocabs=None, mtl=False):
+			source_vocabs=None, target_vocabs=None, mtl=False, max_length=180):
 	loaders = []
 
 	for index, (source_file, target_file) in enumerate(zip(source_files, target_files)):
@@ -83,7 +83,7 @@ def build_model(args, source_vocabs, target_vocabs, device, max_length):
 			args.encoder_ff_size, 
 			args.encoder_dropout, 
 			device,
-      max_length=max_length)
+      max_length=max_length).to(device)
 	enc.apply(initialize_weights);
 
 	decs = []
@@ -98,7 +98,7 @@ def build_model(args, source_vocabs, target_vocabs, device, max_length):
 				args.decoder_ff_size, 
 				args.decoder_dropout, 
 				device,
-        max_length=max_length)
+        max_length=max_length).to(device)
 		dec.apply(initialize_weights);
 		decs.append(dec)
 
@@ -107,11 +107,13 @@ def build_model(args, source_vocabs, target_vocabs, device, max_length):
 	return model
 
 
-def train_step(model, loader, optimizer, criterion, clip, task_id = 0):
+def train_step(model, loader, optimizer, criterion, clip, device, task_id = 0):
 
 	model.train()
 
 	(src, tgt) = next(iter(loader))
+	src = src.to(device)
+	tgt = tgt.to(device)
 	optimizer.zero_grad()
 
 	output, _ = model(src, tgt[:,:-1], task_id=task_id)        
@@ -133,7 +135,7 @@ def train_step(model, loader, optimizer, criterion, clip, task_id = 0):
 	return loss.item()
 
 
-def evaluate(model, loader, criterion, task_id=0):
+def evaluate(model, loader, criterion, device, task_id=0):
     
 	model.eval()  
 	epoch_loss = 0
@@ -141,6 +143,8 @@ def evaluate(model, loader, criterion, task_id=0):
 
 		for i, (src, tgt) in enumerate(loader):
 
+			src = src.to(device)
+			tgt = tgt.to(device)
 			output, _ = model(src, tgt[:,:-1], task_id=task_id)
 			#output = [batch size, tgt len - 1, output dim]
 			#tgt = [batch size, tgt len]
@@ -158,13 +162,18 @@ def evaluate(model, loader, criterion, task_id=0):
 
 
 
-def translate_sentence(model, task_id, sentence, source_vocab, target_vocab, device, max_len = 180):
+def translate_sentence(model, task_id, sentence, source_vocab, target_vocab, device, max_length = 180):
 
 	model.eval()
 
 	tokens = [token.lower() for token in sentence.split()]
 	tokens = [constants.SOS_STR] + tokens + [constants.EOS_STR]
-        
+
+	if len(tokens) < max_length:
+		tokens = tokens + [constants.PAD_STR for _ in range(max_length - len(tokens))]
+	else:
+		tokens = tokens[:max_length-1] + [constants.EOS_STR]
+
 	src_indexes = [source_vocab.stoi(token) for token in tokens]
 	src_tensor = torch.LongTensor(src_indexes).unsqueeze(0).to(device)
 	src_mask = model.make_src_mask(src_tensor)
@@ -174,7 +183,7 @@ def translate_sentence(model, task_id, sentence, source_vocab, target_vocab, dev
 
 	trg_indexes = [constants.SOS_IDX]
 
-	for i in range(max_len):
+	for i in range(max_length):
 
 		trg_tensor = torch.LongTensor(trg_indexes).unsqueeze(0).to(device)
 		trg_mask = model.make_trg_mask(trg_tensor)
@@ -223,15 +232,15 @@ def train(args):
 
 	source_vocabs, target_vocabs = build_vocab(args.train_source, args.train_target, mtl=mtl)
 
-	print("Building training set and dataloader")
+	print("Building training set and dataloaders")
 	train_loaders = build_dataset(args.train_source, args.train_target, batch_size, \
-			source_vocabs=source_vocabs, target_vocabs=target_vocabs, shuffle=True, mtl=mtl)
+			source_vocabs=source_vocabs, target_vocabs=target_vocabs, shuffle=True, mtl=mtl, max_length=max_length)
 	for train_loader in train_loaders:
 		print(f'Train - {len(train_loader):d} batches with size: {batch_size:d}')
 
-	print("Building dev set and dataloader")
+	print("Building dev set and dataloaders")
 	dev_loaders = build_dataset(args.dev_source, args.dev_target, batch_size, \
-			source_vocabs=source_vocabs, target_vocabs=target_vocabs, mtl=mtl)
+			source_vocabs=source_vocabs, target_vocabs=target_vocabs, mtl=mtl, max_length=max_length)
 	for dev_loader in dev_loaders:
 		print(f'Dev - {len(dev_loader):d} batches with size: {batch_size:d}')
 
@@ -255,7 +264,7 @@ def train(args):
 
 	for _iter in range(1, args.steps + 1):
 
-		train_loss = train_step(multitask_model, train_loaders[task_id], optimizer, criterion, clipping, task_id = task_id)
+		train_loss = train_step(multitask_model, train_loaders[task_id], optimizer, criterion, clipping, device, task_id = task_id)
 		print_loss_total += train_loss
 
 		if _iter % args.print_every == 0:
@@ -266,16 +275,16 @@ def train(args):
 
 		if _iter % args.eval_steps == 0:
 			print("Evaluating...")
-			valid_loss = evaluate(multitask_model, dev_loaders[task_id], criterion, task_id=task_id)
+			valid_loss = evaluate(multitask_model, dev_loaders[task_id], criterion, device, task_id=task_id)
 			print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f}')
 			if valid_loss < best_valid_loss:
 				print("The loss decreased... saving checkpoint")
 				best_valid_loss = valid_loss
-				torch.save(multitask_model.state_dict(), 'tut6-model.pt')
-				print("Saved tut6-model.pt")
+				torch.save(multitask_model.state_dict(), 'model.pt')
+				print("Saved model.pt")
 
 			print("Changing to the next task ...")
-			task_id = (task_id = 0 if task_id == n_tasks - 1 else task_id += 1)
+			task_id = (0 if task_id == n_tasks - 1 else task_id + 1)
 
 	print("Evaluating and testing")
 	for index, eval_name in enumerate(args.eval):
@@ -283,8 +292,8 @@ def train(args):
 		fout = open(eval_name + ".out", "w")
 		with open(eval_name, "r") as f:
 			for sentence in f:
-				output = translate_sentence(multitask_model, index, sentence, source_vocab[0], target_vocab[index], device, max_len)
-				fout.write(output.strip() + "\n")
+				output = translate_sentence(multitask_model, index, sentence, source_vocabs[0], target_vocabs[index], device, max_length)
+				fout.write(output.replace("<eos>","").strip() + "\n")
 		fout.close()
 
 	for index, test_name in enumerate(args.test):
@@ -292,7 +301,8 @@ def train(args):
 		fout = open(test_name + ".out", "w")
 		with open(test_name, "r") as f:
 			for sentence in f:
-				output = translate_sentence(multitask_model, index, sentence, source_vocab[0], target_vocab[index], device, max_len)
-				fout.write(output.strip() + "\n")
+				output = translate_sentence(multitask_model, index, sentence, source_vocabs[0], target_vocabs[index], device, max_length)
+				fout.write(output.replace("<eos>","").strip() + "\n")
 		fout.close()
 				
+

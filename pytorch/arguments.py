@@ -16,9 +16,9 @@ parser.add_argument(
   '-dev-tgt', '--dev_target', type=str, nargs='*', required=True, help='Path to train target dataset')
 
 parser.add_argument(
-  '--eval', type=str, nargs='*', required=False, help='Path to the Dev set')
+  '-eval','--eval', type=str, nargs='*', required=False, help='Path to the Dev set')
 parser.add_argument(
-  '--test', type=str, nargs='*', required=False, help='Path to the Test set')
+  '-test','--test', type=str, nargs='*', required=False, help='Path to the Test set')
 
 # training parameters
 parser.add_argument(
@@ -46,20 +46,20 @@ parser.add_argument(
 parser.add_argument(
   '-enc-filter-size', '--encoder_ff_size', type=int, required=True, help='Size of FFN Filters (Encoder)')
 parser.add_argument(
-  '--enc-layers', '--encoder_layer', type=int, required=True, help='Number of layers in Encoder')
+  '-enc-layers', '--encoder_layer', type=int, required=True, help='Number of layers in Encoder')
 parser.add_argument(
   '-enc-num-heads', '--encoder_head', type=int, required=True, help='Number of heads in self-attention in Encoder')
 parser.add_argument(
-  '-enc-dropout', '--encoder_dropout', type=int, required=True, help='Dropout rate in Encoder')
+  '-enc-dropout', '--encoder_dropout', type=float, required=True, help='Dropout rate in Encoder')
 
 parser.add_argument(
   '-dec-filter-size', '--decoder_ff_size', type=int, required=True, help='Size of FFN Filters (Decoder)')
 parser.add_argument(
-  '--dec-layers', '--decoder_layer', type=int, required=True, help='Number of layers in Decoder')
+  '-dec-layers', '--decoder_layer', type=int, required=True, help='Number of layers in Decoder')
 parser.add_argument(
   '-dec-num-heads', '--decoder_head', type=int, required=True, help='Number of heads in self-attention in Decoder')
 parser.add_argument(
-  '-dec-dropout', '--decoder_dropout', type=int, required=True, help='Dropout rate in Decoder')
+  '-dec-dropout', '--decoder_dropout', type=float, required=True, help='Dropout rate in Decoder')
 
 
 # hyper-parameters
@@ -74,7 +74,7 @@ parser.add_argument(
   '-beam-alpha', '--beam_alpha', type=float, required=False, default=0.2, help='Alpha value for Beam search')
 
 parser.add_argument(
-  '--seed', type=int, required=False, help='Seed')
+  '-seed', '--seed', type=int, required=False, help='Seed')
 parser.add_argument(
   '-mtl','--mtl', action='store_true', required=False, help='Multitask learning or not')
 parser.add_argument(
@@ -87,3 +87,4 @@ parser.add_argument(
 def get_args():
   args = parser.parse_args()
   return args
+

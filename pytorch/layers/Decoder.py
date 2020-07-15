@@ -59,5 +59,3 @@ class Decoder(nn.Module):
         #output = [batch size, trg len, output dim]
             
         return output, attention
-
-
