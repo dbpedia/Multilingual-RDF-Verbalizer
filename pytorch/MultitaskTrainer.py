@@ -289,7 +289,7 @@ def train(args):
 	print("Evaluating and testing")
 	for index, eval_name in enumerate(args.eval):
 		print(f'Reading {eval_name}')
-		fout = open(args.output + eval_name + ".out", "w")
+		fout = open(args.output + eval_name + "." + str(index) + ".out", "w")
 		with open(eval_name, "r") as f:
 			for sentence in f:
 				output = translate_sentence(multitask_model, index, sentence, source_vocabs[0], target_vocabs[index], device, max_length)
@@ -298,7 +298,7 @@ def train(args):
 
 	for index, test_name in enumerate(args.test):
 		print(f'Reading {test_name}')
-		fout = open(args.output + test_name + ".out", "w")
+		fout = open(args.output + test_name + "." + str(index) + ".out", "w")
 		with open(test_name, "r") as f:
 			for sentence in f:
 				output = translate_sentence(multitask_model, index, sentence, source_vocabs[0], target_vocabs[index], device, max_length)
