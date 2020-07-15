@@ -289,9 +289,9 @@ def train(args):
 	print("Evaluating and testing")
 	for index, eval_name in enumerate(args.eval):
 		n = len(eval_name.split("/"))
-		eval_name = eval_name.split("/")[n-1]
+		name = eval_name.split("/")[n-1]
 		print(f'Reading {eval_name}')
-		fout = open(args.save_dir + eval_name + "." + str(index) + ".out", "w")
+		fout = open(args.save_dir + name + "." + str(index) + ".out", "w")
 		with open(eval_name, "r") as f:
 			for sentence in f:
 				output = translate_sentence(multitask_model, index, sentence, source_vocabs[0], target_vocabs[index], device, max_length)
@@ -300,9 +300,9 @@ def train(args):
 
 	for index, test_name in enumerate(args.test):
 		n = len(test_name.split("/"))
-		test_name = test_name.split("/")[n-1]
+		name = test_name.split("/")[n-1]
 		print(f'Reading {test_name}')
-		fout = open(args.save_dir + test_name + "." + str(index) + ".out", "w")
+		fout = open(args.save_dir + name + "." + str(index) + ".out", "w")
 		with open(test_name, "r") as f:
 			for sentence in f:
 				output = translate_sentence(multitask_model, index, sentence, source_vocabs[0], target_vocabs[index], device, max_length)
