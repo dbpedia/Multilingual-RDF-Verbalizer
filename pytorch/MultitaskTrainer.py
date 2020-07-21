@@ -35,7 +35,7 @@ def build_vocab(files, vocabulary=None, mtl=False, name="src"):
 			vocab = Vocab()
 			vocab.build_vocab(files)
 			vocab.save(name + ".vocab.json")
-			vocabs.append(target_vocab)
+			vocabs.append(vocab)
 
 	for index, vocab in enumerate(vocabs):
 		print(f'vocabulary size {index+1:d}: {vocab.len():d}')
@@ -269,7 +269,7 @@ def train(args):
 		return
 
 	print("Building Encoder vocabulary")
-	source_vocabs = build_vocab(args.train_source, args.src_vocab, mtl=mtl)
+	source_vocabs = build_vocab(args.train_source, args.src_vocab)
 	print("Building Decoder vocabulary")
 	target_vocabs = build_vocab(args.train_target, args.tgt_vocab, mtl=mtl, name ="tgt")
 
