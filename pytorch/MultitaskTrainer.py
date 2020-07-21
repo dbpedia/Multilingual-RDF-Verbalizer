@@ -299,10 +299,10 @@ def train(args):
 	optimizer = torch.optim.Adam(multitask_model.parameters(), lr = learning_rate)
 
 	task_id = 0
-	best_valid_loss = float('inf')
 	print_loss_total = 0  # Reset every print_every
 
 	n_tasks = len(train_loaders)
+	best_valid_loss = [float('inf') for _ in range(n_tasks)]
 
 	for _iter in range(1, args.steps + 1):
 
@@ -319,14 +319,19 @@ def train(args):
 			print("Evaluating...")
 			valid_loss = evaluate(multitask_model, dev_loaders[task_id], criterion, device, task_id=task_id)
 			print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f}')
-			if valid_loss < best_valid_loss:
-				print("The loss decreased... saving checkpoint")
-				best_valid_loss = valid_loss
+			if valid_loss < best_valid_loss[task_id]:
+				print(f'The loss decreased from {best_valid_loss[task_id]:.3f} to {valid_lost:.3f} in the task {task_id}... saving checkpoint')
+				best_valid_loss[task_id] = valid_loss
 				torch.save(multitask_model.state_dict(), args.save_dir + 'model.pt')
 				print("Saved model.pt")
 
-			print("Changing to the next task ...")
-			task_id = (0 if task_id == n_tasks - 1 else task_id + 1)
+			if n_tasks > 1:
+				print("Changing to the next task ...")
+				task_id = (0 if task_id == n_tasks - 1 else task_id + 1)
+
+
+	multitask_model.load_state_dict(torch.load(args.save_dir + 'model.pt'))
+
 
 	print("Evaluating and testing")
 	for index, eval_name in enumerate(args.eval):

@@ -29,8 +29,6 @@ class Decoder(nn.Module):
         self.fc_out = nn.Linear(hid_dim, output_dim)
         
         self.dropout = nn.Dropout(dropout)
-
-        self.softmax = nn.Softmax(dim=1)
         
         self.scale = torch.sqrt(torch.FloatTensor([hid_dim])).to(device)
         
@@ -59,9 +57,5 @@ class Decoder(nn.Module):
         output = self.fc_out(trg)
         
         #output = [batch size, trg len, output dim]
-
-        log_output = self.softmax(output)
-        print(output)
-        print(log_output)
     
         return output, attention
