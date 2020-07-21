@@ -61,7 +61,7 @@ class Decoder(nn.Module):
         #output = [batch size, trg len, output dim]
 
         log_output = self.softmax(output)
-        print(output.size())
-        print(log_output.size())
+        print(output)
+        print(log_output)
     
         return output, attention
