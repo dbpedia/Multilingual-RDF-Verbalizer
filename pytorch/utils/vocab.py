@@ -1,4 +1,20 @@
 from collections import Counter
+import json
+import sys
+
+import argparse
+
+
+parser = argparse.ArgumentParser(description="Getting the embeddings for an specific webnlg dataset")
+parser.add_argument(
+	'-vocab-prefix','--vocab-prefix', type=str, required=False, help='vocabulary prefix')
+parser.add_argument(
+	'-data', '--data', type=str, nargs='*', required=True, help='Path to files')
+parser.add_argument(
+	'-split','--split', action='store_true', required=False, help='Generates a unique vocabulary for all tasks or not')
+parser.add_argument(
+	'-save-dir','--save_dir', type=str, default="", help='Output directory')
+
 
 class Vocab(object):
 
@@ -24,6 +40,16 @@ class Vocab(object):
 			self.vocab[key] = len(self.vocab)
 
 		self.inverse_vocab = {v: k for k, v in self.vocab.items()}
+
+	def load_from_file(self, name):
+		with open(name, "r") as f:
+			self.vocab = json.load(f)
+			self.inverse_vocab = {v: k for k, v in self.vocab.items()}
+
+	def save(self, name):
+		print(f'Saving {name}...')
+		with open(name, 'w') as out:
+			json.dump(self.vocab, out)	
 
 	def stoi(self, key):
 
@@ -55,16 +81,26 @@ class Vocab(object):
 		return self.vocab[word]
 
 
-#my_vocab = Vocab()
-#my_vocab.build_vocab(["../data/ordering/dev.src", "../data/structing/dev.src"])
+if __name__ == "__main__":
+	args = parser.parse_args()
 
-#text = "<sos> <TRIPLE> Abilene_Regional_Airport cityServed Abilene,_Texas </TRIPLE> <TRIPLE> Abilene,_Texas isPartOf Texas </TRIPLE> <eos> <pad> <pad> <pad> <pad>"
-#tokens = text.lower().split()
-#ids = my_vocab.convert_tokens_to_ids(tokens)
-#print(ids)
-			
-			
-	
+	global step
+	vocabs = []
+
+	if args.split is True:
+		for index, f in enumerate(args.data):
+			vocab = Vocab()
+			vocab.build_vocab([f])
+			vocab.save(args.save_dir + args.vocab_prefix + ".vocab." + str(index) + ".json")
+			vocabs.append(vocab)
+	else:
+		vocab = Vocab()
+		vocab.build_vocab(args.data)
+		vocab.save(args.save_dir + args.vocab_prefix + ".vocab.json")
+		vocabs.append(vocab)
+
+	for index, vocab in enumerate(vocabs):
+		print(f'vocabulary size {index+1:d}: {vocab.len():d}')	
 
 
 

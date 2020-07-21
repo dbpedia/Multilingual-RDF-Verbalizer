@@ -82,6 +82,19 @@ parser.add_argument(
 parser.add_argument(
   '-save-dir','--save_dir', type=str, required=True, default="/content/", help='Output directory')
 
+
+parser.add_argument(
+  '-model','--model', type=str, required=False, help='Path for a pre-trained model file (just to perform transfer learning)')
+
+parser.add_argument(
+  '-load-encoder','--load-encoder', action='store_true', required=False, help='Recover the encoder part (just in case a model is passed as parameter')
+
+parser.add_argument(
+  '-src-vocab','--src-vocab', type=str, nargs='*', required=False, help='source vocabulary (ies)')
+parser.add_argument(
+  '-tgt-vocab','--tgt-vocab', type=str, nargs='*', required=False, help='Target vocabulary (ies)')
+
+
 # inference parameters
 
 def get_args():

@@ -15,7 +15,35 @@ import torch.nn as nn
 import math
 import time
 
-def build_vocab(source_files, target_files, mtl=False):
+def build_vocab(files, vocabulary=None, mtl=False, name="src"):
+	vocabs = []
+
+	if vocabulary is not None:
+		for v in vocabulary:
+			print(f'Loading from {v}')
+			vocab = Vocab()
+			vocab.load_from_file(v)
+			vocabs.append(vocab)
+	else:
+		if mtl is True:
+			for index, f in enumerate(files):
+				vocab = Vocab()
+				vocab.build_vocab([f])
+				vocab.save(name + ".vocab." + str(index) + ".json")
+				vocabs.append(vocab)
+		else:
+			vocab = Vocab()
+			vocab.build_vocab(files)
+			vocab.save(name + ".vocab.json")
+			vocabs.append(target_vocab)
+
+	for index, vocab in enumerate(vocabs):
+		print(f'vocabulary size {index+1:d}: {vocab.len():d}')
+
+	return vocabs
+
+
+def _build_vocab(source_files, target_files, mtl=False):
 	source_vocabs = []
 	target_vocabs = []
 
@@ -61,7 +89,16 @@ def build_dataset(source_files, target_files, batch_size, shuffle=False, \
 		loaders.append(loader)
 	return loaders
 
-def build_model(args, source_vocabs, target_vocabs, device, max_length):
+def load_model(args, source_vocabs, target_vocabs, device, max_length):
+	if args.load_encoder:
+		mtl = build_model(args, source_vocabs, target_vocabs, device, max_length)
+		mtl.load_state_dict(torch.load(args.model))
+		print("Building an model using a pre-trained encoder ... ")
+		current = build_model(args, source_vocabs, target_vocabs, device, max_length, mtl.encoder)
+		return current
+
+
+def build_model(args, source_vocabs, target_vocabs, device, max_length , enc=None):
 
 	'''
 	HID_DIM = 256
@@ -75,16 +112,17 @@ def build_model(args, source_vocabs, target_vocabs, device, max_length):
 	DEC_DROPOUT = 0.1
 	'''
 
-	input_dim = source_vocabs[0].len()
-	enc = Encoder(input_dim, 
+	if enc is None:
+		input_dim = source_vocabs[0].len()
+		enc = Encoder(input_dim, 
 			args.hidden_size, 
 			args.encoder_layer, 
 			args.encoder_head, 
 			args.encoder_ff_size, 
 			args.encoder_dropout, 
 			device,
-      max_length=max_length).to(device)
-	enc.apply(initialize_weights);
+      		max_length=max_length).to(device)
+		enc.apply(initialize_weights);
 
 	decs = []
 
@@ -230,7 +268,12 @@ def train(args):
 		print("Error: Number of inputs in dev are not the same")
 		return
 
-	source_vocabs, target_vocabs = build_vocab(args.train_source, args.train_target, mtl=mtl)
+	print("Building Encoder vocabulary")
+	source_vocabs = build_vocab(args.train_source, args.src_vocab, mtl=mtl)
+	print("Building Decoder vocabulary")
+	target_vocabs = build_vocab(args.train_target, args.tgt_vocab, mtl=mtl, name ="tgt")
+
+	# source_vocabs, target_vocabs = build_vocab(args.train_source, args.train_target, mtl=mtl)
 
 	print("Building training set and dataloaders")
 	train_loaders = build_dataset(args.train_source, args.train_target, batch_size, \
@@ -244,17 +287,16 @@ def train(args):
 	for dev_loader in dev_loaders:
 		print(f'Dev - {len(dev_loader):d} batches with size: {batch_size:d}')
 
-
-	print("Building model")
-	multitask_model = build_model(args, source_vocabs, target_vocabs, device, max_length)
-	print(f'The model has {count_parameters(multitask_model):,} trainable parameters')
+	if args.model is not None:
+		print("Loading the encoder from an external model...")
+		multitask_model = load_model(args, source_vocabs, target_vocabs, device, max_length)
+	else:
+		print("Building model")
+		multitask_model = build_model(args, source_vocabs, target_vocabs, device, max_length)
+		print(f'The model has {count_parameters(multitask_model):,} trainable parameters')
 
 	# Default optimizer
 	optimizer = torch.optim.Adam(multitask_model.parameters(), lr = learning_rate)
-
-	#steps = 1000
-	#print_every = 5
-	#evaluation_step = 35
 
 	task_id = 0
 	best_valid_loss = float('inf')
