@@ -269,9 +269,9 @@ def train(args):
 		return
 
 	print("Building Encoder vocabulary")
-	source_vocabs = build_vocab(args.train_source, args.src_vocab, args.save_dir)
+	source_vocabs = build_vocab(args.train_source, args.src_vocab, save_dir=args.save_dir)
 	print("Building Decoder vocabulary")
-	target_vocabs = build_vocab(args.train_target, args.tgt_vocab, mtl=mtl, name ="tgt", args.save_dir)
+	target_vocabs = build_vocab(args.train_target, args.tgt_vocab, mtl=mtl, name ="tgt", save_dir=args.save_dir)
 
 	# source_vocabs, target_vocabs = build_vocab(args.train_source, args.train_target, mtl=mtl)
 
