@@ -23,6 +23,8 @@ def set_seed(seed):
 	torch.backends.cudnn.deterministic = True
 
 def count_parameters(model):
+    for p in model.parameters():
+        print(p)
     return sum(p.numel() for p in model.parameters() if p.requires_grad)
 
 
