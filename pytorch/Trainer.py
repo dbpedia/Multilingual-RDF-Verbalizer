@@ -244,9 +244,9 @@ def train(args):
 
 	print("Building model")
 	model = build_model(args, source_vocabs[0], target_vocabs[0], device, max_length)
-	print(f'The model has {count_parameters(model):,} trainable parameters')
-	print(f'The model has {count_parameters(model.encoder):,} trainable parameters')
-	print(f'The model has {count_parameters(model.decoder):,} trainable parameters')
+	print(f'The Transformer has {count_parameters(model):,} trainable parameters')
+	print(f'The Encoder has {count_parameters(model.encoder):,} trainable parameters')
+	print(f'The Decoder has {count_parameters(model.decoder):,} trainable parameters')
 
 	# Default optimizer
 	optimizer = torch.optim.Adam(model.parameters(), lr = learning_rate)

@@ -293,10 +293,11 @@ def train(args):
 	else:
 		print("Building model")
 		multitask_model = build_model(args, source_vocabs, target_vocabs, device, max_length)
-		print(f'The model has {count_parameters(multitask_model):,} trainable parameters')
-		print(f'The model has {count_parameters(multitask_model.encoder):,} trainable parameters')
-		for decoder in multitask_model.decoders:
-			print(f'The model has {count_parameters(decoder):,} trainable parameters')
+
+	print(f'The Transformer has {count_parameters(multitask_model):,} trainable parameters')
+	print(f'The Encoder has {count_parameters(multitask_model.encoder):,} trainable parameters')
+	for index, decoder in enumerate(multitask_model.decoders):
+		print(f'The Decoder {index+1} has {count_parameters(decoder):,} trainable parameters')
 
 	# Default optimizer
 	optimizer = torch.optim.Adam(multitask_model.parameters(), lr = learning_rate)
@@ -323,7 +324,7 @@ def train(args):
 			valid_loss = evaluate(multitask_model, dev_loaders[task_id], criterion, device, task_id=task_id)
 			print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f}')
 			if valid_loss < best_valid_loss[task_id]:
-				print(f'The loss decreased from {best_valid_loss[task_id]:.3f} to {valid_lost:.3f} in the task {task_id}... saving checkpoint')
+				print(f'The loss decreased from {best_valid_loss[task_id]:.3f} to {valid_loss:.3f} in the task {task_id}... saving checkpoint')
 				best_valid_loss[task_id] = valid_loss
 				torch.save(multitask_model.state_dict(), args.save_dir + 'model.pt')
 				print("Saved model.pt")
