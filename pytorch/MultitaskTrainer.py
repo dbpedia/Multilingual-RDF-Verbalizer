@@ -294,6 +294,9 @@ def train(args):
 		print("Building model")
 		multitask_model = build_model(args, source_vocabs, target_vocabs, device, max_length)
 		print(f'The model has {count_parameters(multitask_model):,} trainable parameters')
+		print(f'The model has {count_parameters(multitask_model.encoder):,} trainable parameters')
+		for decoder in multitask_model.decoders:
+			print(f'The model has {count_parameters(decoder):,} trainable parameters')
 
 	# Default optimizer
 	optimizer = torch.optim.Adam(multitask_model.parameters(), lr = learning_rate)
