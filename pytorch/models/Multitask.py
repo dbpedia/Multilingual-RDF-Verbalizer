@@ -13,7 +13,7 @@ class Multitask(nn.Module):
         super().__init__()
         
         self.encoder = encoder
-        self.decoders = decoders
+        self.decoders = nn.ModuleList(decoders)
         self.src_pad_idx = src_pad_idx
         self.trg_pad_idx = trg_pad_idx
         self.device = device
