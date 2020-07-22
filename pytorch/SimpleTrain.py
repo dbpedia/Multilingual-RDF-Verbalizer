@@ -1,6 +1,6 @@
 
 from arguments import get_args
-from MultitaskTrainer import train
+from Trainer import train
 import numpy as np
 import random
 

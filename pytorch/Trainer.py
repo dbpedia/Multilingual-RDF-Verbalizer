@@ -271,7 +271,7 @@ def train(args):
 			valid_loss = evaluate(model, dev_loaders[task_id], criterion, device, task_id=task_id)
 			print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f}')
 			if valid_loss < best_valid_loss[task_id]:
-				print(f'The loss decreased from {best_valid_loss[task_id]:.3f} to {valid_lost:.3f} in the task {task_id}... saving checkpoint')
+				print(f'The loss decreased from {best_valid_loss[task_id]:.3f} to {valid_loss:.3f} in the task {task_id}... saving checkpoint')
 				best_valid_loss[task_id] = valid_loss
 				torch.save(model.state_dict(), args.save_dir + 'model.pt')
 				print("Saved model.pt")
