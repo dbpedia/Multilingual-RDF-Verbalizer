@@ -15,7 +15,7 @@ import torch.nn as nn
 import math
 import time
 
-def build_vocab(files, vocabulary=None, mtl=False, name="src"):
+def build_vocab(files, vocabulary=None, mtl=False, name="src", save_dir="/"):
 	vocabs = []
 
 	if vocabulary is not None:
@@ -29,12 +29,12 @@ def build_vocab(files, vocabulary=None, mtl=False, name="src"):
 			for index, f in enumerate(files):
 				vocab = Vocab()
 				vocab.build_vocab([f])
-				vocab.save(name + ".vocab." + str(index) + ".json")
+				vocab.save(save_dir + name + ".vocab." + str(index) + ".json")
 				vocabs.append(vocab)
 		else:
 			vocab = Vocab()
 			vocab.build_vocab(files)
-			vocab.save(name + ".vocab.json")
+			vocab.save(save_dir + name + ".vocab.json")
 			vocabs.append(vocab)
 
 	for index, vocab in enumerate(vocabs):
@@ -269,9 +269,9 @@ def train(args):
 		return
 
 	print("Building Encoder vocabulary")
-	source_vocabs = build_vocab(args.train_source, args.src_vocab)
+	source_vocabs = build_vocab(args.train_source, args.src_vocab, args.save_dir)
 	print("Building Decoder vocabulary")
-	target_vocabs = build_vocab(args.train_target, args.tgt_vocab, mtl=mtl, name ="tgt")
+	target_vocabs = build_vocab(args.train_target, args.tgt_vocab, mtl=mtl, name ="tgt", args.save_dir)
 
 	# source_vocabs, target_vocabs = build_vocab(args.train_source, args.train_target, mtl=mtl)
 
