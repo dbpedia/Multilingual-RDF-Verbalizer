@@ -244,10 +244,10 @@ def train(args):
 
 	print("Building model")
 	model = build_model(args, source_vocabs[0], target_vocabs[0], device, max_length)
-	print(f'The model has {count_parameters(multitask_model):,} trainable parameters')
+	print(f'The model has {count_parameters(model):,} trainable parameters')
 
 	# Default optimizer
-	optimizer = torch.optim.Adam(multitask_model.parameters(), lr = learning_rate)
+	optimizer = torch.optim.Adam(model.parameters(), lr = learning_rate)
 
 	task_id = 0
 	print_loss_total = 0  # Reset every print_every
