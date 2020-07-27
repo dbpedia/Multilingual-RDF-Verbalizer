@@ -5,7 +5,7 @@ import math
 
 class PositionalEncoding(nn.Module):
 
-    def __init__(self, hid_dim, max_length=100):
+    def __init__(self, hid_dim, device, max_length=100):
         super().__init__()
 
         # Compute the positional encodings once in log space.
@@ -17,7 +17,7 @@ class PositionalEncoding(nn.Module):
         self.pe[:, 0::2] = torch.sin(self.position * self.div_term)
         self.pe[:, 1::2] = torch.cos(self.position * self.div_term)
 
-        self.pe = self.pe.unsqueeze(0)
+        self.pe = self.pe.unsqueeze(0).to(device)
 
         #self.register_buffer('pe', pe)
 
