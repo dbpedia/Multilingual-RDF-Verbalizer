@@ -193,7 +193,7 @@ def train_step(model, loader, loss_compute, clip, device, task_id = 0):
 	#output = [batch size * tgt len - 1, output dim]
 	#tgt = [batch size * tgt len - 1]
 
-    loss = loss_compute(output, tgt, 1000)
+	loss = loss_compute(output, tgt, 1000)
 
 	return loss / 1000
 
@@ -246,9 +246,9 @@ def evaluate(model, loader, loss_compute, device, task_id=0):
 			#output = [batch size * tgt len - 1, output dim]
 			#tgt = [batch size * tgt len - 1]
 
-            loss = loss_compute(output, tgt, 1000)
-            epoch_loss += loss
-            total_tokens += 1000
+			loss = loss_compute(output, tgt, 1000)
+			epoch_loss += loss
+			total_tokens += 1000
 
 			#loss = criterion(output, tgt)
 			#epoch_loss += loss.item()
@@ -355,13 +355,13 @@ def train(args):
 
 	# Defining CrossEntropyLoss as default
 	#criterion = nn.CrossEntropyLoss(ignore_index = constants.PAD_IDX)
-    criterions = [LabelSmoothing(size=target_vocab.len(), padding_idx=constants.PAD_IDX, smoothing=0.1) \
+	criterions = [LabelSmoothing(size=target_vocab.len(), padding_idx=constants.PAD_IDX, smoothing=0.1) \
                                         for target_vocab in target_vocabs]
 	clipping = args.gradient_clipping
 
 	# Default optimizer
 	optimizer = torch.optim.Adam(multitask_model.parameters(), lr = learning_rate, betas=(0.9, 0.98), eps=1e-09)
-    model_opt = NoamOpt(args.hidden_size, 1, args.warmup_steps, optimizer)
+	model_opt = NoamOpt(args.hidden_size, 1, args.warmup_steps, optimizer)
 
 	task_id = 0
 	print_loss_total = 0  # Reset every print_every
