@@ -182,7 +182,6 @@ def train_step(model, loader, loss_compute, clip, device, task_id = 0):
 	(src, tgt) = next(iter(loader))
 	src = src.to(device)
 	tgt = tgt.to(device)
-	optimizer.zero_grad()
 
 	output, _ = model(src, tgt[:,:-1], task_id=task_id)        
 	#output = [batch size, tgt len - 1, output dim]
