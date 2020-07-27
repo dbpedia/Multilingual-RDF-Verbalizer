@@ -11,9 +11,9 @@ class MultiHeadAttentionLayer(nn.Module):
         self.n_heads = n_heads
         self.head_dim = hid_dim // n_heads
         
-        self.fc_q = nn.Linear(hid_dim, hid_dim)
-        self.fc_k = nn.Linear(hid_dim, hid_dim)
-        self.fc_v = nn.Linear(hid_dim, hid_dim)
+        self.fc_q = nn.Linear(hid_dim, hid_dim, bias=False)
+        self.fc_k = nn.Linear(hid_dim, hid_dim, bias=False)
+        self.fc_v = nn.Linear(hid_dim, hid_dim, bias=False)
         
         self.fc_o = nn.Linear(hid_dim, hid_dim)
         

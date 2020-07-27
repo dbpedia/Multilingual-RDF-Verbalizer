@@ -8,3 +8,5 @@ EOS_STR = "<eos>"
 SOS_STR = "<sos>"
 PAD_STR = "<pad>"
 UNK_STR = "<unk>"
+
+BPE_TOKEN = "▁"

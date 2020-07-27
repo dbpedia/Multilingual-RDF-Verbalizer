@@ -1,10 +1,10 @@
 import json
 
-gold_path = "data/ordering/dev.json"
+gold_path = "data/structing/test.json"
 gold = json.load(open(gold_path))
 
 y_pred = []
-hyp_path = "deepnlg/all/dev.eval.0.out"
+hyp_path = "outputs/tr.structuring/test0.out"
 with open(hyp_path) as f:
 	y_pred = f.read().split('\n')[:-1]
 
