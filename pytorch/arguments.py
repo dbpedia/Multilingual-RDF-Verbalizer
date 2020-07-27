@@ -26,6 +26,8 @@ parser.add_argument(
 parser.add_argument(
   '-print-every', '--print_every', type=int, required=True, help='Print the loss/ppl every training steps')
 parser.add_argument(
+  '-warmup-steps', '--warmup-steps', type=int, required=True, default=4000, help='warmup steps for transformer model')
+parser.add_argument(
   '-eval-steps', '--eval_steps', type=int, required=True, help='Evaluate every x steps. After that, change the task (in mtl setting)')
 
 #parser.add_argument(

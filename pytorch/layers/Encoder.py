@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 from layers.EncoderLayer import EncoderLayer
+from layers.PositionalEncoding import PositionalEncoding
 
 class Encoder(nn.Module):
     def __init__(self, 
@@ -17,7 +18,7 @@ class Encoder(nn.Module):
         self.device = device
         
         self.tok_embedding = nn.Embedding(input_dim, hid_dim)
-        self.pos_embedding = nn.Embedding(max_length, hid_dim)
+        self.pos_embedding = PositionalEncoding(max_length, hid_dim)
         
         self.layers = nn.ModuleList([EncoderLayer(hid_dim, 
                                                   n_heads, 
@@ -42,7 +43,8 @@ class Encoder(nn.Module):
         
         #pos = [batch size, src len]
         
-        src = self.dropout((self.tok_embedding(src) * self.scale) + self.pos_embedding(pos))
+        #src = self.dropout((self.tok_embedding(src) * self.scale) + self.pos_embedding(pos))
+        src = self.dropout(self.pos_embedding((self.tok_embedding(src) * self.scale)))
         
         #src = [batch size, src len, hid dim]
         

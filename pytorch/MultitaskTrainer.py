@@ -2,6 +2,8 @@
 from utils.vocab import Vocab
 from utils.util import epoch_time, initialize_weights, set_seed, count_parameters
 import utils.constants as constants
+from utils.loss import LabelSmoothing, LossCompute
+from utils.optimizer import NoamOpt
 
 from Dataloader import ParallelDataset, get_dataloader
 
@@ -145,7 +147,7 @@ def build_model(args, source_vocabs, target_vocabs, device, max_length , enc=Non
 	return model
 
 
-def train_step(model, loader, optimizer, criterion, clip, device, task_id = 0):
+def _train_step(model, loader, optimizer, criterion, clip, device, task_id = 0):
 
 	model.train()
 
@@ -173,7 +175,31 @@ def train_step(model, loader, optimizer, criterion, clip, device, task_id = 0):
 	return loss.item()
 
 
-def evaluate(model, loader, criterion, device, task_id=0):
+def train_step(model, loader, loss_compute, clip, device, task_id = 0):
+
+	model.train()
+
+	(src, tgt) = next(iter(loader))
+	src = src.to(device)
+	tgt = tgt.to(device)
+	optimizer.zero_grad()
+
+	output, _ = model(src, tgt[:,:-1], task_id=task_id)        
+	#output = [batch size, tgt len - 1, output dim]
+	#tgt = [batch size, tgt len]
+	output_dim = output.shape[-1]
+	output = output.contiguous().view(-1, output_dim)
+	tgt = tgt[:,1:].contiguous().view(-1)
+	#output = [batch size * tgt len - 1, output dim]
+	#tgt = [batch size * tgt len - 1]
+
+    loss = loss_compute(output, tgt, 1000)
+
+	return loss / 1000
+
+
+
+def _evaluate(model, loader, criterion, device, task_id=0):
     
 	model.eval()  
 	epoch_loss = 0
@@ -197,6 +223,37 @@ def evaluate(model, loader, criterion, device, task_id=0):
 			epoch_loss += loss.item()
 
 	return epoch_loss / len(loader)
+
+
+def evaluate(model, loader, loss_compute, device, task_id=0):
+    
+	model.eval()  
+	epoch_loss = 0
+    total_tokens = 0
+	with torch.no_grad():
+
+		for i, (src, tgt) in enumerate(loader):
+
+			src = src.to(device)
+			tgt = tgt.to(device)
+			output, _ = model(src, tgt[:,:-1], task_id=task_id)
+			#output = [batch size, tgt len - 1, output dim]
+			#tgt = [batch size, tgt len]
+			output_dim = output.shape[-1]
+			output = output.contiguous().view(-1, output_dim)
+			tgt = tgt[:,1:].contiguous().view(-1)
+
+			#output = [batch size * tgt len - 1, output dim]
+			#tgt = [batch size * tgt len - 1]
+
+            loss = loss_compute(output, tgt, 1000)
+            epoch_loss += loss
+            total_tokens += 1000
+
+			#loss = criterion(output, tgt)
+			#epoch_loss += loss.item()
+
+	return epoch_loss / total_tokens
 
 
 
@@ -251,10 +308,6 @@ def train(args):
 	mtl = args.mtl
 	learning_rate = args.learning_rate
 
-	# Defining CrossEntropyLoss as default
-	criterion = nn.CrossEntropyLoss(ignore_index = constants.PAD_IDX)
-	clipping = args.gradient_clipping
-
 	#train_source_files = ["data/ordering/train.src", "data/structing/train.src", "data/lexicalization/train.src"]
 	#train_target_files = ["data/ordering/train.trg", "data/structing/train.trg", "data/lexicalization/train.trg"]
 	#dev_source_files = ["data/ordering/dev.src", "data/structing/dev.src", "data/lexicalization/dev.src"]
@@ -299,8 +352,16 @@ def train(args):
 	for index, decoder in enumerate(multitask_model.decoders):
 		print(f'The Decoder {index+1} has {count_parameters(decoder):,} trainable parameters')
 
+
+	# Defining CrossEntropyLoss as default
+	#criterion = nn.CrossEntropyLoss(ignore_index = constants.PAD_IDX)
+    criterions = [LabelSmoothing(size=target_vocab.len(), padding_idx=constants.PAD_IDX, smoothing=0.1) \
+                                        for target_vocab in target_vocabs]
+	clipping = args.gradient_clipping
+
 	# Default optimizer
-	optimizer = torch.optim.Adam(multitask_model.parameters(), lr = learning_rate)
+	optimizer = torch.optim.Adam(multitask_model.parameters(), lr = learning_rate, betas=(0.9, 0.98), eps=1e-09)
+    model_opt = NoamOpt(args.hidden_size, 1, args.warmup_steps, optimizer)
 
 	task_id = 0
 	print_loss_total = 0  # Reset every print_every
@@ -310,7 +371,10 @@ def train(args):
 
 	for _iter in range(1, args.steps + 1):
 
-		train_loss = train_step(multitask_model, train_loaders[task_id], optimizer, criterion, clipping, device, task_id = task_id)
+		#train_loss = _train_step(multitask_model, train_loaders[task_id], optimizer, criterion, clipping, device, task_id = task_id)
+        train_loss = train_step(multitask_model, train_loaders[task_id], \
+                       LossCompute(criterions[task_id], model_opt), clipping, device, task_id = task_id)
+        
 		print_loss_total += train_loss
 
 		if _iter % args.print_every == 0:
@@ -321,7 +385,9 @@ def train(args):
 
 		if _iter % args.eval_steps == 0:
 			print("Evaluating...")
-			valid_loss = evaluate(multitask_model, dev_loaders[task_id], criterion, device, task_id=task_id)
+			#valid_loss = _evaluate(multitask_model, dev_loaders[task_id], criterion, device, task_id=task_id)
+			valid_loss = evaluate(multitask_model, dev_loaders[task_id], LossCompute(criterions[task_id], None), \
+                            device, task_id=task_id)
 			print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f}')
 			if valid_loss < best_valid_loss[task_id]:
 				print(f'The loss decreased from {best_valid_loss[task_id]:.3f} to {valid_loss:.3f} in the task {task_id}... saving checkpoint')

@@ -1,6 +1,8 @@
 from layers.DecoderLayer import DecoderLayer
 import torch
 import torch.nn as nn
+from layers.PositionalEncoding import PositionalEncoding
+import torch.nn.functional as F
 
 class Decoder(nn.Module):
     def __init__(self, 
@@ -17,7 +19,7 @@ class Decoder(nn.Module):
         self.device = device
         
         self.tok_embedding = nn.Embedding(output_dim, hid_dim)
-        self.pos_embedding = nn.Embedding(max_length, hid_dim)
+        self.pos_embedding = PositionalEncoding(max_length, hid_dim)
         
         self.layers = nn.ModuleList([DecoderLayer(hid_dim, 
                                                   n_heads, 
@@ -44,7 +46,8 @@ class Decoder(nn.Module):
         
         pos = torch.arange(0, trg_len).unsqueeze(0).repeat(batch_size, 1).to(self.device)
 
-        trg = self.dropout((self.tok_embedding(trg) * self.scale) + self.pos_embedding(pos))
+        #trg = self.dropout((self.tok_embedding(trg) * self.scale) + self.pos_embedding(pos))
+        trg = self.dropout(self.pos_embedding((self.tok_embedding(trg) * self.scale)))
                 
         #trg = [batch size, trg len, hid dim]
         
@@ -58,4 +61,4 @@ class Decoder(nn.Module):
         
         #output = [batch size, trg len, output dim]
     
-        return output, attention
+        return F.log_softmax(output), attention
