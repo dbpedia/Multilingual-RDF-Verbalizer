@@ -61,7 +61,5 @@ class Decoder(nn.Module):
         output = self.fc_out(trg)
         
         #output = [batch size, trg len, output dim]
-        print(output.size())
-        sf = F.softmax(output, dim=-1),
-        print(sf.size())
+
         return F.log_softmax(output, dim=-1), attention
