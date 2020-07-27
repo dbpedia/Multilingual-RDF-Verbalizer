@@ -373,7 +373,7 @@ def train(args):
 		#train_loss = _train_step(multitask_model, train_loaders[task_id], optimizer, criterion, clipping, device, task_id = task_id)
 		train_loss = train_step(multitask_model, train_loaders[task_id], \
                        LossCompute(criterions[task_id], model_opt), clipping, device, task_id = task_id)
-		break
+
 		print_loss_total += train_loss
 
 		if _iter % args.print_every == 0:
