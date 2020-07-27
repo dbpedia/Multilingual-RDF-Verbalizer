@@ -9,12 +9,12 @@ class PositionalEncoding(nn.Module):
 
         # Compute the positional encodings once in log space.
         self.pe = torch.zeros(max_length, hid_dim)
-        position = torch.arange(0, max_length).unsqueeze(1)
+        self.position = torch.arange(0, max_length).unsqueeze(1)
 
-        div_term = torch.exp(torch.arange(0, hid_dim, 2) *
+        self.div_term = torch.exp(torch.arange(0, hid_dim, 2) *
                              -(math.log(10000.0) / hid_dim))
-        self.pe[:, 0::2] = torch.sin(position * div_term)
-        self.pe[:, 1::2] = torch.cos(position * div_term)
+        self.pe[:, 0::2] = torch.sin(self.position * self.div_term)
+        self.pe[:, 1::2] = torch.cos(self.position * self.div_term)
 
         self.pe = self.pe.unsqueeze(0)
 
