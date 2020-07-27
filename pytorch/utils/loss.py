@@ -36,6 +36,7 @@ class LossCompute:
     def __call__(self, x, y, norm):
         loss = self.criterion(x.contiguous().view(-1, x.size(-1)), 
                               y.contiguous().view(-1)) / norm
+        print(loss)
         loss.backward()
         if self.opt is not None:
             self.opt.step()
