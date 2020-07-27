@@ -1,0 +1,644 @@
+cityserved ispartof
+location runwaylength
+location runwaylength
+location leadername
+elevationabovethesealevel_(in_feet) location
+operatingorganisation battles
+operatingorganisation battles
+location ispartof
+runwaylength 1st_runway_surfacetype
+operatingorganisation headquarter
+location ispartof
+elevationabovethesealevel_(in_metres) operatingorganisation
+elevationabovethesealevel_(in_metres) 4th_runway_surfacetype
+location capital
+elevationabovethesealevel_(in_metres) cityserved
+location country
+elevationabovethesealevel_(in_metres) operatingorganisation
+ispartof cityserved
+2nd_runway_surfacetype order
+3rd_runway_surfacetype class
+location runwaylength
+cityserved location
+cityserved runwaylength
+location ispartof
+was_a_crew_member_of dateofretirement
+nationality birthplace
+status occupation
+was_a_crew_member_of operator
+occupation was_a_crew_member_of
+location ethnicgroup
+floorcount location
+location leadertitle
+location leadername
+floorcount location
+architect location
+location owner
+location owner
+floorcount tenant
+height currenttenants
+architecturalstyle location
+country language
+buildingstartdate address
+location owner
+architect tenant
+region country
+capital country
+location referencenumber_in_the_national_register_of_historic_places
+location referencenumber_in_the_national_register_of_historic_places
+location added_to_the_national_register_of_historic_places
+yearofconstruction location
+location leadername
+creator creator
+creator creator
+alternativename creator
+starring broadcastedby
+birthplace starring
+creator nationality
+alternativename creator
+creator creator
+creator creator
+ingredient country
+ingredient region
+ingredient region
+region country
+ingredient region
+ingredient country
+country capital
+ingredient country
+ingredient country
+ingredient region
+country mainingredients
+ingredient country
+country leadername
+course ingredient
+ingredient alternativename
+ingredient country
+country language
+course dishvariation
+creator mainingredients
+dishvariation ingredient
+genus ingredient
+ingredient country
+country ethnicgroup
+region language
+region leadername
+country leadername
+similardish ingredient
+ingredient mainingredients
+mainingredients ingredient
+division ingredient
+mainingredients ingredient order
+ingredient course
+course dishvariation
+course dishvariation
+dishvariation ingredient
+inaugurationdate location
+material dedicatedto
+material nativename
+material dedicatedto
+league champions
+ground league
+ground leader
+manager club
+numberofmembers league
+manager club
+manager club
+numberofmembers ground
+ground numberofmembers
+manager club
+league ground
+league country
+manager club
+owner numberofmembers
+ground leader
+numberofmembers season
+ground location
+fullname numberofmembers
+ground location
+fullname numberofmembers
+ground country
+manager club
+director campus
+outlookranking officialschoolcolour
+sportsoffered sportsgoverningbody sportsgoverningbody sportsgoverningbody
+affiliation headquarters
+state has_to_its_west
+author precededby
+author mediatype
+mediatype author
+abbreviation coden_code
+country leadername
+author isbn_number
+mediatype isbn_number
+mediatype isbn_number
+mediatype numberofpages
+oclc_number isbn_number
+country ethnicgroup
+publisher country
+author oclc_number
+mediatype isbn_number
+numberofpages isbn_number
+precededby country
+followedby language
+precededby precededby
+founder publisher
+abbreviation coden_code
+affiliation publisher
+author isbn_number
+mediatype isbn_number
+numberofpages isbn_number
+academicdiscipline family
+country language
+cityserved ispartof country
+cityserved runwaylength
+location runwayname runwaylength
+location icao_location_identifier operatingorganisation
+operatingorganisation location runwaylength
+operatingorganisation battles battles
+operatingorganisation battles battles
+operatingorganisation battles battles
+cityserved 1st_runway_surfacetype runwaylength
+location elevationabovethesealevel_(in_metres) runwaylength
+cityserved elevationabovethesealevel_(in_metres) runwaylength
+location country largestcity
+location country runwaylength
+location country runwayname
+owner operatingorganisation elevationabovethesealevel_(in_metres)
+owner operatingorganisation cityserved
+ispartof cityserved
+location ispartof country
+3rd_runway_surfacetype division order
+location elevationabovethesealevel_(in_metres) runwaylength
+cityserved country leadername
+runwayname location country
+leadername country cityserved
+order class 2nd_runway_surfacetype
+was_a_crew_member_of operator commander
+deathplace mainingredients
+alternativenames was_a_crew_member_of almamater
+birthplace was_a_crew_member_of timeinspace
+awards higher
+was_selected_by_nasa deathdate deathplace
+status birthplace birthdate
+was_a_crew_member_of birthplace birthdate
+location capital leadername
+location leadername ethnicgroup
+location leadername ethnicgroup
+location country leadername
+ispartof ispartof location
+location country leadername
+architect completiondate location
+architect completiondate location
+location country owner
+architect location tenant
+architect completiondate owner
+height floorarea currenttenants
+location architecturalstyle completiondate
+address floorcount floorarea inaugurationdate
+location location country
+location ispartof owner
+owner location chancellor
+location country currenttenants
+location buildingstartdate owner
+region country bedcount
+state country leadername
+yearofconstruction location added_to_the_national_register_of_historic_places
+location added_to_the_national_register_of_historic_places referencenumber_in_the_national_register_of_historic_places
+location added_to_the_national_register_of_historic_places referencenumber_in_the_national_register_of_historic_places
+location country ispartof
+leadername leadername country
+creator creator nationality
+keyperson locationcity broadcastedby
+starring broadcastedby firstaired
+creator creator series
+fullname creator creator
+alternativename creator creator
+alternativename creator creator
+alternativename creator creator
+alternativename country ingredient
+ingredient region country
+leadername leadername country
+region country leadername
+country leadername language
+region country ingredient
+region country ingredient
+region country ingredient
+ingredient region country
+mainingredients country region
+region country mainingredients
+country mainingredients ingredient
+country ethnicgroup capital
+country leadername capital
+country leadername ethnicgroup
+dishvariation dishvariation country ingredient
+ingredient region country
+ingredient region country
+dishvariation course ingredient
+dishvariation course ingredient
+ingredient country region
+country leadername leadername
+dishvariation protein carbohydrate
+country currency leadername
+ingredient region country
+region country leadername
+country mainingredients
+demonym leadername country
+leadername leadername country
+region mainingredients
+country mainingredients ingredient
+ingredient course country
+ingredient region country
+genus family ingredient
+dishvariation course ingredient
+country leadername capital
+region country ethnicgroup
+ethnicgroup country region
+country leadername language
+location has_to_its_west has_to_its_southwest
+location country leader
+designer dedicatedto location
+designer location leadername
+location nativename designer
+numberofmembers ground league
+manager club club
+numberofmembers league season
+location leader leader
+manager club club
+manager club club
+manager club club
+fullname numberofmembers ground
+manager club club
+fullname numberofmembers ground
+numberofmembers league ground
+numberofmembers league season
+ground league champions
+fullname numberofmembers season
+manager club club
+ground league champions
+league country champions
+ground league champions
+numberofmembers league champions
+ground demonym leader
+location ground mayor
+country dean numberofstudents
+city country academicstaffsize motto
+city country president
+established sportsgoverningbody affiliation
+country largestcity river
+country leadertitle leadername
+latinname country latinname
+established numberofstudents academicstaffsize
+mediatype author isbn_number
+birthplace author precededby
+author mediatype numberofpages
+mediatype author isbn_number
+mediatype numberofpages author
+abbreviation academicdiscipline issn_number
+abbreviation academicdiscipline issn_number
+leadername country publisher
+publisher editor residence
+abbreviation editor coden_code
+mediatype oclc_number isbn_number
+language spokenin
+publisher country ethnicgroup
+publisher country leadername
+mediatype oclc_number libraryofcongressclassification
+mediatype numberofpages isbn_number
+author mediatype oclc_number
+author mediatype isbn_number
+precededby country precededby
+abbreviation lccn_number issn_number
+abbreviation academicdiscipline issn_number
+abbreviation lccn_number issn_number
+abbreviation academicdiscipline issn_number
+author mediatype oclc_number
+mediatype author isbn_number
+abbreviation academicdiscipline issn_number
+abbreviation firstpublicationyear issn_number
+founder publisher sportsgoverningbody
+leadername country publisher
+country leadername ethnicgroup
+language country ethnicgroup
+cityserved ispartof ispartof country runwaylength
+location operatingorganisation locationcity country
+location operatingorganisation runwayname runwaylength
+location ispartof elevationabovethesealevel_(in_metres) ispartof
+ispartof ispartof ispartof location leadername
+operatingorganisation battles attackaircraft aircraftfighter
+operatingorganisation battles attackaircraft aircraftfighter
+operatingorganisation battles attackaircraft aircraftfighter
+operatingorganisation battles attackaircraft aircraftfighter
+location operatingorganisation completiondate leadertitle
+cityserved location elevationabovethesealevel_(in_metres) runwaylength
+cityserved elevationabovethesealevel_(in_metres) runwayname runwaylength
+location capital demonym language
+location country demonym language
+location country demonym language
+location country capital largestcity
+location ispartof country elevationabovethesealevel_(in_metres)
+cityserved country leadername
+cityserved location elevationabovethesealevel_(in_metres) runwaylength
+cityserved location ispartof ispartof
+3rd_runway_surfacetype order order class
+elevationabovethesealevel_(in_metres) 3rd_runway_surfacetype runwayname runwaylength
+ispartof country location runwaylength
+location operatingorganisation locationcity country
+runwaylength location ispartof country
+2nd_runway_surfacetype division order class
+nationality was_a_crew_member_of operator commander
+birthplace birthdate almamater dateofretirement
+birthplace occupation deathplace
+birthplace occupation was_a_crew_member_of operator
+was_a_crew_member_of operator commander backup_pilot
+nationality birthplace ispartof leadername
+birthplace birthdate almamater deathplace
+almamater occupation deathdate deathplace
+almamater affiliations deathplace ispartof
+birthplace birthdate deathdate deathplace
+was_a_crew_member_of commander backup_pilot dateofretirement
+location capital ethnicgroup leadername
+location capital ethnicgroup
+location ispartof ispartof governingbody
+buildingstartdate floorarea architecturalstyle
+location ispartof country leadername
+location country owner leadername
+location ispartof owner leadername
+location floorcount owner tenant
+floorcount architect tenant location tenant
+location architecturalstyle buildingstartdate completiondate
+location country capital language
+location architecturalstyle buildingstartdate completiondate
+location ispartof country ethnicgroup
+location country currenttenants architect
+location country completiondate currenttenants
+location country leadername leadername
+address location country
+location location country leadername
+state country leadername currency
+birthplace architect significantbuilding significantbuilding
+birthplace architect significantbuilding significantbuilding
+location ispartof ispartof country
+architect hometown postalcode leadername
+location ispartof country leadername
+leadername leadertitle capital location
+starring creator broadcastedby firstaired
+alternativename creator creator nationality
+series starring creator nationality
+series starring creator nationality
+series starring creator creator nationality
+region country mainingredients
+alternativename region country ingredient
+dishvariation region mainingredients
+course region mainingredients
+region country mainingredients
+region country mainingredients
+region country mainingredients
+region country mainingredients
+country region mainingredients alternativename
+region country ethnicgroup ethnicgroup
+region country mainingredients ingredient
+country leadername capital ethnicgroup
+country dishvariation alternativename ingredient
+country ingredient dishvariation alternativename
+country mainingredients alternativename
+country mainingredients
+country region mainingredients
+dishvariation region ispartof ingredient
+course region dishvariation mainingredients
+dishvariation region ispartof ingredient
+country mainingredients
+dishvariation country mainingredients
+dishvariation dishvariation country ingredient
+country region leadername language
+country mainingredients
+country mainingredients
+country region language leadername
+leadername leadername currency country
+demonym leadername leadername country
+region country leadername leadername
+region country leadername leadername
+dishvariation course ingredient order
+region country mainingredients
+region country mainingredients
+country region capital leadername
+region leadername ingredient
+leadername leadername capital country
+region country ethnicgroup leadername
+ethnicgroup country region leadername
+ethnicgroup ethnicgroup language country
+country currency leadername
+municipality location has_to_its_southeast has_to_its_north
+category location has_to_its_west has_to_its_north
+dedicatedto designer location capital
+leader capital location
+location material dedicatedto leader
+location country leadername leadertitle
+fullname ground numberofmembers season
+placeofbirth manager club club
+placeofbirth manager club club
+location leader leader language
+fullname ground numberofmembers season
+fullname ground numberofmembers season
+fullname ground numberofmembers season
+fullname ground numberofmembers season
+ground location league champions
+ground numberofmembers league champions
+owner manager club club
+league country nickname champions
+league country season champions
+fullname numberofmembers season manager
+ground city country league champions
+ground capital leader language
+ground capital officiallanguage leader
+champions league fullname ground
+city country academicstaffsize dean
+country established numberofstudents leadertitle
+city established academicstaffsize dean
+affiliation was_given_the_'technical_campus'_status_by location
+campus country numberofpostgraduatestudents
+established country director affiliation
+country leadername capital ethnicgroup
+country established academicstaffsize affiliation
+country established numberofstudents academicstaffsize
+author precededby followedby language
+author mediatype numberofpages isbn_number
+leadername capital country publisher
+author mediatype oclc_number isbn_number
+publisher country followedby precededby
+mediatype oclc_number isbn_number
+language spokenin country ethnicgroup
+mediatype numberofpages oclc_number isbn_number
+author mediatype oclc_number isbn_number
+abbreviation academicdiscipline lccn_number issn_number
+city state affiliation publisher
+capital ethnicgroup country language
+abbreviation academicdiscipline issn_number lccn_number
+abbreviation academicdiscipline firstpublicationyear issn_number
+spokenin language country publisher
+country ethnicgroup language spokenin
+country ethnicgroup language spokenin
+leadername leadername country publisher
+language spokenin country ethnicgroup
+country ethnicgroup language spokenin
+country leadername ethnicgroup language
+cityserved ispartof ispartof country runwaylength
+cityserved elevationabovethesealevel_(in_metres) icao_location_identifier runwayname runwaylength
+cityserved elevationabovethesealevel_(in_metres) icao_location_identifier runwayname runwaylength
+location operatingorganisation elevationabovethesealevel_(in_metres) runwayname runwaylength
+location ispartof ispartof leadername ispartof
+leadername ispartof ispartof location ispartof leadername
+operatingorganisation battles attackaircraft transportaircraft aircraftfighter
+operatingorganisation battles attackaircraft transportaircraft aircraftfighter
+operatingorganisation battles battles attackaircraft transportaircraft
+operatingorganisation battles battles attackaircraft transportaircraft
+location operatingorganisation cityserved country leadername
+location operatingorganisation country leadername
+cityserved location elevationabovethesealevel_(in_metres) runwayname runwaylength
+location country capital largestcity language
+location largestcity capital demonym language
+cityserved location ispartof ispartof elevationabovethesealevel_(in_metres) country
+location ispartof country elevationabovethesealevel_(in_metres) runwaylength
+owner operatingorganisation cityserved elevationabovethesealevel_(in_metres) runwaylength
+cityserved location elevationabovethesealevel_(in_metres) runwayname runwaylength
+location ispartof ispartof ispartof country
+operatingorganisation elevationabovethesealevel_(in_metres) 3rd_runway_surfacetype runwayname runwaylength
+location operatingorganisation elevationabovethesealevel_(in_metres) runwayname runwaylength
+operatingorganisation icao_location_identifier elevationabovethesealevel_(in_metres) runwayname runwaylength
+cityserved country leadername leadername
+cityserved ispartof ispartof ispartof country
+nationality birthplace occupation was_a_crew_member_of operator
+deathdate deathplace birthdate birthplace almamater
+birthplace almamater occupation deathplace
+birthplace status was_selected_by_nasa was_a_crew_member_of operator
+was_a_crew_member_of operator commander timeinspace
+birthplace birthdate awards higher
+birthplace almamater president affiliation compete_in
+birthplace almamater deathdate deathplace
+birthplace almamater affiliations compete_in compete_in compete_in compete_in
+birthplace almamater affiliations compete_in
+operator commander backup_pilot was_a_crew_member_of dateofretirement
+leadername capital currency location
+location buildingstartdate floorcount floorarea cost
+location ispartof country floorcount leadername
+location country ispartof leadertitle ispartof
+buildingstartdate completiondate architecturalstyle address
+location country capital language currency
+location country capital leadername currency
+location ispartof country leadername ethnicgroup
+location location country leadertitle leadername
+location location country leadertitle leadername
+leadername state country bedcount location category
+birthplace architect significantbuilding significantproject significantbuilding
+birthplace architect significantbuilding significantproject significantbuilding
+yearofconstruction location added_to_the_national_register_of_historic_places referencenumber_in_the_national_register_of_historic_places architecturalstyle
+location yearofconstruction architecturalstyle added_to_the_national_register_of_historic_places referencenumber_in_the_national_register_of_historic_places
+location country ispartof ispartof leadername
+architect birthplace postalcode leadername governingbody
+location country ispartof leadername leadername
+location language ethnicgroup leadertitle leadername
+location language ethnicgroup leadertitle leadername
+broadcastedby firstaired lastaired creator starring
+series creator creator starring series
+alternativename region country mainingredients
+region country mainingredients
+region country leadername currency language
+leadername capital demonym language country
+region country leadername demonym leadername
+country region capital ethnicgroup
+region country ethnicgroup ethnicgroup leadername
+region country mainingredients servingtemperature
+country leadername capital language ethnicgroup
+country region leadername leadername language
+dishvariation region ispartof ingredient leadername
+genus family ingredient country region
+region country ingredient family order
+ingredient country leadername leadername language
+creator foundationplace country language leadername
+language leadername leadername region country
+alternativename region country mainingredients
+region country leadername demonym leadername
+leadername country course region dishvariation
+dishvariation course region country leadername
+ingredient dishvariation region leadername
+dishvariation region ispartof ingredient leadername
+region capital leadername language
+leadername leadername capital demonym country
+ethnicgroup country region leadername language
+country officiallanguage language ethnicgroup ethnicgroup
+leadername leadername language country region
+demonym leadername currency country
+municipality location has_to_its_west has_to_its_north has_to_its_southeast
+leadername leadertitle legislature location capital
+location leadername designer nativename dedicatedto
+location material dedicatedto nativename designer
+dedicatedto designer material location leadertitle
+leader ground manager club club
+club manager club club club
+ground location country league champions
+ground location league country champions
+champions country league numberofmembers club
+city country academicstaffsize numberofstudents dean
+location country numberofstudents established leadername
+city state affiliation has_to_its_northeast has_to_its_west
+established city country numberofpostgraduatestudents campus
+affiliation city state has_to_its_west founder
+city country leadertitle leadername capital
+country established numberofstudents academicstaffsize affiliation
+location country ethnicgroup followedby largestcity
+followedby ethnicgroup country precededby followedby
+precededby followedby followedby followedby country
+city state affiliation publisher affiliation
+city state affiliation publisher affiliation
+language spokenin country leadername ethnicgroup
+country capital ethnicgroup language spokenin
+country leadername ethnicgroup language spokenin
+capital leadername language country language
+leadername country publisher parentcompany
+language spokenin country leadername ethnicgroup
+country leadername ethnicgroup language spokenin
+nationality birthplace was_a_crew_member_of operator commander
+nationality birthdate birthplace almamater was_selected_by_nasa deathplace
+birthdate birthplace almamater was_selected_by_nasa deathplace
+birthdate birthplace was_a_crew_member_of operator dateofretirement dateofretirement dateofretirement
+birthplace deathplace deathdate awards higher
+alternativenames birthdate birthplace almamater occupation was_a_crew_member_of
+status birthdate birthplace almamater was_selected_by_nasa was_a_crew_member_of
+almamater was_selected_by_nasa occupation was_a_crew_member_of operator backup_pilot
+nationality birthplace almamater occupation deathdate deathplace
+birthplace birthdate almamater affiliations compete_in deathplace
+birthplace birthdate almamater occupation was_a_crew_member_of dateofretirement
+location material designer inaugurationdate capital leadername
+location dedicatedto nativename designer leadertitle leadername
+district location owningorganisation established category
+district location owningorganisation established category
+location country numberofstudents established leadertitle leadername
+campus country established director director
+city country established affiliation president
+state was_given_the_'technical_campus'_status_by location sportsoffered sportsgoverningbody has_to_its_west
+location sportsoffered sportsgoverningbody affiliation city
+leadertitle leadername capital ethnicgroup country leadertitle
+city country established academicstaffsize numberofstudents affiliation
+city country established numberofstudents academicstaffsize affiliation
+nationality birthplace birthdate occupation was_a_crew_member_of operator
+status birthplace almamater occupation was_a_crew_member_of operator commander
+nationality birthdate birthplace almamater was_selected_by_nasa was_a_crew_member_of deathplace
+nationality birthplace birthdate almamater occupation deathplace
+birthplace birthdate occupation awards higher
+nationality birthplace almamater occupation was_a_crew_member_of status
+nationality birthplace ispartof was_a_crew_member_of operator backup_pilot leadername
+status birthplace birthdate almamater was_a_crew_member_of operator commander
+birthplace almamater was_selected_by_nasa occupation was_a_crew_member_of operator
+birthplace birthdate almamater occupation was_a_crew_member_of deathplace
+birthplace almamater occupation deathdate deathplace
+nationality birthplace birthdate almamater occupation dateofretirement
+established location country category has_to_its_north has_to_its_southeast
+material designer location capital inaugurationdate leadername currency
+material dedicatedto location capital leadertitle legislature
+campus country established numberofpostgraduatestudents president affiliation
+established city country numberofpostgraduatestudents affiliation campus
+campus country established president director numberofpostgraduatestudents affiliation
+established city country president numberofpostgraduatestudents affiliation campus
+city state country academicstaffsize has_to_its_northwest largestcity river
+leadertitle leadername capital anthem country ethnicgroup
+campus country established director affiliation
