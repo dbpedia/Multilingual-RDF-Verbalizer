@@ -6,6 +6,7 @@ import math
 class PositionalEncoding(nn.Module):
 
     def __init__(self, hid_dim, max_length=100):
+        super().__init__()
 
         # Compute the positional encodings once in log space.
         self.pe = torch.zeros(max_length, hid_dim)
