@@ -19,7 +19,8 @@ class Decoder(nn.Module):
         self.device = device
         
         self.tok_embedding = nn.Embedding(output_dim, hid_dim)
-        self.pos_embedding = PositionalEncoding(max_length, hid_dim)
+        #self.pos_embedding = PositionalEncoding(max_length, hid_dim)
+        self.pos_embedding = PositionalEncoding(hid_dim)
         
         self.layers = nn.ModuleList([DecoderLayer(hid_dim, 
                                                   n_heads, 

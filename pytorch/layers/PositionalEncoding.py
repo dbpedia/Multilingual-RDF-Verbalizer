@@ -2,9 +2,7 @@ import torch.nn as nn
 
 class PositionalEncoding(nn.Module):
 
-    def __init__(self, hid_dim, dropout, max_length=100):
-
-        self.dropout = nn.Dropout(p=dropout)
+    def __init__(self, hid_dim, max_length=100):
 
         # Compute the positional encodings once in log space.
         pe = torch.zeros(max_length, hid_dim)
@@ -23,5 +21,4 @@ class PositionalEncoding(nn.Module):
 
         x = x + Variable(self.pe[:, :x.size(1)],
                          requires_grad=False)
-        #return self.dropout(x)
         return x
