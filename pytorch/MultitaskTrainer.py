@@ -229,7 +229,7 @@ def evaluate(model, loader, loss_compute, device, task_id=0):
     
 	model.eval()  
 	epoch_loss = 0
-    total_tokens = 0
+	total_tokens = 0
 	with torch.no_grad():
 
 		for i, (src, tgt) in enumerate(loader):
@@ -372,7 +372,7 @@ def train(args):
 	for _iter in range(1, args.steps + 1):
 
 		#train_loss = _train_step(multitask_model, train_loaders[task_id], optimizer, criterion, clipping, device, task_id = task_id)
-        train_loss = train_step(multitask_model, train_loaders[task_id], \
+		train_loss = train_step(multitask_model, train_loaders[task_id], \
                        LossCompute(criterions[task_id], model_opt), clipping, device, task_id = task_id)
         
 		print_loss_total += train_loss
