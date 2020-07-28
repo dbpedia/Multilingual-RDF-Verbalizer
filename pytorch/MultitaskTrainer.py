@@ -62,13 +62,15 @@ def build_dataset(source_files, target_files, batch_size, shuffle=False, \
 	return loaders
 
 def load_model(args, source_vocabs, target_vocabs, device, max_length):
+	mtl = build_model(args, source_vocabs, target_vocabs, device, max_length)
+	mtl.load_state_dict(torch.load(args.model))
 	if args.load_encoder:
-		mtl = build_model(args, source_vocabs, target_vocabs, device, max_length)
-		mtl.load_state_dict(torch.load(args.model))
 		print("Building an model using a pre-trained encoder ... ")
 		current = build_model(args, source_vocabs, target_vocabs, device, max_length, mtl.encoder)
 		return current
-
+	else:
+		print("Building an model using the encoder and the decoder ... ")
+		return mtl
 
 def build_model(args, source_vocabs, target_vocabs, device, max_length , enc=None):
 
