@@ -45,36 +45,6 @@ def build_vocab(files, vocabulary=None, mtl=False, name="src", save_dir="/"):
 	return vocabs
 
 
-def _build_vocab(source_files, target_files, mtl=False):
-	source_vocabs = []
-	target_vocabs = []
-
-	print("Build the vocabulary in the encoder")
-	source_vocab = Vocab()
-	source_vocab.build_vocab(source_files)
-	source_vocabs.append(source_vocab)
-
-	if mtl is True:
-		for index, target_file in enumerate(target_files):
-			print(f'Building the vocabulary {index+1:d} in the decoder')
-			target_vocab = Vocab()
-			target_vocab.build_vocab([target_file])
-			target_vocabs.append(target_vocab)
-	else:
-		print("Build the vocabulary in the decoder")
-		target_vocab = Vocab()
-		target_vocab.build_vocab(target_files)
-		target_vocabs.append(target_vocab)
-
-	for index, source_vocab in enumerate(source_vocabs):
-		print(f'Encoder vocabulary size {index+1:d}: {source_vocab.len():d}')
-
-	for index, target_vocab in enumerate(target_vocabs):
-		print(f'Decoder vocabulary size {index+1:d}: {target_vocab.len():d}')
-
-	return source_vocabs, target_vocabs
-
-
 def build_dataset(source_files, target_files, batch_size, shuffle=False, \
 			source_vocabs=None, target_vocabs=None, mtl=False, max_length=180):
 	loaders = []
@@ -147,39 +117,14 @@ def build_model(args, source_vocabs, target_vocabs, device, max_length , enc=Non
 	return model
 
 
-def _train_step(model, loader, optimizer, criterion, clip, device, task_id = 0):
-
-	model.train()
-
-	(src, tgt) = next(iter(loader))
-	src = src.to(device)
-	tgt = tgt.to(device)
-	optimizer.zero_grad()
-
-	output, _ = model(src, tgt[:,:-1], task_id=task_id)        
-	#output = [batch size, tgt len - 1, output dim]
-	#tgt = [batch size, tgt len]
-	output_dim = output.shape[-1]
-	output = output.contiguous().view(-1, output_dim)
-	tgt = tgt[:,1:].contiguous().view(-1)
-	#output = [batch size * tgt len - 1, output dim]
-	#tgt = [batch size * tgt len - 1]
-
-	loss = criterion(output, tgt)
-	loss.backward()
-
-	torch.nn.utils.clip_grad_norm_(model.parameters(), clip)
-
-	optimizer.step()
-
-	return loss.item()
-
-
 def train_step(model, loader, loss_compute, clip, device, task_id = 0):
 
 	model.train()
 
 	(src, tgt) = next(iter(loader))
+
+	n_tokens = (torch.flatten(src != 1)).sum(dim=0) + (torch.flatten(tgt != 1)).sum(dim=0)
+
 	src = src.to(device)
 	tgt = tgt.to(device)
 
@@ -192,36 +137,9 @@ def train_step(model, loader, loss_compute, clip, device, task_id = 0):
 	#output = [batch size * tgt len - 1, output dim]
 	#tgt = [batch size * tgt len - 1]
 
-	loss = loss_compute(output, tgt, 1000)
+	loss = loss_compute(output, tgt, n_tokens) #1000
 
-	return loss / 1000
-
-
-
-def _evaluate(model, loader, criterion, device, task_id=0):
-    
-	model.eval()  
-	epoch_loss = 0
-	with torch.no_grad():
-
-		for i, (src, tgt) in enumerate(loader):
-
-			src = src.to(device)
-			tgt = tgt.to(device)
-			output, _ = model(src, tgt[:,:-1], task_id=task_id)
-			#output = [batch size, tgt len - 1, output dim]
-			#tgt = [batch size, tgt len]
-			output_dim = output.shape[-1]
-			output = output.contiguous().view(-1, output_dim)
-			tgt = tgt[:,1:].contiguous().view(-1)
-
-			#output = [batch size * tgt len - 1, output dim]
-			#tgt = [batch size * tgt len - 1]
-
-			loss = criterion(output, tgt)
-			epoch_loss += loss.item()
-
-	return epoch_loss / len(loader)
+	return loss / n_tokens
 
 
 def evaluate(model, loader, loss_compute, device, task_id=0):
@@ -233,6 +151,8 @@ def evaluate(model, loader, loss_compute, device, task_id=0):
 
 		for i, (src, tgt) in enumerate(loader):
 
+			n_tokens = (torch.flatten(src != 1)).sum(dim=0) + (torch.flatten(tgt != 1)).sum(dim=0)			
+
 			src = src.to(device)
 			tgt = tgt.to(device)
 			output, _ = model(src, tgt[:,:-1], task_id=task_id)
@@ -245,9 +165,9 @@ def evaluate(model, loader, loss_compute, device, task_id=0):
 			#output = [batch size * tgt len - 1, output dim]
 			#tgt = [batch size * tgt len - 1]
 
-			loss = loss_compute(output, tgt, 1000)
+			loss = loss_compute(output, tgt, n_tokens)
 			epoch_loss += loss
-			total_tokens += 1000
+			total_tokens += n_tokens
 
 			#loss = criterion(output, tgt)
 			#epoch_loss += loss.item()
@@ -306,11 +226,6 @@ def train(args):
 	max_length = args.max_length
 	mtl = args.mtl
 	learning_rate = args.learning_rate
-
-	#train_source_files = ["data/ordering/train.src", "data/structing/train.src", "data/lexicalization/train.src"]
-	#train_target_files = ["data/ordering/train.trg", "data/structing/train.trg", "data/lexicalization/train.trg"]
-	#dev_source_files = ["data/ordering/dev.src", "data/structing/dev.src", "data/lexicalization/dev.src"]
-	#dev_target_files = ["data/ordering/dev.trg", "data/structing/dev.trg", "data/lexicalization/dev.trg"]
 
 	if len(args.train_source) != len(args.train_target):
 		print("Error.Number of inputs in train are not the same")
