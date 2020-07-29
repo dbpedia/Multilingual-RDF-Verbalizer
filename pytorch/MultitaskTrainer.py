@@ -62,41 +62,37 @@ def build_dataset(source_files, target_files, batch_size, shuffle=False, \
 	return loaders
 
 def load_model(args, source_vocabs, target_vocabs, device, max_length):
-	mtl = build_model(args, source_vocabs, target_vocabs, device, max_length)
-	mtl.load_state_dict(torch.load(args.model))
 	if args.load_encoder:
+		from collections import OrderedDict
+		encoder = OrderedDict()
+		model = torch.load(args.model)
+		for item in model:
+			if item.startswith("encoder"):
+				encoder[item.replace("encoder.","")] = model[item]
 		print("Building an model using a pre-trained encoder ... ")
-		current = build_model(args, source_vocabs, target_vocabs, device, max_length, mtl.encoder)
+		current = build_model(args, source_vocabs, target_vocabs, device, max_length, encoder)
 		return current
 	else:
+		mtl = build_model(args, source_vocabs, target_vocabs, device, max_length)
+		mtl.load_state_dict(torch.load(args.model))
 		print("Building an model using the encoder and the decoder ... ")
 		return mtl
 
-def build_model(args, source_vocabs, target_vocabs, device, max_length , enc=None):
+def build_model(args, source_vocabs, target_vocabs, device, max_length , encoder=None):
 
-	'''
-	HID_DIM = 256
-	ENC_LAYERS = 3
-	DEC_LAYERS = 3
-	ENC_HEADS = 8
-	DEC_HEADS = 8
-	ENC_PF_DIM = 512
-	DEC_PF_DIM = 512
-	ENC_DROPOUT = 0.1
-	DEC_DROPOUT = 0.1
-	'''
-
-	if enc is None:
-		input_dim = source_vocabs[0].len()
-		enc = Encoder(input_dim, 
-			args.hidden_size, 
-			args.encoder_layer, 
-			args.encoder_head, 
-			args.encoder_ff_size, 
-			args.encoder_dropout, 
-			device,
-      		max_length=max_length).to(device)
+	input_dim = source_vocabs[0].len()
+	enc = Encoder(input_dim, 
+		args.hidden_size, 
+		args.encoder_layer, 
+		args.encoder_head, 
+		args.encoder_ff_size, 
+		args.encoder_dropout, 
+		device,
+     		max_length=max_length).to(device)
+	if encoder is None:
 		enc.apply(initialize_weights);
+	else:
+		enc.load_state_dict(encoder)
 
 	decs = []
 
@@ -117,7 +113,6 @@ def build_model(args, source_vocabs, target_vocabs, device, max_length , enc=Non
 	model = Multitask(enc, decs, constants.PAD_IDX, constants.PAD_IDX, device).to(device)
 
 	return model
-
 
 def train_step(model, loader, loss_compute, clip, device, task_id = 0):
 
