@@ -96,6 +96,10 @@ parser.add_argument(
 parser.add_argument(
   '-tgt-vocab','--tgt-vocab', type=str, nargs='*', required=False, help='Target vocabulary (ies)')
 
+parser.add_argument(
+  '-tie-embeddings','--tie-embeddings', action='store_true', required=False, help='Tied embeddings')
+
+
 
 # inference parameters
 

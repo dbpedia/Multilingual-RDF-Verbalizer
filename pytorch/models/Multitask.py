@@ -8,7 +8,7 @@ class Multitask(nn.Module):
                  encoder, 
                  decoders, 
                  src_pad_idx, 
-                 trg_pad_idx, 
+                 trg_pad_idx,
                  device):
         super().__init__()
         
