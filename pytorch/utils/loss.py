@@ -23,7 +23,10 @@ class LabelSmoothing(nn.Module):
         if mask.dim() > 0:
             true_dist.index_fill_(0, mask.squeeze(), 0.0)
         self.true_dist = true_dist
-        return self.criterion(x, Variable(true_dist, requires_grad=False))
+
+        #print(torch.mean(torch.sum(-Variable(true_dist, requires_grad=False) * x, dim=1)))
+        #return self.criterion(x, Variable(true_dist, requires_grad=False))
+        return torch.mean(torch.sum(-Variable(true_dist, requires_grad=False) * x, dim=1))
 
 
 
