@@ -107,6 +107,11 @@ def build_model(args, source_vocabs, target_vocabs, device, max_length , encoder
 				args.decoder_dropout, 
 				device,
         max_length=max_length).to(device)
+
+		if args.tie_embeddings:
+			dec.tok_embedding = enc.tok_embedding
+			dec.fc_out.weight = enc.tok_embedding.weight
+
 		dec.apply(initialize_weights);
 		decs.append(dec)
 
@@ -133,6 +138,8 @@ def train_step(model, loader, loss_compute, clip, device, task_id = 0):
 	tgt = tgt[:,1:].contiguous().view(-1)
 	#output = [batch size * tgt len - 1, output dim]
 	#tgt = [batch size * tgt len - 1]
+
+	print(model.encoder.tok_embedding.weight)
 
 	loss = loss_compute(output, tgt, n_tokens) #1000
 
@@ -232,10 +239,15 @@ def train(args):
 		print("Error: Number of inputs in dev are not the same")
 		return
 
-	print("Building Encoder vocabulary")
-	source_vocabs = build_vocab(args.train_source, args.src_vocab, save_dir=args.save_dir)
-	print("Building Decoder vocabulary")
-	target_vocabs = build_vocab(args.train_target, args.tgt_vocab, mtl=mtl, name ="tgt", save_dir=args.save_dir)
+	if not args.tie_embeddings:
+		print("Building Encoder vocabulary")
+		source_vocabs = build_vocab(args.train_source, args.src_vocab, save_dir=args.save_dir)
+		print("Building Decoder vocabulary")
+		target_vocabs = build_vocab(args.train_target, args.tgt_vocab, mtl=mtl, name ="tgt", save_dir=args.save_dir)
+	else:
+		print("Building Share vocabulary")
+		source_vocabs = build_vocab(args.train_source + args.train_target, args.src_vocab, name="tied", save_dir=args.save_dir)
+		target_vocabs = source_vocabs
 
 	# source_vocabs, target_vocabs = build_vocab(args.train_source, args.train_target, mtl=mtl)
 
