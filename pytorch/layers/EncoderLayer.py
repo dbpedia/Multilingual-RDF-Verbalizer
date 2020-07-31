@@ -11,8 +11,8 @@ class EncoderLayer(nn.Module):
                  device):
         super().__init__()
         
-        self.self_attn_layer_norm = nn.LayerNorm(hid_dim, eps=1e-6))
-        self.ff_layer_norm = nn.LayerNorm(hid_dim, eps=1e-6))
+        self.self_attn_layer_norm = nn.LayerNorm(hid_dim, eps=1e-6)
+        self.ff_layer_norm = nn.LayerNorm(hid_dim, eps=1e-6)
         self.self_attention = MultiHeadAttentionLayer(hid_dim, n_heads, dropout, device)
         self.positionwise_feedforward = PositionwiseFeedforwardLayer(hid_dim, 
                                                                      pf_dim, 
