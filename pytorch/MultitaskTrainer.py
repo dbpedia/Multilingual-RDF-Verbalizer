@@ -139,11 +139,9 @@ def train_step(model, loader, loss_compute, clip, device, task_id = 0):
 	#output = [batch size * tgt len - 1, output dim]
 	#tgt = [batch size * tgt len - 1]
 
-	print(model.encoder.tok_embedding.weight)
+	loss = loss_compute(output, tgt) # , norm = n_tokens 1000
 
-	loss = loss_compute(output, tgt, n_tokens) #1000
-
-	return loss / n_tokens
+	return loss #/ n_tokens
 
 
 def evaluate(model, loader, loss_compute, device, task_id=0):
@@ -169,14 +167,13 @@ def evaluate(model, loader, loss_compute, device, task_id=0):
 			#output = [batch size * tgt len - 1, output dim]
 			#tgt = [batch size * tgt len - 1]
 
-			loss = loss_compute(output, tgt, n_tokens)
+			loss = loss_compute(output, tgt) #, n_tokens
 			epoch_loss += loss
-			total_tokens += n_tokens
 
+			#total_tokens += n_tokens
 			#loss = criterion(output, tgt)
-			#epoch_loss += loss.item()
 
-	return epoch_loss / total_tokens
+	return epoch_loss / len(loader) #total_tokens
 
 
 
@@ -291,7 +288,7 @@ def train(args):
 
 	n_tasks = len(train_loaders)
 	best_valid_loss = [float('inf') for _ in range(n_tasks)]
-
+	patience = 30
 	for _iter in range(1, args.steps + 1):
 
 		#train_loss = _train_step(multitask_model, train_loaders[task_id], optimizer, criterion, clipping, device, task_id = task_id)
@@ -314,9 +311,15 @@ def train(args):
 			print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f}')
 			if valid_loss < best_valid_loss[task_id]:
 				print(f'The loss decreased from {best_valid_loss[task_id]:.3f} to {valid_loss:.3f} in the task {task_id}... saving checkpoint')
+				patience = 30
 				best_valid_loss[task_id] = valid_loss
 				torch.save(multitask_model.state_dict(), args.save_dir + 'model.pt')
 				print("Saved model.pt")
+			else:
+				if patience == 0:
+					break
+				else:
+					patience -= 1
 
 			if n_tasks > 1:
 				print("Changing to the next task ...")

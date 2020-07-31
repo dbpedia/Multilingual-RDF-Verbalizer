@@ -1,33 +1,27 @@
 import torch
 import torch.nn as nn
-from torch.autograd import Variable
+import torch.nn.functional as F
 
+def linear_combination(x, y, epsilon): 
+    return epsilon*x + (1-epsilon)*y
+
+def reduce_loss(loss, reduction='mean'):
+    return loss.mean() if reduction=='mean' else loss.sum() if reduction=='sum' else loss
+
+# Implementation found at 
+#https://medium.com/towards-artificial-intelligence/how-to-use-label-smoothing-for-regularization-aa349f7f1dbb
 class LabelSmoothing(nn.Module):
-    "Implement label smoothing."
-    def __init__(self, size, padding_idx, smoothing=0.0):
-        super(LabelSmoothing, self).__init__()
-        self.criterion = nn.KLDivLoss(size_average=False)
-        self.padding_idx = padding_idx
-        self.confidence = 1.0 - smoothing
+    def __init__(self, size, padding_idx, smoothing=0.0, reduction='mean'):
+        super().__init__()
         self.smoothing = smoothing
-        self.size = size
-        self.true_dist = None
-
+        self.reduction = reduction
+    
     def forward(self, x, target):
-        assert x.size(1) == self.size
-        true_dist = x.data.clone()
-        true_dist.fill_(self.smoothing / (self.size - 2))
-        true_dist.scatter_(1, target.data.unsqueeze(1), self.confidence)
-        true_dist[:, self.padding_idx] = 0
-        mask = torch.nonzero(target.data == self.padding_idx)
-        if mask.dim() > 0:
-            true_dist.index_fill_(0, mask.squeeze(), 0.0)
-        self.true_dist = true_dist
-
-        #print(torch.mean(torch.sum(-Variable(true_dist, requires_grad=False) * x, dim=1)))
-        #return self.criterion(x, Variable(true_dist, requires_grad=False))
-        return torch.mean(torch.sum(-Variable(true_dist, requires_grad=False) * x, dim=1))
-
+        n = x.size()[-1]
+        #log_preds = F.log_softmax(preds, dim=-1) #I removed the log_softmax because this is put in the decoder
+        loss = reduce_loss(-x.sum(dim=-1), self.reduction)
+        nll = F.nll_loss(x, target, reduction=self.reduction)
+        return linear_combination(loss/n, nll, self.smoothing)
 
 
 class LossCompute:
@@ -36,13 +30,11 @@ class LossCompute:
         self.criterion = criterion
         self.opt = opt
         
-    def __call__(self, x, y, norm):
+    def __call__(self, x, y, norm=1):
         loss = self.criterion(x.contiguous().view(-1, x.size(-1)), 
                               y.contiguous().view(-1)) / norm
-
         if self.opt is not None:
             loss.backward()
             self.opt.step()
             self.opt.optimizer.zero_grad()
         return loss.item() * norm
-

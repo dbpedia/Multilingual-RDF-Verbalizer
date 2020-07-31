@@ -35,15 +35,7 @@ class Encoder(nn.Module):
         
         #src = [batch size, src len]
         #src_mask = [batch size, src len]
-        
-        batch_size = src.shape[0]
-        src_len = src.shape[1]
-        
-        pos = torch.arange(0, src_len).unsqueeze(0).repeat(batch_size, 1).to(self.device)
-        
-        #pos = [batch size, src len]
-        
-        #src = self.dropout((self.tok_embedding(src) * self.scale) + self.pos_embedding(pos))
+
         src = self.dropout(self.pos_embedding((self.tok_embedding(src) * self.scale)))
         
         #src = [batch size, src len, hid dim]
