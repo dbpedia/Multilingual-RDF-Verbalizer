@@ -9,7 +9,7 @@ class PositionwiseFeedforwardLayer(nn.Module):
         self.fc_1 = nn.Linear(hid_dim, pf_dim)
         self.fc_2 = nn.Linear(pf_dim, hid_dim)
         
-        #self.dropout = nn.Dropout(dropout)
+        self.dropout = nn.Dropout(dropout)
         
     def forward(self, x):
         
