@@ -1,31 +1,20 @@
 
 
-data_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/data/end2end"
-$moses="/home/msobrevillac/Projects/gsoc/mosesdecoder"
+data_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/data/lexicalization"
+output_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/output/lexicalization"
+moses="/home/msobrevillac/Projects/gsoc/mosesdecoder"
 model="case_model"
+lng=en
 
-$moses/scripts/recaser/recase.perl --in $data_dir/train.lower.trg --model $data_dir/$model/moses.ini --moses $moses/bin/moses
+python3.6 /home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/postProcessing.py
+
+$moses/scripts/recaser/recase.perl --in $output_dir/dev.lower.out --model $data_dir/$model/moses.ini --moses $moses/bin/moses > $output_dir/dev.cs.out
+$moses/scripts/recaser/recase.perl --in $output_dir/test.lower.out --model $data_dir/$model/moses.ini --moses $moses/bin/moses > $output_dir/test.cs.out
 
 
-script_dir=`dirname $0`
-# temporary variables
-. $script_dir/tmp
-# variables (toolkits; source and target language)
-. $script_dir/vars
+$moses/scripts/tokenizer/normalize-punctuation.perl -l $lng < $output_dir/dev.cs.out > $output_dir/dev.punc.out
+$moses/scripts/tokenizer/detokenizer.perl -l $lng < $output_dir/dev.punc.out > $output_dir/dev.out
 
-main_dir=$script_dir/../
 
-if [ "$task" = "end2end" ] || [ "$task" = "end2end_augmented" ];
-then
-  sed -r 's/\@\@ //g' |
-  $moses_scripts/recaser/detruecase.perl |
-  $moses_scripts/tokenizer/normalize-punctuation.perl -l $lng |
-  $moses_scripts/tokenizer/detokenizer.perl -l $lng
-elif [ "$task" = "lexicalization" ];
-then
-  sed -r 's/\@\@ //g'
-  #$moses_scripts/recaser/detruecase.perl |
-  #$moses_scripts/tokenizer/detokenizer.perl -l $lng
-else
-  sed -r 's/\@\@ //g'
-fi
+$moses/scripts/tokenizer/normalize-punctuation.perl -l $lng < $output_dir/test.cs.out > $output_dir/test.punc.out
+$moses/scripts/tokenizer/detokenizer.perl -l $lng < $output_dir/test.punc.out > $output_dir/test.out

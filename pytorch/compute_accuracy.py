@@ -24,14 +24,14 @@ print("Ordering")
 gold_path = "data/ordering/dev.json"
 gold = json.load(open(gold_path))
 #hyp_path = "output/tr.enc.ordering/dev.eval.0.out"
-hyp_path = "output/4.all/dev.eval.0.out"
+hyp_path = "output/ordering/dev.eval.0.out"
 
 compute_accuracy(gold, hyp_path)
 
 gold_path = "data/ordering/test.json"
 gold = json.load(open(gold_path))
 #hyp_path = "output/tr.enc.ordering/test.eval.0.out"
-hyp_path = "output/4.all/test.eval.0.out"
+hyp_path = "output/ordering/test.eval.0.out"
 
 compute_accuracy(gold, hyp_path)
 
@@ -40,14 +40,14 @@ print("Structuring")
 gold_path = "data/structing/dev.json"
 gold = json.load(open(gold_path))
 #hyp_path = "output/tr.enc.structuring/dev.eval.0.out"
-hyp_path = "output/4.1.all/dev.eval.1.out"
+hyp_path = "output/structuring/dev.eval.0.out"
 
 compute_accuracy(gold, hyp_path)
 
 gold_path = "data/structing/test.json"
 gold = json.load(open(gold_path))
 #hyp_path = "output/tr.enc.structuring/test.eval.0.out"
-hyp_path = "output/4.1.all/test.eval.1.out"
+hyp_path = "output/structuring/test.eval.0.out"
 
 compute_accuracy(gold, hyp_path)
 

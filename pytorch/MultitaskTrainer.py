@@ -11,6 +11,8 @@ from models.Multitask import Multitask
 from layers.Encoder import Encoder
 from layers.Decoder import Decoder
 
+#from Queue import PriorityQueue
+
 import torch
 import torch.nn as nn
 
@@ -119,7 +121,7 @@ def build_model(args, source_vocabs, target_vocabs, device, max_length , encoder
 
 	return model
 
-def train_step(model, loader, loss_compute, clip, device, task_id = 0):
+def train_step(model, loader, loss_compute, device, task_id = 0):
 
 	model.train()
 
@@ -216,6 +218,120 @@ def translate_sentence(model, task_id, sentence, source_vocab, target_vocab, dev
 
 	return ' '.join(trg_tokens[1:])
 
+
+'''
+class BeamSearchNode(object):
+	def __init__(self, previousNode, wordId, logProb, length):
+
+		self.prevNode = previousNode
+		self.wordid = wordId
+		self.logp = logProb
+		self.leng = length
+
+	def eval(self, alpha=1.0):
+		reward = 0
+		# Add here a function for shaping a reward
+		return self.logp / float(self.leng - 1 + 1e-6) + alpha * reward
+
+def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab, device, beam_size = 5, max_length = 180):
+
+	model.eval()
+
+	topk = 1
+
+	tokens = [token.lower() for token in sentence.split()]
+	tokens = [constants.SOS_STR] + tokens + [constants.EOS_STR]
+
+	if len(tokens) < max_length:
+		tokens = tokens + [constants.PAD_STR for _ in range(max_length - len(tokens))]
+	else:
+		tokens = tokens[:max_length-1] + [constants.EOS_STR]
+
+	src_indexes = [source_vocab.stoi(token) for token in tokens]
+	src_tensor = torch.LongTensor(src_indexes).unsqueeze(0).to(device)
+	src_mask = model.make_src_mask(src_tensor)
+
+	enc_src = None
+	with torch.no_grad():
+		enc_src = model.encoder(src_tensor, src_mask)
+
+	trg_indexes = [constants.SOS_IDX]
+	trg_tensor = torch.LongTensor(trg_indexes).unsqueeze(0).to(device)
+
+
+	# Number of sentence to generate
+	endnodes = []
+	number_required = min((topk + 1), topk - len(endnodes))
+
+	# starting node -  hidden vector, previous node, word id, logp, length
+	node = BeamSearchNode(None, trg_tensor, 0, 1)
+	nodes = PriorityQueue()
+
+	# start the queue
+	nodes.put((-node.eval(), node))
+	qsize = 1
+
+	while True:
+		# give up when decoding takes too long
+		if qsize > max_length: break
+
+		# fetch the best node
+		score, n = nodes.get()
+		decoder_input = n.wordid
+
+		if n.wordid.item() == constants.EOS_IDX and n.prevNode != None:
+			endnodes.append((score, n))
+			# if we reached maximum # of sentences required
+			if len(endnodes) >= number_required:
+				break
+			else:
+				continue
+
+		trg_mask = model.make_trg_mask(trg_tensor)
+
+		with torch.no_grad():
+			# decode for one step using decoder
+			output, attention = model.decoders[task_id](trg_tensor, enc_src, trg_mask, src_mask)
+
+		# PUT HERE REAL BEAM SEARCH OF TOP
+		log_prob, indexes = torch.topk(output, beam_size)
+		nextnodes = []
+
+
+		for new_k in range(beam_size):
+			decoded_t = indexes[0][new_k].view(1, -1)
+			log_p = log_prob[0][new_k].item()
+
+			node = BeamSearchNode(n, decoded_t, n.logp + log_p, n.leng + 1)
+			score = -node.eval()
+			nextnodes.append((score, node))
+
+			# put them into queue
+			for i in range(len(nextnodes)):
+				score, nn = nextnodes[i]
+				nodes.put((score, nn))
+				# increase qsize
+			qsize += len(nextnodes) - 1
+
+
+	for i in range(max_length):
+
+		with torch.no_grad():
+			output, attention = model.decoders[task_id](trg_tensor, enc_src, trg_mask, src_mask)
+
+		pred_token = output.argmax(2)[:,-1].item()
+		trg_indexes.append(pred_token)
+
+		if pred_token == constants.EOS_IDX:
+			break
+
+		trg_tensor = torch.LongTensor(trg_indexes).unsqueeze(0).to(device)
+		trg_mask = model.make_trg_mask(trg_tensor)
+
+	trg_tokens = [target_vocab.itos(i) for i in trg_indexes]
+
+	return ' '.join(trg_tokens[1:])
+'''
 		
 def train(args):
 
@@ -226,7 +342,10 @@ def train(args):
 	batch_size = args.batch_size
 	max_length = args.max_length
 	mtl = args.mtl
-	learning_rate = args.learning_rate
+
+	learning_rate = 0.0005
+	if not args.learning_rate:
+		learning_rate = args.learning_rate
 
 	if len(args.train_source) != len(args.train_target):
 		print("Error.Number of inputs in train are not the same")
@@ -277,11 +396,10 @@ def train(args):
 	#criterion = nn.CrossEntropyLoss(ignore_index = constants.PAD_IDX)
 	criterions = [LabelSmoothing(size=target_vocab.len(), padding_idx=constants.PAD_IDX, smoothing=0.1) \
                                         for target_vocab in target_vocabs]
-	clipping = args.gradient_clipping
 
 	# Default optimizer
 	optimizer = torch.optim.Adam(multitask_model.parameters(), lr = learning_rate, betas=(0.9, 0.98), eps=1e-09)
-	model_opt = NoamOpt(args.hidden_size, 1, args.warmup_steps, optimizer)
+	model_opt = NoamOpt(args.hidden_size, args.warmup_steps, optimizer)
 
 	task_id = 0
 	print_loss_total = 0  # Reset every print_every
@@ -291,9 +409,8 @@ def train(args):
 	patience = 30
 	for _iter in range(1, args.steps + 1):
 
-		#train_loss = _train_step(multitask_model, train_loaders[task_id], optimizer, criterion, clipping, device, task_id = task_id)
 		train_loss = train_step(multitask_model, train_loaders[task_id], \
-                       LossCompute(criterions[task_id], model_opt), clipping, device, task_id = task_id)
+                       LossCompute(criterions[task_id], model_opt), device, task_id = task_id)
 
 		print_loss_total += train_loss
 

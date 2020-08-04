@@ -39,9 +39,6 @@ parser.add_argument(
   '-batch-size', '--batch_size', type=int, required=False, default=64, help='Batch size')
 parser.add_argument(
   '-max-length', '--max_length', type=int, required=False, default=180, help='Max length in encoder/decoder')
-parser.add_argument(
-  '-clipping', '--gradient_clipping', type=int, required=False, default=1, help='Max length in encoder/decoder')
-
 
 parser.add_argument(
   '-hidden-size', '--hidden_size', type=int, required=True, help='Size of hidden layer output')
@@ -68,7 +65,7 @@ parser.add_argument(
 parser.add_argument(
   '-optimizer','--optimizer', type=str, required=False, help='Optimizer that will be used')
 parser.add_argument(
-  '-lr','--learning_rate', type=float, required=True, help='Learning rate')
+  '-lr','--learning_rate', type=float, required=False, default=0.0005 help='Learning rate')
 
 parser.add_argument(
   '-beam-size','--beam_size', type=int, required=False, default=0.2, help='Beam search size ')
@@ -98,6 +95,8 @@ parser.add_argument(
 
 parser.add_argument(
   '-tie-embeddings','--tie-embeddings', action='store_true', required=False, help='Tied embeddings')
+parser.add_argument(
+  '-patience','--patience', type=int, required=False, default=30 help='Patience to stop training')
 
 
 
