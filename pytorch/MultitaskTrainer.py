@@ -364,7 +364,7 @@ def train(args):
 		print("Building Share vocabulary")
 		source_vocabs = build_vocab(args.train_source + args.train_target, args.src_vocab, name="tied", save_dir=args.save_dir)
 		if mtl:
-			target_vocabs = [source_vocabs for _ in range(len(args.train_target))]
+			target_vocabs = [source_vocabs[0] for _ in range(len(args.train_target))]
 		else:
 			target_vocabs = source_vocabs
 	print("Number of source vocabularies:", len(source_vocabs))
@@ -404,7 +404,7 @@ def train(args):
 
 	# Default optimizer
 	optimizer = torch.optim.Adam(multitask_model.parameters(), lr = learning_rate, betas=(0.9, 0.98), eps=1e-09)
-	model_opt = NoamOpt(args.hidden_size, args.warmup_steps, optimizer)
+	model_opts = [NoamOpt(args.hidden_size, args.warmup_steps, optimizer) for _ in target_vocabs]
 
 	task_id = 0
 	print_loss_total = 0  # Reset every print_every
@@ -416,10 +416,13 @@ def train(args):
 	if not args.patience:
 		patience = args.patience
 
+	if n_tasks > 1:
+		print("Patience wont be taking into account in Multitask learning")
+
 	for _iter in range(1, args.steps + 1):
 
 		train_loss = train_step(multitask_model, train_loaders[task_id], \
-                       LossCompute(criterions[task_id], model_opt), device, task_id = task_id)
+                       LossCompute(criterions[task_id], model_opts[task_id]), device, task_id = task_id)
 
 		print_loss_total += train_loss
 
@@ -431,7 +434,6 @@ def train(args):
 
 		if _iter % args.eval_steps == 0:
 			print("Evaluating...")
-			#valid_loss = _evaluate(multitask_model, dev_loaders[task_id], criterion, device, task_id=task_id)
 			valid_loss = evaluate(multitask_model, dev_loaders[task_id], LossCompute(criterions[task_id], None), \
                             device, task_id=task_id)
 			print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f}')
@@ -442,10 +444,11 @@ def train(args):
 				torch.save(multitask_model.state_dict(), args.save_dir + 'model.pt')
 				print("Saved model.pt")
 			else:
-				if patience == 0:
-					break
-				else:
-					patience -= 1
+				if n_tasks == 1:
+					if patience == 0:
+						break
+					else:
+						patience -= 1
 
 			if n_tasks > 1:
 				print("Changing to the next task ...")
