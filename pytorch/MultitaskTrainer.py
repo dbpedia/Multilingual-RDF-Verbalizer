@@ -416,7 +416,7 @@ def train(args):
 
 		if _iter % args.print_every == 0:
 			print_loss_avg = print_loss_total / args.print_every
-			print_loss_total = 0  
+			print_loss_total = 0
 			print(f'Task: {task_id:d} | Step: {_iter:d} | Train Loss: {train_loss:.3f} | Train PPL: {math.exp(train_loss):7.3f}')
 
 
