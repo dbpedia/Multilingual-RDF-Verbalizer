@@ -65,7 +65,7 @@ parser.add_argument(
 parser.add_argument(
   '-optimizer','--optimizer', type=str, required=False, help='Optimizer that will be used')
 parser.add_argument(
-  '-lr','--learning_rate', type=float, required=False, default=0.0005 help='Learning rate')
+  '-lr','--learning_rate', type=float, required=False, default=0.0005, help='Learning rate')
 
 parser.add_argument(
   '-beam-size','--beam_size', type=int, required=False, default=0.2, help='Beam search size ')
@@ -96,7 +96,7 @@ parser.add_argument(
 parser.add_argument(
   '-tie-embeddings','--tie-embeddings', action='store_true', required=False, help='Tied embeddings')
 parser.add_argument(
-  '-patience','--patience', type=int, required=False, default=30 help='Patience to stop training')
+  '-patience','--patience', type=int, required=False, default=30, help='Patience to stop training')
 
 
 
