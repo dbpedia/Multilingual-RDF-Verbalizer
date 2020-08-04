@@ -172,8 +172,8 @@ def evaluate(model, loader, loss_compute, device, task_id=0):
 			loss = loss_compute(output, tgt) #, n_tokens
 			epoch_loss += loss
 
-			#total_tokens += n_tokens
-			#loss = criterion(output, tgt)
+		if torch.equal(model.decoders[task_id].fc_out.weight, model.encoder.tok_embedding.weight):
+			print("decoder output and encoder embeddings are the same")
 
 	return epoch_loss / len(loader) #total_tokens
 
@@ -363,7 +363,12 @@ def train(args):
 	else:
 		print("Building Share vocabulary")
 		source_vocabs = build_vocab(args.train_source + args.train_target, args.src_vocab, name="tied", save_dir=args.save_dir)
-		target_vocabs = source_vocabs
+		if mtl:
+			target_vocabs = [source_vocabs for _ in range(len(args.train_target))]
+		else:
+			target_vocabs = source_vocabs
+	print("Number of source vocabularies:", len(source_vocabs))
+	print("Number of target vocabularies:", len(target_vocabs))
 
 	# source_vocabs, target_vocabs = build_vocab(args.train_source, args.train_target, mtl=mtl)
 
@@ -406,7 +411,11 @@ def train(args):
 
 	n_tasks = len(train_loaders)
 	best_valid_loss = [float('inf') for _ in range(n_tasks)]
+
 	patience = 30
+	if not args.patience:
+		patience = args.patience
+
 	for _iter in range(1, args.steps + 1):
 
 		train_loss = train_step(multitask_model, train_loaders[task_id], \
