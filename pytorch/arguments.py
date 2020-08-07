@@ -68,7 +68,7 @@ parser.add_argument(
   '-lr','--learning_rate', type=float, required=False, default=0.0005, help='Learning rate')
 
 parser.add_argument(
-  '-beam-size','--beam_size', type=int, required=False, default=5, help='Beam search size ')
+  '-beam-size','--beam_size', type=int, required=False, default=1, help='Beam search size ')
 parser.add_argument(
   '-beam-alpha', '--beam_alpha', type=float, required=False, default=0.2, help='Alpha value for Beam search')
 
