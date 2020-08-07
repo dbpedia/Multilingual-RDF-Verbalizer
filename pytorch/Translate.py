@@ -5,6 +5,7 @@ from queue import PriorityQueue
 
 def translate(model, task_id, sentences, source_vocab, target_vocab, device, max_length=180, beam_size=None):
 	outputs = []
+	print(beam_size)
 	if beam_size is None:
 		print("Using greedy search")
 		for sentence in sentences:
