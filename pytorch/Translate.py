@@ -106,7 +106,7 @@ def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab
 
 	while True:
 		# give up when decoding takes too long
-		if qsize > beam_size * max_length: break
+		if qsize > 2000: break
 
 		# fetch the best node
 		score, n = nodes.get()
@@ -141,7 +141,8 @@ def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab
 		qsize += len(nextnodes) - 1
 
 	if len(endnodes) == 0:
-		trg_indexes = nodes.get().wordid
+		score, n = nodes.get()
+		trg_indexes = n.wordid
 	else:
 		trg_indexes = endnodes[0][1].wordid
 
