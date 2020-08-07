@@ -68,7 +68,7 @@ parser.add_argument(
   '-lr','--learning_rate', type=float, required=False, default=0.0005, help='Learning rate')
 
 parser.add_argument(
-  '-beam-size','--beam_size', type=int, required=False, default=0.2, help='Beam search size ')
+  '-beam-size','--beam_size', type=int, required=False, default=5, help='Beam search size ')
 parser.add_argument(
   '-beam-alpha', '--beam_alpha', type=float, required=False, default=0.2, help='Alpha value for Beam search')
 
@@ -97,6 +97,9 @@ parser.add_argument(
   '-tie-embeddings','--tie-embeddings', action='store_true', required=False, help='Tied embeddings')
 parser.add_argument(
   '-patience','--patience', type=int, required=False, default=30, help='Patience to stop training')
+
+parser.add_argument(
+  '-translate','--translate', action='store_true', required=False, help='Only translate using all parameters and the pre-trained model')
 
 
 
