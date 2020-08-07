@@ -177,7 +177,7 @@ def evaluate(model, loader, loss_compute, device, task_id=0):
 	return epoch_loss / len(loader) #total_tokens    	
 
 
-def run_translate(model, source_vocab, target_vocabs, save_dir, device, max_length, beam_size, filenames)
+def run_translate(model, source_vocab, target_vocabs, save_dir, device, max_length, beam_size, filenames):
 
 	for index, eval_name in enumerate(filenames):
 		n = len(eval_name.split("/"))
