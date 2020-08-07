@@ -177,7 +177,7 @@ def evaluate(model, loader, loss_compute, device, task_id=0):
 	return epoch_loss / len(loader) #total_tokens    	
 
 
-def run_translate(model, source_vocab, target_vocabs, save_dir, device, max_length, beam_size, filenames):
+def run_translate(model, source_vocab, target_vocabs, save_dir, device, beam_size, filenames, max_length):
 
 	for index, eval_name in enumerate(filenames):
 		n = len(eval_name.split("/"))
@@ -321,8 +321,8 @@ def train(args):
 		return
 
 	print("Evaluating and testing")
-	run_translate(multitask_model, source_vocabs[0], target_vocabs, args.save_dir, device, max_length=max_length, args.beam_size, args.eval)
-	run_translate(multitask_model, source_vocabs[0], target_vocabs, args.save_dir, device, max_length=max_length, args.beam_size, args.test)
+	run_translate(multitask_model, source_vocabs[0], target_vocabs, args.save_dir, device, args.beam_size, args.eval, max_length=max_length)
+	run_translate(multitask_model, source_vocabs[0], target_vocabs, args.save_dir, device, args.beam_size, args.test, max_length=max_length)
 
 	'''
 	for index, test_name in enumerate(args.test):
