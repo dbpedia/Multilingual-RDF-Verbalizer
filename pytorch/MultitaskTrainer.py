@@ -322,6 +322,9 @@ def train(args):
 		return
 
 	print("Evaluating and testing")
+	if args.beam_size:
+		print("there is beam...")
+
 	run_translate(multitask_model, source_vocabs[0], target_vocabs, args.save_dir, device, args.beam_size, args.eval, max_length=max_length)
 	run_translate(multitask_model, source_vocabs[0], target_vocabs, args.save_dir, device, args.beam_size, args.test, max_length=max_length)
 
