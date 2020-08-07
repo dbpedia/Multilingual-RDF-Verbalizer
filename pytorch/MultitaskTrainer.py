@@ -186,7 +186,7 @@ def run_translate(model, source_vocab, target_vocabs, save_dir, device, max_leng
 		fout = open(save_dir + name + "." + str(index) + ".out", "w")
 		with open(eval_name, "r") as f:
 			outputs = translate(model, index, f, source_vocab, target_vocabs[index], device, 
-							beam_size=beam_size max_length=max_length)
+							beam_size=beam_size, max_length=max_length)
 			for output in outputs:
 				fout.write(output.replace("<eos>","").strip() + "\n")
 		fout.close()

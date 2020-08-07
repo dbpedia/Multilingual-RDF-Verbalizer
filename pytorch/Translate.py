@@ -3,7 +3,7 @@ import torch
 
 from queue import PriorityQueue
 
-def translate(model, task_id, sentences, source_vocab, target_vocab, device, max_length = 180, beam_size=None):
+def translate(model, task_id, sentences, source_vocab, target_vocab, device, max_length=180, beam_size=None):
 	outputs = []
 	if beam_size is None:
 		Print("Using greedy search")
