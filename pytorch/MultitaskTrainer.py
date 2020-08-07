@@ -11,7 +11,7 @@ from models.Multitask import Multitask
 from layers.Encoder import Encoder
 from layers.Decoder import Decoder
 
-#from Queue import PriorityQueue
+from queue import PriorityQueue
 
 import torch
 import torch.nn as nn
@@ -219,7 +219,7 @@ def translate_sentence(model, task_id, sentence, source_vocab, target_vocab, dev
 	return ' '.join(trg_tokens[1:])
 
 
-'''
+
 class BeamSearchNode(object):
 	def __init__(self, previousNode, wordId, logProb, length):
 
@@ -231,7 +231,8 @@ class BeamSearchNode(object):
 	def eval(self, alpha=1.0):
 		reward = 0
 		# Add here a function for shaping a reward
-		return self.logp / float(self.leng - 1 + 1e-6) + alpha * reward
+		return self.logp / float(self.leng - 1 + 1e-6) #+ alpha * reward
+
 
 def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab, device, beam_size = 5, max_length = 180):
 
@@ -256,15 +257,13 @@ def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab
 		enc_src = model.encoder(src_tensor, src_mask)
 
 	trg_indexes = [constants.SOS_IDX]
-	trg_tensor = torch.LongTensor(trg_indexes).unsqueeze(0).to(device)
-
 
 	# Number of sentence to generate
 	endnodes = []
 	number_required = min((topk + 1), topk - len(endnodes))
 
 	# starting node -  hidden vector, previous node, word id, logp, length
-	node = BeamSearchNode(None, trg_tensor, 0, 1)
+	node = BeamSearchNode(None, trg_indexes, 0, 1)
 	nodes = PriorityQueue()
 
 	# start the queue
@@ -273,13 +272,13 @@ def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab
 
 	while True:
 		# give up when decoding takes too long
-		if qsize > max_length: break
+		if qsize > 2000: break
 
 		# fetch the best node
 		score, n = nodes.get()
-		decoder_input = n.wordid
+		trg_indexes = n.wordid
 
-		if n.wordid.item() == constants.EOS_IDX and n.prevNode != None:
+		if n.wordid[-1] == constants.EOS_IDX and n.prevNode != None:
 			endnodes.append((score, n))
 			# if we reached maximum # of sentences required
 			if len(endnodes) >= number_required:
@@ -287,6 +286,8 @@ def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab
 			else:
 				continue
 
+
+		trg_tensor = torch.LongTensor(trg_indexes).unsqueeze(0).to(device)
 		trg_mask = model.make_trg_mask(trg_tensor)
 
 		with torch.no_grad():
@@ -297,41 +298,27 @@ def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab
 		log_prob, indexes = torch.topk(output, beam_size)
 		nextnodes = []
 
+		for lp, idx in zip(log_prob, indexes):
+			print(idx, "\t", lp)
+
 
 		for new_k in range(beam_size):
 			decoded_t = indexes[0][new_k].view(1, -1)
 			log_p = log_prob[0][new_k].item()
 
-			node = BeamSearchNode(n, decoded_t, n.logp + log_p, n.leng + 1)
+			node = BeamSearchNode(trg_indexes, trg_indexes.append(decoded_t), n.logp + log_p, n.leng + 1)
 			score = -node.eval()
 			nextnodes.append((score, node))
 
-			# put them into queue
-			for i in range(len(nextnodes)):
-				score, nn = nextnodes[i]
-				nodes.put((score, nn))
-				# increase qsize
-			qsize += len(nextnodes) - 1
+		# put them into queue
+		for i in range(len(nextnodes)):
+			score, nn = nextnodes[i]
+			nodes.put((score, nn))
+			# increase qsize
+		qsize += len(nextnodes) - 1
 
+	print(endnodes)
 
-	for i in range(max_length):
-
-		with torch.no_grad():
-			output, attention = model.decoders[task_id](trg_tensor, enc_src, trg_mask, src_mask)
-
-		pred_token = output.argmax(2)[:,-1].item()
-		trg_indexes.append(pred_token)
-
-		if pred_token == constants.EOS_IDX:
-			break
-
-		trg_tensor = torch.LongTensor(trg_indexes).unsqueeze(0).to(device)
-		trg_mask = model.make_trg_mask(trg_tensor)
-
-	trg_tokens = [target_vocab.itos(i) for i in trg_indexes]
-
-	return ' '.join(trg_tokens[1:])
-'''
 		
 def train(args):
 
@@ -411,7 +398,7 @@ def train(args):
 
 	n_tasks = len(train_loaders)
 	best_valid_loss = [float('inf') for _ in range(n_tasks)]
-
+	'''
 	patience = 30
 	if not args.patience:
 		patience = args.patience
@@ -454,7 +441,7 @@ def train(args):
 				print("Changing to the next task ...")
 				task_id = (0 if task_id == n_tasks - 1 else task_id + 1)
 
-
+	'''
 	multitask_model.load_state_dict(torch.load(args.save_dir + 'model.pt'))
 
 
@@ -466,10 +453,12 @@ def train(args):
 		fout = open(args.save_dir + name + "." + str(index) + ".out", "w")
 		with open(eval_name, "r") as f:
 			for sentence in f:
-				output = translate_sentence(multitask_model, index, sentence, source_vocabs[0], target_vocabs[index], device, max_length)
+				#output = translate_sentence(multitask_model, index, sentence, source_vocabs[0], target_vocabs[index], device, max_length)
+				output = ""
+				translate_sentence_beam(multitask_model, index, sentence, source_vocabs[0], target_vocabs[index], device, max_length=max_length)
 				fout.write(output.replace("<eos>","").strip() + "\n")
 		fout.close()
-
+	'''
 	for index, test_name in enumerate(args.test):
 		n = len(test_name.split("/"))
 		name = test_name.split("/")[n-1]
@@ -480,5 +469,5 @@ def train(args):
 				output = translate_sentence(multitask_model, index, sentence, source_vocabs[0], target_vocabs[index], device, max_length)
 				fout.write(output.replace("<eos>","").strip() + "\n")
 		fout.close()
-				
+	'''			
 
