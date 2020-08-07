@@ -272,6 +272,7 @@ def train(args):
 	best_valid_loss = [float('inf') for _ in range(n_tasks)]
 
 	if not args.translate:
+		print("Start training...")
 		patience = 30
 		if not args.patience:
 			patience = args.patience

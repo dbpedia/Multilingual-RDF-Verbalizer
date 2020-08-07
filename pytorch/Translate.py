@@ -6,12 +6,12 @@ from queue import PriorityQueue
 def translate(model, task_id, sentences, source_vocab, target_vocab, device, max_length=180, beam_size=None):
 	outputs = []
 	if beam_size is None:
-		Print("Using greedy search")
+		print("Using greedy search")
 		for sentence in sentences:
 			outputs.append(translate_sentence(model, task_id, sentence, source_vocab, target_vocab, device,
 					 max_length = max_length))
 	else:
-		Print("Using beam search")
+		print("Using beam search")
 		for sentence in sentences:
 			outputs.append(translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab, device,
 								 beam_size = beam_size, max_length=max_length))
