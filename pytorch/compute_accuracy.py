@@ -1,4 +1,12 @@
 import json
+import argparse
+
+
+parser = argparse.ArgumentParser(description="Getting the embeddings for an specific webnlg dataset")
+parser.add_argument(
+	'-ref','--reference', type=str, required=True, help='Reference file (a json file)')
+parser.add_argument(
+	'-hyp', '--hypothesis', type=str, required=True, help='Hypothesis file')
 
 def compute_accuracy(gold, hyp_path):
 
@@ -19,35 +27,23 @@ def compute_accuracy(gold, hyp_path):
 		dem += 1
 	print('Accuracy: ', round(num/dem, 2))
 
-print("Ordering")
+if __name__ == "__main__":
+	args = parser.parse_args()
+	gold = json.load(open(args.reference))
+	compute_accuracy(gold, args.hypothesis)
 
-gold_path = "data/ordering/dev.json"
-gold = json.load(open(gold_path))
-#hyp_path = "output/tr.enc.ordering/dev.eval.0.out"
-hyp_path = "output/ordering/dev.eval.0.out"
+	'''
+	gold_path = "data/ordering/dev.json"
+	gold = json.load(open(gold_path))
+	#hyp_path = "output/tr.enc.ordering/dev.eval.0.out"
+	hyp_path = "output/ordering/dev.eval.0.out"
 
-compute_accuracy(gold, hyp_path)
+	compute_accuracy(gold, hyp_path)
 
-gold_path = "data/ordering/test.json"
-gold = json.load(open(gold_path))
-#hyp_path = "output/tr.enc.ordering/test.eval.0.out"
-hyp_path = "output/ordering/test.eval.0.out"
+	gold_path = "data/ordering/test.json"
+	gold = json.load(open(gold_path))
+	#hyp_path = "output/tr.enc.ordering/test.eval.0.out"
+	hyp_path = "output/ordering/test.eval.0.out"
 
-compute_accuracy(gold, hyp_path)
-
-print("Structuring")
-
-gold_path = "data/structing/dev.json"
-gold = json.load(open(gold_path))
-#hyp_path = "output/tr.enc.structuring/dev.eval.0.out"
-hyp_path = "output/structuring/dev.eval.0.out"
-
-compute_accuracy(gold, hyp_path)
-
-gold_path = "data/structing/test.json"
-gold = json.load(open(gold_path))
-#hyp_path = "output/tr.enc.structuring/test.eval.0.out"
-hyp_path = "output/structuring/test.eval.0.out"
-
-compute_accuracy(gold, hyp_path)
-
+	compute_accuracy(gold, hyp_path)
+	'''

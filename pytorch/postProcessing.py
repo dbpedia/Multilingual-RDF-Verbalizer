@@ -1,9 +1,17 @@
+import sys
 
+import argparse
 
-path = "output/lexicalization"
-for name_in, name_out in zip(["dev.eval.0.out", "test.eval.0.out"], ["dev.lower.out", "test.lower.out"]):
-	fout = open(path + "/" + name_out, "w")
-	with open(path + "/" + name_in, "r") as f:
+parser = argparse.ArgumentParser(description="Post processing")
+parser.add_argument(
+	'-i','--input', type=str, required=True, help='Input file')
+parser.add_argument(
+	'-o', '--output', type=str, required=True, help='Output file')
+
+if __name__ == "__main__":
+	args = parser.parse_args()
+	fout = open(args.output, "w")
+	with open(args.input, "r") as f:
 		for line in f:
 			tokens = line.split()
 			newline = ""
@@ -13,4 +21,4 @@ for name_in, name_out in zip(["dev.eval.0.out", "test.eval.0.out"], ["dev.lower.
 				else:
 					newline += token + " "
 			fout.write(newline.strip() + "\n")
-	fout.close()
+	fout.close()	
