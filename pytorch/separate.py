@@ -1,15 +1,15 @@
 
-prefix = "test"
+prefix = "dev"
 
-refs = open("data/multi/"+ prefix +".eval", "r")
-hyps = open("output/multi/" + prefix + ".multi.0.out", "r") 
+refs = open("data/multibpe/"+ prefix +".eval", "r")
+hyps = open("output/multibpe/" + prefix + ".multibpe.0.out", "r") 
 
 keys = {"<ordering>":0, "<structuring>":1, "<lexicalization>":2, "<end2end>":3}
 
-out0 = open("output/multi/"+ prefix +".eval.0.out", "w")
-out1 = open("output/multi/"+ prefix +".eval.1.out", "w")
-out2 = open("output/multi/"+ prefix +".eval.2.out", "w")
-out3 = open("output/multi/"+ prefix +".eval.3.out", "w")
+out0 = open("output/multibpe/"+ prefix +".eval.0.out", "w")
+out1 = open("output/multibpe/"+ prefix +".eval.1.out", "w")
+out2 = open("output/multibpe/"+ prefix +".eval.2.out", "w")
+out3 = open("output/multibpe/"+ prefix +".eval.3.out", "w")
 
 
 for ref, hyp in zip(refs, hyps):

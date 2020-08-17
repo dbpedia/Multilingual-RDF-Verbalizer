@@ -1,7 +1,7 @@
 
 
-data_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/data/end2end"
-output_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/output/tr.end2end"
+data_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/data/lexicalization"
+output_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/output/multibpe/lexicalization"
 moses="/home/msobrevillac/Projects/gsoc/mosesdecoder"
 model="case_model"
 lng=en
