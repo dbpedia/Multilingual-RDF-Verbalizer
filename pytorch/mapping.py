@@ -27,7 +27,7 @@ def orderout2structin(ordering_out, triples):
         added = []
         for predicate in ordering_out:
             for i, triple in enumerate(triples):
-                if predicate.strip() == triple[1].strip() and i not in added:
+                if predicate.strip().lower() == triple[1].strip().lower() and i not in added:
                     ord_triples.append(triple)
                     added.append(i)
                     break
@@ -52,10 +52,10 @@ def orderout2structin_simple(ordering_out, triples):
 def structout2lexin(struct_out, triples):
     sentences, snt = [], []
     for w in struct_out:
-        if w.strip() not in ['<SNT>', '</SNT>']:
+        if w.strip().upper() not in ['<SNT>', '</SNT>']:
             snt.append(w.strip())
 
-        if w.strip() == '</SNT>':
+        if w.strip().upper() == '</SNT>':
             sentences.append(snt)
             snt = []
 
@@ -67,7 +67,7 @@ def structout2lexin(struct_out, triples):
         for snt in sentences:
             for predicate in snt:
                 for i, triple in enumerate(triples):
-                    if predicate.strip() == triple[1].strip() and i not in added:
+                    if predicate.strip().lower() == triple[1].strip().lower() and i not in added:
                         struct_unit.append(triple)
                         added.append(i)
                         break
