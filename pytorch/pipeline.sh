@@ -8,7 +8,7 @@ for set in dev test
 do
 mv /home/marcosbc/results/output.03082020/ordering/$set.eval.0.out /home/marcosbc/results/pipeline/ordering.$set
 
-python /home/marcosbc/Multilingual-RDF-Verbalizer/pytorch/mapping.py /home/marcosbc/Multilingual-RDF-Verbalizer/pytorch/data/en/ordering/$set.eval /home/marcosbc/results/pipeline/ordering.$set ordering /home/marcosbc/results/pipeline/ordering.mapped.$set
+python /home/marcosbc/Multilingual-RDF-Verbalizer/pytorch/mapping.py /home/marcosbc/Multilingual-RDF-Verbalizer/pytorch/data/en/end2end/$set.eval /home/marcosbc/results/pipeline/ordering.$set ordering /home/marcosbc/results/pipeline/ordering.mapped.$set
 
 done
 
