@@ -86,7 +86,7 @@ def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab
 	src_indexes = [source_vocab.stoi(token) for token in tokens]
 	src_tensor = torch.LongTensor(src_indexes).unsqueeze(0).to(device)
 	src_mask = model.make_src_mask(src_tensor)
-	print(len(src_indexes))
+
 	enc_src = None
 	with torch.no_grad():
 		enc_src = model.encoder(src_tensor, src_mask)
@@ -111,13 +111,12 @@ def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab
 		score, n = nodes.get()
 		trg_indexes = n.wordid
 
-		if n.wordid[-1] == constants.EOS_IDX and n.prevNode != None:
+		if (n.wordid[-1] == constants.EOS_IDX and n.prevNode != None) or len(trg_indexes) == max_length:
 			endnodes.append((score, n))
 			break
 
 		trg_tensor = torch.LongTensor(trg_indexes).unsqueeze(0).to(device)
 		trg_mask = model.make_trg_mask(trg_tensor)
-		print(trg_indexes, "\t", len(trg_indexes))
 
 		with torch.no_grad():
 			# decode for one step using decoder
