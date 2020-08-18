@@ -78,7 +78,7 @@ def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab
 
 	tokens = [token.lower() for token in sentence.split()]
 	tokens = [constants.SOS_STR] + tokens + [constants.EOS_STR]
-
+	print(' '.join(tokens))
 	if len(tokens) < max_length:
 		tokens = tokens + [constants.PAD_STR for _ in range(max_length - len(tokens))]
 	else:
