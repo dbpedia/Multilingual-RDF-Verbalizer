@@ -16,7 +16,8 @@ python /home/marcosbc/Multilingual-RDF-Verbalizer/pytorch/Train.py -train-src /h
 
 for set in dev test
 do
-mv /home/marcosbc/results/output.03082020/structuring/$set.eval.0.out /home/marcosbc/results/pipeline/structuring.$set
+dev.0.out
+mv /home/marcosbc/results/output.03082020/structuring/ordering.mapped.$set.0.out /home/marcosbc/results/pipeline/structuring.$set
 
 python /home/marcosbc/Multilingual-RDF-Verbalizer/pytorch/mapping.py /home/marcosbc/results/pipeline/ordering.mapped.$set /home/marcosbc/results/pipeline/structuring.$set structing /home/marcosbc/results/pipeline/structuring.mapped.$set
 
