@@ -16,7 +16,7 @@ Description:
 """
 
 import sys
-import utils
+from utils import util
 
 
 def orderout2structin(ordering_out, triples):
@@ -32,7 +32,7 @@ def orderout2structin(ordering_out, triples):
                     added.append(i)
                     break
 
-    return ' '.join(utils.join_triples(ord_triples))
+    return ' '.join(util.join_triples(ord_triples))
 
 
 def orderout2structin_simple(ordering_out, triples):
@@ -46,7 +46,7 @@ def orderout2structin_simple(ordering_out, triples):
             except:
                 pass
 
-    return ' '.join(utils.join_triples(ord_triples))
+    return ' '.join(util.join_triples(ord_triples))
 
 
 def structout2lexin(struct_out, triples):
@@ -73,7 +73,7 @@ def structout2lexin(struct_out, triples):
                         break
             struct.append(struct_unit)
             struct_unit = []
-    return ' '.join(utils.join_struct(struct))
+    return ' '.join(util.join_struct(struct))
 
 
 def structout2lexin_simple(struct_out, triples):
@@ -89,11 +89,11 @@ def structout2lexin_simple(struct_out, triples):
         elif w.strip() == '</SNT>':
             struct.append(snt)
             snt = []
-    return ' '.join(utils.join_struct(struct))
+    return ' '.join(util.join_struct(struct))
 
 
 def lexout2regin(lex_out, triples):
-    entities = utils.entity_mapping(triples)
+    entities = util.entity_mapping(triples)
     for i, w in enumerate(lex_out):
         if w.strip() in entities:
             lex_out[i] = entities[w]
@@ -108,7 +108,7 @@ def run(out_path, entries_path, task):
     with open(entries_path) as f:
         entries = f.read().split('\n')
 
-    entries = [utils.split_triples(t.split()) for t in entries]
+    entries = [util.split_triples(t.split()) for t in entries]
     for i, entry in enumerate(entries):
         if task == 'ordering':
             yield orderout2structin(ordering_out=outputs[i], triples=entry)
