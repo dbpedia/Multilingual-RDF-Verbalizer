@@ -31,6 +31,9 @@ class BeamSearchNode(object):
 		# Add here a function for shaping a reward
 		return self.logp / float(self.leng - 1 + 1e-6) #+ alpha * reward
 
+	def __lt__(self, o):
+		return 0
+
 
 def translate_sentence(model, task_id, sentence, source_vocab, target_vocab, device, max_length = 180):
 
