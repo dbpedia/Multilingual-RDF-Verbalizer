@@ -26,7 +26,7 @@ for set in dev test
 do
 mv /home/marcosbc/results/output.03082020/lexicalization/structuring.mapped.$set.0.out /home/marcosbc/results/pipeline/lex.$set
 
-python /home/marcosbc/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/postProcessing.py -i /home/marcosbc/results/pipeline/lex.$set -o /home/marcosbc/results/pipeline/lexicalization.lower.$set
+python /home/marcosbc/Multilingual-RDF-Verbalizer/pytorch/postProcessing.py -i /home/marcosbc/results/pipeline/lex.$set -o /home/marcosbc/results/pipeline/lexicalization.lower.$set
 
 $moses/scripts/recaser/recase.perl --in /home/marcosbc/results/pipeline/lexicalization.lower.$set --model /home/marcosbc/Multilingual-RDF-Verbalizer/pytorch/data/en/lexicalization/case_model/moses.ini --moses $moses/bin/moses > /home/marcosbc/results/pipeline/lexicalization.cs.$set
 
