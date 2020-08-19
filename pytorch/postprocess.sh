@@ -1,10 +1,10 @@
 
 
-data_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/data/lexicalization"
-output_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/output/multibpe/lexicalization"
+data_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/data/ru/end2end"
+output_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/output/ru.end2end"
 moses="/home/msobrevillac/Projects/gsoc/mosesdecoder"
-model="case_model"
-lng=en
+model="caser_model"
+lng=ru
 
 
 for prefix in dev test
