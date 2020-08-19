@@ -22,7 +22,7 @@ sys.path.append('./')
 sys.path.append('../')
 
 from neuralreg import NeuralREG
-from utils import util
+import util
 import re
 
 class REG():
