@@ -22,7 +22,7 @@ sys.path.append('./')
 sys.path.append('../')
 
 from neuralreg import NeuralREG
-import utils
+from utils import util
 import re
 
 class REG():
@@ -124,9 +124,9 @@ class REG():
             entries = f.read().split('\n')
 
         with open(order_path) as f:
-            ordered_triples = [utils.split_triples(t.split()) for t in f.read().split('\n')]
+            ordered_triples = [util.split_triples(t.split()) for t in f.read().split('\n')]
 
-        entity_maps = [utils.entity_mapping(t) for t in ordered_triples]
+        entity_maps = [util.entity_mapping(t) for t in ordered_triples]
         result = []
         for i, entry in enumerate(entries):
             print('Progress: ', round(i / len(entries), 2), end='\r')
