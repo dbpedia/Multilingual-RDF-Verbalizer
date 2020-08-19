@@ -22,7 +22,11 @@ python /home/marcosbc/Multilingual-RDF-Verbalizer/pytorch/Train.py -train-src /h
 for set in dev test
 do
 mv /home/marcosbc/results/output.03082020/lexicalization/structuring.mapped.$set.0.out /home/marcosbc/results/pipeline/lexicalization.$set
+
+python /home/marcosbc/Multilingual-RDF-Verbalizer/pytorch/reg/generate.py /home/marcosbc/results/pipeline/lexicalization.$set /home/marcosbc/results/pipeline/ordering.mapped.$set neuralreg /home/marcosbc/reg_model/model1.dy
+
 done
+
 
 
 
