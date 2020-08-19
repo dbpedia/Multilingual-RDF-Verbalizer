@@ -38,7 +38,7 @@ do
 
 #python $project_dir/utils/generate.py $pipeline_dir/lexicalization.$set $pipeline_dir/ordering.mapped.$set $pipeline_dir/reg.$set neuralreg /home/marcosbc/reg_model/model1.dy
 
-python $project_dir/utils/realization.py $pipeline_dir/$set.reg $pipeline_dir/realization.$set $project_dir/data/en/lexicalization/surfacevocab.json
+python $project_dir/utils/realization.py $pipeline_dir/reg.$set $pipeline_dir/realization.$set $project_dir/data/en/lexicalization/surfacevocab.json
 
 done
 
