@@ -1,7 +1,6 @@
-# neural-rdf-verbalizer-gsoc-2020
-GSoC 2020 
+# Hierachical Decoding - GSoC 2020 
 
-This repository contains the code of the second part of the Google Summer of Code program.
+This golder contains the code of the second part of the Google Summer of Code program.
 
 In order to reproduce the experiments, you will need to install:
 - pip install torch
@@ -16,7 +15,7 @@ python Train.py -train-src data/ordering/train.src data/structing/train.src data
 	-train-tgt data/ordering/train.trg data/structing/train.trg data/lexicalization/train.bpe.trg data/end2end/train.bpe.trg \
 	-dev-src data/ordering/dev.src data/structing/dev.src data/lexicalization/dev.src data/end2end/dev.src \
 	-dev-tgt data/ordering/dev.trg data/structing/dev.trg data/lexicalization/dev.bpe.trg data/end2end/dev.bpe.trg \
-	-mtl -batch-size 64 -max-length 180 -lr 0.001 -seed 13 -clipping 1 \
+	-mtl -batch-size 64 -max-length 180 -lr 0.001 -seed 13 \
 	-hidden-size 256 -enc-layers 3 -dec-layers 3 -enc-filter-size 512 -dec-filter-size 512 \
 	-enc-num-heads 8 -dec-num-heads 8 -enc-dropout 0.1 -dec-dropout 0.1 \
 	-steps 100000 -eval-steps 500 -print-every 100 \
