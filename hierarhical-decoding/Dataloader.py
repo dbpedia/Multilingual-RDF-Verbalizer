@@ -4,6 +4,9 @@ from utils.vocab import Vocab
 import torch
 
 class ParallelDataset(Dataset):
+	'''
+		This class builds a dataset from source/target files according to a max_length
+	'''
 
 	def __init__(self, source_name, target_name, max_length=300, source_vocab=None, target_vocab=None):
 
@@ -24,6 +27,9 @@ class ParallelDataset(Dataset):
 
 			
 	def __len__(self):
+		'''
+			Return the length of the dataset
+		'''
 		return len(self.data_source)
 
 	def __getitem__(self, index):
@@ -42,24 +48,22 @@ class ParallelDataset(Dataset):
 
 
 	def read_file(self, filename):
+		'''
+			Read the file to 
+			filename: filename or path of the source/target files
+		'''
 		data = []
 		with open(filename, "r") as f:
 			for line in f:
 				data.append(line.strip().split()) 
 		return data
 
-	'''
-	def padding_sentences(self, sentences):
-		tokens = []
-		if isinstance(sentences, list):
-			for sentence in sentences:
-				tokens.append(self.padding_sentence(sentence))
-		else:
-
-		return tokens
-	'''
 
 	def padding_sentence(self, tokens):
+		'''
+			Padding the sentence (adding sos and eos tokens and fix the length to a max_length
+			tokens: list of tokens of a sentence
+		'''
 		tokens = ['<sos>'] + tokens + ['<eos>']
 
 		if len(tokens) < self.max_length:
@@ -71,9 +75,18 @@ class ParallelDataset(Dataset):
 
 
 	def vocabs(self):
+		'''
+			Return the source and target vocabulary
+		'''
 		return self.source_vocab, self.target_vocab
 
 
 def get_dataloader (dataset, batch_size, shuffle=False):
+	'''
+		return a DataLoader object
+		dataset: the parallel dataset
+		batch_size: 
+		shuffle: if we should shuffle the dataset
+	'''
 	return DataLoader(dataset, batch_size = batch_size, shuffle = shuffle, num_workers = 1)
 

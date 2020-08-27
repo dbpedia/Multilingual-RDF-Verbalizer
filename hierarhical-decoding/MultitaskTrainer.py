@@ -1,6 +1,6 @@
 
 from utils.vocab import Vocab
-from utils.util import epoch_time, initialize_weights, set_seed, count_parameters
+from utils.util import initialize_weights, set_seed, count_parameters
 import utils.constants as constants
 from utils.loss import LabelSmoothing, LossCompute
 from utils.optimizer import NoamOpt
@@ -19,6 +19,15 @@ import math
 import time
 
 def build_vocab(files, vocabulary=None, mtl=False, name="src", save_dir="/"):
+	'''
+		This method builds the vocabulary
+		files: files to generate the vocabulary.
+		vocabulary: if there is a vocabulary we should only load it
+		mtl: if true we should generate an specific vocabulary for each file. Otherwise, a joint vocabulary
+		name: prefix of the vocabulary
+		save_dir: folder where the vocabular will be saved
+	'''
+
 	vocabs = []
 
 	if vocabulary is not None:
@@ -48,6 +57,18 @@ def build_vocab(files, vocabulary=None, mtl=False, name="src", save_dir="/"):
 
 def build_dataset(source_files, target_files, batch_size, shuffle=False, \
 			source_vocabs=None, target_vocabs=None, mtl=False, max_length=180):
+	'''
+		This method builds a dataset and dataloader for all tasks
+		source_files: path for each source file (each file represents a task)
+		target_files: path for each target file (each file represents a task)
+		batch_size: the size of the batch
+		shuffle: shuffle the dataset
+		source_vocabs: the source vocabulary for each file
+		target_vocabs: the target vocabulary for each file
+		mtl: if true an specific target vocabulary is used for each dataset sharing he source vocab, otherwise, all are built separately
+		max_length: max length of the source/target lines
+	'''
+
 	loaders = []
 
 	for index, (source_file, target_file) in enumerate(zip(source_files, target_files)):
@@ -62,7 +83,16 @@ def build_dataset(source_files, target_files, batch_size, shuffle=False, \
 		loaders.append(loader)
 	return loaders
 
+
 def load_model(args, source_vocabs, target_vocabs, device, max_length):
+	'''
+		This method loads a pre-trained model
+		args: arguments for loading the model
+		source_vocabs: the source vocabulary for each file
+		target_vocabs: the target vocabulary for each file
+		device: if use gpu or cpu
+		max_length: max length of a sentence
+	'''
 	if args.load_encoder:
 		from collections import OrderedDict
 		encoder = OrderedDict()
@@ -79,7 +109,17 @@ def load_model(args, source_vocabs, target_vocabs, device, max_length):
 		print("Building an model using the encoder and the decoder ... ")
 		return mtl
 
+
 def build_model(args, source_vocabs, target_vocabs, device, max_length , encoder=None):
+	'''
+		This method builds a model from scratch or using the encoder of a pre-trained model
+		args: arguments for loading the model
+		source_vocabs: the source vocabulary for each file
+		target_vocabs: the target vocabulary for each file
+		device: if use gpu or cpu
+		max_length: max length of a sentence
+		encoder: if the encoder is passed as a pre-trained model
+	'''
 
 	input_dim = source_vocabs[0].len()
 	enc = Encoder(input_dim, 
@@ -121,12 +161,18 @@ def build_model(args, source_vocabs, target_vocabs, device, max_length , encoder
 	return model
 
 def train_step(model, loader, loss_compute, device, task_id = 0):
+	'''
+		This method performs training on a step (only one batch)
+		model: the model being trained
+		loader: dataloader that provides the batches
+		loss_compute: function to compute the loss
+		device: if use gpu or cpu
+		task_id: task id that is being trained (0 as default)
+	'''
 
 	model.train()
 
 	(src, tgt) = next(iter(loader))
-
-	n_tokens = (torch.flatten(src != 1)).sum(dim=0) + (torch.flatten(tgt != 1)).sum(dim=0)
 
 	src = src.to(device)
 	tgt = tgt.to(device)
@@ -140,21 +186,27 @@ def train_step(model, loader, loss_compute, device, task_id = 0):
 	#output = [batch size * tgt len - 1, output dim]
 	#tgt = [batch size * tgt len - 1]
 
-	loss = loss_compute(output, tgt) # , norm = n_tokens 1000
+	loss = loss_compute(output, tgt)
 
-	return loss #/ n_tokens
+	return loss
 
 
 def evaluate(model, loader, loss_compute, device, task_id=0):
+	'''
+		This method performs an evaluation on all dataset
+		model: the model being evaluated
+		loader: dataloader that provides the batches
+		loss_compute: function to compute the loss
+		device: if use gpu or cpu
+		task_id: task id that is being trained (0 as default)
+	'''
     
 	model.eval()  
 	epoch_loss = 0
 	total_tokens = 0
 	with torch.no_grad():
 
-		for i, (src, tgt) in enumerate(loader):
-
-			n_tokens = (torch.flatten(src != 1)).sum(dim=0) + (torch.flatten(tgt != 1)).sum(dim=0)			
+		for i, (src, tgt) in enumerate(loader):		
 
 			src = src.to(device)
 			tgt = tgt.to(device)
@@ -168,16 +220,27 @@ def evaluate(model, loader, loss_compute, device, task_id=0):
 			#output = [batch size * tgt len - 1, output dim]
 			#tgt = [batch size * tgt len - 1]
 
-			loss = loss_compute(output, tgt) #, n_tokens
+			loss = loss_compute(output, tgt)
 			epoch_loss += loss
 
-		if torch.equal(model.decoders[task_id].fc_out.weight, model.encoder.tok_embedding.weight):
-			print("decoder output and encoder embeddings are the same")
+		#if torch.equal(model.decoders[task_id].fc_out.weight, model.encoder.tok_embedding.weight):
+		#	print("decoder output and encoder embeddings are the same")
 
-	return epoch_loss / len(loader) #total_tokens    	
+	return epoch_loss / len(loader)    	
 
 
 def run_translate(model, source_vocab, target_vocabs, save_dir, device, beam_size, filenames, max_length):
+	'''
+		This method builds a model from scratch or using the encoder of a pre-trained model
+		model: the model being evaluated
+		source_vocabs: the source vocabulary for each file
+		target_vocabs: the target vocabulary for each file
+		save_dir: path where the outpus will be saved
+		beam_size: beam size during the translating
+		filenames: filenames of triples to process
+		max_length: max length of a sentence
+	'''
+
 
 	for index, eval_name in enumerate(filenames):
 		n = len(eval_name.split("/"))

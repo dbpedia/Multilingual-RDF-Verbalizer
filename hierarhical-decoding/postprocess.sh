@@ -1,19 +1,19 @@
 
 
-data_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/data/ru/end2end"
-output_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/output/ru.end2end"
+#data_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/data/ru/end2end"
+#output_dir="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/output/ru.end2end"
+#model="caser_model"
+#lng=ru
+input=$1
+recaser_model=$2
+lng=$3
+
 moses="/home/msobrevillac/Projects/gsoc/mosesdecoder"
-model="caser_model"
-lng=ru
 
+python3.6 postProcessing.py -i $input -o $input.lower.out
 
-for prefix in dev test
- do
-	python3.6 /home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/postProcessing.py -i $output_dir/$prefix.eval.0.out -o $output_dir/$prefix.lower.out
+$moses/scripts/recaser/recase.perl --in $input.lower.out --model $recaser_model/moses.ini --moses $moses/bin/moses > $input.cs.out
 
-	$moses/scripts/recaser/recase.perl --in $output_dir/$prefix.lower.out --model $data_dir/$model/moses.ini --moses $moses/bin/moses > $output_dir/$prefix.cs.out
+$moses/scripts/tokenizer/normalize-punctuation.perl -l $lng < $input.cs.out > $input.punc.out
+$moses/scripts/tokenizer/detokenizer.perl -l $lng < $input.punc.out > $input.out
 
-	$moses/scripts/tokenizer/normalize-punctuation.perl -l $lng < $output_dir/$prefix.cs.out > $output_dir/$prefix.punc.out
-	$moses/scripts/tokenizer/detokenizer.perl -l $lng < $output_dir/$prefix.punc.out > $output_dir/$prefix.out
-
- done

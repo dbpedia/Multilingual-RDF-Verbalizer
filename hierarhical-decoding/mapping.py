@@ -1,5 +1,3 @@
-__author__='thiagocastroferreira'
-
 """
 Author: Thiago Castro Ferreira
 Date: 26/03/2019
