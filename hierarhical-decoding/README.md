@@ -27,6 +27,8 @@ python utils/vocab.py -data data/en/ordering/train.src data/en/structing/train.s
 	-vocab-prefix tied -save-dir vocab/
 ```
 
+It is worth noting that the folder `data` already contains all the files processed. 
+
 
 ## 2) Training
 
@@ -108,9 +110,20 @@ To postprocessing the outputs of the lexicalisation and the End2End task, you ne
 ./postprocess.sh output/end2end/dev.eval.0.out data/en/end2end/case_model en
 ```
 
+## 4) Pipeline
+
+Finally, you can run all the models hierarchically, i.e., from the high-level tasks to the low-level tasks. In particular, this script run the Discourse Ordering, Text Structuring, Lexicalisation, Referring Expression generation and Lexicalisation tasks sequentially. You will need to train the [NeuralREG] tool or use the model available in this [link].
+
+```
+./pipeline.sh
+```
+In this bash script you should change the variables `pipeline_dir` (putting your pipeline output folder), `model_dir` (the path where all models are located), and `neuralreg_dir` (the path where the neuralreg model is). Additionally, you need to change the variables `project_dir`, `moses` and `lng`.
+
 
 [data]: https://github.com/dbpedia/Multilingual-RDF-Verbalizer/tree/master/hierarhical-decoding/data
 [here]: https://github.com/ThiagoCF05/DeepNLG
 [Moses]: https://github.com/moses-smt/mosesdecoder.git
 [Subword-NMT]: https://github.com/rsennrich/subword-nmt.git
 [vocab]: https://github.com/dbpedia/Multilingual-RDF-Verbalizer/tree/master/hierarhical-decoding/vocab
+[NeuralREG]: https://github.com/ThiagoCF05/NeuralREG
+[link]: https://drive.google.com/drive/folders/13GPCKtAtI2y_fzNVWAQ_9Ccb-H2TRu00?usp=sharing
