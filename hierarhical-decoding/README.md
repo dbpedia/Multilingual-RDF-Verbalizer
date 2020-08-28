@@ -32,26 +32,7 @@ It is worth noting that the folder `data` already contains all the files process
 
 ## 2) Training
 
-### 2.1) Multitask Learning
-
-If you want to train the Multitask learning approach, you should run this script
-
-```
-python Train.py -train-src data/en/ordering/train.src data/en/structing/train.src data/en/lexicalization/train.src data/en/end2end/train.src \
-	-train-tgt data/en/ordering/train.trg data/en/structing/train.trg data/en/lexicalization/train.bpe.trg data/en/end2end/train.bpe.trg \
-	-dev-src data/en/ordering/dev.src data/en/structing/dev.src data/en/lexicalization/dev.src data/en/end2end/dev.src \
-	-dev-tgt data/en/ordering/dev.trg data/en/structing/dev.trg data/en/lexicalization/dev.bpe.trg data/en/end2end/dev.bpe.trg \
-    -mtl -batch-size 32 -max-length 180 -lr 0.0005 -seed 13 \
-    -hidden-size 512 -enc-layers 4 -dec-layers 4 -enc-filter-size 2048 \
-    -dec-filter-size 2048 -enc-num-heads 8 -dec-num-heads 8 \
-    -enc-dropout 0.1 -dec-dropout 0.1 \
-    -steps 800000 -eval-steps 5000 -print-every 1000 -warmup-steps 8000 \
-	-eval data/en/ordering/dev.eval data/en/structing/dev.eval data/en/lexicalization/dev.eval data/en/end2end/dev.eval \
-	-test data/en/ordering/test.eval data/en/structing/test.eval data/en/lexicalization/test.eval data/en/end2end/test.eval \
-	-gpu -save-dir output/mtl.4.4/ -tie-embeddings -src-vocab vocab/tied.vocab.json -beam-size 5
-```
-
-### 2.2) Transfer Learning
+### 2.1) Transfer Learning
 
 Here is an example of how to train on the ordering dataset and then finetune on the structuring dataset using only the decoder trained on the previous step.
 
@@ -84,7 +65,7 @@ python Train.py -train-src data/structing/train.src -train-tgt data/structing/tr
 	-tie-embeddings -src-vocab vocab/tied.vocab.json -beam-size 5
 ```
 
-### 2.3) Multi-input (similar to Multilingual NMT)
+### 2.2) Multi-input (similar to Multilingual NMT)
 To run the multi-input approach you need to add a task token in each source file. The multi `data/en/multi` already contained all the modifications. However, You can preprocess all the source files by running the `multi_preprocess.sh`. This file considers that lexicalisation and End2End tasks already have been preprocessed together (you can see the files in the `data/en/end2end+lexicalization` folder).
 
 ```
@@ -103,6 +84,25 @@ python Train.py -train-src data/en/multi/train.src -train-tgt data/en/multi/trai
 
 If you already have a model and only want to execute. You should add the param `-translate` in the train.py.
 
+### 2.3) Multitask Learning
+
+If you want to train the Multitask learning approach, you should run this script
+
+```
+python Train.py -train-src data/en/ordering/train.src data/en/structing/train.src data/en/lexicalization/train.src data/en/end2end/train.src \
+	-train-tgt data/en/ordering/train.trg data/en/structing/train.trg data/en/lexicalization/train.bpe.trg data/en/end2end/train.bpe.trg \
+	-dev-src data/en/ordering/dev.src data/en/structing/dev.src data/en/lexicalization/dev.src data/en/end2end/dev.src \
+	-dev-tgt data/en/ordering/dev.trg data/en/structing/dev.trg data/en/lexicalization/dev.bpe.trg data/en/end2end/dev.bpe.trg \
+    -mtl -batch-size 32 -max-length 180 -lr 0.0005 -seed 13 \
+    -hidden-size 512 -enc-layers 4 -dec-layers 4 -enc-filter-size 2048 \
+    -dec-filter-size 2048 -enc-num-heads 8 -dec-num-heads 8 \
+    -enc-dropout 0.1 -dec-dropout 0.1 \
+    -steps 800000 -eval-steps 5000 -print-every 1000 -warmup-steps 8000 \
+	-eval data/en/ordering/dev.eval data/en/structing/dev.eval data/en/lexicalization/dev.eval data/en/end2end/dev.eval \
+	-test data/en/ordering/test.eval data/en/structing/test.eval data/en/lexicalization/test.eval data/en/end2end/test.eval \
+	-gpu -save-dir output/mtl.4.4/ -tie-embeddings -src-vocab vocab/tied.vocab.json -beam-size 5
+```
+
 ## 3) Postprocessing
 
 To postprocessing the outputs of the lexicalisation and the End2End task, you need to run this script:
@@ -117,7 +117,7 @@ Finally, you can run all the models hierarchically, i.e., from the high-level ta
 ```
 ./pipeline.sh
 ```
-In this bash script you should change the variables `pipeline_dir` (putting your pipeline output folder), `model_dir` (the path where all models are located), and `neuralreg_dir` (the path where the neuralreg model is). Additionally, you need to change the variables `project_dir`, `moses` and `lng`.
+In this bash script you should change the variables `pipeline_dir` (putting your pipeline output folder), `model_dir` (the path where all models are located), and `neuralreg_dir` (the path where the neuralreg model is). Besides, you need to change the variables `project_dir`, `moses` and `lng`.  Finally, you can run the multi-input approach and the transfer learning approach using the scripts in the folder `pipeline`. This scripts work well, however, I will make some modifications to better generalization.
 
 
 [data]: https://github.com/dbpedia/Multilingual-RDF-Verbalizer/tree/master/hierarhical-decoding/data
