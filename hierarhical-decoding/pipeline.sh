@@ -1,4 +1,3 @@
-
 moses="/home/marcosbc/LinearAMR/mosesdecoder"
 lng="en"
 
