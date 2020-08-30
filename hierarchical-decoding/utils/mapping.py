@@ -14,7 +14,7 @@ Description:
 """
 
 import sys
-from utils import util
+import util
 
 
 def orderout2structin(ordering_out, triples):
