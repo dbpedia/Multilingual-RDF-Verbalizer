@@ -319,7 +319,7 @@ def run(args):
 	if args.model is None:
 		sys.exit("Model not found")
 
-	model = load_model(args, params, source_vocabs, target_vocabs, device)
+	model = load_model(args.model, params, source_vocabs, target_vocabs, device)
 	run_translate(model, source_vocabs[0], target_vocabs, args.save_dir, device, 
 			args.beam_size, args.input, max_length=params['max_length'], task_id=args.task_id)
 
