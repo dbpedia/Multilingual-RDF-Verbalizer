@@ -1,6 +1,6 @@
 
 from utils.vocab import Vocab
-from utils.util import initialize_weights, set_seed, count_parameters
+from utils.util import initialize_weights, set_seed, count_parameters, save_params, build_vocab
 import utils.constants as constants
 from utils.loss import LabelSmoothing, LossCompute
 from utils.optimizer import NoamOpt
@@ -18,41 +18,6 @@ import torch.nn as nn
 import math
 import time
 
-def build_vocab(files, vocabulary=None, mtl=False, name="src", save_dir="/"):
-	'''
-		This method builds the vocabulary
-		files: files to generate the vocabulary.
-		vocabulary: if there is a vocabulary we should only load it
-		mtl: if true we should generate an specific vocabulary for each file. Otherwise, a joint vocabulary
-		name: prefix of the vocabulary
-		save_dir: folder where the vocabular will be saved
-	'''
-
-	vocabs = []
-
-	if vocabulary is not None:
-		for v in vocabulary:
-			print(f'Loading from {v}')
-			vocab = Vocab()
-			vocab.load_from_file(v)
-			vocabs.append(vocab)
-	else:
-		if mtl is True:
-			for index, f in enumerate(files):
-				vocab = Vocab()
-				vocab.build_vocab([f])
-				vocab.save(save_dir + name + ".vocab." + str(index) + ".json")
-				vocabs.append(vocab)
-		else:
-			vocab = Vocab()
-			vocab.build_vocab(files)
-			vocab.save(save_dir + name + ".vocab.json")
-			vocabs.append(vocab)
-
-	for index, vocab in enumerate(vocabs):
-		print(f'vocabulary size {index+1:d}: {vocab.len():d}')
-
-	return vocabs
 
 
 def build_dataset(source_files, target_files, batch_size, shuffle=False, \
@@ -264,6 +229,8 @@ def train(args):
 	batch_size = args.batch_size
 	max_length = args.max_length
 	mtl = args.mtl
+
+	save_params(args, args.save_dir + "args.json")
 
 	learning_rate = 0.0005
 	if not args.learning_rate:

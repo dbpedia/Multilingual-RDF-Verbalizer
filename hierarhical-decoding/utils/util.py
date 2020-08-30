@@ -3,32 +3,34 @@ import numpy as np
 import torch
 import torch.nn as nn
 import re
+import json
+from .vocab import Vocab
 
 
 def initialize_weights(m):
-	'''
-		Initialize the weights of a model
-		m: model
-	'''
+    '''
+        Initialize the weights of a model
+        m: model
+    '''
     if hasattr(m, 'weight') and m.weight.dim() > 1:
         nn.init.xavier_uniform_(m.weight.data)
 
 def set_seed(seed):
-	'''
-		Setting a seed to make our experiments reproducible
-		seed: seed value
-	'''
-	random.seed(seed)
-	np.random.seed(seed)
-	torch.manual_seed(seed)
-	torch.cuda.manual_seed(seed)
-	torch.backends.cudnn.deterministic = True
+    '''
+        Setting a seed to make our experiments reproducible
+        seed: seed value
+    '''
+    random.seed(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed(seed)
+    torch.backends.cudnn.deterministic = True
 
 def count_parameters(model):
-	'''
-		Count the number of parameters that requires grad
-		model: model
-	'''
+    '''
+        Count the number of parameters that requires grad
+        model: model
+    '''
 
     return sum(p.numel() for p in model.parameters() if p.requires_grad)
 
@@ -135,4 +137,63 @@ def delexicalize_verb(template):
 
     regex = r'(number=)(.*?)]'
     return re.sub(regex, r'\1null]', template)
+
+
+def load_params(params_file):
+    return json.load(open(params_file))
+
+def save_params(args, params_file):
+    params = {}
+    params['hidden_size'] = args.hidden_size
+    params['encoder_ff_size'] = args.encoder_ff_size
+    params['encoder_layer'] = args.encoder_layer
+    params['encoder_head'] = args.encoder_head
+    params['encoder_dropout'] = args.encoder_dropout
+    params['decoder_ff_size'] = args.decoder_ff_size
+    params['decoder_layer'] = args.decoder_layer
+    params['decoder_head'] = args.decoder_head
+    params['decoder_dropout'] = args.decoder_dropout
+    params['max_length'] = args.max_length
+    params['tie_embeddings'] = args.tie_embeddings
+    with open(params_file, "w") as outfile: 
+        json.dump(params, outfile)
+
+def build_vocab(files, vocabulary=None, mtl=False, name="src", save_dir="/"):
+    '''
+        This method builds the vocabulary
+        files: files to generate the vocabulary.
+        vocabulary: if there is a vocabulary we should only load it
+        mtl: if true we should generate an specific vocabulary for each file. Otherwise, a joint vocabulary
+        name: prefix of the vocabulary
+        save_dir: folder where the vocabular will be saved
+    '''
+
+    vocabs = []
+
+    if vocabulary is not None:
+        for v in vocabulary:
+            print(f'Loading from {v}')
+            vocab = Vocab()
+            vocab.load_from_file(v)
+            vocabs.append(vocab)
+    else:
+        if mtl is True:
+            for index, f in enumerate(files):
+                vocab = Vocab()
+                vocab.build_vocab([f])
+                vocab.save(save_dir + name + ".vocab." + str(index) + ".json")
+                vocabs.append(vocab)
+        else:
+            vocab = Vocab()
+            vocab.build_vocab(files)
+            vocab.save(save_dir + name + ".vocab.json")
+            vocabs.append(vocab)
+
+    for index, vocab in enumerate(vocabs):
+        print(f'vocabulary size {index+1:d}: {vocab.len():d}')
+
+    return vocabs
+    
+
+
 

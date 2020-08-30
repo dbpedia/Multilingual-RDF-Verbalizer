@@ -1,9 +1,30 @@
 import utils.constants as constants
 import torch
+import numpy as np
+import random
+from arguments import get_args
+import sys
+from utils.util import set_seed, load_params, initialize_weights, build_vocab
+
+from models.Multitask import Multitask
+from layers.Encoder import Encoder
+from layers.Decoder import Decoder
 
 from queue import PriorityQueue
 
 def translate(model, task_id, sentences, source_vocab, target_vocab, device, max_length=180, beam_size=None):
+	'''
+		Function that translates a set of triple sets
+		model:
+		task_id:
+		sentences:
+		source_vocab:
+		target_vocab:
+		device:
+		max_length:
+		beam_size:
+	'''
+
 	outputs = []
 	if beam_size == 1:
 		print("Using greedy search")
@@ -19,6 +40,10 @@ def translate(model, task_id, sentences, source_vocab, target_vocab, device, max
 
 
 class BeamSearchNode(object):
+	'''
+		This class handles the tokens that are being generating in the beam search process
+	'''
+
 	def __init__(self, previousNode, wordId, logProb, length):
 
 		self.prevNode = previousNode
@@ -36,6 +61,16 @@ class BeamSearchNode(object):
 
 
 def translate_sentence(model, task_id, sentence, source_vocab, target_vocab, device, max_length = 180):
+	'''
+		This function translates an specific sentence
+		model:
+		task_id:
+		sentences:
+		source_vocab:
+		target_vocab:
+		device:
+		max_length:
+	'''
 
 	model.eval()
 
@@ -76,6 +111,17 @@ def translate_sentence(model, task_id, sentence, source_vocab, target_vocab, dev
 
 
 def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab, device, beam_size = 5, max_length = 180):
+	'''
+		This function translates an specific sentence
+		model:
+		task_id:
+		sentences:
+		source_vocab:
+		target_vocab:
+		device:
+		max_length:
+		beam_size:
+	'''
 
 	model.eval()
 
@@ -151,3 +197,137 @@ def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab
 	trg_tokens = [target_vocab.itos(i) for i in trg_indexes]
 
 	return ' '.join(trg_tokens[1:])
+
+
+def load_model(model, params, source_vocabs, target_vocabs, device):
+	'''
+		This method loads a pre-trained model
+		args: arguments for loading the model
+		params:
+		source_vocabs: the source vocabulary for each file
+		target_vocabs: the target vocabulary for each file
+		device: if use gpu or cpu
+		max_length: max length of a sentence
+	'''
+	print("Loading the model from ", model)
+	mtl = build_model(params, source_vocabs, target_vocabs, device)
+	mtl.load_state_dict(torch.load(model))
+	print("Model loaded")
+	return mtl
+
+
+def build_model(params, source_vocabs, target_vocabs, device):
+	'''
+		This method builds a model from scratch or using the encoder of a pre-trained model
+		args: arguments for loading the model
+		source_vocabs: the source vocabulary for each file
+		target_vocabs: the target vocabulary for each file
+		device: if use gpu or cpu
+		max_length: max length of a sentence
+		encoder: if the encoder is passed as a pre-trained model
+	'''
+
+	input_dim = source_vocabs[0].len()
+	enc = Encoder(input_dim, 
+		params['hidden_size'], 
+		params['encoder_layer'], 
+		params['encoder_head'], 
+		params['encoder_ff_size'], 
+		params['encoder_dropout'], 
+		device,
+     		max_length=params['max_length']).to(device)
+	enc.apply(initialize_weights);
+
+	decs = []
+
+	for target_vocab in target_vocabs:
+
+		output_dim = target_vocab.len()
+		dec = Decoder(output_dim, 
+				params['hidden_size'], 
+				params['decoder_layer'], 
+				params['decoder_head'], 
+				params['decoder_ff_size'], 
+				params['decoder_dropout'], 
+				device,
+        max_length=params['max_length']).to(device)
+
+		if params['tie_embeddings']:
+			dec.tok_embedding = enc.tok_embedding
+			dec.fc_out.weight = enc.tok_embedding.weight
+
+		dec.apply(initialize_weights);
+		decs.append(dec)
+
+	model = Multitask(enc, decs, constants.PAD_IDX, constants.PAD_IDX, device).to(device)
+
+	return model
+
+def run_translate(model, source_vocab, target_vocabs, save_dir, device, beam_size, filename, max_length, task_id=0):
+	'''
+		This method builds a model from scratch or using the encoder of a pre-trained model
+		model: the model being evaluated
+		source_vocabs: the source vocabulary for each file
+		target_vocabs: the target vocabulary for each file
+		save_dir: path where the outpus will be saved
+		beam_size: beam size during the translating
+		filenames: filenames of triples to process
+		max_length: max length of a sentence
+		task_id:
+	'''
+
+	print(f'Reading {filename}')
+	fout = open(save_dir, "w")
+	with open(filename, "r") as f:
+		outputs = translate(model, task_id, f, source_vocab, target_vocabs[task_id], device, 
+							beam_size=beam_size, max_length=max_length)
+		for output in outputs:
+			fout.write(output.replace("<eos>","").strip() + "\n")
+	fout.close()
+
+
+def run(args):
+
+	set_seed(args.seed)
+	device = torch.device('cuda' if torch.cuda.is_available() and args.gpu else 'cpu')
+
+	params = load_params(args.params)
+
+
+	if not args.src_vocab:
+		sys.exit("Source vocab is not found")		
+
+	if not params['tie_embeddings']:
+		if not args.src_vocab:
+			sys.exit("Target vocab is not found")
+
+		print("Loading Encoder vocabulary")
+		source_vocabs = build_vocab(None, args.src_vocab)
+		print("Loading Decoder vocabulary")
+		target_vocabs = build_vocab(None, args.tgt_vocab)
+	else:
+		print("Loading Shared vocabulary")
+		source_vocabs = build_vocab(None, args.src_vocab)
+		if args.mtl:
+			target_vocabs = [source_vocabs[0] for _ in range(len(args.src_vocab))]
+		else:
+			target_vocabs = source_vocabs
+
+	print("Number of source vocabularies:", len(source_vocabs))
+	print("Number of target vocabularies:", len(target_vocabs))
+
+	if args.model is None:
+		sys.exit("Model not found")
+
+	model = load_model(args, params, source_vocabs, target_vocabs, device)
+	run_translate(model, source_vocabs[0], target_vocabs, args.save_dir, device, 
+			args.beam_size, args.input, max_length=params['max_length'], task_id=args.task_id)
+
+
+
+if __name__ == "__main__":
+	args = get_args()
+	global step
+
+	run(args)
+
