@@ -6,14 +6,14 @@ import argparse
 parser = argparse.ArgumentParser(description="Main Arguments")
 
 parser.add_argument(
-  '-train-src', '--train_source', type=str, nargs='*', required=True, help='Path to train source dataset')
+  '-train-src', '--train_source', type=str, nargs='*', required=False, help='Path to train source dataset')
 parser.add_argument(
-  '-train-tgt', '--train_target', type=str, nargs='*', required=True, help='Path to train target dataset')
+  '-train-tgt', '--train_target', type=str, nargs='*', required=False, help='Path to train target dataset')
 
 parser.add_argument(
-  '-dev-src', '--dev_source', type=str, nargs='*', required=True, help='Path to train source dataset')
+  '-dev-src', '--dev_source', type=str, nargs='*', required=False, help='Path to train source dataset')
 parser.add_argument(
-  '-dev-tgt', '--dev_target', type=str, nargs='*', required=True, help='Path to train target dataset')
+  '-dev-tgt', '--dev_target', type=str, nargs='*', required=False, help='Path to train target dataset')
 
 parser.add_argument(
   '-eval','--eval', type=str, nargs='*', required=False, help='Path to the Dev set')
@@ -24,11 +24,11 @@ parser.add_argument(
 parser.add_argument(
   '-steps', '--steps', type=int, required=False, help='Number of training steps')
 parser.add_argument(
-  '-print-every', '--print_every', type=int, required=True, help='Print the loss/ppl every training steps')
+  '-print-every', '--print_every', type=int, required=False, help='Print the loss/ppl every training steps')
 parser.add_argument(
-  '-warmup-steps', '--warmup-steps', type=int, required=True, default=4000, help='warmup steps for transformer model')
+  '-warmup-steps', '--warmup-steps', type=int, required=False, default=4000, help='warmup steps for transformer model')
 parser.add_argument(
-  '-eval-steps', '--eval_steps', type=int, required=True, help='Evaluate every x steps. After that, change the task (in mtl setting)')
+  '-eval-steps', '--eval_steps', type=int, required=False, help='Evaluate every x steps. After that, change the task (in mtl setting)')
 
 #parser.add_argument(
 #  '--checkpoint', type=int, required=False, help='Save checkpoint every these steps')
@@ -41,24 +41,24 @@ parser.add_argument(
   '-max-length', '--max_length', type=int, required=False, default=180, help='Max length in encoder/decoder')
 
 parser.add_argument(
-  '-hidden-size', '--hidden_size', type=int, required=True, help='Size of hidden layer output')
+  '-hidden-size', '--hidden_size', type=int, required=False, help='Size of hidden layer output')
 parser.add_argument(
-  '-enc-filter-size', '--encoder_ff_size', type=int, required=True, help='Size of FFN Filters (Encoder)')
+  '-enc-filter-size', '--encoder_ff_size', type=int, required=False, help='Size of FFN Filters (Encoder)')
 parser.add_argument(
-  '-enc-layers', '--encoder_layer', type=int, required=True, help='Number of layers in Encoder')
+  '-enc-layers', '--encoder_layer', type=int, required=False, help='Number of layers in Encoder')
 parser.add_argument(
-  '-enc-num-heads', '--encoder_head', type=int, required=True, help='Number of heads in self-attention in Encoder')
+  '-enc-num-heads', '--encoder_head', type=int, required=False, help='Number of heads in self-attention in Encoder')
 parser.add_argument(
-  '-enc-dropout', '--encoder_dropout', type=float, required=True, help='Dropout rate in Encoder')
+  '-enc-dropout', '--encoder_dropout', type=float, required=False, help='Dropout rate in Encoder')
 
 parser.add_argument(
-  '-dec-filter-size', '--decoder_ff_size', type=int, required=True, help='Size of FFN Filters (Decoder)')
+  '-dec-filter-size', '--decoder_ff_size', type=int, required=False, help='Size of FFN Filters (Decoder)')
 parser.add_argument(
-  '-dec-layers', '--decoder_layer', type=int, required=True, help='Number of layers in Decoder')
+  '-dec-layers', '--decoder_layer', type=int, required=False, help='Number of layers in Decoder')
 parser.add_argument(
-  '-dec-num-heads', '--decoder_head', type=int, required=True, help='Number of heads in self-attention in Decoder')
+  '-dec-num-heads', '--decoder_head', type=int, required=False, help='Number of heads in self-attention in Decoder')
 parser.add_argument(
-  '-dec-dropout', '--decoder_dropout', type=float, required=True, help='Dropout rate in Decoder')
+  '-dec-dropout', '--decoder_dropout', type=float, required=False, help='Dropout rate in Decoder')
 
 
 # hyper-parameters
@@ -101,7 +101,13 @@ parser.add_argument(
 parser.add_argument(
   '-translate','--translate', action='store_true', required=False, help='Only translate using all parameters and the pre-trained model')
 
+parser.add_argument(
+  '-params','--params', type=str, required=False, help='a json file that contains the parameters of he model')
+parser.add_argument(
+  '-task-id','--task-id', type=str, required=False, default=0, help='The task id that we need to use in translation mode (default:0)')
 
+parser.add_argument(
+  '-input','--input', type=str, required=False, help='Path to the input file')
 
 # inference parameters
 
