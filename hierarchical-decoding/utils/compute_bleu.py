@@ -59,7 +59,7 @@ def compute_bleu(gold, hyp_path, domain):
 					f.write(refs[i])
 				f.write('\n')
 
-	bleu_command = 'utils/multi-bleu-detok.perl'
+	bleu_command = 'multi-bleu-detok.perl'
 	command = 'perl ' + bleu_command + ' reference1 reference2 reference3 reference4 reference5 reference6 reference7 reference8 < predictions'
 	result = subprocess.check_output(command, shell=True)
 	print(result.strip())

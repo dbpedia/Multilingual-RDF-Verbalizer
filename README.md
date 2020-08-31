@@ -21,6 +21,6 @@ You can see my GSoC posts in this [link].
 
 [Marco Sobrevilla]: https://github.com/msobrevillac
 [first one]: https://github.com/dbpedia/Multilingual-RDF-Verbalizer/tree/master/node-embeddings
-[second one]: https://github.com/dbpedia/Multilingual-RDF-Verbalizer/tree/master/hierarhical-decoding
+[second one]: https://github.com/dbpedia/Multilingual-RDF-Verbalizer/tree/master/hierarchical-decoding
 [link]: https://medium.com/@msobrevillac/week-12-google-summer-of-code-2020-thats-all-folks-a1f70aa16589?sk=aabc83bb760c6be9703b7c550cfe6167
 
