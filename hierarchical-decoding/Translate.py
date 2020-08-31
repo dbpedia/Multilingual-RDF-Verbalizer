@@ -4,6 +4,8 @@ import numpy as np
 import random
 from arguments import get_args
 import sys
+
+from utils.vocab import Vocab
 from utils.util import set_seed, load_params, initialize_weights, build_vocab
 
 from models.Multitask import Multitask

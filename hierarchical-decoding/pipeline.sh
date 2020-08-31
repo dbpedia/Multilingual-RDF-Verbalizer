@@ -1,12 +1,12 @@
 moses="/home/marcosbc/LinearAMR/mosesdecoder"
 lng="en"
 
-project_dir="/home/marcosbc/Multilingual-RDF-Verbalizer/pytorch"
+project_dir="/home/marcosbc/Multilingual-RDF-Verbalizer/hierarchical-decoding"
 
-ordering_model="/home/marcosbc/model/ordering"
-structuring_model="/home/marcosbc/model/structuring"
-lexicalization_model="/home/marcosbc/model/lexicalization"
-pipeline_dir="/home/marcosbc/results/pipeline"
+ordering_model="/home/marcosbc/results/output.03082020/ordering"
+structuring_model="/home/marcosbc/results/output.03082020/structuring"
+lexicalization_model="/home/marcosbc/results/output.03082020/lexicalization"
+pipeline_dir="/home/marcosbc/out/pipeline"
 neuralreg_dir="/home/marcosbc/reg_model/model1.dy"
 
 
@@ -27,7 +27,7 @@ python $project_dir/Translate.py -input $pipeline_dir/ordering.mapped.$set -gpu 
 python $project_dir/utils/mapping.py $pipeline_dir/ordering.mapped.$set $pipeline_dir/structuring.$set structing $pipeline_dir/structuring.mapped.$set
 
 python $project_dir/Translate.py -input $pipeline_dir/structuring.mapped.$set -gpu \
-				-params $lexicalizaton_model/args.json -model $lexicalizaton_model/model.pt \
+				-params $lexicalization_model/args.json -model $lexicalization_model/model.pt \
 				-beam-size 5 -save-dir $pipeline_dir/lex.$set -seed 13 \
 				-src-vocab $project_dir/vocab/lexicalization/tied.vocab.json -mtl
 

@@ -4,8 +4,7 @@ import torch
 import torch.nn as nn
 import re
 import json
-from .vocab import Vocab
-
+import sys
 
 def initialize_weights(m):
     '''
@@ -178,28 +177,28 @@ def build_vocab(files, vocabulary=None, mtl=False, name="src", save_dir="/"):
     '''
 
     vocabs = []
-
+    from .vocab import Vocab
     if vocabulary is not None:
         for v in vocabulary:
             print(f'Loading from {v}')
-            vocab = Vocab()
-            vocab.load_from_file(v)
-            vocabs.append(vocab)
+            vb = Vocab()
+            vb.load_from_file(v)
+            vocabs.append(vb)
     else:
         if mtl is True:
             for index, f in enumerate(files):
-                vocab = Vocab()
-                vocab.build_vocab([f])
-                vocab.save(save_dir + name + ".vocab." + str(index) + ".json")
-                vocabs.append(vocab)
+                vb = Vocab()
+                vb.build_vocab([f])
+                vb.save(save_dir + name + ".vocab." + str(index) + ".json")
+                vocabs.append(vb)
         else:
-            vocab = Vocab()
-            vocab.build_vocab(files)
-            vocab.save(save_dir + name + ".vocab.json")
-            vocabs.append(vocab)
+            vb = Vocab()
+            vb.build_vocab(files)
+            vb.save(save_dir + name + ".vocab.json")
+            vocabs.append(vb)
 
-    for index, vocab in enumerate(vocabs):
-        print(f'vocabulary size {index+1:d}: {vocab.len():d}')
+    for index, vb in enumerate(vocabs):
+        print(f'vocabulary size {index+1:d}: {vb.len():d}')
 
     return vocabs
     
