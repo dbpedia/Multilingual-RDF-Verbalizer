@@ -104,7 +104,7 @@ parser.add_argument(
 parser.add_argument(
   '-params','--params', type=str, required=False, help='a json file that contains the parameters of he model')
 parser.add_argument(
-  '-task-id','--task-id', type=str, required=False, default=0, help='The task id that we need to use in translation mode (default:0)')
+  '-task-id','--task-id', type=int, required=False, default=0, help='The task id that we need to use in translation mode (default:0)')
 
 parser.add_argument(
   '-input','--input', type=str, required=False, help='Path to the input file')

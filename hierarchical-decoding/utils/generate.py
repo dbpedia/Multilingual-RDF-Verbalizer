@@ -26,7 +26,7 @@ import util
 import re
 
 class REG():
-    def __init__(self, model, model_path):
+    def __init__(self, model, model_path, path='data/en/reg'):
         self.model = model.strip()
         if model == 'neuralreg':
             config = {
@@ -42,7 +42,7 @@ class REG():
                 'EARLY_STOP': 20
             }
 
-            path = '/roaming/tcastrof/emnlp2019/reg'
+            #path = 'data/en/reg'
             self.neuralreg = NeuralREG(path=path, config=config)
             self.neuralreg.populate(model_path)
 
@@ -145,5 +145,6 @@ if __name__ == '__main__':
     out_path = sys.argv[3]
     model = sys.argv[4]
     model_path = sys.argv[5]
-    model = REG(model=model, model_path=model_path)
+    path = sys.argv[6]
+    model = REG(model=model, model_path=model_path, path=path)
     model(in_path=in_path, order_path=order_path, out_path=out_path)
