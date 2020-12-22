@@ -37,14 +37,14 @@ It is worth noting that the folder `data` already contains all the files process
 Here is an example of how to train on the ordering dataset and then finetune on the structuring dataset using only the decoder trained on the previous step.
 
 ```
-python Train.py -train-src data/ordering/train.src -train-tgt data/ordering/train.trg \
-	-dev-src data/ordering/dev.src -dev-tgt data/ordering/dev.trg \
+python Train.py -train-src data/en/ordering/train.src -train-tgt data/en/ordering/train.trg \
+	-dev-src data/en/ordering/dev.src -dev-tgt data/en/ordering/dev.trg \
 	-mtl -batch-size 32 -max-length 180 -lr 0.0005 -seed 13 \
 	-hidden-size 512 -enc-layers 4 -dec-layers 4 -enc-filter-size 2048 \
 	-dec-filter-size 2048 -enc-num-heads 8 -dec-num-heads 8 \
 	-enc-dropout 0.1 -dec-dropout 0.1 -gpu \
 	-steps 200000 -eval-steps 5000 -print-every 1000 -warmup-steps 8000 \
-	-eval data/ordering/dev.eval -test data/ordering/test.eval \
+	-eval data/en/ordering/dev.eval -test data/en/ordering/test.eval \
 	-save-dir output/tr.ordering/ \
 	-tie-embeddings -src-vocab vocab/tied.vocab.json -beam-size 5
 ```
