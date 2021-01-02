@@ -45,6 +45,7 @@ python Train.py -train-src data/en/ordering/train.src -train-tgt data/en/orderin
 	-enc-dropout 0.1 -dec-dropout 0.1 -gpu \
 	-steps 200000 -eval-steps 5000 -print-every 1000 -warmup-steps 8000 \
 	-eval data/en/ordering/dev.eval -test data/en/ordering/test.eval \
+	-eval_ref data/en/ordering/references/dev -test_ref data/en/ordering/references/test \
 	-save-dir output/tr.ordering/ \
 	-tie-embeddings -src-vocab vocab/tied.vocab.json -beam-size 5
 ```
