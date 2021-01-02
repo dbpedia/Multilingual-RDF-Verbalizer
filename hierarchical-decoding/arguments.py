@@ -18,7 +18,11 @@ parser.add_argument(
 parser.add_argument(
   '-eval','--eval', type=str, nargs='*', required=False, help='Path to the Dev set')
 parser.add_argument(
+  '-eval_ref','--eval_ref', type=str, nargs='*', required=False, help='Path to the Dev set gold-standards')
+parser.add_argument(
   '-test','--test', type=str, nargs='*', required=False, help='Path to the Test set')
+parser.add_argument(
+  '-test_ref','--test_ref', type=str, nargs='*', required=False, help='Path to the Test set gold-standards')
 
 # training parameters
 parser.add_argument(
