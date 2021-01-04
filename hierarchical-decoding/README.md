@@ -53,16 +53,17 @@ python Train.py -train-src data/en/ordering/train.src -train-tgt data/en/orderin
 The params `model` and `load-encoder` allow to load the pre-trained model (in the discourse ordering task) and get the encoder of that model to train the Text structuring task. If you want share all the model (not only the encoder) do not put `load-encoder`.
 
 ```
-python Train.py -train-src data/structing/train.src -train-tgt data/structing/train.trg \
-	-dev-src data/structing/dev.src -dev-tgt data/structing/dev.trg \
+python Train.py -train-src data/en/structing/train.src -train-tgt data/en/structing/train.trg \
+	-dev-src data/en/structing/dev.src -dev-tgt data/en/structing/dev.trg \
 	-mtl -batch-size 32 -max-length 180 -lr 0.0005 -seed 13 \
 	-hidden-size 512 -enc-layers 4 -dec-layers 4 -enc-filter-size 2048 \
 	-dec-filter-size 2048 -enc-num-heads 8 -dec-num-heads 8 \
 	-enc-dropout 0.1 -dec-dropout 0.1 -gpu \
 	-steps 200000 -eval-steps 5000 -print-every 1000 -warmup-steps 8000 \
-	-eval data/structing/dev.eval -test data/structing/test.eval \
+	-eval data/en/structing/dev.eval -test data/en/structing/test.eval \
+	-eval_ref data/en/structing/references/dev -test_ref data/en/structing/references/test \
 	-save-dir output/tr.structuring/ \
-	-model output/tr.ordering/model.pt -load-encoder
+	-model output/tr.ordering/model.pt -load-encoder \
 	-tie-embeddings -src-vocab vocab/tied.vocab.json -beam-size 5
 ```
 
