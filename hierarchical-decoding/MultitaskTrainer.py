@@ -16,6 +16,7 @@ import torch
 import torch.nn as nn
 
 import math
+import os
 import time
 
 
@@ -219,13 +220,12 @@ def run_translate(model, source_vocab, target_vocabs, save_dir, device, beam_siz
                 fout.write(output.replace("<eos>","").strip() + "\n")
         fout.close()
         
-def run_evaluation(model, source_vocab, target_vocabs, save_dir, device, beam_size, filenames, ref_files, max_length):
+def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filenames, ref_files, max_length):
     '''
         This method builds a model from scratch or using the encoder of a pre-trained model
         model: the model being evaluated
         source_vocabs: the source vocabulary for each file
         target_vocabs: the target vocabulary for each file
-        save_dir: path where the outpus will be saved
         beam_size: beam size during the translating
         filenames: filenames of triples to process
         ref_files: filenames with gold-standards for each process
@@ -257,7 +257,7 @@ def run_evaluation(model, source_vocab, target_vocabs, save_dir, device, beam_si
                             beam_size=beam_size, max_length=max_length)
         acc = 0.0
         for j, output in enumerate(outputs):
-            if output.replace("<eos>","").strip() in references[j]:
+            if output.replace("<eos>","").strip().lower() in [w.lower() for w in references[j]]:
                 acc += 1
         acc /= len(outputs)
         accuracies.append(acc)
@@ -342,7 +342,7 @@ def train(args):
     print_loss_total = 0  # Reset every print_every
 
     n_tasks = len(train_loaders)
-    best_valid_loss = [float('inf') for _ in range(n_tasks)]
+    best_valid_loss = [float(0) for _ in range(n_tasks)]
 
     if not args.translate:
         print("Start training...")
@@ -368,13 +368,13 @@ def train(args):
 
             if _iter % args.eval_steps == 0:
                 print("Evaluating...")
-                accuracies = run_evaluation(multitask_model, source_vocabs[0], target_vocabs, save_dir, device, args.beam_size, args.eval, args.eval_ref, max_length)
+                accuracies = run_evaluation(multitask_model, source_vocabs[0], target_vocabs, device, args.beam_size, args.eval, args.eval_ref, max_length)
                 accuracy = round(accuracies[task_id], 3)
                 valid_loss = evaluate(multitask_model, dev_loaders[task_id], LossCompute(criterions[task_id], None), \
                                 device, task_id=task_id)
                 print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f} | Acc. {accuracy:.3f}')
-                if accuracy < best_valid_loss[task_id]:
-                    print(f'The accuracy decreased from {accuracies[task_id]:.3f} to {valid_loss:.3f} in the task {task_id}... saving checkpoint')
+                if accuracy > best_valid_loss[task_id]:
+                    print(f'The accuracy increased from {best_valid_loss[task_id]:.3f} to {accuracy:.3f} in the task {task_id}... saving checkpoint')
                     patience = 30
                     best_valid_loss[task_id] = accuracy
                     torch.save(multitask_model.state_dict(), args.save_dir + 'model.pt')
