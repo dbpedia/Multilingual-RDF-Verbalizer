@@ -271,10 +271,10 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
         for i in range(len(outputs)):
             newline = ""
             for token in outputs[i].split():
-				if token.endswith("@@"):
-					newline += token.replace("@@","")
-				else:
-					newline += token + " "
+                if token.endswith("@@"):
+                    newline += token.replace("@@","")
+                else:
+                    newline += token + " "
             outputs[i] = newline.strip().replace("<eos>", "")
         corpus_bleu = bleu_nltk(references_tok[:len(references_tok)-1], outputs)
         print(corpus_bleu)
