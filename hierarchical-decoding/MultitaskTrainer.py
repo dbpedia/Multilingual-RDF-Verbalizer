@@ -234,6 +234,7 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
     '''
 
     accuracies = []
+    bleus = []
     for index, eval_name in enumerate(filenames):
         eval_ref = ref_files[index]
         eval_ref, corpus = '/'.join(eval_ref.split('/')[:-1]), eval_ref.split('/')[-1]
@@ -278,12 +279,9 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
                     newline += token + " "
             outputs[i] = newline.strip().replace("<eos>", "")
         corpus_bleu = bleu_nltk(references_tok[:len(references_tok)-1], outputs)
-        print(corpus_bleu)
+        bleus.append(corpus_bleu)
 
-    return accuracies
-
-
-
+    return accuracies, bleus
 
 
 def train(args):
@@ -391,11 +389,12 @@ def train(args):
 
             if _iter % args.eval_steps == 0:
                 print("Evaluating...")
-                accuracies = run_evaluation(multitask_model, source_vocabs[0], target_vocabs, device, args.beam_size, args.eval, args.eval_ref, max_length)
+                accuracies, bleus = run_evaluation(multitask_model, source_vocabs[0], target_vocabs, device, args.beam_size, args.eval, args.eval_ref, max_length)
                 accuracy = round(accuracies[task_id], 3)
+                bleu = round(bleus[task_id], 3)
                 valid_loss = evaluate(multitask_model, dev_loaders[task_id], LossCompute(criterions[task_id], None), \
                                 device, task_id=task_id)
-                print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f} | Acc. {accuracy:.3f}')
+                print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f} | Acc. {accuracy:.3f} | BLEU. {bleu:.3f}')
                 if accuracy > best_valid_loss[task_id]:
                     print(f'The accuracy increased from {best_valid_loss[task_id]:.3f} to {accuracy:.3f} in the task {task_id}... saving checkpoint')
                     patience = 30
