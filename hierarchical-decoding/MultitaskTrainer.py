@@ -19,6 +19,7 @@ import math
 import os
 import time
 import copy
+import nltk
 
 
 def build_dataset(source_files, target_files, batch_size, shuffle=False, \
