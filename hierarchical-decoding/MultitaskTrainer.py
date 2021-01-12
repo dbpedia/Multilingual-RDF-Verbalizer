@@ -1,6 +1,6 @@
 
 from utils.vocab import Vocab
-from utils.util import initialize_weights, set_seed, count_parameters, save_params, build_vocab
+from utils.util import initialize_weights, set_seed, count_parameters, save_params, build_vocab, bleu_nltk
 import utils.constants as constants
 from utils.loss import LabelSmoothing, LossCompute
 from utils.optimizer import NoamOpt
@@ -18,7 +18,7 @@ import torch.nn as nn
 import math
 import os
 import time
-
+import copy
 
 
 def build_dataset(source_files, target_files, batch_size, shuffle=False, \
@@ -248,6 +248,11 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
                     else:
                         for i, ref in enumerate(doc):
                             references[i].append(ref)
+
+        # references tokenized
+        references_tok = copy.copy(references)
+        for i, refs in enumerate(references_tok):
+            references_tok[i] = [(' '.join(nltk.word_tokenize(ref))).lower() for ref in refs]
         
         n = len(eval_name.split("/"))
         name = eval_name.split("/")[n-1]
@@ -261,7 +266,24 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
                 acc += 1
         acc /= len(outputs)
         accuracies.append(acc)
+
+        #modifying output (fixing BPE)
+        for i in range(len(outputs)):
+            newline = ""
+            for token in outputs[i].split():
+				if token.endswith("@@"):
+					newline += token.replace("@@","")
+				else:
+					newline += token + " "
+            outputs[i] = newline.strip().replace("<eos>", "")
+        corpus_bleu = bleu_nltk(references_tok[:len(references_tok)-1], outputs)
+        print(corpus_bleu)
+
     return accuracies
+
+
+
+
 
 def train(args):
 

@@ -5,6 +5,8 @@ import torch.nn as nn
 import re
 import json
 import sys
+from nltk.translate.bleu_score import corpus_bleu, SmoothingFunction
+import nltk
 
 def initialize_weights(m):
     '''
@@ -24,6 +26,20 @@ def set_seed(seed):
     torch.manual_seed(seed)
     torch.cuda.manual_seed(seed)
     torch.backends.cudnn.deterministic = True
+
+
+def bleu_nltk(references, hypothesis):
+
+    references_, hypothesis_ = [], []
+    for i, refs in enumerate(references):
+        refs_ = [ref for ref in refs if ref.strip() != '']
+        if len(refs_) > 0:
+            references_.append([ref.split() for ref in refs_])
+            hypothesis_.append(hypothesis[i].split())
+
+    chencherry = SmoothingFunction()
+    return corpus_bleu(references_, hypothesis_, smoothing_function=chencherry.method3)
+
 
 def count_parameters(model):
     '''
