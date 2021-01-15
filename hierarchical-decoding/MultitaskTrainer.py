@@ -379,19 +379,20 @@ def train(args):
     print_loss_total = 0  # Reset every print_every
 
     n_tasks = len(train_loaders)
-    best_valid_loss = [float(0) for _ in range(n_tasks)]
 
     if not args.translate:
         print("Start training...")
-        patience = 30
-        if not args.patience:
-            patience = args.patience
+        patience = args.patience
 
         print(f'Using {args.early_stopping_criteria} as evaluation criteria')
         early_stopping_criteria = constants.EVALUATION_CRITERIA[args.early_stopping_criteria]
+        if early_stopping_criteria == 1:
+            best_valid_loss = [float("inf") for _ in range(n_tasks)]
+        else:
+            best_valid_loss = [float(0) for _ in range(n_tasks)]
 
         if n_tasks > 1:
-            print("Patience wont be taking into account in Multitask learning")
+            print("Patience wont be taken into account in Multitask learning")
 
         for _iter in range(1, args.steps + 1):
 
