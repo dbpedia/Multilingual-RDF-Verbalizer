@@ -21,6 +21,18 @@ import time
 import copy
 import nltk
 
+def improved(new_value, best_curr_value, criteria):
+    if criteria > 1:
+        if new_value > best_curr_value:
+            return True
+        else:
+            return False
+    else:
+        if new_value < best_curr_value:
+            return True
+        else:
+            return False
+
 
 def build_dataset(source_files, target_files, batch_size, shuffle=False, \
         source_vocabs=None, target_vocabs=None, mtl=False, max_length=180):
@@ -409,18 +421,20 @@ def train(args):
                         validation_value = round(bleus[task_id], 3)
 
                 print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. {args.early_stopping_criteria}: {validation_value:7.3f}')
-                if validation_value > best_valid_loss[task_id]:
-                    print(f'The {args.early_stopping_criteria} increased from {best_valid_loss[task_id]:.3f} to {validation_value:.3f} in the task {task_id}... saving checkpoint')
-                    patience = 30
+                if improved(validation_value, best_valid_loss[task_id], early_stopping_criteria):
+                    print(f'The {args.early_stopping_criteria} improved from {best_valid_loss[task_id]:.3f} to {validation_value:.3f} in the task {task_id}... saving checkpoint')
+                    patience = args.patience
                     best_valid_loss[task_id] = validation_value
                     torch.save(multitask_model.state_dict(), args.save_dir + 'model.pt')
                     print("Saved model.pt")
                 else:
                     if n_tasks == 1:
                         if patience == 0:
+                            print("The training will stop because it reaches the limit of patience")
                             break
                         else:
                             patience -= 1
+                            print(f'Patience ({patience}/{args.patience})')
 
                 if n_tasks > 1:
                     print("Changing to the next task ...")
