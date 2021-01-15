@@ -101,6 +101,8 @@ parser.add_argument(
   '-tie-embeddings','--tie-embeddings', action='store_true', required=False, help='Tied embeddings')
 parser.add_argument(
   '-patience','--patience', type=int, required=False, default=30, help='Patience to stop training')
+parser.add_argument(
+  '-early-stopping-criteria','--early-stopping-criteria', type=str, default="perplexity", choices=['perplexity', 'accuracy', 'bleu'], help='Criteria to stop training (perplexity|accuracy|bleu)')
 
 parser.add_argument(
   '-translate','--translate', action='store_true', required=False, help='Only translate using all parameters and the pre-trained model')

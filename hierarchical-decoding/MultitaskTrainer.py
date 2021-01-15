@@ -221,7 +221,7 @@ def run_translate(model, source_vocab, target_vocabs, save_dir, device, beam_siz
                 fout.write(output.replace("<eos>","").strip() + "\n")
         fout.close()
         
-def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filenames, ref_files, max_length):
+def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filenames, ref_files, max_length, criteria):
     '''
         This method builds a model from scratch or using the encoder of a pre-trained model
         model: the model being evaluated
@@ -231,6 +231,7 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
         filenames: filenames of triples to process
         ref_files: filenames with gold-standards for each process
         max_length: max length of a sentence
+        criteria: accuracy or bleu
     '''
 
     accuracies = []
@@ -262,24 +263,27 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
         with open(eval_name, "r") as f:
             outputs = translate(model, index, f, source_vocab, target_vocabs[index], device, 
                             beam_size=beam_size, max_length=max_length)
-        acc = 0.0
-        for j, output in enumerate(outputs):
-            if output.replace("<eos>","").strip().lower() in [w.lower() for w in references[j]]:
-                acc += 1
-        acc /= len(outputs)
-        accuracies.append(acc)
 
-        #modifying output (fixing BPE)
-        for i in range(len(outputs)):
-            newline = ""
-            for token in outputs[i].split():
-                if token.endswith("@@"):
-                    newline += token.replace("@@","")
-                else:
-                    newline += token + " "
-            outputs[i] = newline.strip().replace("<eos>", "")
-        corpus_bleu = bleu_nltk(references_tok[:len(references_tok)-1], outputs)
-        bleus.append(corpus_bleu)
+        if criteria == 2: ## evaluating accuracy
+            acc = 0.0
+            for j, output in enumerate(outputs):
+                if output.replace("<eos>","").strip().lower() in [w.lower() for w in references[j]]:
+                    acc += 1
+            acc /= len(outputs)
+            accuracies.append(acc)            
+
+        if criteria == 3: ## evaluating bleu
+            #modifying output (fixing BPE)
+            for i in range(len(outputs)):
+                newline = ""
+                for token in outputs[i].split():
+                    if token.endswith("@@"):
+                        newline += token.replace("@@","")
+                    else:
+                        newline += token + " "
+                outputs[i] = newline.strip().replace("<eos>", "")
+            corpus_bleu = bleu_nltk(references_tok[:len(references_tok)-1], outputs)
+            bleus.append(corpus_bleu)
 
     return accuracies, bleus
 
@@ -371,6 +375,9 @@ def train(args):
         if not args.patience:
             patience = args.patience
 
+        print(f'Using {args.early_stopping_criteria} as evaluation criteria')
+        early_stopping_criteria = constants.EVALUATION_CRITERIA[args.early_stopping_criteria]
+
         if n_tasks > 1:
             print("Patience wont be taking into account in Multitask learning")
 
@@ -389,16 +396,23 @@ def train(args):
 
             if _iter % args.eval_steps == 0:
                 print("Evaluating...")
-                accuracies, bleus = run_evaluation(multitask_model, source_vocabs[0], target_vocabs, device, args.beam_size, args.eval, args.eval_ref, max_length)
-                accuracy = round(accuracies[task_id], 3)
-                bleu = round(bleus[task_id], 3)
                 valid_loss = evaluate(multitask_model, dev_loaders[task_id], LossCompute(criterions[task_id], None), \
-                                device, task_id=task_id)
-                print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f} | Acc. {accuracy:.3f} | BLEU. {bleu:.3f}')
-                if accuracy > best_valid_loss[task_id]:
-                    print(f'The accuracy increased from {best_valid_loss[task_id]:.3f} to {accuracy:.3f} in the task {task_id}... saving checkpoint')
+                            device, task_id=task_id)
+                validation_value = round(math.exp(valid_loss), 3)
+
+                if early_stopping_criteria > 1:
+                    accuracies, bleus = run_evaluation(multitask_model, source_vocabs[0], target_vocabs, device, args.beam_size, args.eval, args.eval_ref, max_length, early_stopping_criteria)
+
+                    if early_stopping_criteria == 2:
+                        validation_value = round(accuracies[task_id], 3)
+                    else:
+                        validation_value = round(bleus[task_id], 3)
+
+                print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. {args.early_stopping_criteria}: {validation_value:7.3f}')
+                if validation_value > best_valid_loss[task_id]:
+                    print(f'The {args.early_stopping_criteria} increased from {best_valid_loss[task_id]:.3f} to {validation_value:.3f} in the task {task_id}... saving checkpoint')
                     patience = 30
-                    best_valid_loss[task_id] = accuracy
+                    best_valid_loss[task_id] = validation_value
                     torch.save(multitask_model.state_dict(), args.save_dir + 'model.pt')
                     print("Saved model.pt")
                 else:

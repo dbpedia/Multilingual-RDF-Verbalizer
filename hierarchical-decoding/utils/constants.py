@@ -10,3 +10,5 @@ PAD_STR = "<pad>"
 UNK_STR = "<unk>"
 
 BPE_TOKEN = "▁"
+
+EVALUATION_CRITERIA = {"perplexity":1, "accuracy":2, "bleu":3}
