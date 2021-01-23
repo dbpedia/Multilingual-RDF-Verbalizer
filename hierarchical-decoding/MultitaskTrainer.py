@@ -35,7 +35,7 @@ def improved(new_value, best_curr_value, criteria):
 
 
 def build_dataset(source_files, target_files, batch_size, shuffle=False, \
-        source_vocabs=None, target_vocabs=None, mtl=False, max_length=180):
+        source_vocabs=None, target_vocabs=None, mtl=False, max_length=180, lower=False):
     '''
         This method builds a dataset and dataloader for all tasks
         source_files: path for each source file (each file represents a task)
@@ -46,6 +46,7 @@ def build_dataset(source_files, target_files, batch_size, shuffle=False, \
         target_vocabs: the target vocabulary for each file
         mtl: if true an specific target vocabulary is used for each dataset sharing he source vocab, otherwise, all are built separately
         max_length: max length of the source/target lines
+        lower: lowercase or not
     '''
 
     loaders = []
@@ -53,10 +54,10 @@ def build_dataset(source_files, target_files, batch_size, shuffle=False, \
     for index, (source_file, target_file) in enumerate(zip(source_files, target_files)):
         if mtl is True:
             _set = ParallelDataset(source_file, target_file, max_length = max_length, \
-                                    source_vocab = source_vocabs[0], target_vocab = target_vocabs[index])
+                                    source_vocab = source_vocabs[0], target_vocab = target_vocabs[index], lower=lower)
         else:
             _set = ParallelDataset(source_file, target_file, max_length = max_length, \
-                                    source_vocab = source_vocabs[0], target_vocab = target_vocabs[0])
+                                    source_vocab = source_vocabs[0], target_vocab = target_vocabs[0], lower=lower)
 
         loader = get_dataloader(_set, batch_size, shuffle=shuffle)
         loaders.append(loader)
@@ -324,12 +325,14 @@ def train(args):
 
     if not args.tie_embeddings:
         print("Building Encoder vocabulary")
-        source_vocabs = build_vocab(args.train_source, args.src_vocab, save_dir=args.save_dir)
+        source_vocabs = build_vocab(args.train_source, args.src_vocab, save_dir=args.save_dir, lower=args.lower)
         print("Building Decoder vocabulary")
-        target_vocabs = build_vocab(args.train_target, args.tgt_vocab, mtl=mtl, name ="tgt", save_dir=args.save_dir)
+        target_vocabs = build_vocab(args.train_target, args.tgt_vocab, mtl=mtl, name ="tgt", \
+                            save_dir=args.save_dir, lower=args.lower)
     else:
         print("Building Share vocabulary")
-        source_vocabs = build_vocab(args.train_source + args.train_target, args.src_vocab, name="tied", save_dir=args.save_dir)
+        source_vocabs = build_vocab(args.train_source + args.train_target, args.src_vocab, \
+                            name="tied", save_dir=args.save_dir, lower=args.lower)
         if mtl:
             target_vocabs = [source_vocabs[0] for _ in range(len(args.train_target))]
         else:
@@ -343,13 +346,15 @@ def train(args):
 
     print("Building training set and dataloaders")
     train_loaders = build_dataset(args.train_source, args.train_target, batch_size, \
-            source_vocabs=source_vocabs, target_vocabs=target_vocabs, shuffle=True, mtl=mtl, max_length=max_length)
+            source_vocabs=source_vocabs, target_vocabs=target_vocabs, shuffle=True, mtl=mtl, \
+            max_length=max_length, lower=args.lower)
     for train_loader in train_loaders:
         print(f'Train - {len(train_loader):d} batches with size: {batch_size:d}')
 
     print("Building dev set and dataloaders")
     dev_loaders = build_dataset(args.dev_source, args.dev_target, batch_size, \
-            source_vocabs=source_vocabs, target_vocabs=target_vocabs, mtl=mtl, max_length=max_length)
+            source_vocabs=source_vocabs, target_vocabs=target_vocabs, mtl=mtl, \
+            max_length=max_length, lower=args.lower)
     for dev_loader in dev_loaders:
         print(f'Dev - {len(dev_loader):d} batches with size: {batch_size:d}')
 

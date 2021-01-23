@@ -113,6 +113,10 @@ parser.add_argument(
   '-task-id','--task-id', type=int, required=False, default=0, help='The task id that we need to use in translation mode (default:0)')
 
 parser.add_argument(
+	'-lower','--lower', action='store_true', required=False, help='Lowercase or not')
+
+
+parser.add_argument(
   '-input','--input', type=str, required=False, help='Path to the input file')
 
 # inference parameters

@@ -8,7 +8,7 @@ class ParallelDataset(Dataset):
 		This class builds a dataset from source/target files according to a max_length
 	'''
 
-	def __init__(self, source_name, target_name, max_length=300, source_vocab=None, target_vocab=None):
+	def __init__(self, source_name, target_name, max_length=300, source_vocab=None, target_vocab=None, lower=False):
 
 		self.data_source = self.read_file(source_name)
 		self.data_target = self.read_file(target_name)
@@ -17,12 +17,12 @@ class ParallelDataset(Dataset):
 
 		self.source_vocab = source_vocab
 		if source_vocab == None:
-			self.source_vocab = Vocab()
+			self.source_vocab = Vocab(lower)
 			self.source_vocab.build_vocab([source_name])
 
 		self.target_vocab = target_vocab
 		if target_vocab == None:
-			self.target_vocab = Vocab()
+			self.target_vocab = Vocab(lower)
 			self.target_vocab.build_vocab([target_name])
 
 			

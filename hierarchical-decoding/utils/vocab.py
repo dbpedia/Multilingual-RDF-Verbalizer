@@ -14,6 +14,8 @@ parser.add_argument(
 	'-split','--split', action='store_true', required=False, help='Generates a unique vocabulary for all tasks or not')
 parser.add_argument(
 	'-save-dir','--save_dir', type=str, default="", help='Output directory')
+parser.add_argument(
+	'-lower','--lower', action='store_true', required=False, help='Lowercase or not')
 
 
 class Vocab(object):
@@ -89,12 +91,12 @@ if __name__ == "__main__":
 
 	if args.split is True:
 		for index, f in enumerate(args.data):
-			vocab = Vocab()
+			vocab = Vocab(args.lower)
 			vocab.build_vocab([f])
 			vocab.save(args.save_dir + args.vocab_prefix + ".vocab." + str(index) + ".json")
 			vocabs.append(vocab)
 	else:
-		vocab = Vocab()
+		vocab = Vocab(args.lower)
 		vocab.build_vocab(args.data)
 		vocab.save(args.save_dir + args.vocab_prefix + ".vocab.json")
 		vocabs.append(vocab)

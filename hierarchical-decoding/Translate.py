@@ -304,12 +304,12 @@ def run(args):
 			sys.exit("Target vocab is not found")
 
 		print("Loading Encoder vocabulary")
-		source_vocabs = build_vocab(None, args.src_vocab)
+		source_vocabs = build_vocab(None, args.src_vocab, lower=params['lower'])
 		print("Loading Decoder vocabulary")
-		target_vocabs = build_vocab(None, args.tgt_vocab)
+		target_vocabs = build_vocab(None, args.tgt_vocab, lower=params['lower'])
 	else:
 		print("Loading Shared vocabulary")
-		source_vocabs = build_vocab(None, args.src_vocab)
+		source_vocabs = build_vocab(None, args.src_vocab, lower=params['lower'])
 		if args.mtl:
 			target_vocabs = [source_vocabs[0] for _ in range(params["number_decoder"])]
 		else:

@@ -170,6 +170,7 @@ def save_params(args, params_file):
     params['decoder_dropout'] = args.decoder_dropout
     params['max_length'] = args.max_length
     params['tie_embeddings'] = args.tie_embeddings
+    params['lower'] = args.lower
 
     if args.mtl:
         params['number_encoder'] = 1
@@ -182,7 +183,7 @@ def save_params(args, params_file):
         json.dump(params, outfile)
 
 
-def build_vocab(files, vocabulary=None, mtl=False, name="src", save_dir="/"):
+def build_vocab(files, vocabulary=None, mtl=False, name="src", save_dir="/", lower=False):
     '''
         This method builds the vocabulary
         files: files to generate the vocabulary.
@@ -190,6 +191,7 @@ def build_vocab(files, vocabulary=None, mtl=False, name="src", save_dir="/"):
         mtl: if true we should generate an specific vocabulary for each file. Otherwise, a joint vocabulary
         name: prefix of the vocabulary
         save_dir: folder where the vocabular will be saved
+        lower: lowercase
     '''
 
     vocabs = []
@@ -197,18 +199,18 @@ def build_vocab(files, vocabulary=None, mtl=False, name="src", save_dir="/"):
     if vocabulary is not None:
         for v in vocabulary:
             print(f'Loading from {v}')
-            vb = Vocab()
+            vb = Vocab(lower)
             vb.load_from_file(v)
             vocabs.append(vb)
     else:
         if mtl is True:
             for index, f in enumerate(files):
-                vb = Vocab()
+                vb = Vocab(lower)
                 vb.build_vocab([f])
                 vb.save(save_dir + name + ".vocab." + str(index) + ".json")
                 vocabs.append(vb)
         else:
-            vb = Vocab()
+            vb = Vocab(lower)
             vb.build_vocab(files)
             vb.save(save_dir + name + ".vocab.json")
             vocabs.append(vb)
