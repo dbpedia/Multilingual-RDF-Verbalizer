@@ -51,7 +51,7 @@ class Vocab(object):
 	def save(self, name):
 		print(f'Saving {name}...')
 		with open(name, 'w', encoding='utf8') as out:
-			json.dump(self.vocab, out, ensure_ascii=False)	
+			json.dump(self.vocab, out, ensure_ascii=False, indent=4)	
 
 	def stoi(self, key):
 
