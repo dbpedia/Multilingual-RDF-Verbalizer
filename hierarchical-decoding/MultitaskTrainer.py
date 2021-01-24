@@ -269,7 +269,8 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
         # references tokenized
         references_tok = copy.copy(references)
         for i, refs in enumerate(references_tok):
-            references_tok[i] = [(' '.join(nltk.word_tokenize(ref))).lower() for ref in refs if lower else (' '.join(nltk.word_tokenize(ref)))]
+            tok_reference = ' '.join(nltk.word_tokenize(ref))
+            references_tok[i] = [tok_reference.lower() if lower else tok_reference for ref in refs]
         
         n = len(eval_name.split("/"))
         name = eval_name.split("/")[n-1]

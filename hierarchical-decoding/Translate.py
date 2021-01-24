@@ -77,7 +77,7 @@ def translate_sentence(model, task_id, sentence, source_vocab, target_vocab, dev
 
 	model.eval()
 
-	tokens = [token.lower() for token in sentence.split() if lower else token]
+	tokens = [token.lower() if lower else token for token in sentence.split()]
 	tokens = [constants.SOS_STR] + tokens + [constants.EOS_STR]
 
 	if len(tokens) < max_length:
@@ -129,7 +129,7 @@ def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab
 
 	model.eval()
 
-	tokens = [token.lower() for token in sentence.split() if lower else token]
+	tokens = [token.lower() if lower else token for token in sentence.split()]
 	tokens = [constants.SOS_STR] + tokens + [constants.EOS_STR]
 	if len(tokens) < max_length:
 		tokens = tokens + [constants.PAD_STR for _ in range(max_length - len(tokens))]
