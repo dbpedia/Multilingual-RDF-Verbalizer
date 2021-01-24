@@ -20,8 +20,8 @@ parser.add_argument(
 
 class Vocab(object):
 
-	def __init__(self, lower=True):
-		self.vocab = {"<unk>": 0, "<pad>": 1, "<sos>": 2, "<eos>": 3}
+	def __init__(self, lower=False):
+		self.vocab = {"<unk>": 0, "<pad>": 1, "<sos>": 2, "<eos>": 3, "<ordering>": 4, "<structuring>": 5, "<lexicalization>": 6, "<end2end>": 7}
 		self.lower = lower
 		self.inverse_vocab = {}
 
@@ -30,7 +30,7 @@ class Vocab(object):
 
 		for filename in filenames:
 			with open(filename, "r") as f:
-				v = [token for line in f for token in line.split()]
+				v = [token for line in f for token in line.split() if token not in self.vocab]
 				if self.lower:
 					v = [e.lower() for e in v]
 				aux = aux + v

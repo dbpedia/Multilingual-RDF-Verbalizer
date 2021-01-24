@@ -14,7 +14,7 @@ from layers.Decoder import Decoder
 
 from queue import PriorityQueue
 
-def translate(model, task_id, sentences, source_vocab, target_vocab, device, max_length=180, beam_size=None):
+def translate(model, task_id, sentences, source_vocab, target_vocab, device, max_length=180, beam_size=None, lower=False):
 	'''
 		Function that translates a set of triple sets
 		model:
@@ -25,6 +25,7 @@ def translate(model, task_id, sentences, source_vocab, target_vocab, device, max
 		device:
 		max_length:
 		beam_size:
+		lower:
 	'''
 
 	outputs = []
@@ -32,12 +33,12 @@ def translate(model, task_id, sentences, source_vocab, target_vocab, device, max
 		print("Using greedy search")
 		for sentence in sentences:
 			outputs.append(translate_sentence(model, task_id, sentence, source_vocab, target_vocab, device,
-					 max_length = max_length))
+					max_length = max_length, lower=lower))
 	else:
 		print("Using beam search")
 		for sentence in sentences:
 			outputs.append(translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab, device,
-								 beam_size = beam_size, max_length=max_length))
+								beam_size = beam_size, max_length=max_length, lower=lower))
 	return outputs
 
 
@@ -62,7 +63,7 @@ class BeamSearchNode(object):
 		return 0
 
 
-def translate_sentence(model, task_id, sentence, source_vocab, target_vocab, device, max_length = 180):
+def translate_sentence(model, task_id, sentence, source_vocab, target_vocab, device, max_length = 180, lower=False):
 	'''
 		This function translates an specific sentence
 		model:
@@ -76,7 +77,7 @@ def translate_sentence(model, task_id, sentence, source_vocab, target_vocab, dev
 
 	model.eval()
 
-	tokens = [token.lower() for token in sentence.split()]
+	tokens = [token.lower() for token in sentence.split() if lower else token]
 	tokens = [constants.SOS_STR] + tokens + [constants.EOS_STR]
 
 	if len(tokens) < max_length:
@@ -112,7 +113,7 @@ def translate_sentence(model, task_id, sentence, source_vocab, target_vocab, dev
 	return ' '.join(trg_tokens[1:])
 
 
-def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab, device, beam_size = 5, max_length = 180):
+def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab, device, beam_size = 5, max_length = 180, lower=False):
 	'''
 		This function translates an specific sentence
 		model:
@@ -123,11 +124,12 @@ def translate_sentence_beam(model, task_id, sentence, source_vocab, target_vocab
 		device:
 		max_length:
 		beam_size:
+		lower:
 	'''
 
 	model.eval()
 
-	tokens = [token.lower() for token in sentence.split()]
+	tokens = [token.lower() for token in sentence.split() if lower else token]
 	tokens = [constants.SOS_STR] + tokens + [constants.EOS_STR]
 	if len(tokens) < max_length:
 		tokens = tokens + [constants.PAD_STR for _ in range(max_length - len(tokens))]
@@ -265,7 +267,7 @@ def build_model(params, source_vocabs, target_vocabs, device):
 
 	return model
 
-def run_translate(model, source_vocab, target_vocabs, save_dir, device, beam_size, filename, max_length, task_id=0):
+def run_translate(model, source_vocab, target_vocabs, save_dir, device, beam_size, filename, max_length, task_id=0, lower=False):
 	'''
 		This method builds a model from scratch or using the encoder of a pre-trained model
 		model: the model being evaluated
@@ -276,13 +278,14 @@ def run_translate(model, source_vocab, target_vocabs, save_dir, device, beam_siz
 		filenames: filenames of triples to process
 		max_length: max length of a sentence
 		task_id:
+		lower:
 	'''
 
 	print(f'Reading {filename}')
 	fout = open(save_dir, "w")
 	with open(filename, "r") as f:
 		outputs = translate(model, task_id, f, source_vocab, target_vocabs[task_id], device, 
-							beam_size=beam_size, max_length=max_length)
+							beam_size=beam_size, max_length=max_length, lower=lower)
 		for output in outputs:
 			fout.write(output.replace("<eos>","").strip() + "\n")
 	fout.close()
@@ -323,7 +326,7 @@ def run(args):
 
 	model = load_model(args.model, params, source_vocabs, target_vocabs, device)
 	run_translate(model, source_vocabs[0], target_vocabs, args.save_dir, device, 
-			args.beam_size, args.input, max_length=params['max_length'], task_id=args.task_id)
+			args.beam_size, args.input, max_length=params['max_length'], task_id=args.task_id, lower=params['lower'])
 
 
 

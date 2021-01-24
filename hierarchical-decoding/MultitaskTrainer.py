@@ -209,7 +209,7 @@ def evaluate(model, loader, loss_compute, device, task_id=0):
     return epoch_loss / len(loader)
 
 
-def run_translate(model, source_vocab, target_vocabs, save_dir, device, beam_size, filenames, max_length):
+def run_translate(model, source_vocab, target_vocabs, save_dir, device, beam_size, filenames, max_length, lower=False):
     '''
         This method builds a model from scratch or using the encoder of a pre-trained model
         model: the model being evaluated
@@ -229,12 +229,12 @@ def run_translate(model, source_vocab, target_vocabs, save_dir, device, beam_siz
         fout = open(save_dir + name + "." + str(index) + ".out", "w")
         with open(eval_name, "r") as f:
             outputs = translate(model, index, f, source_vocab, target_vocabs[index], device, 
-                            beam_size=beam_size, max_length=max_length)
+                            beam_size=beam_size, max_length=max_length, lower=lower)
             for output in outputs:
                 fout.write(output.replace("<eos>","").strip() + "\n")
         fout.close()
         
-def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filenames, ref_files, max_length, criteria):
+def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filenames, ref_files, max_length, criteria, lower=False):
     '''
         This method builds a model from scratch or using the encoder of a pre-trained model
         model: the model being evaluated
@@ -245,6 +245,7 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
         ref_files: filenames with gold-standards for each process
         max_length: max length of a sentence
         criteria: accuracy or bleu
+        lower: lowercase or not
     '''
 
     accuracies = []
@@ -268,19 +269,19 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
         # references tokenized
         references_tok = copy.copy(references)
         for i, refs in enumerate(references_tok):
-            references_tok[i] = [(' '.join(nltk.word_tokenize(ref))).lower() for ref in refs]
+            references_tok[i] = [(' '.join(nltk.word_tokenize(ref))).lower() for ref in refs if lower else (' '.join(nltk.word_tokenize(ref)))]
         
         n = len(eval_name.split("/"))
         name = eval_name.split("/")[n-1]
         print(f'Reading {eval_name}')
         with open(eval_name, "r") as f:
             outputs = translate(model, index, f, source_vocab, target_vocabs[index], device, 
-                            beam_size=beam_size, max_length=max_length)
+                            beam_size=beam_size, max_length=max_length, lower=lower)
 
         if criteria == 2: ## evaluating accuracy
             acc = 0.0
             for j, output in enumerate(outputs):
-                if output.replace("<eos>","").strip().lower() in [w.lower() for w in references[j]]:
+                if output.replace("<eos>","").strip() in [w for w in references[j]]:
                     acc += 1
             acc /= len(outputs)
             accuracies.append(acc)            
@@ -453,6 +454,8 @@ def train(args):
         return
 
     print("Evaluating and testing")
-    run_translate(multitask_model, source_vocabs[0], target_vocabs, args.save_dir, device, args.beam_size, args.eval, max_length=max_length)
-    run_translate(multitask_model, source_vocabs[0], target_vocabs, args.save_dir, device, args.beam_size, args.test, max_length=max_length)
+    run_translate(multitask_model, source_vocabs[0], target_vocabs, args.save_dir, device, \
+        args.beam_size, args.eval, max_length=max_length, lower=args.lower)
+    run_translate(multitask_model, source_vocabs[0], target_vocabs, args.save_dir, device, \
+        args.beam_size, args.test, max_length=max_length, lower=args.lower)
 

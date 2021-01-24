@@ -1,2262 +1,2262 @@
-the leader of aarhus is j@@ a@@ c@@ o@@ b b@@ u@@ n@@ d@@ s@@ g@@ a@@ a@@ r@@ d .
-aarhus airport 's runway length is 2@@ 7@@ 0@@ 2@@ .@@ 0 .
-the aarhus airport has a runway length of 2@@ 7@@ 0@@ 2@@ .@@ 0 .
-adirondack regional airport is 5@@ 0@@ 7 metres above sea level .
-adirondack regional airport is located at harrietstown , new york .
-adirondack regional airport is located in harrietstown , new york .
-adolfo suárez madrid – barajas airport is found in san s@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los reyes .
-adolfo suarez madrid - barajas airport is located at san s@@ e@@ b@@ a@@ s@@ t@@ i@@ an de los reyes .
-the adolfo suárez madrid – barajas airport is in san s@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los reyes .
-adolfo suárez madrid-barajas airport runway name is 1@@ 4@@ l@@ /@@ 3@@ 2@@ r .
-the adolfo suárez madrid – barajas airport runway name is 1@@ 4@@ l@@ /@@ 3@@ 2@@ r .
-1@@ 4@@ l@@ /@@ 3@@ 2@@ r is the runway name of a@@ d@@ o@@ f@@ o suárez madrid-barajas airport .
-1@@ 4@@ r@@ /@@ 3@@ 2@@ l is the name of the runway for adolfo suárez madrid – barajas airport .
-1@@ 4@@ r@@ /@@ 3@@ 2@@ l is the runway name of adolfo suárez madrid-barajas airport .
-the operating o@@ r@@ g@@ a@@ n@@ i@@ z@@ a@@ t@@ i@@ on for afonso pena international airport is infraero .
-afonso pena international airport is operated by infraero .
-agra airport is in agra .
-agra airport is located in agra .
-a@@ l@@ -@@ t@@ a@@ q@@ a@@ d@@ d@@ u@@ m air base is 8@@ 4 metres above sea level .
-al t@@ a@@ q@@ a@@ d@@ d@@ u@@ m air base is 8@@ 4 metres above sea level .
-the elevation above the sea level ( in metres ) of a@@ l@@ -@@ t@@ a@@ q@@ a@@ d@@ d@@ u@@ m air base is 8@@ 4@@ .@@ 0 .
-the alderney airport serves alderney .
-alderney airport serves the city of alderney .
-1@@ 8@@ r@@ /@@ 3@@ 6@@ l is the runway name at allama iqbal international airport .
-allama iqbal international airport has a runway named 1@@ 8@@ r@@ /@@ 3@@ 6@@ l .
-allama iqbal international airport 's runway name is " 1@@ 8@@ r@@ /@@ 3@@ 6@@ l " .
-the runway length of alpena county regional airport is 1@@ ,@@ 5@@ 3@@ 3 .
-the runway length of alpena county regional airport is 1@@ 5@@ 3@@ 3@@ .@@ 0 .
-alpena country regional airport runway name is 1@@ /@@ 1@@ 9 / .
-1@@ /@@ 1@@ 9 is the runway name of alpena county regional airport .
-the runway name of alpena county regional airport is 1@@ /@@ 1@@ 9 .
-amsterdam airport schiphol serves the city of amsterdam .
-amsterdam airport , s@@ c@@ h@@ i@@ p@@ o@@ l serves the city of amsterdam .
-amsterdam airport s@@ c@@ h@@ u@@ p@@ h@@ o@@ l serves amsterdam .
-andrews county , texas is country s@@ e@@ at to andrews , texas .
-andrews , texas is the country s@@ e@@ at of andrews county , texas .
-andrews county , texas has its county s@@ e@@ at in andrews , texas .
-andrews country airport 's city is served by andrews , texas .
-andrews county airport serves andrews , texas .
-andrews county airport serves the city of andrews in texas .
-andrews country airport runway name is 1@@ 1@@ /@@ 2@@ 9 .
-1@@ 1@@ /@@ 2@@ 9 is the runway name of andrews county airport .
-the runway name of andrews county airport is 1@@ 1@@ /@@ 2@@ 9 .
-the name of the runway at andrews county airport is h@@ e@@ l@@ i@@ p@@ a@@ d .
-h@@ e@@ l@@ i@@ p@@ a@@ d is the runway name of andrews county airport .
-the runway at andrews county airport is called h@@ e@@ l@@ i@@ p@@ a@@ d .
-angola international airport city served is luanda .
-angola international airport serves the city of luanda .
-angola international airport serves luanda .
-the ardmore airport , new zealand is in a@@ u@@ c@@ k@@ l@@ and .
-ardmore airport is located in a@@ u@@ c@@ k@@ l@@ and , new zealand .
-athens m@@ a@@ y@@ or is g@@ i@@ o@@ r@@ g@@ o@@ s k@@ a@@ m@@ i@@ n@@ is .
-g@@ i@@ o@@ r@@ g@@ o@@ s k@@ a@@ m@@ i@@ n@@ is is the m@@ a@@ y@@ or of athens .
-the m@@ a@@ y@@ or of athens is g@@ i@@ o@@ r@@ g@@ o@@ s k@@ a@@ m@@ i@@ n@@ is .
-athens international airport is in s@@ p@@ a@@ t@@ a .
-athens international airport is located in s@@ p@@ a@@ t@@ a .
-belgium language is g@@ e@@ r@@ man language .
-g@@ e@@ r@@ man is the language of belgium .
-the language spoken is belgium is g@@ e@@ r@@ man .
-p@@ h@@ i@@ l@@ i@@ p@@ p@@ e of belgium is the leader of belgium .
-the leader of belgium is p@@ h@@ i@@ l@@ i@@ p@@ p@@ e of belgium .
-the leader of belgium is p@@ h@@ i@@ l@@ l@@ i@@ p@@ e of belgium .
-the capital of denmark is copenhagen .
-copenhagen is the capital of denmark .
-denmark 's leader name is lars l@@ ø@@ k@@ k@@ e rasmussen .
-lars l@@ ø@@ k@@ k@@ e rasmussen leads denmark .
-lars l@@ ø@@ k@@ k@@ e rasmussen is the leader of denmark .
-the flemish region is led by the flemish government .
-the flemish government leads the flemish region .
-g@@ r@@ e@@ e@@ k is the language spoken in greece .
-the language spoken in greece is g@@ r@@ e@@ e@@ k .
-the leader of greece is nikos voutsis .
-harrietstown , new york is part of the united states .
-harrietstown , n@@ .@@ y@@ . is part of the u.s.
-the leader of pakistan is a@@ n@@ war z@@ a@@ h@@ e@@ e@@ r j@@ a@@ m@@ a@@ l@@ i .
-pakistan has a leader called a@@ n@@ war z@@ a@@ h@@ e@@ e@@ r j@@ a@@ m@@ a@@ l@@ i .
-paracuellos de jarama is part of the community of madrid .
-port authority of new york and new jersey h@@ e@@ a@@ d@@ q@@ u@@ a@@ r@@ t@@ e@@ r is f@@ o@@ u@@ r w@@ o@@ r@@ l@@ d t@@ r@@ a@@ d@@ e c@@ e@@ n@@ t@@ e@@ r .
-the f@@ o@@ u@@ r w@@ o@@ r@@ l@@ d t@@ r@@ a@@ d@@ e c@@ e@@ n@@ t@@ e@@ r is the headquarters of the port authority of new york and new jersey .
-san s@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los reyes is in spain .
-san s@@ e@@ b@@ a@@ s@@ t@@ i@@ an de los reyes is located in spain .
-saranac lake , new york is part of the united states .
-saranac lake , new york , is part of the united states .
-south jersey t@@ r@@ a@@ n@@ s@@ p@@ o@@ r@@ t@@ a@@ t@@ i@@ on authority c@@ h@@ i@@ e@@ f is s@@ t@@ e@@ p@@ h@@ e@@ n d@@ i@@ l@@ t@@ s .
-s@@ t@@ e@@ p@@ h@@ e@@ n d@@ i@@ l@@ t@@ s is the c@@ h@@ i@@ e@@ f of the south jersey t@@ r@@ a@@ n@@ s@@ p@@ o@@ r@@ t@@ a@@ t@@ i@@ on authority .
-s@@ t@@ e@@ p@@ h@@ e@@ n d@@ i@@ l@@ t@@ s is the c@@ h@@ i@@ e@@ f of south jersey t@@ r@@ a@@ n@@ s@@ p@@ o@@ r@@ t@@ a@@ t@@ i@@ on authority .
-the united states navy awarded the distinguished service medal to alan shepard .
-alan shepard was awarded the distinguished service medal by the united states navy .
-alan shepard was awarded the distinguished service medal in the united states navy .
-alan shepard was awarded the distinguished service medal by the us navy .
-alan shepard was awarded the united states navy distinguished service medal .
-alan shepard died in california .
-william anders was the backup pilot on apollo 11 .
-william anders was a backup pilot on the apollo 11 mission .
-apollo 11 's backup pilot was william anders .
-the apollo 14 was operated by nasa .
-nasa operated the apollo 14 .
-apollo 14 was operated by nasa .
-the apollo 8 o@@ p@@ e@@ r@@ a@@ t@@ or is nasa .
-apollo 8 is operated by nasa .
-apollo 8 was operated by nasa .
-buzz aldrin 's n@@ a@@ t@@ i@@ o@@ n@@ a@@ l@@ i@@ t@@ y is united states .
-buzz aldrin was a united states national .
-buzz aldrin was an american .
-buzz aldrin is a us national .
-elliot see was a test pilot .
-elliot see served as a test pilot .
-elliot see f@@ l@@ e@@ w as a test pilot .
-elliot see 's o@@ c@@ c@@ u@@ p@@ a@@ t@@ i@@ on was a test pilot .
-elliot see p@@ e@@ r@@ f@@ o@@ r@@ m@@ e@@ d as a test pilot .
-the university of texas at austin is affiliated to the university of texas system .
-the university of texas at austin 's m@@ a@@ s@@ c@@ o@@ t is called h@@ o@@ o@@ k '@@ e@@ m .
-h@@ o@@ o@@ k '@@ e@@ m is the m@@ a@@ s@@ c@@ o@@ t for the university of texas at austin .
-the m@@ a@@ s@@ c@@ o@@ t of the university of texas is h@@ o@@ o@@ k '@@ e@@ m .
-the h@@ o@@ o@@ k '@@ e@@ m is the m@@ a@@ s@@ c@@ o@@ t of university of texas at austin .
-103 colmore row was designed by the architect , john madin .
-103 colmore row was designed by the architect john madin .
-103 colmore row is located at colmore row .
-103 colmore row is located in colmore row .
-11 diagonal street was completed in 1983 .
-the 200 public square was completed in 1@@ 9@@ 8@@ 5 .
-200 public square was completed in 1@@ 9@@ 8@@ 5 .
-the building at 20 fenchurch street was s@@ t@@ a@@ r@@ t@@ e@@ d in january 2009 .
-the c@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on of 20 fenchurch street b@@ e@@ g@@ an in january 2009 .
-20 fenchurch street is located in the united kingdom .
-20 fenchurch street is located within the united kingdom .
-there are 6@@ 0 floors at 300 north lasalle .
-300 north lasalle has 6@@ 0 floors .
-h@@ o@@ k s@@ v@@ e was the architect of 3arena .
-h@@ o@@ k s@@ v@@ e was the architect of the 3arena .
-the 3arena is located at east l@@ i@@ n@@ k b@@ ridge .
-the 3arena is located on the east l@@ i@@ n@@ k b@@ ridge .
-3 a@@ r@@ e@@ n@@ a is located at east l@@ i@@ n@@ k b@@ ridge .
-adare manor 's building s@@ t@@ art was in 1@@ 7@@ 0@@ 0 .
-the building of the adare manor was s@@ t@@ a@@ r@@ t@@ e@@ d in 1@@ 7@@ 0@@ 0 .
-adare manor is located in the republic of ireland .
-the adare manor is in the republic of ireland .
-the akita museum of art was inaugurated on 2@@ 8@@ t@@ h september 2@@ 0@@ 1@@ 3 .
-the mason school of business are the current tenants of alan b miller hall .
-the a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ c@@ t b v d@@ o@@ s@@ h@@ i designed amdavad ni gufa .
-b v d@@ o@@ s@@ h@@ i is the architect who designed amdavad ni gufa .
-ampara hospital is located in sri lanka .
-ampara hospital is in sri lanka .
-asher and mary isabelle richardson house was added to the national register of historic places on " 1@@ 9@@ 8@@ 8@@ -@@ 1@@ 1@@ -@@ 2@@ 2 " .
-the asher and mary isabelle richardson house was added to the national register of historic places , on 2@@ 2@@ n@@ d november 1@@ 9@@ 8@@ 8 .
-the asser levy public baths was built in 1@@ 9@@ 0@@ 4 .
-asser levy public baths were constructed in 1@@ 9@@ 0@@ 4 .
-birmingham has the p@@ o@@ s@@ t@@ code area ' b ' .
-the b p@@ o@@ s@@ t@@ code area is the p@@ o@@ s@@ t@@ al code of birmingham .
-chicago is part of d@@ u@@ p@@ a@@ g@@ e county in illinois .
-chicago is part of d@@ u@@ p@@ a@@ g@@ e county illinois .
-dublin is in the republic of ireland .
-dublin is part of l@@ e@@ i@@ n@@ s@@ t@@ e@@ r .
-sumitra mahajan is an indian leader .
-the name of the leader in india is sumitra mahajan .
-one of the ethnic groups in japan in the b@@ r@@ a@@ z@@ i@@ l@@ i@@ a@@ n@@ s .
-the b@@ r@@ a@@ z@@ i@@ l@@ i@@ a@@ n@@ s in japan are an ethnic group found in japan .
-the leader of japan is t@@ a@@ r@@ ō a@@ s@@ ō .
-bill marriott is the key p@@ e@@ r@@ s@@ on at marriott international .
-one of the key people in marriott international is bill marriott .
-ireland official language is i@@ r@@ i@@ s@@ h english .
-english language is the main language of the republic of ireland .
-one language used in the republic of ireland is english .
-c@@ a@@ p@@ e town is the capital of south africa .
-the capital of south africa is c@@ a@@ p@@ e town .
-the capital of the united kingdom is london .
-london is the capital of the united kingdom .
-native americans are an ethnic group in the united states .
-paul ryan is the leader of the united states .
-the leader of the united states is paul ryan .
-the area code of abilene , in texas , is 3@@ 2@@ 5 .
-3@@ 2@@ 5 is the area code for abilene , texas .
-the area code for abilene in texas is 3@@ 2@@ 5 .
-abilene is a part of texas .
-abilene , texas , is part of texas .
-a@@ l@@ b@@ a@@ n@@ y , georgia has a m@@ a@@ y@@ or as leader .
-a@@ l@@ b@@ a@@ n@@ y , georgia is lead by a m@@ a@@ y@@ or .
-the leader of a@@ l@@ b@@ a@@ n@@ y , georgia is the m@@ a@@ y@@ or .
-a@@ l@@ b@@ a@@ n@@ y , o@@ r@@ e@@ g@@ on has a total area of 4@@ 5@@ .@@ 9@@ 7 square k@@ i@@ l@@ o@@ metres .
-the total area of a@@ l@@ b@@ a@@ n@@ y o@@ r@@ e@@ g@@ on is 4@@ 5@@ .@@ 9@@ 7 s@@ q k@@ .
-the total area of a@@ l@@ b@@ a@@ n@@ y , o@@ r@@ e@@ g@@ on is 4@@ 5@@ .@@ 9@@ 7 s@@ q k@@ m@@ s .
-a@@ l@@ b@@ a@@ n@@ y , o@@ r@@ e@@ g@@ on is in the u.s.
-a@@ l@@ b@@ a@@ n@@ y , o@@ r@@ e@@ g@@ on is located within the united states .
-a@@ l@@ b@@ u@@ q@@ u@@ e@@ r@@ q@@ u@@ e , new mexico is led by the state s@@ e@@ n@@ a@@ t@@ e .
-the a@@ l@@ b@@ u@@ q@@ u@@ e@@ r@@ q@@ u@@ e city council has a l@@ e@@ a@@ d@@ e@@ r@@ s@@ h@@ i@@ p r@@ o@@ l@@ e in a@@ l@@ b@@ u@@ q@@ u@@ e@@ r@@ q@@ u@@ e , new mexico .
-a@@ l@@ b@@ u@@ q@@ u@@ e@@ r@@ q@@ u@@ e in new mexico is led by the a@@ l@@ b@@ u@@ q@@ u@@ e@@ r@@ q@@ u@@ e city council .
-a@@ m@@ a@@ r@@ i@@ l@@ l@@ o is in texas , in the united states .
-the united states is the home country to a@@ m@@ a@@ r@@ i@@ l@@ l@@ o , texas .
-a@@ m@@ a@@ r@@ i@@ l@@ l@@ o , texas is located within the united states .
-a@@ m@@ a@@ r@@ i@@ l@@ l@@ o is part of p@@ o@@ t@@ t@@ e@@ r county in texas .
-a@@ m@@ a@@ r@@ i@@ l@@ l@@ o is part of p@@ o@@ t@@ t@@ e@@ r county , texas .
-a@@ m@@ a@@ r@@ i@@ l@@ l@@ o is in texas , in the united states .
-a@@ m@@ a@@ r@@ i@@ l@@ l@@ o , texas is part of the united states .
-a@@ m@@ a@@ r@@ i@@ l@@ l@@ o , texas , is part of the united states .
-a@@ n@@ a@@ h@@ e@@ i@@ m , in california , has the area code 6@@ 5@@ 7 .
-the area code of a@@ n@@ a@@ h@@ e@@ i@@ m , california is 6@@ 5@@ 7 .
-the area code for a@@ n@@ a@@ h@@ e@@ i@@ m , california , is 6@@ 5@@ 7 .
-a@@ n@@ d@@ e@@ r@@ s@@ on , indiana is part of adams f@@ all c@@ r@@ e@@ e@@ k , l@@ a@@ f@@ a@@ y@@ e@@ t@@ t@@ e , r@@ i@@ c@@ h@@ l@@ and , u@@ n@@ i@@ on .
-angola is in p@@ l@@ e@@ a@@ s@@ a@@ n@@ t township which is part of s@@ t@@ e@@ u@@ b@@ e@@ n county , in indiana .
-angola , indiana is part of p@@ l@@ e@@ a@@ s@@ a@@ n@@ t township , which is in s@@ t@@ e@@ u@@ b@@ e@@ n county .
-a city a@@ d@@ m@@ i@@ n@@ i@@ s@@ t@@ r@@ a@@ t@@ or leads a@@ n@@ n a@@ r@@ b@@ or , michigan .
-the city a@@ d@@ m@@ i@@ n@@ i@@ s@@ t@@ r@@ a@@ t@@ or leads a@@ n@@ n a@@ r@@ b@@ or in michigan .
-m@@ a@@ y@@ or , is the title of the leader in a@@ n@@ n a@@ r@@ b@@ or , michigan .
-a@@ n@@ n a@@ r@@ b@@ or , michigan is led by the m@@ a@@ y@@ or .
-the leader title of a@@ n@@ n a@@ r@@ b@@ or , michigan , is m@@ a@@ y@@ or .
-the city of a@@ n@@ n a@@ r@@ b@@ or , michigan , has a population of 1@@ 5@@ 8@@ 0@@ .@@ 7 as p@@ e@@ r square k@@ i@@ l@@ o@@ m@@ e@@ t@@ r@@ e .
-a@@ n@@ n@@ a@@ r@@ b@@ or , michigan has a population of 1@@ 5@@ 8@@ 0@@ .@@ 7 p@@ e@@ e@@ r square k@@ i@@ l@@ o@@ m@@ e@@ t@@ e@@ r .
-the population d@@ e@@ n@@ s@@ i@@ t@@ y of a@@ n@@ n a@@ r@@ b@@ or , michigan is 1@@ 5@@ 8@@ 0@@ .@@ 7 inhabitants p@@ e@@ r s@@ q k@@ m .
-a@@ n@@ t@@ i@@ o@@ c@@ h , c@@ a is 1@@ 3 above sea level .
-a@@ n@@ t@@ i@@ o@@ c@@ h , california is 1@@ 3@@ .@@ 0 metres above sea level .
-a@@ n@@ t@@ i@@ o@@ c@@ h , california is located at 1@@ 3@@ .@@ 0 above sea level .
-the leader title of a@@ n@@ t@@ i@@ o@@ c@@ h , california , is california 's 11th state assembly district .
-the leader title of a@@ n@@ t@@ i@@ o@@ c@@ h california is california 's 11th state assembly district .
-a@@ r@@ l@@ i@@ n@@ g@@ t@@ on texas is has an elevation of 1@@ 8@@ 4 above sea level .
-a@@ r@@ l@@ i@@ n@@ g@@ t@@ on in texas is located at 1@@ 8@@ 4@@ .@@ 0 above sea level .
-atlantic county , new jersey is located in the united states .
-atlantic county in new jersey is located in the united states .
-a@@ t@@ t@@ i@@ c@@ a is part of f@@ o@@ u@@ n@@ t@@ a@@ in county indiana .
-a@@ t@@ t@@ i@@ c@@ a , indiana is in f@@ o@@ u@@ n@@ t@@ a@@ in county , indiana .
-a@@ u@@ b@@ u@@ r@@ n is part of a@@ l@@ a@@ b@@ a@@ m@@ a .
-a@@ u@@ b@@ u@@ r@@ n is located in a@@ l@@ a@@ b@@ a@@ m@@ a .
-california is in the united states .
-california is in the u.s.
-a@@ t@@ l@@ a@@ n@@ t@@ a is the largest city of f@@ u@@ l@@ t@@ on county , georgia .
-a@@ t@@ l@@ a@@ n@@ t@@ a is the largest city in f@@ u@@ l@@ t@@ on county , georgia .
-the state of georgia is in the u.s.
-georgia is in the country of united states .
-the state of georgia is located within the united states .
-i@@ n@@ d@@ i@@ a@@ n@@ a@@ p@@ o@@ l@@ is is the capital of indiana .
-l@@ e@@ e county is in a@@ l@@ a@@ b@@ a@@ m@@ a .
-l@@ e@@ e county is in the state of a@@ l@@ a@@ b@@ a@@ m@@ a .
-l@@ e@@ e county is situated within the state of a@@ l@@ a@@ b@@ a@@ m@@ a .
-t@@ r@@ e@@ n@@ t@@ on is the capital of new jersey .
-the capital of the state of new jersey is t@@ r@@ e@@ n@@ t@@ on .
-p@@ o@@ t@@ t@@ e@@ r county is in texas .
-p@@ o@@ t@@ t@@ e@@ r county is in the state of texas .
-t@@ a@@ r@@ r@@ a@@ n@@ t county , texas is situated in the united states .
-t@@ a@@ r@@ r@@ a@@ n@@ t county in texas is in the u.s.
-t@@ a@@ r@@ r@@ a@@ n@@ t county , texas is located within the united states .
-a@@ n@@ n a@@ r@@ b@@ or is the largest city in w@@ a@@ s@@ h@@ t@@ e@@ n@@ a@@ w county , michigan .
-the largest town in w@@ a@@ s@@ h@@ t@@ e@@ n@@ a@@ w county michigan is a@@ n@@ n a@@ r@@ b@@ or .
-the largest city in w@@ a@@ s@@ h@@ t@@ e@@ n@@ a@@ w county , michigan is a@@ n@@ n a@@ r@@ b@@ or .
-a@@ s@@ t@@ e@@ r@@ i@@ x was created by r@@ e@@ n@@ e g@@ o@@ s@@ c@@ i@@ n@@ n@@ y .
-the creator of a@@ s@@ t@@ e@@ r@@ i@@ x ( c@@ o@@ m@@ i@@ c@@ s character ) is r@@ e@@ n@@ é g@@ o@@ s@@ c@@ i@@ n@@ n@@ y .
-the comic character a@@ s@@ t@@ e@@ r@@ i@@ x , was created by r@@ e@@ n@@ é g@@ o@@ s@@ c@@ i@@ n@@ n@@ y .
-the comic character a@@ u@@ r@@ on was created by m@@ a@@ r@@ v w@@ o@@ l@@ f@@ man .
-a@@ u@@ r@@ on was created by m@@ a@@ r@@ v w@@ o@@ l@@ f@@ man .
-the comic book character a@@ u@@ r@@ on was created by m@@ a@@ r@@ v w@@ o@@ l@@ f@@ man .
-the comic character , b@@ a@@ l@@ d@@ e@@ r , was created by j@@ a@@ c@@ k k@@ i@@ r@@ by .
-the comic character b@@ a@@ l@@ d@@ e@@ r was created by j@@ a@@ c@@ k k@@ i@@ r@@ by .
-j@@ a@@ c@@ k k@@ i@@ r@@ by created the comic character b@@ a@@ l@@ d@@ e@@ r .
-bananaman is broadcast by s@@ t@@ v .
-bananaman is b@@ r@@ o@@ a@@ d@@ c@@ a@@ s@@ t@@ e@@ d by " s@@ t@@ v " .
-bananaman was b@@ r@@ o@@ a@@ d@@ c@@ a@@ s@@ t@@ e@@ d by s@@ t@@ v .
-bananaman first a@@ i@@ red on 3rd october 1983 .
-bananaman first a@@ i@@ red on the 3rd of october , 1983 .
-bananaman was first a@@ i@@ red on 1@@ 0@@ /@@ 0@@ 3@@ /@@ 1983 .
-bill o@@ d@@ d@@ i@@ e stars in bananaman .
-bananaman starred bill o@@ d@@ d@@ i@@ e .
-bill o@@ d@@ d@@ i@@ e starred in bananaman .
-baymax is a character in big hero 6 .
-bill e@@ v@@ e@@ r@@ e@@ t@@ t has won the e@@ i@@ s@@ n@@ e@@ r award .
-bill e@@ v@@ e@@ r@@ e@@ t@@ t has been awarded the e@@ i@@ s@@ n@@ e@@ r award .
-bill o@@ d@@ d@@ i@@ e 's d@@ a@@ u@@ g@@ h@@ t@@ e@@ r is k@@ a@@ t@@ e h@@ a@@ r@@ d@@ i@@ e .
-k@@ a@@ t@@ e h@@ a@@ r@@ d@@ i@@ e is bill o@@ d@@ d@@ i@@ e 's c@@ h@@ i@@ l@@ d .
-d@@ an m@@ i@@ s@@ h@@ k@@ in is one of the c@@ r@@ e@@ a@@ t@@ o@@ r@@ s of the comic character , bolt .
-the comic book character bolt was created by d@@ an m@@ i@@ s@@ h@@ k@@ in .
-the comic character bolt was created by d@@ an m@@ i@@ s@@ h@@ k@@ in .
-b@@ o@@ z@@ o the i@@ r@@ on man ’@@ s full name is h@@ u@@ g@@ h h@@ a@@ z@@ z@@ a@@ r@@ d .
-the full name of b@@ o@@ z@@ o the i@@ r@@ on man is " h@@ u@@ g@@ h h@@ a@@ z@@ z@@ a@@ r@@ d " .
-the comic book character b@@ o@@ z@@ o the i@@ r@@ on man 's a@@ l@@ t@@ e@@ r e@@ g@@ o is h@@ u@@ g@@ h h@@ a@@ z@@ z@@ a@@ r@@ d .
-john b@@ u@@ s@@ c@@ e@@ m@@ a has won the comic book award , e@@ a@@ g@@ l@@ e award .
-john b@@ u@@ s@@ c@@ e@@ m@@ a r@@ e@@ c@@ e@@ i@@ v@@ e@@ d the e@@ a@@ g@@ l@@ e award for his w@@ o@@ r@@ k in c@@ o@@ m@@ i@@ c@@ s .
-m@@ a@@ r@@ v w@@ o@@ l@@ f@@ man is a r@@ e@@ c@@ i@@ p@@ i@@ e@@ n@@ t of the e@@ a@@ g@@ l@@ e award .
-m@@ a@@ r@@ v w@@ o@@ l@@ f@@ man won the e@@ a@@ g@@ l@@ e award for c@@ o@@ m@@ i@@ c@@ s .
-m@@ a@@ r@@ v w@@ o@@ l@@ f@@ man has r@@ e@@ c@@ e@@ i@@ v@@ e@@ d the e@@ a@@ g@@ l@@ e award for c@@ o@@ m@@ i@@ c@@ s .
-the alternative name for ajoblanco is " a@@ j@@ o b@@ l@@ a@@ n@@ c@@ o " .
-a@@ j@@ o b@@ l@@ a@@ n@@ c@@ o is an alternative name to ajoblanco .
-a@@ j@@ o b@@ l@@ a@@ n@@ c@@ o is an alternative name of ajoblanco .
-the main ingredients in ajoblanco are bread , almonds , garlic , water and olive oil .
-bread , almonds , garlic , water , and olive oil are the main ingredients in ajoblanco .
-the main ingredients of ajoblanco are bread , almonds , garlic , water , olive oil .
-arem-arem is found nationwide in indonesia , but is m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c to java .
-arem-arem is nationwide in indonesia , but m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c to java .
-arem arem comes from indonesia .
-arrabbiata sauce is made with t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , red c@@ h@@ i@@ l@@ i , garlic and olive oil .
-the main ingredients in arrabbiata sauce are t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , red c@@ h@@ i@@ l@@ i , garlic and olive oil .
-c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h is an ingredient in arros negre .
-c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h is an ingredient of the dish arròs negre .
-s@@ q@@ u@@ i@@ d is an ingredient of arros negre .
-asam pedas is a food found in malaysia .
-the g@@ e@@ n@@ us of the avocado is p@@ e@@ r@@ sea .
-the g@@ e@@ n@@ us of avocado is p@@ e@@ r@@ sea .
-ayam penyet s@@ h@@ o@@ u@@ l@@ d be served h@@ o@@ t .
-ayam penyet is a dish that s@@ h@@ o@@ u@@ l@@ d be served h@@ o@@ t .
-ayam penyet is served h@@ o@@ t .
-baked alaska is a dessert .
-an ingredient of bakewell tart is f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e .
-f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e is an ingredient in a bakewell tart .
-f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e is an ingredient of bakewell tart .
-the dish bakso contains noodles .
-n@@ o@@ o@@ d@@ l@@ e is an ingredient in bakso .
-bakso contains noodles .
-v@@ e@@ r@@ m@@ i@@ c@@ e@@ l@@ l@@ i is an ingredient in bakso .
-v@@ e@@ r@@ m@@ i@@ c@@ e@@ l@@ l@@ i is an ingredient of the dish bakso .
-v@@ e@@ r@@ m@@ i@@ c@@ e@@ l@@ l@@ i is i@@ n@@ c@@ l@@ u@@ d@@ e@@ d in bakso .
-c@@ h@@ o@@ r@@ i@@ z@@ o is an ingredient in the dish bandeja paisa .
-c@@ h@@ o@@ r@@ i@@ z@@ o is an ingredient in bandeja paisa .
-m@@ o@@ n@@ d@@ e@@ l@@ e@@ z international is the creator of barny cakes .
-barny cakes were created by m@@ o@@ n@@ d@@ e@@ l@@ e@@ z international .
-barny cakes is created by m@@ o@@ n@@ d@@ e@@ l@@ e@@ z international .
-barny cakes can be c@@ h@@ o@@ c@@ o@@ l@@ a@@ t@@ e f@@ l@@ a@@ v@@ o@@ u@@ red .
-c@@ h@@ o@@ c@@ o@@ l@@ a@@ t@@ e is one variation of the barny cakes dish .
-barny cakes c@@ o@@ n@@ t@@ a@@ in 1@@ .@@ 8 g of p@@ r@@ o@@ t@@ e@@ in .
-barny cakes c@@ o@@ n@@ t@@ a@@ in 1@@ .@@ 8 g of p@@ r@@ o@@ t@@ e@@ in .
-batchoy is eaten in the philippines .
-philippines is the country batchoy comes from .
-chicken is an ingredient in batchoy .
-batchoy includes chicken .
-v@@ e@@ g@@ e@@ t@@ a@@ b@@ l@@ e are used in the p@@ r@@ e@@ p@@ a@@ r@@ a@@ t@@ i@@ on of batchoy .
-vegetables are an ingredient in batchoy .
-binignit is a dish from the region of v@@ i@@ s@@ a@@ y@@ as .
-p@@ a@@ t@@ r@@ i@@ c@@ k m@@ c@@ l@@ o@@ u@@ g@@ h@@ l@@ in is a leader in the derbyshire dales .
-p@@ a@@ t@@ r@@ i@@ c@@ k m@@ c@@ l@@ o@@ u@@ g@@ h@@ l@@ in is a leader in derbyshire dales .
-p@@ a@@ t@@ r@@ i@@ c@@ k m@@ c@@ l@@ o@@ u@@ g@@ h@@ l@@ in is the leader of derbyshire dales .
-a variation on dessert is cake .
-ice cream is a type of dessert .
-a type of dessert is an ice cream .
-ice cream is a dessert .
-jusuf kalla is a leader in indonesia .
-jusuf kalla is the leader of indonesia .
-italians are from italy .
-italians is the name g@@ i@@ v@@ e@@ n to people from italy .
-b@@ a@@ d@@ u@@ y is the ethnic group of java .
-the b@@ a@@ d@@ u@@ y is an ethnic group in java .
-b@@ a@@ d@@ u@@ y is an ethnic group of java .
-lemon is under the order of r@@ o@@ s@@ i@@ d@@ s .
-the order of l@@ e@@ m@@ o@@ n@@ s is r@@ o@@ s@@ i@@ d@@ s .
-mexico is i@@ n@@ h@@ a@@ b@@ i@@ t@@ e@@ d by m@@ e@@ x@@ i@@ c@@ a@@ n@@ s .
-m@@ e@@ x@@ i@@ c@@ a@@ n@@ s are people from mexico .
-in mexico , the spoken language is spanish .
-spanish is the language spoken in mexico .
-the language of mexico is spanish .
-one of the languages used in the philippines is arabic .
-arabic is a language spoken in the philippines .
-one of the languages in philippines is arabic .
-arabic is one of the languages spoken in the philippines .
-shumai is a variation of the dish siomay .
-siomay and shumai are variations of the same dish .
-native americans in the united states are one of the ethnic groups of the country .
-the atatürk monument in izmir was designed by pietro canonica .
-pietro canonica designed the atatürk monument in izmir .
-pietro canonica is the d@@ e@@ s@@ i@@ g@@ n@@ e@@ r of the ataturk monument ( izmir ) .
-the ataturk monument was designed by pietro canonica .
-ataturk monument was designed by pietro canonica .
-the atatürk monument ( İ@@ z@@ m@@ i@@ r ) was designed by pietro canonica .
-the d@@ e@@ s@@ i@@ g@@ n@@ e@@ r of the a@@ t@@ a@@ t@@ ü@@ r@@ k@@ _@@ monument ( İ@@ z@@ m@@ i@@ r ) is pietro canonica .
-pietro canonica is the d@@ e@@ s@@ i@@ g@@ n@@ e@@ r of the ataturk monument in izmir .
-the atatürk monument in izmir is made of bronze .
-the m@@ a@@ t@@ e@@ r@@ i@@ al of the ataturk monument ( izmir ) is bronze .
-the ataturk monument is made from bronze .
-the atatürk monument ( İ@@ z@@ m@@ i@@ r ) is made of bronze .
-ataturk monument is made of bronze .
-azerbaijan leader 's name is artur rasizade .
-the name of the leader of azerbaijan is artur rasizade .
-the baku turkish martyrs ' memorial is located in azerbaijan .
-the baku turkish m@@ a@@ r@@ t@@ y@@ r 's memorial is in azerbaijan .
-the turkish martyrs memorial is located in baku , azerbaijan .
-baku turkish martyrs ' memorial is located in azerbaijan .
-the baku turkish martyrs ' memorial can be found is azerbaijan .
-the baku turkish martyrs ' memorial is in azerbaijan .
-the baku turkish martyrs ' memorial is found in azerbaijan .
-the m@@ a@@ t@@ e@@ r@@ i@@ a@@ l@@ s used for the baku turkish martyrs ' memorial is red granite and white marble .
-the baku turkish martyrs ' memorial is created in red granite and white marble .
-the m@@ a@@ t@@ e@@ r@@ i@@ al of the baku turkish martyrs ' memorial is red granite and white marble .
-the baku turkish martyrs ' memorial is made from red granite and white marble .
-baku turkish martyrs ' memorial is made of red granite and white marble .
-baku turkish martyrs ' memorial is made from red granite and white marble .
-the baku turkish martyrs ' memorial is made with red granite and white marble .
-peter s@@ t@@ o@@ g@@ e@@ r is the manager of fc k@@ o@@ l@@ in .
-peter s@@ t@@ ö@@ g@@ e@@ r is manager of 1 . fc k@@ ö@@ l@@ n .
-the manager of 1 . fc k@@ o@@ l@@ n is peter s@@ t@@ o@@ g@@ e@@ r .
-1 fc magdeburg played in the 2014 season .
-a c lumezzane played the 2@@ 0@@ 1@@ 4@@ -@@ 2@@ 0@@ 15 season in l@@ e@@ g@@ a p@@ r@@ o .
-lumezzane played in the l@@ e@@ g@@ a p@@ r@@ o d@@ u@@ r@@ i@@ n@@ g the 2014 season .
-a.d. isidro metapan 's full name is " a@@ s@@ o@@ c@@ i@@ a@@ c@@ i@@ ó@@ n d@@ e@@ p@@ o@@ r@@ t@@ i@@ v@@ a " .
-a.d. isidro m@@ e@@ t@@ a@@ p@@ á@@ n 's full name is a@@ s@@ o@@ c@@ i@@ a@@ c@@ i@@ ó@@ n d@@ e@@ p@@ o@@ r@@ t@@ i@@ v@@ a .
-the f@@ u@@ l@@ l@@ name of a.d. isidro metapan is a@@ s@@ o@@ c@@ i@@ a@@ c@@ i@@ on d@@ e@@ p@@ o@@ r@@ t@@ i@@ v@@ a .
-a.e dimitra efxeinoupolis 's full name is a.e dimitra efxeinoupolis .
-" a.e dimitra efxeinoupolis " is the full name of a.e dimitra efxeinoupolis .
-a.e dimitra efxeinoupolis has the f@@ u@@ l@@ l@@ name a.e dimitra efxeinoupolis .
-a.e dimitra efxeinoupolis played in the 2014 season .
-a.e d@@ i@@ m@@ i@@ t@@ i@@ a efxeinoupolis were in the 2014 season .
-a.e dimitra efxeinoupolis played in season 2014 .
-a.e dimitra efxeinoupolis were in the 2014 – 15 a e@@ p@@ s@@ t@@ h . greece season .
-a.e dimitra efxeinoupolis were in the 2014-15 a e@@ p@@ s@@ t@@ h , greece .
-a.f.c. blackpool has 1@@ 5@@ 0@@ 0 members .
-the fylde is the home ground of afc fylde .
-afc fylde has the home ground called the fylde .
-the ground of a.s. gubbio 1910 is located in italy .
-a.s. livorno calcio has 1@@ 9@@ 2@@ 3@@ 8 members .
-the as livorno calcio has 1@@ 9@@ 2@@ 3@@ 8 members .
-the a.s. livorno calcio has 1@@ 9@@ 2@@ 3@@ 8 members .
-a.s. roma were in serie a in 2014-15 .
-frank de b@@ o@@ e@@ r manages the afc ajax team .
-afc ajax 's manager is frank de b@@ o@@ e@@ r .
-the manager of afc ajax is frank de b@@ o@@ e@@ r .
-afc ajax ( amateurs ) have the n@@ i@@ c@@ k@@ name " j@@ o@@ den , g@@ o@@ d@@ e@@ n@@ z@@ o@@ n@@ e@@ n " .
-the afc ajax team 's n@@ i@@ c@@ k@@ name is j@@ o@@ den , g@@ o@@ d@@ e@@ n@@ z@@ o@@ n@@ e@@ n .
-afc ajax ( amateurs ) n@@ i@@ c@@ k@@ name is j@@ o@@ den , g@@ o@@ d@@ e@@ n@@ z@@ o@@ n@@ e@@ n .
-afc ajax has 5@@ 0@@ 0@@ 0 members .
-afc ajax ( amateurs ) has 5@@ 0@@ 0@@ 0 members .
-azal pfk is located at s@@ h@@ u@@ v@@ alan , baku , azerbaijan .
-azal pfk is located in s@@ h@@ u@@ v@@ alan , baku , azerbaijan .
-az alkmaar has 1@@ 7@@ 0@@ 23 members .
-a@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o sportiva arapiraquense are managed by v@@ i@@ c@@ a .
-agremiação sportiva arapiraquense competed in the 2@@ 0@@ 15 campeonato brasileiro série c@@ .
-a@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o sportiva arapiraquense were in campeonato brasileiro serie c in 2@@ 0@@ 15 .
-akron summit assault 's ground is st. vincent-st . mary high school .
-st vincent-st mary high school is the ground of akron summit assault .
-akron summit assault has 3@@ 0@@ 0@@ 0 members .
-akron summit assault has g@@ o@@ t 3@@ 0@@ 0@@ 0 members .
-a@@ m@@ s@@ t@@ e@@ r@@ d@@ a@@ m@@ -@@ c@@ e@@ n@@ t@@ r@@ u@@ m is part of amsterdam .
-the leader of greece is nikos voutsis .
-g@@ u@@ s p@@ o@@ y@@ e@@ t is in aek athens f.c.
-g@@ u@@ s p@@ o@@ y@@ e@@ t plays for aek athens f.c.
-jens h@@ a@@ r@@ t@@ e@@ l plays for s@@ v g@@ e@@ r@@ m@@ a@@ n@@ i@@ a s@@ c@@ h@@ o@@ n@@ e@@ i@@ c@@ he .
-john van den brom plays at the az alkmaar club .
-john van den brom plays for az alkmaar .
-jorge h@@ u@@ m@@ b@@ e@@ r@@ to r@@ o@@ d@@ r@@ i@@ g@@ u@@ e@@ z 's club is a.d. isidro metapan .
-jorge h@@ u@@ m@@ b@@ e@@ r@@ to r@@ o@@ d@@ r@@ í@@ g@@ u@@ e@@ z is with the a.d. isidro m@@ e@@ t@@ a@@ p@@ á@@ n club .
-jorge h@@ u@@ m@@ b@@ e@@ r@@ to r@@ o@@ d@@ r@@ í@@ g@@ u@@ e@@ z was a member of the club a.d. isidro m@@ e@@ t@@ a@@ p@@ á@@ n .
-massimo drago is attached to the club d@@ e@@ l@@ f@@ i@@ n@@ o p@@ e@@ s@@ c@@ a@@ r@@ a 1@@ 9@@ 3@@ 6 .
-massimo drago plays for s@@ .@@ s@@ .@@ c@@ h@@ i@@ e@@ t@@ i calcio .
-massimo drago 's club is the s@@ .@@ s@@ . c@@ h@@ i@@ e@@ t@@ i calcio .
-massimo drago plays for s@@ .@@ s@@ . c@@ h@@ i@@ e@@ t@@ i calcio .
-the o@@ l@@ y@@ m@@ p@@ i@@ c stadium ( athens ) is located at m@@ a@@ r@@ o@@ u@@ s@@ i .
-the o@@ l@@ y@@ m@@ p@@ i@@ c stadium ( athens ) is located in m@@ a@@ r@@ o@@ u@@ s@@ i .
-k@@ -@@ w united fc have been champions of the premier d@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t league .
-k@@ -@@ w united fc were champions at the premier d@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t league .
-stuart parker played football for b@@ u@@ r@@ y fc .
-the f@@ o@@ o@@ t@@ b@@ a@@ l@@ l@@ e@@ r stuart parker plays for the b@@ u@@ r@@ y fc .
-the academic staff s@@ i@@ z@@ e of accademia di architettura di mendrisio is 100 .
-the academic staff number 100 at the accademia di architettura di mendrisio .
-the accademia di architettura di mendrisio has an academic staff of 100 .
-the campus address for the acharya i@@ n@@ s@@ t@@ i@@ t@@ u@@ e of technology is : s@@ o@@ l@@ d@@ e@@ n@@ v@@ a@@ n@@ a@@ h@@ a@@ l@@ l@@ i , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore - 560090 .
-the acharya institute of technology campus is located in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 .
-the campus of the acharya institute of technology is located at soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 .
-alba i@@ u@@ l@@ i@@ a is located in romania .
-alba i@@ u@@ l@@ i@@ a is in the country of romania .
-alba i@@ u@@ l@@ i@@ a is in romania .
-alba i@@ u@@ l@@ i@@ a o@@ s part of the county of alba .
-alba l@@ u@@ l@@ i@@ a is part of alba county .
-alba i@@ u@@ l@@ i@@ a is part of alba county .
-the p@@ a@@ t@@ r@@ on s@@ a@@ i@@ n@@ t of romania is a@@ n@@ d@@ r@@ e@@ w the a@@ p@@ o@@ s@@ t@@ l@@ e .
-a@@ n@@ d@@ r@@ e@@ w the a@@ p@@ o@@ s@@ t@@ l@@ e is the p@@ a@@ t@@ r@@ on s@@ a@@ i@@ n@@ t of romania .
-the academic staff of the school of business and social sciences at the aarhus university number 737 .
-the school of business and social sciences at the aarhus university has academic staff s@@ i@@ z@@ e of 737 .
-the school of business and social sciences at the aarhus university has an academic staff of 737 .
-the aarhus university school of business and social sciences is in the country of denmark .
-the school of business and social sciences at the aarhus university is situated in denmark .
-the school of business and social sciences at the aarhus university is located in denmark .
-the school of business and social sciences at the aarhus university is in denmark .
-eric flint is the author of 1634 : the bavarian crisis .
-1634 : the bavarian crisis was written by eric flint .
-1634 : the bavarian crisis is the sequel to the grantville gazettes .
-1634 : the bavarian crisis is preceded by the grantville gazettes .
-1634 : the ram rebellion was followed by 1@@ 6@@ 3@@ 5 : the c@@ a@@ n@@ n@@ on l@@ a@@ w .
-1634 : the ram rebellion is followed by 1@@ 6@@ 3@@ 5 : the c@@ a@@ n@@ n@@ on l@@ a@@ w .
-aip advances h@@ a@@ d the e@@ i@@ s@@ s@@ n@@ number 2@@ 1@@ 5@@ 8 .
-the e@@ issn number of aip advances is 2@@ 1@@ 5@@ 8 .
-a fortress of grey ice is a hardcover book .
-a fortress of grey ice was made in hardcover .
-a fortress of grey ice was p@@ r@@ o@@ d@@ u@@ c@@ e@@ d in hardcover .
-the isbn number of a long long way is 0@@ -@@ 6@@ 7@@ 0@@ -@@ 0@@ 3@@ 3@@ 8@@ 0@@ -@@ 4 .
-the isbn number to a long long way is 0@@ -@@ 6@@ 7@@ 0@@ -@@ 0@@ 3@@ 3@@ 8@@ 0@@ -@@ 4 .
-the book , a loyal character dancer , has the isbn number of 1@@ -@@ 5@@ 6@@ 9@@ 4@@ 7@@ -@@ 3@@ 0@@ 1@@ -@@ 3 .
-m@@ a@@ d@@ e@@ l@@ e@@ i@@ n@@ e l@@ '@@ e@@ n@@ g@@ l@@ e wrote " a severed wasp " .
-m@@ a@@ d@@ e@@ l@@ e@@ i@@ n@@ e l@@ '@@ e@@ n@@ g@@ l@@ e is the author of a severed wasp .
-a wizard of mars is published in english .
-a wizard of mars is written in english .
-a@@ b@@ h@@ a@@ n@@ d@@ l@@ u@@ n@@ g@@ e@@ n a@@ u@@ s d@@ e@@ m m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ s@@ c@@ h@@ e@@ n s@@ e@@ m@@ i@@ n@@ a@@ r d@@ e@@ r u@@ n@@ i@@ v@@ e@@ r@@ s@@ i@@ t@@ ä@@ t h@@ a@@ m@@ b@@ u@@ r@@ g has the lccn number 3@@ 2@@ 0@@ 2@@ 4@@ 4@@ 5@@ 9 .
-the a@@ b@@ h@@ a@@ n@@ d@@ l@@ u@@ n@@ g@@ e@@ n a@@ u@@ s d@@ e@@ m m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ s@@ c@@ h@@ e@@ n s@@ e@@ m@@ i@@ n@@ a@@ r d@@ e@@ r u@@ n@@ i@@ v@@ e@@ r@@ s@@ i@@ t@@ ä@@ t h@@ a@@ m@@ b@@ u@@ r@@ g has an lccn number of 3@@ 2@@ 0@@ 2@@ 4@@ 4@@ 5@@ 9 .
-the lccn number of a@@ b@@ h@@ a@@ n@@ d@@ l@@ u@@ n@@ g@@ e@@ n a@@ u@@ s d@@ e@@ m m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ s@@ c@@ h@@ e@@ n s@@ e@@ m@@ i@@ n@@ a@@ r d@@ e@@ r u@@ n@@ i@@ v@@ e@@ r@@ s@@ i@@ t@@ ä@@ t h@@ a@@ m@@ b@@ u@@ r@@ g is 3@@ 2@@ 0@@ 2@@ 4@@ 4@@ 5@@ 9 .
-above the veil is available in hardcover .
-acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a is also known as acta math . h@@ u@@ n@@ g@@ a@@ r .
-acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a has the abbreviation of " acta math . h@@ u@@ n@@ g@@ a@@ r . " .
-the abbreviation of acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a is acta math . h@@ u@@ n@@ g@@ a@@ r .
-the acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a c@@ o@@ v@@ e@@ r@@ s the academic discipline of mathematics .
-the acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a discipline is math .
-acta palaeontologica polonica has the coden code a@@ p@@ g@@ p@@ ac .
-the acta palaeontologica polonica coden code is " a@@ p@@ g@@ p@@ ac " .
-the coden code for the acta palaeontologica polonica is a@@ p@@ g@@ p@@ ac .
-the oclc number of addiction ( journal ) is 2@@ 7@@ 3@@ 6@@ 7@@ 1@@ 9@@ 4 .
-the oclc number for addiction journal is 2@@ 7@@ 3@@ 6@@ 7@@ 1@@ 9@@ 4 .
-addiction ( journal ) has an oclc number 2@@ 7@@ 3@@ 6@@ 7@@ 1@@ 9@@ 4 .
-w@@ i@@ l@@ e@@ y@@ -@@ b@@ l@@ a@@ c@@ k@@ well is the publisher of the journal addiction .
-w@@ i@@ l@@ e@@ y@@ -@@ b@@ l@@ a@@ c@@ k@@ well is the publisher of addiction ( journal ) .
-addiction journal is published by w@@ i@@ l@@ e@@ y@@ -@@ b@@ l@@ a@@ c@@ k@@ well .
-the lccn number of the administrative science quarterly is 5@@ 7@@ 0@@ 5@@ 9@@ 2@@ 2@@ 6 .
-administrative science quarterly 's l@@ l@@ c@@ n number is 5@@ 7@@ 0@@ 5@@ 9@@ 2@@ 2@@ 6 .
-oclc number 4@@ 5@@ 6@@ 4@@ 4@@ 8@@ 11 is aenir .
-oclc number 4@@ 5@@ 6@@ 4@@ 4@@ 8@@ 11 is for aenir .
-the oclc number of aenir is 4@@ 5@@ 6@@ 4@@ 4@@ 8@@ 11 .
-alcatraz versus the evil l@@ i@@ b@@ r@@ a@@ r@@ i@@ an oclc number is 7@@ 8@@ 7@@ 7@@ 1@@ 1@@ 0@@ 0 .
-alcatraz versus the evil librarians has the oclc number of 7@@ 8@@ 7@@ 7@@ 1@@ 1@@ 0 .
-alcatraz versus the evil librarians has an oclc number of 7@@ 8@@ 7@@ 7@@ 1@@ 1@@ 0@@ 0 .
-the book alcatraz versus the evil librarians is followed by the book alcatraz versus the s@@ c@@ r@@ i@@ v@@ e@@ n@@ e@@ r 's b@@ o@@ n@@ e@@ s .
-alcatraz versus the evil librarians was followed by alcatraz versus the s@@ c@@ r@@ i@@ v@@ e@@ n@@ e@@ r 's b@@ o@@ n@@ e@@ s .
-alcatraz versus the evil librarians is followed by alcatraz versus the s@@ c@@ r@@ i@@ v@@ e@@ n@@ e@@ r 's b@@ o@@ n@@ e@@ s .
-the i@@ m@@ p@@ a@@ c@@ t f@@ a@@ c@@ t@@ or of the american journal of mathematics is 1@@ .@@ 3@@ 3@@ 7 .
-the american journal of mathematics has an i@@ m@@ p@@ a@@ c@@ t f@@ a@@ c@@ t@@ or of 1@@ .@@ 3@@ 3@@ 7 .
-the novel castle is followed by aenir .
-aenir followed the novel castle .
-castle is followed by aenir .
-c@@ o@@ r@@ n@@ well university is n@@ i@@ c@@ k@@ named cornell big red .
-cornell big red is the n@@ i@@ c@@ k@@ name of cornell university .
-cornell big red is the n@@ i@@ c@@ k@@ name for cornell university .
-the h@@ i@@ v v@@ i@@ r@@ us is from the g@@ e@@ n@@ us l@@ e@@ n@@ t@@ i@@ v@@ i@@ r@@ us .
-h@@ i@@ v is g@@ e@@ n@@ us l@@ e@@ n@@ t@@ i@@ v@@ i@@ r@@ us .
-h@@ i@@ v g@@ e@@ n@@ us is categorised as l@@ e@@ n@@ t@@ i@@ v@@ i@@ r@@ us .
-w@@ o@@ l@@ f s@@ o@@ l@@ e@@ n@@ t is a n@@ o@@ t@@ a@@ b@@ l@@ e w@@ o@@ r@@ k by john cowper powys .
-w@@ o@@ l@@ f s@@ o@@ l@@ e@@ n@@ t is one of john cowper powys n@@ o@@ t@@ a@@ b@@ l@@ e w@@ o@@ r@@ k@@ s .
-w@@ o@@ l@@ f s@@ o@@ l@@ e@@ n@@ t is a n@@ o@@ t@@ a@@ b@@ l@@ e w@@ o@@ r@@ k of author john cowper powys .
-elizabeth ii is a leader in the united kingdom .
-the leader of the united kingdom is elizabeth ii .
-elizabeth ii is the leader in the uk .
-joe biden is a united states leader .
-joe biden is a leader in the u.s.
-a leader in the united states is joe biden .
-john cowper powys is the author of w@@ o@@ l@@ f s@@ o@@ l@@ e@@ n@@ t .
-john cowper powys is the author of " w@@ o@@ l@@ f s@@ o@@ l@@ e@@ n@@ t " .
-abilene is in texas and is served by the abilene regional airport .
-abilene , part of texas , is served by the abilene regional airport .
-abilene regional airport serves the city of abilene which is in texas .
-adolfo suárez madrid – barajas airport is in alcobendas and has a runway length of 3500 .
-located in alcobendas , adolfo suarez madrid-barajas airport has a runway with the length of 3@@ 5@@ 0@@ 0@@ .@@ 0 metres .
-the adolfo suárez madrid – barajas airport located at san s@@ e@@ b@@ a@@ s@@ t@@ i@@ an de los r@@ e@@ y@@ e has a runway length of 3500 .
-the adolfo suárez madrid – barajas airport is in san s@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los reyes and has a runway length of 3@@ 5@@ 0@@ 0@@ .@@ 0 metres .
-adolfo suarez madrid-barajas airport is located at san s@@ e@@ b@@ a@@ s@@ t@@ i@@ an de los reyes and has a runway length of 3500 .
-agra airport is in india where one of its leaders is t@@ .@@ s@@ . thakur .
-agra airport is in india , where the leader is t@@ s thakur .
-agra airport is located in india , where the leader is t s thakur .
-al asad airbase is 6@@ 18 f@@ t above sea level and is located in al a@@ n@@ b@@ a@@ r province , iraq .
-the al asad airbase which is elevated 6@@ 18 feet above sea level , is located in the al a@@ n@@ b@@ a@@ r province in iraq .
-the al asad airbase , which is 6@@ 18 f@@ t above sea level , is located in al a@@ n@@ b@@ a@@ r province , iraq .
-al asad airbase is operated by the united states air force who f@@ o@@ u@@ g@@ h@@ t in the o@@ p@@ e@@ r@@ a@@ t@@ i@@ on of e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m battle .
-o@@ p@@ e@@ r@@ a@@ t@@ i@@ on e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m was a battle i@@ n@@ v@@ o@@ l@@ v@@ i@@ n@@ g the united states air force who o@@ p@@ e@@ r@@ a@@ t@@ e al asad airbase .
-the united states invasion of p@@ a@@ n@@ a@@ m@@ a was a battle i@@ n@@ v@@ o@@ l@@ v@@ i@@ n@@ g the united states air force who o@@ p@@ e@@ r@@ a@@ t@@ e the al asad airbase .
-the united states invasion of p@@ a@@ n@@ a@@ m@@ a was a battle i@@ n@@ v@@ o@@ l@@ v@@ i@@ n@@ g the united states air force who are the operating organisation for al asad airbase .
-the united states air force was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the invasion of p@@ a@@ n@@ a@@ m@@ a and is also the operating organisation for al asad air base .
-adolfo suárez madrid – barajas airport is located in alcobendas which is part of the community of madrid .
-adolfo suárez madrid – barajas airport is in alcobendas which is part of the community of madrid .
-poaceae is the surface of the 1st runway at alderney airport which has a runway with the length of 8@@ 7@@ 7@@ .@@ 0 metres .
-the 1st runway length of alderney airport is 8@@ 7@@ 7@@ .@@ 0 and the surface is poaceae .
-allama iqbal international airport is operated by pakistan civil aviation authority , the h@@ q of which is at j@@ i@@ n@@ n@@ a@@ h international airport .
-the pakistan civil aviation authority , which has its h@@ q at j@@ i@@ n@@ n@@ a@@ h international airport , g@@ o@@ v@@ e@@ r@@ n@@ s allama iqbal international airport .
-allama iqbal international airport is operated by the pakistan civil aviation authority , which is h@@ e@@ a@@ d@@ q@@ u@@ a@@ r@@ t@@ e@@ red at j@@ i@@ n@@ n@@ a@@ h international airport .
-the location of alpena county regional airport is w@@ i@@ l@@ s@@ on township , alpena county , michigan , united states .
-alpena county regional airport is located in w@@ i@@ l@@ s@@ on township , alpena county , michigan , united states .
-alpena county regional airport is located in the w@@ i@@ l@@ s@@ on township , alpena county , michigan , usa .
-the s@@ c@@ h@@ i@@ p@@ o@@ l group are the o@@ p@@ e@@ r@@ a@@ t@@ o@@ r@@ s of amsterdam airport schiphol , which is -@@ 3@@ .@@ 3@@ 5@@ 2@@ 8 above sea level .
-schiphol group operates the amsterdam airport schiphol which is -@@ 3@@ .@@ 3@@ 5@@ 2@@ 8 m a@@ .@@ s@@ .@@ l@@ .
-amsterdam airport s@@ c@@ h@@ i@@ p@@ o@@ l is operated by the s@@ c@@ h@@ i@@ p@@ o@@ l group and is -@@ 3@@ .@@ 3@@ 5@@ 2@@ 8 above sea level .
-andrews county airport is 9@@ 7@@ 3 metres above sea level and the 4@@ t@@ h runway is made of asphalt .
-the f@@ o@@ u@@ r@@ t@@ h runway at andrews county airport is made of asphalt and the airport is 9@@ 7@@ 3 b@@ e@@ l@@ o@@ w sea level .
-andrews county airport is located in texas , the capital of which is austin .
-andrews county airport is located in texas which has the capital of austin .
-andrews county airport is located in texas , where austin is the capital .
-angola international airport serves the city of luanda , it is 1@@ 5@@ 9@@ m above sea level .
-the angola international airport , 1@@ 5@@ 9 m above sea level serves luanda .
-angola international airport is located in Í@@ c@@ o@@ l@@ o e bengo , angola .
-antwerp international airport , operated by the flemish department of m@@ o@@ b@@ i@@ l@@ i@@ t@@ y and public w@@ o@@ r@@ k@@ s , is 12 metres above sea level .
-appleton , g@@ r@@ and chute , wisconsin is a city which is served by appleton international airport .
-appleton , wisconsin is part of g@@ r@@ and chute , wisconsin and is served by a@@ p@@ p@@ l@@ e@@ t@@ one international airport .
-appleton international airport serves the city of appleton which is part of g@@ r@@ and chute , wisconsin .
-new zealand 's ardmore airport 's s@@ e@@ c@@ o@@ n@@ d runway has the surface type poaceae which is part of the p@@ o@@ a@@ l@@ e@@ s order .
-the 2@@ n@@ d runway at ardmore airport ( new zealand ) is made of poaceae , which is a member of the order of p@@ o@@ a@@ l@@ e@@ s .
-poaceae ( part of the p@@ o@@ a@@ l@@ e@@ s order ) is the surface type of the s@@ e@@ c@@ o@@ n@@ d runway of ardmore airport , new zealand .
-ardmore airport ( new zealand ) 's 3rd runway surface type is poaceae of the c@@ l@@ a@@ s@@ s m@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on .
-the 3rd runway at ardmore airport ( new zealand ) is made of poaceae which is i@@ n@@ c@@ l@@ u@@ d@@ e@@ d in the c@@ l@@ a@@ s@@ s m@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on .
-ardmore airport ( new zealand ) 's 3rd runway surface type is poaceae which is i@@ n@@ c@@ l@@ u@@ d@@ e@@ d in the c@@ l@@ a@@ s@@ s of m@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on .
-the runway length at ashgabat international airport , located in ashgabat , is 3@@ 8@@ 0@@ 0@@ .@@ 0 .
-ashgabat international airport is located in ashgabat and its runway length is 3@@ 8@@ 0@@ 0 .
-the runway length of ashgabat international airport in ashgabat is 3@@ 8@@ 0@@ 0@@ .@@ 0 .
-athens international airport is in s@@ p@@ a@@ t@@ a and serves the city of athens .
-athens international airport , which is located in s@@ p@@ a@@ t@@ a , serves the city of athens .
-athens international airport in s@@ p@@ a@@ t@@ a serves the city of athens .
-athens international airport serves the city of athens and has a runway length of 3@@ 8@@ 0@@ 0@@ .@@ 0 .
-athens international airport serves the city of athens and has a runway length of 3@@ .@@ 8@@ 0@@ 0 metres .
-san s@@ e@@ b@@ a@@ s@@ t@@ i@@ an de los reyes is part of the community of madrid and is also the location of adolfo suárez madrid – barajas airport .
-adolfo suárez madrid – barajas airport is found in san s@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los reyes , part of the community of madrid .
-the adolfo suárez madrid – barajas airport is in san s@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los reyes which is part of the community of madrid .
-apollo 14 crew member alan shepard retired on the first of a@@ u@@ g@@ u@@ st , 1@@ 9@@ 7@@ 4 .
-alan shepard , who served as a crew member of apollo 14 , retired 1@@ 9@@ 7@@ 4@@ -@@ 0@@ 8@@ -@@ 0@@ 1 .
-buzz aldrin is a us national b@@ e@@ c@@ a@@ u@@ s@@ e he was born in glen ridge , new jersey .
-american buzz aldrin h@@ a@@ i@@ l@@ s from glen ridge , new jersey .
-buzz aldrin was born in glen ridge , new jersey in the united states .
-buzz aldrin was a us c@@ i@@ t@@ i@@ z@@ e@@ n born in glen ridge , new jersey .
-r@@ e@@ t@@ i@@ r@@ e@@ e buzz aldrin is a f@@ o@@ r@@ m@@ e@@ r fighter pilot .
-buzz aldrin is now retired but he was o@@ n@@ c@@ e a fighter pilot .
-buzz aldrin has s@@ i@@ n@@ c@@ e retired but he o@@ n@@ c@@ e served as a fighter pilot .
-buzz aldrin served as a fighter pilot and is now retired .
-the apollo 11 p@@ r@@ o@@ g@@ r@@ a@@ m was o@@ r@@ g@@ a@@ n@@ i@@ z@@ e@@ d by nasa and i@@ n@@ c@@ l@@ u@@ d@@ e@@ d buzz aldrin as one of its crew members .
-nasa operated the apollo 11 p@@ r@@ o@@ g@@ r@@ a@@ m of which buzz aldrin was a member .
-buzz aldrin was on apollo 11 which nasa operated .
-buzz aldrin served as a crew member of apollo 11 which is operated by nasa .
-buzz aldrin was a crew member of apollo 11 - whose o@@ p@@ e@@ r@@ a@@ t@@ or was nasa .
-buzz aldrin was a crew member of apollo 11 , which was operated by nasa .
-buzz aldrin was a crew member of nasa 's apollo 11 .
-buzz aldrin p@@ e@@ r@@ f@@ o@@ r@@ m@@ e@@ d as a fighter pilot and was a crew member on apollo 11 .
-buzz aldrin , who was a fighter pilot , was a crew member on apollo 11 .
-buzz aldrin was a fighter pilot who was also part of the apollo 11 crew .
-buzz aldrin was both a fighter pilot and member of the apollo 11 f@@ l@@ i@@ g@@ h@@ t crew .
-buzz aldrin was a fighter pilot and crew member of apollo 11 .
-11 diagonal street is in south africa . one south african group is the c@@ o@@ l@@ o@@ u@@ red .
-the address , 11 diagonal street is located in south africa which is home to s@@ o@@ m@@ e c@@ o@@ l@@ o@@ u@@ red people .
-there are 4@@ 5 floors at 200 public square in cleveland .
-200 public square , cleveland , has a floor c@@ o@@ u@@ n@@ t of 4@@ 5 .
-20 fenchurch street is located in london , which is currently led by the european parliament .
-20 fenchurch street is located in london , which is led v@@ i@@ a the european parliament .
-20 fenchurch street is located in london which is lead v@@ i@@ a the european parliament .
-250 delaware avenue is located in the united states , the leader of which was barack obama .
-250 delaware avenue is located in the united states - which is lead by barack obama .
-there are 6@@ 0 floors at 300 north lasalle in illinois .
-300 north lasalle in illinois has 6@@ 0 floors .
-h@@ o@@ k s@@ v@@ e was the architect of the 3arena at north w@@ all , dublin .
-3arena is located at north w@@ all , dublin , and was built by h@@ o@@ k s@@ v@@ e .
-the 3arena is located at north w@@ all , dublin and was designed by h@@ o@@ k s@@ v@@ e .
-3arena at east l@@ i@@ n@@ k b@@ ridge is owned by live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t .
-3 a@@ r@@ e@@ n@@ a is located at east l@@ i@@ n@@ k b@@ ridge and is owned by live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t .
-3arena , owned by live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t , is located in b@@ e@@ v@@ e@@ r@@ l@@ y h@@ i@@ l@@ l@@ s , california .
-live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t from b@@ e@@ v@@ e@@ r@@ l@@ y h@@ i@@ l@@ l@@ s , california , are the o@@ w@@ n@@ e@@ r@@ s of 3arena .
-marriott international is the tenant of ac hotel bella sky copenhagen and it has 23 floors .
-the tenant of the ac hotel bella sky copenhagen , which has 23 floors , is the marriott international hotel .
-addis ababa city hall is 4@@ 2 m high and h@@ o@@ uses the government of addis ababa .
-the " government of addis ababa " are the current tenants of addis ababa city hall which is 4@@ 2 metres high .
-addis ababa city hall is 4@@ 2 m high and is o@@ c@@ c@@ u@@ p@@ i@@ e@@ d by the government of addis a@@ d@@ a@@ b@@ a .
-a@@ d@@ m@@ i@@ s@@ h@@ a@@ m hall 's architectural style is t@@ u@@ d@@ or and j@@ a@@ c@@ a@@ b@@ i@@ an and the building is located in haputale , sri lanka .
-adisham hall , haputale , sri lanka , is t@@ u@@ d@@ or and j@@ a@@ c@@ a@@ b@@ i@@ an in style .
-adisham hall is located in sri lanka , where they speak the t@@ a@@ m@@ i@@ l language .
-adisham hall is located in the country of sri lanka where they speak t@@ a@@ m@@ i@@ l .
-the c@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on of alan b miller hall , 1@@ 0@@ 1 u@@ k@@ r@@ o@@ p way , b@@ e@@ g@@ an on 3@@ 0@@ t@@ h march 2@@ 0@@ 0@@ 7 .
-alan b. miller hall 's building s@@ t@@ art d@@ a@@ t@@ e was in 3@@ 0@@ t@@ h march 2@@ 0@@ 0@@ 7 and is located at 1@@ 0@@ 1 u@@ k@@ r@@ o@@ p way .
-alan b. miller hall at 1@@ 0@@ 1 u@@ k@@ r@@ o@@ p way o@@ p@@ e@@ n@@ e@@ d on march 3@@ 0 , 2@@ 0@@ 0@@ 7 .
-alan b miller hall is owned by the college of william and mary and located in w@@ i@@ l@@ l@@ i@@ a@@ m@@ s@@ b@@ u@@ r@@ g , virginia .
-alan b. miller hall in w@@ i@@ l@@ l@@ i@@ a@@ m@@ s@@ b@@ u@@ r@@ g , virginia is owned by the college of william and mary .
-the college of william and mary is the o@@ w@@ n@@ e@@ r of the alan b. miller hall in w@@ i@@ l@@ l@@ i@@ a@@ m@@ s@@ b@@ u@@ r@@ g , virginia .
-robert a. m@@ . stern is the architect of the alan b. miller hall where the mason school of business is located .
-robert a m stern designed alan b miller hall and the mason school of business is a tenant there .
-mason school of business is a tenant of the alan b. miller hall , which was designed by robert a@@ .@@ m@@ . stern .
-ampara hospital is located in the ampara district in sri lanka .
-ampara hospital is located in the ampara district of sri lanka .
-sri jayawardenepura k@@ o@@ t@@ t@@ e is the capital of sri lanka , where ampara hospital is located .
-ampara hospital is located in sri lanka whose capital is sri jayawardenepura k@@ o@@ t@@ t@@ e .
-ampara hospital is located in sri lanka whose capital is sri jayawardenepura .
-the asher and mary isabelle richardson house is located on u.s. r@@ o@@ u@@ t@@ e 8@@ 3 and has the reference number 8@@ 8@@ 0@@ 0@@ 2@@ 5@@ 3@@ 9 in the national register of historic places .
-the national register of historic places has the asher and mary isabelle richardson house , located at u.s. r@@ o@@ u@@ t@@ e 8@@ 3 , r@@ e@@ f@@ e@@ r@@ e@@ n@@ c@@ e@@ d at 8@@ 8@@ 0@@ 0@@ 2@@ 5@@ 3@@ 9 .
-asher and mary isabelle richardson house has the reference number 8@@ 8@@ 0@@ 0@@ 2@@ 5@@ 3@@ 9 in the national register of historic places , and is located at u.s. r@@ o@@ u@@ t@@ e 8@@ 3 .
-asilomar conference grounds , asilomar b@@ l@@ v@@ d@@ . , pacific grove , california has a reference number in the national register of historic places of : 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 .
-asilomar conference grounds is located at asilomar b@@ l@@ v@@ d@@ . , pacific grove , california and it 's reference number is 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 in the national register of historic places .
-" 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 " is asilomar conference grounds ' reference number in the national register of historic places , and it is located on asilomar b@@ l@@ v@@ d , pacific grove , california .
-asilomar conference grounds at pacific grove , california was added to the national register of historic places on february the 2@@ 7@@ n@@ d 1@@ 9@@ 8@@ 7 .
-asilomar conference grounds are located in pacific grove , california and was added to the national register of historic places on february the 2@@ 7@@ n@@ d 1@@ 9@@ 8@@ 7 .
-asilomar conference grounds , pacific grove , california was added to the national register of historic places on february 27 , 1@@ 9@@ 8@@ 7 .
-asser levy public baths is located on 23rd street , manhattan , and was constructed in 1@@ 9@@ 0@@ 4 .
-asser levy baths which was built in 1@@ 9@@ 0@@ 4 is located at 23rd street in manhattan .
-the asser levy public baths , constructed in 1@@ 9@@ 0@@ 4 , is located at 23rd street ( manhattan ) .
-a@@ n@@ a@@ n@@ d@@ i@@ b@@ e@@ n p@@ a@@ t@@ e@@ l was the leader of g@@ u@@ j@@ u@@ r@@ at where amdavad ni gufa is located .
-amdavad gufa is located in gujarat and it 's leader is a@@ n@@ a@@ n@@ d@@ i@@ b@@ e@@ n p@@ a@@ t@@ e@@ l .
-amdavad ni gufa is located in gujarat and it 's leader is a@@ n@@ a@@ n@@ d@@ i@@ b@@ e@@ n p@@ a@@ t@@ e@@ l .
-the comic s@@ t@@ r@@ i@@ p character a@@ s@@ t@@ e@@ r@@ i@@ x was created by a@@ l@@ b@@ e@@ r@@ t u@@ d@@ e@@ r@@ z@@ o and r@@ e@@ n@@ e g@@ o@@ s@@ c@@ i@@ n@@ n@@ y .
-the comic book character a@@ s@@ t@@ e@@ r@@ i@@ x was created by r@@ e@@ n@@ é g@@ o@@ s@@ c@@ i@@ n@@ n@@ y and a@@ l@@ b@@ e@@ r@@ t u@@ d@@ e@@ r@@ z@@ o .
-the character a@@ s@@ t@@ e@@ r@@ i@@ x was created by r@@ e@@ n@@ e@@ é g@@ o@@ s@@ c@@ i@@ n@@ n@@ y and a@@ l@@ b@@ e@@ r@@ t u@@ d@@ e@@ r@@ z@@ o .
-created by l@@ e@@ n w@@ e@@ in , a@@ u@@ r@@ a@@ k@@ l@@ e@@ s 's alternative name is also a@@ u@@ r@@ a@@ k@@ l@@ e@@ s .
-the character a@@ u@@ r@@ a@@ k@@ l@@ e@@ s , also known as a@@ u@@ r@@ a@@ k@@ l@@ e@@ s , was created by l@@ e@@ n w@@ e@@ in .
-d@@ o@@ u@@ g m@@ o@@ e@@ n@@ c@@ h was the creator of the comic character b@@ a@@ l@@ l@@ i@@ s@@ t@@ i@@ c , who has the alternative name k@@ e@@ l@@ v@@ in m@@ a@@ o .
-b@@ a@@ l@@ l@@ i@@ s@@ t@@ i@@ c , ( also known as k@@ e@@ l@@ v@@ in m@@ a@@ o ) , is a f@@ i@@ c@@ t@@ i@@ o@@ n@@ al comic s@@ u@@ p@@ e@@ r@@ hero created by d@@ o@@ u@@ g m@@ o@@ e@@ n@@ c@@ h .
-d@@ o@@ u@@ g m@@ o@@ e@@ n@@ c@@ h created the character b@@ a@@ l@@ l@@ i@@ s@@ t@@ i@@ c , the f@@ i@@ c@@ t@@ i@@ o@@ n@@ al s@@ u@@ p@@ e@@ r@@ hero whose a@@ l@@ t@@ e@@ r e@@ g@@ o is k@@ e@@ l@@ v@@ in m@@ a@@ o .
-s@@ t@@ a@@ r@@ r@@ i@@ n@@ g g@@ r@@ a@@ e@@ m@@ e g@@ a@@ r@@ d@@ e@@ n , bananaman , the t@@ v s@@ e@@ r@@ i@@ e@@ s was s@@ h@@ o@@ w@@ n on the bbc .
-g@@ r@@ a@@ e@@ m@@ e g@@ a@@ r@@ d@@ e@@ n starred in the t@@ v s@@ e@@ r@@ i@@ e@@ s b@@ a@@ n@@ a@@ n@@ man , which was s@@ h@@ o@@ w@@ n on the bbc .
-bananaman , which starred g@@ r@@ a@@ e@@ m@@ e g@@ a@@ r@@ d@@ e@@ n , was b@@ r@@ o@@ a@@ d@@ c@@ a@@ s@@ t@@ e@@ d by the bbc .
-bill o@@ d@@ d@@ i@@ e , who stars in bananaman , was born in l@@ a@@ n@@ c@@ a@@ s@@ h@@ i@@ r@@ e .
-bananaman starred bill o@@ d@@ d@@ i@@ e who was born in l@@ a@@ n@@ c@@ a@@ s@@ h@@ i@@ r@@ e .
-bill o@@ d@@ d@@ i@@ e , who was born in l@@ a@@ n@@ c@@ a@@ s@@ h@@ i@@ r@@ e , starred in bananaman .
-b@@ i@@ b@@ b@@ o b@@ i@@ b@@ b@@ o@@ w@@ s@@ k@@ i was created by american , j@@ e@@ r@@ r@@ y o@@ r@@ d@@ way .
-the creator of b@@ i@@ b@@ b@@ o b@@ i@@ b@@ b@@ o@@ w@@ s@@ k@@ i is j@@ e@@ r@@ r@@ y o@@ r@@ d@@ way , an american .
-j@@ e@@ r@@ r@@ y o@@ r@@ d@@ way , an american , is the creator of b@@ i@@ b@@ b@@ o b@@ i@@ b@@ b@@ o@@ w@@ s@@ k@@ i .
-black p@@ i@@ r@@ a@@ t@@ e , also known as j@@ on v@@ a@@ l@@ or , was created by s@@ h@@ e@@ l@@ d@@ on m@@ o@@ l@@ d@@ o@@ f@@ f .
-the black p@@ i@@ r@@ a@@ t@@ e ( j@@ on v@@ a@@ l@@ or ) , was created by s@@ h@@ e@@ l@@ d@@ on m@@ o@@ l@@ d@@ o@@ f@@ f .
-s@@ h@@ e@@ l@@ d@@ on m@@ o@@ l@@ d@@ o@@ f@@ f is the creator of black p@@ i@@ r@@ a@@ t@@ e , who is also known as j@@ on v@@ a@@ l@@ or .
-the comic character blockbuster was created by r@@ o@@ g@@ e@@ r stern and t@@ o@@ m l@@ y@@ l@@ e .
-blockbuster is a comic book character which was created by both r@@ o@@ g@@ e@@ r stern and t@@ o@@ m l@@ y@@ l@@ e .
-the comic book character blockbuster was created by r@@ o@@ g@@ e@@ r stern and t@@ o@@ m l@@ y@@ l@@ e .
-paris c@@ u@@ l@@ i@@ n@@ s and g@@ a@@ r@@ y c@@ o@@ h@@ n are the c@@ r@@ e@@ a@@ t@@ o@@ r@@ s of the c@@ o@@ m@@ i@@ c@@ s character bolt .
-both paris c@@ u@@ l@@ l@@ i@@ n@@ s and g@@ a@@ r@@ y c@@ o@@ h@@ n were the creator 's of the comic character bolt .
-the comic character bolt , was created by paris c@@ u@@ l@@ l@@ i@@ n@@ s and g@@ a@@ r@@ y c@@ o@@ h@@ n .
-bread is an ingredient of ajoblanco which originates from spain .
-one of the ingredients of ajoblanco is bread and it originates from spain .
-bread is an ingredient of ajoblanco which comes from spain .
-ajoblanco , from andalusia , has almond as one of its ingredients .
-almond is an ingredient in ajoblanco , from andalusia .
-ajoblanco is from the andalusia region and has almond as one of its ingredients .
-t@@ o@@ m@@ a@@ t@@ o is an ingredient in amatriciana sauce which comes from l@@ a@@ z@@ i@@ o .
-amatriciana sauce is from the l@@ a@@ z@@ i@@ o region and t@@ o@@ m@@ a@@ t@@ o is one of the ingredients .
-t@@ o@@ m@@ a@@ t@@ o is an ingredient in amatriciana sauce which comes from the region of l@@ a@@ z@@ i@@ o .
-bandeja paisa comes from the antioquia department of c@@ o@@ l@@ o@@ m@@ b@@ i@@ a .
-bandeja paisa is a dish found in the antioquia department of c@@ o@@ l@@ o@@ m@@ b@@ i@@ a .
-arem-arem uses the ingredient banana leaf , it is a c@@ o@@ m@@ m@@ on dish in indonesia .
-banana leaf is an ingredient in arem arem , which comes from indonesia .
-arem arem which includes banana leaf , comes from indonesia .
-olive oil is an ingredient used in the p@@ r@@ e@@ p@@ a@@ r@@ a@@ t@@ i@@ on of arrabbiata sauce , found in italy .
-olive oil is used to c@@ r@@ e@@ a@@ t@@ e italian arrabbiata sauce .
-olive oil is an ingredient in arrabbiata sauce , which can be found in italy .
-arrabbiata sauce is found in italy where the capital city is rome .
-rome is the capital of italy which is where arrabbiata sauce comes from .
-arrabbiata sauce is from italy which has the capital city of rome .
-t@@ o@@ m@@ a@@ t@@ o@@ e@@ s are found in arrabbiata sauce which comes from italy .
-t@@ o@@ m@@ a@@ t@@ o@@ e@@ s are an ingredient of arrabbiata sauce from italy .
-t@@ o@@ m@@ a@@ t@@ o@@ e@@ s are found in arrabbiata sauce , which originated in italy .
-arròs negre is from spain , it includes s@@ q@@ u@@ i@@ d .
-arròs negre is a traditional dish from spain , it includes s@@ q@@ u@@ i@@ d .
-c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h is an ingredient in arros negre which comes from the region of valencian community .
-an ingredient of arros negre is c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h , the dish comes from the valencian community region .
-ayam penyet is a food found in java and the main ingredients are " s@@ q@@ u@@ e@@ e@@ z@@ e@@ d " or " s@@ m@@ a@@ s@@ h@@ e@@ d " chicken served with s@@ a@@ m@@ b@@ al .
-ayam penyet ( javanese ) includes s@@ q@@ u@@ e@@ e@@ z@@ e@@ d@@ /@@ s@@ m@@ a@@ s@@ h@@ e@@ d fried chicken and is served with s@@ a@@ m@@ b@@ al .
-a sausage is used w@@ h@@ e@@ n m@@ a@@ k@@ i@@ n@@ g a bacon explosion which has the united states to t@@ h@@ a@@ n@@ k for i@@ n@@ v@@ e@@ n@@ t@@ i@@ n@@ g it .
-bacon explosion is a dish from the united states that contains sausage .
-bacon explosion comes from the united states and includes sausage a@@ m@@ o@@ n@@ g its ingredients .
-the united states , where john r@@ o@@ b@@ e@@ r@@ t@@ s is a leader , is the country of the bacon explosion .
-the bacon explosion comes from the united states where john r@@ o@@ b@@ e@@ r@@ t@@ s is a leader .
-the united states ( with a leader , john r@@ o@@ b@@ e@@ r@@ t@@ s ) b@@ o@@ a@@ s@@ t@@ s the bacon explosion .
-bacon is an ingredient in the main course dish ' bacon explosion ' .
-bacon is an ingredient in a main course called bacon explosion .
-bacon explosion is an e@@ n@@ t@@ r@@ e@@ e that includes bacon , the main ingredient .
-a bacon sandwich on bread is also known as bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ asher sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m , or bacon m@@ u@@ f@@ f@@ in .
-the bacon sandwich , which one of two i@@ n@@ g@@ e@@ d@@ i@@ e@@ n@@ t@@ s is bread , has d@@ i@@ f@@ f@@ e@@ r@@ e@@ n@@ t n@@ a@@ m@@ e@@ s including : bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ asher sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m and bacon m@@ u@@ f@@ f@@ in .
-baked alaska is t@@ h@@ o@@ u@@ g@@ h@@ t to have originated in the united states , france or china , and contains c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding as an ingredient .
-france , united states and china all c@@ l@@ a@@ i@@ m to have i@@ n@@ v@@ e@@ n@@ t@@ e@@ d baked alaska which can have c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding as an ingredient .
-c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding is an ingredient in baked alaska which is from france , the united states and china .
-baked alaska comes from china , where s@@ t@@ a@@ n@@ d@@ a@@ r@@ d chinese is spoken .
-s@@ t@@ a@@ n@@ d@@ a@@ r@@ d chinese is spoken in china where baked alaska is a dish .
-baked alaska and c@@ o@@ o@@ k@@ i@@ e@@ s are t@@ y@@ p@@ e@@ s of dessert .
-baked alaska and a c@@ o@@ o@@ k@@ i@@ e are both d@@ e@@ s@@ s@@ e@@ r@@ t@@ s .
-a baked alaska is a dessert along with c@@ o@@ o@@ k@@ i@@ e@@ s which y@@ o@@ u can also e@@ at as a dessert .
-bakewell pudding was created in 1@@ 8@@ 20 at the r@@ u@@ t@@ l@@ and a@@ r@@ m@@ s , bakewell and has ground almond , jam , butter and eggs as main ingredients .
-the main ingredients of bakewell pudding , which was i@@ n@@ v@@ e@@ n@@ t@@ e@@ d in r@@ u@@ t@@ l@@ and a@@ r@@ m@@ s , bakewell , in 1@@ 8@@ 20 , are ground almond , jam , butter and eggs .
-bakewell tart , made with s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y , is a variation of bakewell pudding .
-a v@@ a@@ r@@ i@@ a@@ n@@ t of bakewell pudding is bakewell tart , made with s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y .
-a v@@ a@@ r@@ i@@ a@@ n@@ t of bakewell pudding is bakewell tart which uses s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y .
-lemon ( part of g@@ e@@ n@@ us c@@ i@@ t@@ r@@ us ) is an ingredient in bandeja paisa .
-lemon , from the g@@ e@@ n@@ us c@@ i@@ t@@ r@@ us , is an ingredient in bandeja paisa .
-lemon ( g@@ e@@ n@@ us ; c@@ i@@ t@@ r@@ us ) is an ingredient found in bandeja paisa .
-batchoy is a food in the philippines and one of its ingredient is s@@ h@@ r@@ i@@ m@@ p .
-the philippines is the country of o@@ r@@ i@@ g@@ in for the dish batchoy , of which s@@ h@@ r@@ i@@ m@@ p is one of the main ingredients .
-the philippines is the country that batchoy , a dish c@@ o@@ n@@ t@@ a@@ i@@ n@@ i@@ n@@ g s@@ h@@ r@@ i@@ m@@ p , comes from .
-the chinese f@@ i@@ l@@ i@@ p@@ i@@ n@@ o is an ethnic group in the philippines , where batchoy is a traditional dish .
-chinese f@@ i@@ l@@ i@@ p@@ i@@ n@@ o are from the philippines , where batchoy is eaten .
-batchoy is a food from the philippines , the country where there is an ethnic group called the chinese f@@ i@@ l@@ i@@ p@@ i@@ n@@ o .
-beef kway teow originates from singapore , where chinese is spoken .
-s@@ t@@ a@@ n@@ d@@ a@@ r@@ d chinese speaking singapore is the o@@ r@@ i@@ g@@ in of beef kway teow .
-beef kway teow is a dish of singapore where tony tan is a leader .
-tony tan is the leader of singapore , from where beef kway teow originates .
-beef kway teow originates from singapore and it 's leader is tony tan .
-bhajji originates from india and sumitra mahajan is it 's leader .
-bhajji comes from india where the leader is sumitra mahajan .
-bhajji originates from india where the leader is sumitra mahajan .
-bhajji , which uses g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r , is a dish s@@ i@@ m@@ i@@ l@@ a@@ r to p@@ a@@ k@@ o@@ r@@ a and o@@ t@@ h@@ e@@ r f@@ r@@ i@@ t@@ t@@ e@@ r@@ s made from w@@ h@@ e@@ at or c@@ o@@ r@@ n f@@ l@@ o@@ u@@ r .
-g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r is an ingredient of a bhajji , which is a s@@ i@@ m@@ i@@ l@@ a@@ r dish to p@@ a@@ k@@ o@@ r@@ a and o@@ t@@ h@@ e@@ r f@@ r@@ i@@ t@@ t@@ e@@ r@@ s made from w@@ h@@ e@@ at or c@@ o@@ r@@ n f@@ l@@ o@@ u@@ r .
-an ingredient of binignit is sweet potato , and one of the main ingredients is the banana .
-banana is a main ingredient of binignit and sweet potato is also an ingredient .
-the main ingredient of binignit is banana , and also i@@ m@@ p@@ o@@ r@@ t@@ a@@ n@@ t is the i@@ n@@ c@@ l@@ u@@ s@@ i@@ on of sweet p@@ o@@ t@@ a@@ t@@ o@@ e@@ s .
-sago is the main ingredient in binignit but sweet p@@ o@@ t@@ a@@ t@@ o@@ e@@ s are also used in it .
-binignit has the ingredients sweet potato and sago .
-sweet potato and sago are main ingredients in binignit .
-sweet p@@ o@@ t@@ a@@ t@@ o@@ e@@ s ( a k@@ i@@ n@@ d of flowering plant ) are used in binignit r@@ e@@ c@@ i@@ p@@ e@@ s .
-sweet potato belongs to flowering plants and is an ingredient of binignit .
-sweet p@@ o@@ t@@ a@@ t@@ o@@ e@@ s are the main ingredient of binignit and the p@@ o@@ t@@ a@@ t@@ o@@ e@@ s are part of the order of solanales .
-sweet p@@ o@@ t@@ a@@ t@@ o@@ e@@ s are members of the solanales order of plants . they are the main ingredient of binignit .
-sweet potato is of the order solanales and are a main ingredient of binignit .
-bionico is a dessert and it r@@ e@@ q@@ u@@ i@@ r@@ e@@ s granola as one of it 's ingredients .
-bionico is a dessert , r@@ e@@ q@@ u@@ i@@ r@@ i@@ n@@ g granola as one of its ingredients .
-bionico is a dessert that includes the ingredient granola .
-a popular dessert is bionico and a variation of this dish can be h@@ o@@ n@@ e@@ y .
-h@@ o@@ n@@ e@@ y can be used as a v@@ a@@ r@@ i@@ a@@ t@@ on in bionico which is a dessert .
-h@@ o@@ n@@ e@@ y can be added to bionico , a dessert dish .
-bionico and ice cream are both served as a dessert course .
-bionico and ice cream are t@@ y@@ p@@ e@@ s of dessert .
-bionico and ice cream are served at the dessert course .
-batagor and siomay ( which has peanut sauce as an ingredient ) are variations of the same dish .
-peanut sauce is an ingredient in siomay and batagor is a variation of this dish .
-batagor is a variation of the dish siomay , of which peanut sauce is an ingredient .
-the i@@ n@@ a@@ u@@ g@@ u@@ r@@ a@@ t@@ i@@ on d@@ a@@ t@@ e for the atatürk monument ( İ@@ z@@ m@@ i@@ r , turkey ) is 1@@ 9@@ 3@@ 2@@ -@@ 0@@ 7@@ -@@ 27 .
-the ataturk monument is in izmir turkey and was founded on july 27 , 1932 .
-the i@@ n@@ a@@ u@@ g@@ u@@ r@@ a@@ t@@ i@@ on d@@ a@@ t@@ e for the atatürk monument ( İ@@ z@@ m@@ i@@ r ) , which is in turkey , is 1@@ 9@@ 3@@ 2@@ -@@ 0@@ 7@@ -@@ 27 .
-the baku turkish martyrs memorial has been dedicated to ottoman army soldiers killed in the battle of baku and is made of red granite and white marble .
-the baku turkish martyrs memorial , created in red granite and white marble , is dedicated to the ottoman army soldiers killed in the battle of baku .
-the native name of the baku turkish martyrs ' memorial is t@@ u@@ r@@ k s@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i a@@ n@@ i@@ t@@ i and is made of red granite and white marble .
-the baku turkish m@@ a@@ r@@ t@@ y@@ r 's memorial is known in turkish as t@@ u@@ r@@ k s@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i a@@ n@@ i@@ t@@ i and is created in red granite and white marble .
-baku turkish martyrs ' memorial is made from red granite and white marble and is called t@@ u@@ r@@ k s@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i a@@ n@@ i@@ t@@ i .
-the dead man 's plack , which is made of r@@ o@@ c@@ k , is dedicated to Æ@@ t@@ h@@ e@@ l@@ w@@ a@@ l@@ d , e@@ a@@ l@@ d@@ o@@ r@@ man of east a@@ n@@ g@@ l@@ i@@ a .
-ac cesena are in the serie b league , the previous champions of which are c@@ a@@ r@@ p@@ i fc 1@@ 9@@ 0@@ 9 .
-a.c. c@@ e@@ s@@ a@@ n@@ a play in serie b , in which c@@ a@@ r@@ p@@ i fc 1@@ 9@@ 0@@ 9 are the champions .
-ac cesena are in the serie b league , previously won by c@@ a@@ r@@ p@@ i f.c. 1@@ 9@@ 0@@ 9 .
-ac chievo verona play in the serie a league and their home ground is stadio m@@ a@@ r@@ c a@@ n@@ t@@ o@@ n@@ i@@ o b@@ e@@ n@@ t@@ e@@ g@@ o@@ di .
-the home ground of a.c. chievo verona is stadio m@@ a@@ r@@ c ' a@@ n@@ t@@ o@@ n@@ i@@ o b@@ e@@ n@@ t@@ e@@ g@@ o@@ di and the club is in the league , serie a.
-the home ground of a.c. chievo verona is stadio m@@ a@@ r@@ c ' a@@ n@@ t@@ o@@ n@@ i@@ o b@@ e@@ n@@ t@@ e@@ g@@ o@@ di , he played in serie a.
-a.c. lumezzane 's ground is in italy where the leader is pietro grasso .
-a.c. lumezzane play in italy where the leader is pietro grasso .
-a.c. lumezzane play in italy , where the leader is pietro grasso .
-jorge h@@ u@@ m@@ b@@ e@@ r@@ to r@@ o@@ d@@ r@@ í@@ g@@ u@@ e@@ z manages the a.d. isidro metapan , he played for the c@@ .@@ d@@ . f@@ as .
-jorge h@@ u@@ m@@ b@@ e@@ r@@ to r@@ o@@ d@@ r@@ i@@ g@@ u@@ e@@ z manages a.d. isidro metapan . he is in the c@@ .@@ d@@ . f@@ as .
-jorge h@@ u@@ m@@ b@@ e@@ r@@ to r@@ o@@ d@@ r@@ í@@ g@@ u@@ e@@ z manages the a.d. isidro metapan and plays for c@@ .@@ d@@ . f@@ as .
-a@@ .@@ e@@ . dimitra e@@ f@@ e@@ i@@ n@@ o@@ u@@ p@@ o@@ l@@ is has 1@@ 5@@ 0@@ 0 members and is in the e@@ p@@ s@@ t@@ h 2@@ n@@ d group league .
-with 1@@ 5@@ 0@@ 0 members , a.e dimitra efxeinoupolis , play in the a e@@ p@@ s@@ t@@ h 2@@ n@@ d group .
-the manager of a.f.c. blackpool is stuart parker ( f@@ o@@ o@@ t@@ b@@ a@@ l@@ l@@ e@@ r ) who plays for r@@ u@@ n@@ c@@ o@@ r@@ n f.c. h@@ a@@ l@@ t@@ on .
-afc blackpool have h@@ a@@ d stuart parker as their manager who was a football p@@ l@@ a@@ y@@ e@@ r for r@@ u@@ n@@ c@@ o@@ r@@ n fc h@@ a@@ l@@ t@@ on .
-the manager of a.f.c. blackpool is stuart parker ( f@@ o@@ o@@ t@@ b@@ a@@ l@@ l@@ e@@ r ) , he played for r@@ u@@ n@@ c@@ o@@ r@@ n fc h@@ a@@ l@@ t@@ on .
-the manager of a.f.c. blackpool is stuart parker ( f@@ o@@ o@@ t@@ b@@ a@@ l@@ l@@ e@@ r ) , who plays at the s@@ p@@ a@@ r@@ t@@ a r@@ o@@ t@@ t@@ e@@ r@@ d@@ a@@ m club .
-stuart parker , who plays at the s@@ p@@ a@@ r@@ t@@ a r@@ o@@ t@@ t@@ e@@ r@@ d@@ a@@ m club , has also managed afc blackpool .
-afc blackpool have h@@ a@@ d the manager stuart parker who currently plays for s@@ p@@ a@@ r@@ t@@ a r@@ o@@ t@@ t@@ e@@ r@@ d@@ a@@ m .
-afc fylde has the home ground called the fylde and has 3@@ 1@@ 8@@ 0 members .
-afc fylde has the home ground called the fylde , which h@@ o@@ l@@ d@@ s 3@@ 1@@ 8@@ 0 f@@ a@@ n@@ s .
-the fylde , ( c@@ a@@ p@@ a@@ c@@ i@@ t@@ y 3@@ 1@@ 8@@ 0 ) is the home ground of afc fylde .
-a.f.c. fylde has 3@@ 1@@ 8@@ 0 members and are based at b@@ r@@ y@@ n@@ i@@ n@@ g l@@ a@@ n@@ e .
-afc fylde has 3@@ 1@@ 8@@ 0 members and are based at b@@ r@@ y@@ n@@ i@@ n@@ g l@@ a@@ n@@ e .
-a.f.c. fylde are based at b@@ r@@ y@@ n@@ i@@ n@@ g l@@ a@@ n@@ e and they have 3@@ 1@@ 8@@ 0 members .
-a.s. livorno calcio is managed by c@@ h@@ r@@ i@@ s@@ t@@ i@@ an p@@ a@@ n@@ u@@ c@@ c@@ i who plays for the italy national football team .
-a.s. livorno calcio are managed by c@@ h@@ r@@ i@@ s@@ t@@ i@@ an p@@ a@@ n@@ u@@ c@@ c@@ i who played for the italy national football team .
-a.s. livorno calcio is managed by c@@ h@@ r@@ i@@ s@@ t@@ i@@ an p@@ a@@ n@@ u@@ c@@ c@@ i who previously played for the italian national football team .
-grounds being in rome , italy , a.s. roma to play in serie a.
-a.s. roma play in the serie a league and their ground is in rome , italy .
-a.s. roma 's ground is in rome , italy and they play in serie a.
-a@@ c@@ f f@@ i@@ o@@ r@@ e@@ n@@ t@@ i@@ n@@ a play in serie a which is based in italy .
-a@@ c@@ f f@@ i@@ o@@ r@@ e@@ n@@ t@@ i@@ n@@ a play in serie a based in italy .
-the manager of afc ajax is frank de b@@ o@@ e@@ r who is in the ajax y@@ o@@ u@@ t@@ h academy .
-afc ajax 's manager is frank de b@@ o@@ e@@ r , who played for the ajax y@@ o@@ u@@ t@@ h academy .
-frank de b@@ o@@ e@@ r is in the ajax y@@ o@@ u@@ t@@ h academy and manages afc ajax .
-afc ajax has 5@@ 3@@ 5@@ 0@@ 2 members and is the o@@ w@@ n@@ e@@ r of afc ajax n@@ v .
-afc ajax has 5@@ 3@@ 5@@ 0@@ 2 members and is owned by afc ajax n@@ v .
-afc ajax has 5@@ 3@@ 5@@ 0@@ 2 members and is owned by afc ajax n@@ .@@ v@@ . .
-afc ajax is based in amsterdam where the leader is e@@ b@@ e@@ r@@ h@@ a@@ r@@ d van d@@ e@@ r l@@ a@@ an .
-the ground of afc ajax ( amateurs ) can be found in amsterdam where e@@ b@@ e@@ r@@ h@@ a@@ r@@ d van d@@ e@@ r l@@ a@@ an is a leader .
-afc ajax is based in amsterdam where e@@ b@@ e@@ r@@ h@@ a@@ r@@ d van d@@ e@@ r l@@ a@@ an is a leader .
-afc ajax ( amateurs ) , who have 5@@ 0@@ 0@@ 0 members , played in the t@@ o@@ p@@ k@@ l@@ a@@ s@@ s@@ e in the 2@@ 0@@ 1@@ 4@@ -@@ 2@@ 0@@ 15 season .
-afc ajax ( amateurs ) have 5@@ 0@@ 0@@ 0 members and played in the t@@ o@@ p@@ k@@ l@@ a@@ s@@ s@@ e in the 2@@ 0@@ 1@@ 4@@ -@@ 2@@ 0@@ 15 season .
-afc ajax ( amateurs ) played in the 2014-15 t@@ o@@ p@@ k@@ l@@ a@@ s@@ s@@ e season and their home ground has a c@@ a@@ p@@ a@@ c@@ i@@ t@@ y for 5@@ 0@@ 0@@ 0 f@@ a@@ n@@ s .
-azal pfk play their home m@@ a@@ t@@ c@@ h@@ e@@ s at the azal a@@ r@@ e@@ n@@ a in s@@ h@@ u@@ v@@ u@@ l@@ an .
-the azal a@@ r@@ e@@ n@@ a is located in s@@ h@@ u@@ v@@ u@@ l@@ an and is the ground of azal pfk .
-the azal a@@ r@@ e@@ n@@ a in s@@ h@@ u@@ v@@ alan is the ground of azal pfk .
-az alkmaar 's f@@ u@@ l@@ l@@ name is alkmaar z@@ a@@ a@@ n@@ s@@ t@@ r@@ e@@ e@@ k , it has 1@@ 7@@ 0@@ 23 members .
-az alkmaar has 1@@ 7@@ 0@@ 23 member and their full name is " alkmaar z@@ a@@ a@@ n@@ s@@ t@@ r@@ e@@ e@@ k " .
-alkmaar z@@ a@@ a@@ n@@ s@@ t@@ r@@ e@@ e@@ k is the full name of az alkmaar which has 1@@ 7@@ 0@@ 23 members .
-a@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o sportiva arapiraquense 's ground is the e@@ s@@ t@@ a@@ d@@ i@@ o m@@ i@@ n@@ i@@ c@@ i@@ p@@ al c@@ o@@ a@@ r@@ a@@ c@@ y d@@ a m@@ a@@ t@@ a f@@ o@@ n@@ s@@ e@@ c@@ a , its located in brazil .
-e@@ s@@ t@@ á@@ d@@ i@@ o m@@ u@@ n@@ i@@ c@@ i@@ p@@ al c@@ o@@ a@@ r@@ a@@ c@@ y d@@ a m@@ a@@ t@@ a f@@ o@@ n@@ s@@ e@@ c@@ a is located in brazil and is the ground of agremiação sportiva arapiraquense .
-e@@ s@@ t@@ á@@ d@@ i@@ o m@@ u@@ n@@ i@@ c@@ i@@ p@@ al c@@ o@@ a@@ r@@ a@@ c@@ y d@@ a m@@ a@@ t@@ a f@@ o@@ n@@ s@@ e@@ c@@ a is the name of the ground of agremiação sportiva arapiraquense which is in brazil .
-agremiação sportiva arapiraquense ( which is his full name ) has a club with 17000 members .
-agremiação sportiva arapiraquense 's full name is " agremiação sportiva arapiraquense " and they have 17000 members .
-the team akron summit assault are based in akron , ohio , usa .
-the akron summit assault team is based in akron , ohio which is in the u.s.
-the akron summit assault team is based in akron , ohio in the u.s.
-massimo drago 's club is the s@@ .@@ s@@ . c@@ h@@ i@@ e@@ t@@ i calcio and he manages a.c. cesena .
-massimo drago manages a.c. cesena and plays for s@@ .@@ s@@ . c@@ h@@ i@@ e@@ t@@ i calcio .
-acharya institute of technology 's campus is located in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 and the director is dr. g. p@@ . prabhukumar .
-the director of the acharya institute of technology is d@@ r g p prabhukumar . the campus is located at in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore - 560090 .
-the all india council for technical e@@ d@@ u@@ c@@ a@@ t@@ i@@ on g@@ a@@ v@@ e the acharya institute of technology the s@@ t@@ a@@ t@@ us of " technical campus " . the official school c@@ o@@ l@@ o@@ u@@ r@@ s are b@@ l@@ u@@ e , white and o@@ r@@ a@@ n@@ g@@ e .
-the official school c@@ o@@ l@@ o@@ u@@ r@@ s for acharya institute of technology are b@@ l@@ u@@ e , white and o@@ r@@ a@@ n@@ g@@ e and the school g@@ o@@ t its technical campus s@@ t@@ a@@ t@@ us from the all india council .
-the acharya institute of technology ( official c@@ o@@ l@@ o@@ u@@ r b@@ l@@ u@@ e , white and o@@ r@@ a@@ n@@ g@@ e ) has been g@@ i@@ v@@ e@@ n the ' technical campus ' s@@ t@@ a@@ t@@ us by all india council for technical e@@ d@@ u@@ c@@ a@@ t@@ i@@ on .
-the international tennis f@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on , which is the s@@ port 's governing body , has a@@ g@@ r@@ e@@ e@@ d to l@@ e@@ t acharya institute of technology o@@ f@@ f@@ e@@ r tennis at the school .
-tennis , as governed by the international tennis f@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on , is a s@@ port o@@ f@@ f@@ e@@ r@@ e@@ d at the acharya institute of technology .
-the school of business and social sciences at the aarhus university is affiliated to the european university association which has its headquarters in brussels .
-the school of business and social sciences at aarhus university is affiliated with the european university association in brussels .
-school of business and social sciences at the aarhus university is affiliated with the european university association and is located in brussels .
-acharya i@@ n@@ s@@ t@@ i@@ t@@ u@@ e of technology is located in the state of karnataka which has the a@@ r@@ a@@ b@@ i@@ an sea to the west .
-acharya institute of technology is in the state of karnataka which has the a@@ r@@ a@@ b@@ i@@ an sea to its west .
-acharya institute of technology is located in the state of karnataka , which has to its west the a@@ r@@ a@@ b@@ i@@ an sea .
-1634 : the bavarian crisis is written by virginia demarce and eric flint and was preceded by grantville gazette iii .
-1634 : the bavarian crisis , a@@ u@@ t@@ h@@ o@@ r@@ e@@ d by virginia demarce and eric flint , was preceded by grantville gazette iii .
-eric flint is the author of ' 1634 : the ram rebellion ' which can be found as an e book .
-1634 : the ram rebellion available as an e@@ -@@ book is written by eric flint .
-1634 : the ram rebellion was written by eric flint and can be found in hardcover .
-the book t@@ i@@ t@@ led 1634 : the ram rebellion is a hardcover book by eric flint .
-1634 : the ram rebellion , available in hardcover was written by eric flint .
-acm transactions on information systems with the coden a@@ t@@ i@@ s@@ e@@ t is abbreviated as acm t@@ r@@ a@@ n@@ s . i@@ n@@ f . s@@ y@@ st .
-acm transactions on information systems ( abbreviated to acm t@@ r@@ a@@ n@@ s . i@@ n@@ f . s@@ y@@ st . ) has the coden code " a@@ t@@ i@@ s@@ e@@ t " .
-aids journal is from the united kingdom whose leader is elizabeth ii .
-the aids journal was published in the united kingdom whose leader is elizabeth ii .
-the aids journal was published in the united kingdom , where the leader is elizabeth ii .
-a fortress of grey ice was written by j@@ . v@@ . jones and has the isbn number 0@@ -@@ 7@@ 6@@ 5@@ 3@@ -@@ 0@@ 6@@ 3@@ 3@@ -@@ 6 .
-j@@ .@@ v@@ . jones a@@ u@@ t@@ h@@ o@@ r@@ e@@ d a fortress of grey ice , which has the isbn number 0@@ -@@ 7@@ 6@@ 5@@ 3@@ -@@ 0@@ 6@@ 3@@ 3@@ -@@ 6 .
-j@@ . v@@ . jones is the author of " a fortress of grey ice , " isbn number 0@@ -@@ 7@@ 6@@ 5@@ 3@@ -@@ 0@@ 6@@ 3@@ 3@@ -@@ 6 .
-a glastonbury romance has the isbn number 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 and is in print .
-a glastonbury romance with isbn 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 is available in print .
-the isbn number of the currently in print book , " a glastonbury romance , " is 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 .
-a glastonbury romance i@@ d@@ e@@ n@@ t@@ i@@ f@@ i@@ e@@ d by isbn 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 was published in hardcover .
-" a glastonbury romance " can be found in hardcover with the isbn number 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 .
-a hardcover c@@ o@@ p@@ y of a glastonbury romance is available with the isbn number 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 .
-a glastonbury romance has 1@@ 1@@ 7@@ 4 pages and is available in print .
-a glastonbury romance , currently in print , has 1@@ 1@@ 7@@ 4 pages .
-a glastonbury romance , 1@@ 1@@ 7@@ 4 pages , is available in print .
-the isbn number of a long long way is 0@@ -@@ 6@@ 7@@ 0@@ -@@ 0@@ 3@@ 3@@ 8@@ 0@@ -@@ 4 , and its oclc number is 5@@ 7@@ 3@@ 9@@ 2@@ 2@@ 4@@ 6 .
-the oclc number of a long long way is 5@@ 7@@ 3@@ 9@@ 2@@ 2@@ 4@@ 6 and the the isbn number is 0@@ -@@ 6@@ 7@@ 0@@ -@@ 0@@ 3@@ 3@@ 8@@ 0@@ -@@ 4 .
-the isbn number of a long long way is 0@@ -@@ 6@@ 7@@ 0@@ -@@ 0@@ 3@@ 3@@ 8@@ 0@@ -@@ 4 ; the oclc number is 5@@ 7@@ 3@@ 9@@ 2@@ 2@@ 4@@ 6 .
-a loyal character dancer is published in the united states where the asian americans are one of the ethnic groups .
-a loyal character dancer is published in the united states , which includes a@@ m@@ o@@ n@@ g its ethnic groups asian americans .
-a loyal character dancer is published in the united states , where many asian americans live , .
-a loyal character dancer is published by soho press which is located in the united states .
-a loyal character dancer was published by soho press , based in the united states .
-a loyal character dancer was published by soho press in the united states .
-a wizard of mars was written by d@@ i@@ a@@ n@@ e d@@ u@@ a@@ n@@ e with on oclc number 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 .
-d@@ i@@ a@@ n@@ e d@@ u@@ a@@ n@@ e wrote a wizard of mars which has the oclc number of 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 .
-a wizard of mars is published in hardcover and has the isbn number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
-a wizard of mars was published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k and has the isbn number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
-a wizard of mars has the isbn number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 and was published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k .
-a wizard of mars is 5@@ 6@@ 0 pages long and has the isbn number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
-a wizard of mars has 5@@ 6@@ 0 pages and the isbn number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
-a wizard of mars with isbn number " 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 contains 5@@ 6@@ 0 pages .
-aenir and it 's sequel above the veil are e@@ x@@ a@@ m@@ p@@ l@@ e@@ s of a@@ u@@ s@@ t@@ r@@ l@@ i@@ an l@@ i@@ t@@ e@@ r@@ a@@ t@@ u@@ r@@ e .
-above the veil , preceded by aenir , is from the country of a@@ u@@ s@@ t@@ r@@ a@@ l@@ i@@ a .
-above the veil followed the book aenir and is written in english .
-the book aenir was followed u@@ p by above the veil , which is written in english .
-the novel aenir was followed by above the veil written in english .
-above the veil is the sequel to aenir , which was written a@@ f@@ t@@ e@@ r castle .
-above the veil is the sequel to aenir , which was preceded by the novel castle .
-above the veil was preceded by aenir which was preceded by the novel castle .
-acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a is the publisher of s@@ p@@ r@@ i@@ n@@ g@@ e@@ r science + business m@@ e@@ d@@ i@@ a , founded by j@@ u@@ l@@ i@@ us s@@ p@@ r@@ i@@ n@@ g@@ e@@ r .
-s@@ p@@ r@@ i@@ n@@ g@@ e@@ r science and business m@@ e@@ d@@ i@@ a , founded by j@@ u@@ l@@ i@@ us s@@ p@@ r@@ i@@ n@@ g@@ e@@ r , p@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ s acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a .
-s@@ p@@ r@@ i@@ n@@ g@@ e@@ r science + business m@@ e@@ d@@ i@@ a founded by j@@ u@@ l@@ i@@ us s@@ p@@ r@@ i@@ n@@ g@@ e@@ r is the publisher of acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a .
-the administrative science quarterly has a coden code of " a@@ s@@ c@@ q@@ a@@ g " and the abbreviation of a@@ d@@ m@@ i@@ n@@ .@@ s@@ c@@ i@@ .@@ q .
-administrative science quarterly , abbreviated a@@ d@@ m@@ in . s@@ c@@ i . q , has a coden code of " a@@ s@@ c@@ q@@ a@@ g " .
-the code for administrative science quarterly ( abbreviated as a@@ d@@ m@@ in . s@@ c@@ i . q ) is a@@ s@@ c@@ q@@ a@@ g .
-cornell university is affiliated with the association of public and l@@ and g@@ r@@ a@@ n@@ t universities and published administrative science quarterly .
-cornell university , affiliated with the association of public and l@@ and g@@ r@@ a@@ n@@ t universities , is publisher of administrative science quarterly .
-cornell university , affiliated with the association of public and l@@ and g@@ r@@ a@@ n@@ t universities , is the publisher of the administrative science quarterly .
-written by garth nix , aenir , has the isbn number of " 0@@ -@@ 4@@ 3@@ 9@@ -@@ 1@@ 7@@ 6@@ 8@@ 4@@ -@@ 0 .
-aenir was written by garth nix and has the isbn number of 0@@ -@@ 4@@ 3@@ 9@@ -@@ 1@@ 7@@ 6@@ 8@@ 4@@ -@@ 0 .
-aenir was written by garth nix and has the isbn number 0@@ -@@ 4@@ 3@@ 9@@ -@@ 1@@ 7@@ 6@@ 8@@ 4@@ -@@ 0 .
-alcatraz versus the evil librarians is published in hardcover and has the isbn number 0@@ -@@ 4@@ 3@@ 9@@ -@@ 9@@ 2@@ 5@@ 5@@ 0@@ -@@ 9 .
-the hardcover e@@ d@@ i@@ t@@ i@@ on of , " alcatraz versus the evil librarians " , has isbn number 0@@ -@@ 4@@ 3@@ 9@@ -@@ 9@@ 2@@ 5@@ 5@@ 0@@ -@@ 9 .
-alcatraz versus the evil l@@ i@@ b@@ r@@ a@@ r@@ i@@ an , which is i@@ d@@ e@@ n@@ t@@ i@@ f@@ i@@ e@@ d by isbn 0@@ -@@ 4@@ 3@@ 9@@ -@@ 9@@ 2@@ 5@@ 5@@ 0@@ -@@ 9 , has 3@@ 20 pages .
-alcatraz versus the evil librarians has the isbn number 0@@ -@@ 4@@ 3@@ 9@@ -@@ 9@@ 2@@ 5@@ 5@@ 0@@ -@@ 9 and is 3@@ 20 pages long .
-the isbn number of the 3@@ 20 - p@@ a@@ g@@ e long alcatraz versus the evil librarians is 0@@ -@@ 4@@ 3@@ 9@@ -@@ 9@@ 2@@ 5@@ 5@@ 0@@ -@@ 9 .
-aids ( journal ) comes under the academic discipline h@@ i@@ v which belongs to the family o@@ r@@ t@@ h@@ o@@ r@@ e@@ t@@ r@@ o@@ v@@ i@@ r@@ i@@ n@@ a@@ e .
-the aids ( journal ) is the academic discipline of h@@ i@@ v , a d@@ i@@ s@@ e@@ a@@ s@@ e part of the o@@ r@@ t@@ h@@ o@@ r@@ e@@ t@@ r@@ o@@ v@@ i@@ r@@ i@@ n@@ a@@ e family .
-aids ( journal ) comes under the academic discipline h@@ i@@ v which is part of the family of o@@ r@@ t@@ h@@ o@@ r@@ e@@ t@@ r@@ o@@ v@@ i@@ r@@ i@@ n@@ a@@ e .
-a fortress of grey ice is from the united states where the language is english .
-a fortress of grey ice is from the united states , which has english as one of its languages .
-abilene regional airport serves the city of abilene which is part of t@@ a@@ y@@ l@@ o@@ r county , texas , in the united states .
-abilene regional airport serves the city of abilene which is part of t@@ a@@ y@@ l@@ o@@ r county , texas , in the united states .
-the abilene regional airport serves abilene , texas , which is a part of t@@ a@@ y@@ l@@ o@@ r county , texas in the united states .
-adirondack regional airport has a runway length of 1@@ 2@@ 1@@ 9@@ .@@ 0 and serves the c@@ i@@ t@@ i@@ e@@ s of saranac lake and lake p@@ l@@ a@@ c@@ i@@ d , new york .
-adirondack regional airport serves the city of saranac lake , new york and the r@@ e@@ s@@ i@@ d@@ e@@ n@@ t@@ s of lake p@@ l@@ a@@ c@@ i@@ d and has a runway that 's 1@@ ,@@ 2@@ 1@@ 9 long .
-the 1@@ 4@@ l@@ /@@ 3@@ 2@@ r runway of the adolfo suarez madrid - barajas airport in madrid has a length of 4@@ 1@@ 0@@ 0@@ .@@ 0 .
-adolfo suarez madrid-barajas airport is in madrid ; its runway name is 1@@ 4@@ l@@ /@@ 3@@ 2@@ r and its runway length is 4@@ 100 .
-the adolfo suarez madrid-barajas airport is in madrid . its runway , called 1@@ 4@@ l@@ /@@ 3@@ 2@@ r has length of 4@@ 100 .
-the indian air force in india , operates agra airport which uses v@@ i@@ a@@ g as its icao location identifier .
-agra airport , located in india , is operated by the indian air force , and has an icao identifier is v@@ i@@ a@@ g .
-operated by the united states air force , al asad airbase , in iraq , has a runway length of 3@@ 0@@ 7@@ 8@@ .@@ 4@@ 8 metres .
-the u@@ s@@ a@@ f operated the al asad airbase , located in iraq , with a length of 3@@ 0@@ 7@@ 8@@ .@@ 4@@ 8 .
-al asad airbase is operated by the united states air force which was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the invasion of g@@ r@@ e@@ n@@ a@@ d@@ a and the k@@ o@@ r@@ e@@ an war .
-al asad airbase is operated by the united states air force which has the invasion of g@@ r@@ e@@ n@@ a@@ d@@ a as one of its n@@ o@@ t@@ e@@ d b@@ a@@ t@@ t@@ l@@ e@@ s as well as the o@@ p@@ e@@ r@@ a@@ t@@ i@@ on e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m .
-the u@@ s@@ a@@ f operates al asad airbase . they f@@ o@@ u@@ g@@ h@@ t in the invasion of g@@ r@@ e@@ n@@ a@@ d@@ a and the o@@ p@@ e@@ r@@ a@@ t@@ i@@ on e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m .
-the us air force is the operating organisation for al asad airbase , used in b@@ a@@ t@@ t@@ l@@ e@@ s s@@ u@@ c@@ h as invasion of g@@ r@@ e@@ n@@ a@@ d@@ a and the o@@ p@@ e@@ r@@ a@@ t@@ i@@ on e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m .
-the united states air force who is the operating organisation for al asad airbase f@@ o@@ u@@ g@@ h@@ t b@@ a@@ t@@ t@@ l@@ e@@ s in the k@@ o@@ r@@ e@@ an war and also in o@@ p@@ e@@ r@@ a@@ t@@ i@@ on e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m .
-the us air force , v@@ e@@ t@@ e@@ r@@ an of the k@@ o@@ r@@ e@@ an war and o@@ p@@ e@@ r@@ a@@ t@@ i@@ on e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m , operated al asad airbase , .
-the 1st runway at alderney airport is made from poaceae and has a length of 7@@ 3@@ 3@@ .@@ 0 .
-located in w@@ i@@ l@@ s@@ on township , alpena county , michigan , alpena county regional airport has an elevation of 210 metres above sea level and a runway length of 1@@ ,@@ 5@@ 3@@ 3 metres .
-a@@ p@@ l@@ e@@ n@@ a county regional airport ; is elevated 210 metres above sea level , has a runway length of 1@@ ,@@ 5@@ 3@@ 3 metres and is located in w@@ i@@ l@@ s@@ on township , alpena county , michigan .
-alpena county regional airport is located in the w@@ i@@ l@@ s@@ on township , alpena county , michigan . it is 210 m above sea level and its runway length is 1@@ 5@@ 3@@ 3 feet .
-amsterdam airport , s@@ c@@ h@@ i@@ p@@ o@@ l which serves the city of amsterdam is located at -@@ 3@@ .@@ 3@@ 5@@ 2@@ 8 metres above sea level and has a runway length of 3500 .
-andrews county airport is located in texas ( united states ) , where h@@ o@@ u@@ s@@ t@@ on is the largest city .
-andrews county airport is in texas , united states . h@@ o@@ u@@ s@@ t@@ on is the largest city in texas .
-the united states andrews county airport is located in texas , whose largest city is h@@ o@@ u@@ s@@ t@@ on .
-angola international airport is located in i@@ c@@ o@@ l@@ o e bengo angola , it has a runway length of 4@@ 0@@ 0@@ 0@@ f@@ t .
-angola international airport is located at Í@@ c@@ o@@ l@@ o e bengo , angola and is 4@@ 0@@ 0@@ 0 in length .
-angola international airport , located in i@@ c@@ o@@ l@@ o e bengo , angola has a runway length of 4@@ 0@@ 0@@ 0 .
-angola international airport is located at Í@@ c@@ o@@ l@@ o e bengo in angola and the runway is named " south runway " .
-angola international airport is located at Í@@ c@@ o@@ l@@ o e bengo , angola and the runway is known as " south runway " .
-antwerp international airport which has an elevation of 1@@ 2@@ .@@ 0 metres above sea level is owned and operated by the flemish government .
-antwerp international airport which is 12 meters above sea level is owned by flemish region and operated by the flemish government .
-the flemish department of m@@ o@@ b@@ i@@ l@@ i@@ t@@ y and public w@@ o@@ r@@ k@@ s is the operating organisation and o@@ w@@ n@@ e@@ r of antwerp international airport that serves the city of antwerp .
-antwerp international airport ; serves the city of antwerp , is in the flemish region and is operated by the flemish department of m@@ o@@ b@@ i@@ l@@ i@@ t@@ y and public w@@ o@@ r@@ k@@ s .
-antwerp international airport serves antwerp . it is owned by the flemish region and operated by the flemish department of m@@ o@@ b@@ i@@ l@@ i@@ t@@ y and public w@@ o@@ r@@ k@@ s .
-appleton international airport serves the city of appleton which is part of k@@ i@@ m@@ b@@ e@@ r@@ l@@ y , wisconsin , as is l@@ i@@ t@@ t@@ l@@ e chute .
-a@@ p@@ p@@ l@@ e@@ t@@ one international airport served the city of appleton , which is part of a l@@ i@@ t@@ t@@ l@@ e chute in k@@ i@@ m@@ b@@ e@@ r@@ l@@ y , wisconsin .
-the appleton international airport is in greenville which is part of c@@ l@@ a@@ y@@ t@@ on w@@ i@@ n@@ n@@ e@@ b@@ a@@ g@@ o county , wisconsin , in the united states .
-appleton international airport is located in greenville , wisconsin , usa , which is part of c@@ l@@ a@@ y@@ t@@ on , w@@ i@@ n@@ n@@ e@@ b@@ a@@ g@@ o county .
-the appleton international airport is in greenville , c@@ l@@ a@@ y@@ t@@ on , w@@ i@@ n@@ n@@ e@@ b@@ a@@ g@@ o county , wisconsin , united states .
-the 3rd runway at ardmore airport ( new zealand ) is made of poaceae which is of the order p@@ o@@ a@@ l@@ e@@ s and belongs to the division of flowering plants .
-the 3rd runway at ardmore airport ( new zealand ) is made of poaceae which is part of the p@@ o@@ a@@ l@@ e@@ s order and is in the division of flowering plants .
-ashgabat international airport ( located in ashgabat ) is elevated 2@@ 11 metres above sea level and has a runway length of 3@@ 8@@ 0@@ 0 .
-ashgabat is the location of ashgabat international airport which has a runway length of 3@@ 8@@ 0@@ 0@@ .@@ 0 and is 2@@ 11 metres above sea level .
-ashgabat international airport is located in ashgabat at 2@@ 11 metres above sea level and has a runway length of 3@@ 8@@ 0@@ 0@@ .@@ 0 .
-the athens international airport serves the city of athens , in greece where alexis tsipras is the leader .
-athens international airport serves the city of athens in greece where alexis tsipras is the leader .
-athens international airport serves the city of athens in greece , a country led by alexis tsipras .
-atlantic city international airport , which has a runway with the name is 4@@ /@@ 2@@ 2 , is located in egg harbor township , in new jersey , united states .
-atlantic city international airport is in egg harbor township , new jersey , united states and has the runway name 4@@ /@@ 2@@ 2 .
-antwerp international airport serves the city of antwerp in belgium where the leader is p@@ h@@ i@@ l@@ l@@ i@@ p@@ e of belgium .
-antwerp , belgium , is led by p@@ h@@ i@@ l@@ i@@ p@@ p@@ e of belgium and served by antwerp international airport .
-poaceae is in the c@@ l@@ a@@ s@@ s m@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on and the order of c@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s . it is also the surface type of the s@@ e@@ c@@ o@@ n@@ d runway of ardmore airport , new zealand .
-the 2@@ n@@ d runway at ardmore airport ( new zealand ) is made of poaceae which belongs to the order of c@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s and the c@@ l@@ a@@ s@@ s of m@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on .
-alan bean was under c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r david scott on nasa 's apollo 12 mission .
-alan bean was a member of the nasa operated apollo 12 crew c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ d by david scott .
-david scott was the c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r of the nasa operated apollo 12 f@@ l@@ i@@ g@@ h@@ t mission on which the crew i@@ n@@ c@@ l@@ u@@ d@@ e@@ d alan bean .
-d@@ i@@ a@@ n@@ n@@ e f@@ e@@ i@@ n@@ s@@ t@@ e@@ in is a s@@ e@@ n@@ a@@ t@@ or in california where alan shepard died on july 2@@ 1 1@@ 9@@ 9@@ 8 .
-alan s@@ h@@ e@@ p@@ h@@ a@@ r@@ d died on the 2@@ 1st of july , 1@@ 9@@ 9@@ 8 in california ( whose s@@ e@@ n@@ a@@ t@@ or was d@@ i@@ a@@ n@@ n@@ e f@@ e@@ i@@ n@@ s@@ t@@ e@@ in ) .
-buzz aldrin , also called e@@ d@@ w@@ in e@@ . aldrin j@@ r@@ . , graduated in 1963 from mit with a s@@ c@@ .@@ d . and was a crew member on apollo 11 .
-buzz aldrin , whose r@@ e@@ al name was e@@ d@@ w@@ in e@@ . aldrin , j@@ r@@ . , graduated from m@@ a@@ s@@ s@@ a@@ c@@ h@@ u@@ s@@ e@@ t@@ t@@ s institute of technology in 1963 with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in science and l@@ a@@ t@@ e@@ r became a crew member of apollo 11 .
-buzz aldrin ( a@@ k@@ a e@@ d@@ w@@ in e aldrin j@@ r ) graduated in 1963 from mit with a s@@ c@@ .@@ d . was a crew member of apollo 11 .
-buzz aldrin , whose r@@ e@@ al name is e@@ d@@ w@@ in e@@ . aldrin j@@ r@@ . , was a member of apollo 11 who in 1963 graduated with a s@@ c . d@@ . from mit .
-buzz aldrin , who was a member of the apollo 11 crew and spent 5@@ 2 minutes in space , was born in glen ridge new jersey .
-born in glen ridge new jersey , apollo 11 c@@ r@@ e@@ w@@ man buzz aldrin spent 5@@ 2 minutes in space .
-born in glen ridge , n@@ j , buzz aldrin spent 5@@ 2 minutes in space as part of apollo 11 's crew .
-alan shepard , who was awarded the us navy distinguished service medal died in california , i@@ n@@ c@@ i@@ d@@ e@@ n@@ t@@ a@@ l@@ l@@ y a s@@ m@@ i@@ l@@ o@@ d@@ on is a f@@ o@@ s@@ s@@ i@@ l from california .
-alan s@@ h@@ e@@ p@@ h@@ a@@ r@@ d was awarded the distinguished service medal by united states navy and died in california ( where a s@@ m@@ i@@ l@@ o@@ d@@ on f@@ o@@ s@@ s@@ i@@ l was found ) .
-alan shepard , who was awarded the distinguished service medal by the us navy , died in california where the s@@ m@@ i@@ l@@ o@@ d@@ on f@@ o@@ s@@ s@@ i@@ l was found .
-elliot see who was selected by nasa in 1962 died on 2@@ 8 february 1966 in st louis .
-elliot see , e@@ x nasa w@@ o@@ r@@ k@@ e@@ r s@@ i@@ n@@ c@@ e 1962 , died in st louis on the 2@@ 8@@ t@@ h of february 1966 .
-elliot see was selected by nasa in 1962 . he died in st. louis on 1@@ 9@@ 6@@ 6@@ -@@ 0@@ 2@@ -@@ 2@@ 8 .
-elliot see , born july 23 1927 in dallas , has died .
-elliot see is d@@ e@@ c@@ e@@ a@@ s@@ e@@ d , was born on 23rd july 1927 in dallas .
-elliot see ( d@@ e@@ c@@ e@@ a@@ s@@ e@@ d ) was born in dallas 1@@ 9@@ 2@@ 7@@ -@@ 0@@ 7@@ -@@ 23 .
-elliot see was born in dallas on july 23 , 1927 . he is now d@@ e@@ c@@ e@@ a@@ s@@ e@@ d .
-born on october 1@@ 7@@ t@@ h , 1933 in british hong kong , william anders w@@ o@@ u@@ l@@ d s@@ e@@ r@@ v@@ e as a crew member on apollo 8 .
-william anders who was born on 1@@ 7 october 1933 in british hong kong l@@ a@@ t@@ e@@ r served as a crew member of apollo 8 .
-william anders , who was born in british hong kong on the 1@@ 7@@ t@@ h of october 1933 , c@@ r@@ e@@ w@@ e@@ d apollo 8 .
-11 diagonal street is located in south africa ( c@@ y@@ r@@ i@@ l r@@ a@@ m@@ a@@ p@@ h@@ o@@ s@@ a is one of the leaders ) , the capital of which is c@@ a@@ p@@ e town .
-south africa is the location of 11 diagonal street . the capital is c@@ a@@ p@@ e town and the leader is c@@ y@@ r@@ i@@ l r@@ a@@ m@@ a@@ p@@ h@@ o@@ s@@ a .
-c@@ y@@ r@@ i@@ l r@@ a@@ m@@ a@@ p@@ h@@ o@@ s@@ a leads south africa , whose capital , c@@ a@@ p@@ e town , h@@ o@@ uses 11 diagonal street .
-11 diagonal street is located in south africa , a country in which c@@ o@@ l@@ o@@ u@@ r@@ e@@ d@@ s are one of the ethnic groups and j@@ a@@ c@@ o@@ b z@@ u@@ m@@ a is the leader .
-11 diagonal street is located in south africa , p@@ o@@ p@@ u@@ l@@ a@@ t@@ e@@ d by c@@ o@@ l@@ o@@ u@@ red people and led by j@@ a@@ c@@ o@@ b z@@ u@@ m@@ a .
-the address , 11 diagonal street is located in south africa where j@@ a@@ c@@ o@@ b z@@ u@@ m@@ a is a leader and s@@ o@@ m@@ e c@@ o@@ l@@ o@@ u@@ red people live .
-11 diagonal street is in south africa where the leader is j@@ a@@ c@@ o@@ b z@@ u@@ m@@ a . an ethnic group found there are white south a@@ f@@ r@@ i@@ c@@ a@@ n@@ s .
-the white south a@@ f@@ r@@ i@@ c@@ a@@ n@@ s are an ethnic group of the country where j@@ a@@ c@@ o@@ b z@@ u@@ m@@ a is leader and where 11 diagonal street is located .
-frank g j@@ a@@ c@@ k@@ s@@ on is the leader of cleveland , united states where 200 public square is located .
-200 public square is located in cleveland , united states , where one of the leaders is frank g j@@ a@@ c@@ k@@ s@@ on .
-250 delaware avenue is located in b@@ u@@ f@@ f@@ a@@ l@@ o , e@@ r@@ i@@ e county , new york .
-250 delaware avenue is in b@@ u@@ f@@ f@@ a@@ l@@ o , e@@ r@@ i@@ e county , new york .
-300 north lasalle is located in chicago ( the leader of which is r@@ a@@ h@@ m e@@ manuel ) , united states .
-r@@ a@@ h@@ m e@@ manuel is a leader in chicago , us where 300 north lasalle is located .
-300 north lasalle is in chicago , u.s. r@@ a@@ h@@ m e@@ manuel leads chicago .
-located in dublin , the 3arena whose architect was h@@ o@@ k s@@ v@@ e ) was completed in d@@ e@@ c@@ e@@ m@@ b@@ e@@ r 2@@ 0@@ 0@@ 8 .
-the a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t@@ s of the 3arena in dublin was h@@ o@@ k s@@ v@@ e and it was completed in d@@ e@@ c@@ e@@ m@@ b@@ e@@ r 2@@ 0@@ 0@@ 8 .
-3arena , located in dublin , was designed by h@@ o@@ k s@@ v@@ e and completed d@@ e@@ c@@ e@@ m@@ b@@ e@@ r 2@@ 0@@ 0@@ 8 .
-p@@ o@@ p@@ u@@ l@@ o@@ us was the architect of 3arena in dublin which was completed in d@@ e@@ c@@ e@@ m@@ b@@ e@@ r 2@@ 0@@ 0@@ 8 .
-the company p@@ o@@ p@@ u@@ l@@ o@@ us were the a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t@@ s who designed the 3arena in dublin which was completed in d@@ e@@ c@@ e@@ m@@ b@@ e@@ r 2@@ 0@@ 0@@ 8 .
-the 3arena in dublin was designed by a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t@@ s from the p@@ o@@ p@@ u@@ l@@ o@@ us company and completed in d@@ e@@ c@@ e@@ m@@ b@@ e@@ r 2@@ 0@@ 0@@ 8 .
-the o@@ w@@ n@@ e@@ r of 3arena is live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t which is located in dublin , ireland .
-3arena is owned by live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t , and is located in dublin , republic of ireland .
-3arena in dublin , republic of ireland is owned by live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t .
-marriott international is the tenant of the ac hotel bella sky copenhagen , denmark , which was designed by the a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t@@ s of the 3@@ x@@ n f@@ i@@ r@@ m .
-ac hotel bella sky is in copenhagen , denmark , marriott international hotel b@@ e@@ c@@ a@@ u@@ s@@ e 3@@ x@@ n was the architect .
-j@@ a@@ m@@ e@@ s p@@ a@@ in was the architect of adare manor which was completed in 1862 and is owned by j p m@@ c@@ m@@ a@@ n@@ us .
-j@@ a@@ m@@ e@@ s p@@ a@@ in was the architect of adare manor which was completed in 1862 and o@@ w@@ e@@ d by j p m@@ c@@ m@@ a@@ n@@ us .
-j@@ a@@ m@@ e@@ s p@@ a@@ in designed adare manor that was completed in 1862 . the o@@ w@@ n@@ e@@ r is j@@ .@@ p@@ . m@@ c@@ m@@ a@@ n@@ us .
-the government of addis ababa is the current tenant of the addis ababa city hall which is 4@@ 2 metres high and has a floor area of 1@@ 4@@ 0@@ 0@@ 0@@ 0@@ .@@ 0 ( square metres ) .
-the government of addis ababa is the current tenants of the addis ababa city hall . which has a floor area of 1@@ 4@@ 0@@ 0@@ 0@@ 0@@ .@@ 0 square metres . it is 4@@ 2 m high .
-addis ababa city hall , which h@@ o@@ uses the government of addis ababa , is 4@@ 2 m high and has a floor area o@@ f@@ 1@@ 4@@ 0@@ 0@@ 0@@ 0 .@@ 0 square metres .
-the adisham hall , which is located in sri lanka , was completed in 1@@ 9@@ 3@@ 1 and architectural style is t@@ u@@ d@@ or r@@ e@@ v@@ i@@ v@@ al .
-a@@ i@@ d@@ s@@ h@@ a@@ m hall , completed in 1@@ 9@@ 3@@ 1 and located in sri lanka , is in the t@@ u@@ d@@ or r@@ e@@ v@@ i@@ v@@ al a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t@@ u@@ r@@ e style .
-adisham hall , with its t@@ u@@ d@@ or r@@ e@@ v@@ i@@ v@@ al style of a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t@@ u@@ r@@ e , was built in 1@@ 9@@ 3@@ 1 in sri lanka .
-the akita museum of art has a floor area of 3@@ 7@@ 4@@ 6@@ .@@ 6@@ 6 square metres o@@ v@@ e@@ r 3 floors and was inaugurated on 2@@ 8 september 2@@ 0@@ 1@@ 3 .
-the akita museum of art , inaugurated september 2@@ 8 , 2@@ 0@@ 1@@ 3 has 3 floors and a floor area of 3@@ 7@@ 4@@ 6@@ .@@ 6@@ 6 square metres .
-the akita museum or art is located in akita , within the akita prefecture , japan .
-the college of william and mary is the o@@ w@@ n@@ e@@ r of the alan b. miller hall in virginia . the building was b@@ e@@ g@@ u@@ n on 3@@ 0 march 2@@ 0@@ 0@@ 7 .
-the college of william and mary is the o@@ w@@ n@@ e@@ r of the alan b. miller hall in virginia which b@@ e@@ g@@ an c@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on on 3@@ 0 march , 2@@ 0@@ 0@@ 7 .
-the college of william and mary is the o@@ w@@ n@@ e@@ r of the alan b. miller hall , located in virginia , and the s@@ t@@ art d@@ a@@ t@@ e of building was in 3@@ 0@@ t@@ h march 2@@ 0@@ 0@@ 7 .
-robert g@@ a@@ t@@ e@@ s is the chancellor of the college of william and mary which is owned by alan b miller hall and is located in virginia .
-alan b. miller hall , located in virginia , is owned by the college of william and mary ; whose chancellor is robert g@@ a@@ t@@ e@@ s .
-the mason school of business in the us are the current tenants of alan b miller hall in virginia .
-alan b miller hall is in virginia , u.s. and h@@ o@@ uses the mason school of business .
-alan b. miller hall , the building of which b@@ e@@ g@@ an 3@@ 0 march , 2@@ 0@@ 0@@ 7 , is located in w@@ i@@ l@@ l@@ i@@ a@@ m@@ s@@ b@@ u@@ r@@ g , virginia and owned by the college of william and mary .
-alan b. miller hall 's building , s@@ t@@ a@@ r@@ t@@ e@@ d on 3@@ 0@@ t@@ h march 2@@ 0@@ 0@@ 7 , is located in w@@ i@@ l@@ l@@ i@@ a@@ m@@ s@@ b@@ u@@ r@@ g , virginia , and owned by the college of william and mary .
-the alan b. miller hall , owned by the college of william and mary , is in w@@ i@@ l@@ l@@ i@@ a@@ m@@ s@@ b@@ u@@ r@@ g , virginia and was o@@ p@@ e@@ n@@ e@@ d on the 3@@ 0@@ t@@ h march 2@@ 0@@ 0@@ 7 .
-the 4@@ 7@@ 6 b@@ e@@ d ampara hospital is located in ampara district , sri lanka .
-ampara hospital , which has 4@@ 7@@ 6 b@@ e@@ d@@ s , is located in the ampara district of sri lanka .
-ampara hospital is in eastern province , sri lanka . ranil wickremesinghe is a leader there .
-sri lanka , led by ranil wickremesinghe , is home to ampara hospital in the eastern province state .
-the asher and mary isabelle richardson house located on us r@@ o@@ u@@ t@@ e 8@@ 3 and built in 1@@ 9@@ 11 was added to the national register of historic places , on 2@@ 2@@ n@@ d november 1@@ 9@@ 8@@ 8 .
-the asher and mary isabelle r@@ o@@ b@@ i@@ n@@ s@@ on house on u.s. r@@ o@@ u@@ t@@ e 8@@ 3 was constructed in 1@@ 9@@ 11 and added to the national register of historic places on 2@@ 2 november 1@@ 9@@ 8@@ 8 .
-the asher and mary isabelle richardson house on u.s. r@@ o@@ u@@ t@@ e 8@@ 3 was constructed in 1@@ 9@@ 11 and added to the national register of historic places on 2@@ 2 november 1@@ 9@@ 8@@ 8 .
-asilomar conference grounds are located in pacific grove , california and was added to the national register of historic places on february the 2@@ 7@@ n@@ d 1@@ 9@@ 8@@ 7 . its reference number in the national register of historic places is 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 , .
-the asilomar conference grounds of pacific grove in california was added to the national register of historic places on 2@@ 7@@ t@@ h of february in 1@@ 9@@ 8@@ 7 , where the reference number for the national register was 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 .
-asilomar conference grounds , pacific grove , california , was added to the national register of historic places on february the 2@@ 7@@ n@@ d 1@@ 9@@ 8@@ 7 with a reference number of 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 .
-the asser levy public baths are located in asser levy p@@ l@@ a@@ c@@ e , east 23rd street and were added to the national register of historic places on 1@@ 9@@ 8@@ 0@@ -@@ 0@@ 4@@ -@@ 23 , with the number 8@@ 0@@ 0@@ 0@@ 2@@ 7@@ 0@@ 9 .
-the asser levy public baths are located in asser levy p@@ l@@ a@@ c@@ e , east 23rd street and were added to the national register of historic places on 23rd april 1@@ 9@@ 8@@ 0 with the reference number 8@@ 0@@ 0@@ 0@@ 2@@ 7@@ 0@@ 9 .
-the asser levy public baths are located in new york city , u.s. manhattan is a b@@ o@@ r@@ o@@ u@@ g@@ h in new york city .
-asser levy public baths are located in manhattan , new york city , united states .
-the location of asser levy public baths is new york city , manhattan in the u.s.
-t s thakur and sumitra mahajan are leaders in india where amdavad ni gufa is located .
-amdavad ni gufa is located in india where t s thakur and sumitra mahajan are leaders .
-the comic character a@@ u@@ r@@ on was created by w@@ a@@ l@@ t s@@ i@@ m@@ o@@ n@@ s@@ on and the american , k@@ a@@ r@@ l k@@ e@@ s@@ e@@ l .
-k@@ a@@ r@@ l k@@ e@@ s@@ e@@ l , an american along with w@@ a@@ l@@ t s@@ i@@ m@@ o@@ n@@ s@@ on created the comic book character a@@ u@@ r@@ on .
-the comic character , a@@ u@@ r@@ on , was created by w@@ a@@ l@@ t s@@ i@@ m@@ o@@ n@@ s@@ on and the american k@@ a@@ r@@ l k@@ e@@ s@@ e@@ l .
-tony hall , b@@ a@@ r@@ on hall of b@@ i@@ r@@ k@@ e@@ n@@ h@@ e@@ a@@ d , is a key p@@ e@@ r@@ s@@ on at the bbc which is located in london and broadcast bananaman .
-a key p@@ e@@ r@@ s@@ on at the bbc , which is located in london and broadcast bananaman , is b@@ a@@ r@@ on hall of b@@ i@@ r@@ k@@ e@@ n@@ h@@ e@@ a@@ d , tony hall .
-bill o@@ d@@ d@@ i@@ e starred in bananaman which first a@@ i@@ red on 3 october 1983 and was broadcast by s@@ t@@ v .
-bill o@@ d@@ d@@ i@@ e starred in bananaman which was first a@@ i@@ red on 3 october 1983 and broadcast by s@@ t@@ v .
-bananaman which first a@@ i@@ red on october 3rd , 1983 stars b@@ i@@ l@@ l@@ i@@ e o@@ d@@ d@@ i@@ e and is b@@ r@@ o@@ a@@ d@@ c@@ a@@ s@@ t@@ e@@ d by s@@ t@@ v .
-baymax first a@@ p@@ p@@ e@@ a@@ r@@ e@@ d in big hero 6 and was created by duncan rouleau and s@@ t@@ e@@ v@@ e@@ n t@@ . s@@ e@@ a@@ g@@ l@@ e .
-baymax 's first film a@@ p@@ p@@ e@@ a@@ r@@ a@@ n@@ c@@ e was in big hero 6 . he was created by duncan rouleau and s@@ t@@ e@@ v@@ e@@ n t s@@ e@@ a@@ g@@ l@@ e .
-duncan rouleau and s@@ t@@ e@@ v@@ e@@ n t@@ . s@@ e@@ a@@ g@@ l@@ e created baymax who h@@ a@@ d his first m@@ o@@ v@@ i@@ e a@@ p@@ p@@ e@@ a@@ r@@ a@@ n@@ c@@ e in big hero 6 .
-the creator of b@@ i@@ b@@ b@@ o b@@ i@@ b@@ b@@ o@@ w@@ s@@ k@@ i , who is o@@ f@@ t@@ e@@ n called b@@ i@@ b@@ b@@ o , are j@@ e@@ r@@ r@@ y o@@ r@@ d@@ way and m@@ a@@ r@@ v w@@ o@@ l@@ f@@ man .
-the comic character blockbuster , also known as r@@ o@@ l@@ and d@@ e@@ s@@ m@@ o@@ n@@ d , was created by r@@ o@@ g@@ e@@ r stern and t@@ o@@ m l@@ y@@ l@@ e .
-the comic book character blockbuster 's a@@ l@@ t@@ e@@ r e@@ g@@ o is r@@ o@@ l@@ and d@@ e@@ s@@ m@@ o@@ n@@ d and he was created by r@@ o@@ g@@ e@@ r stern and t@@ o@@ m l@@ y@@ l@@ e .
-the comic character bolt has the alternative name of l@@ a@@ r@@ r@@ y b@@ o@@ l@@ a@@ t@@ i@@ n@@ sky and was created by e@@ r@@ n@@ i@@ e c@@ o@@ l@@ on and d@@ an m@@ i@@ s@@ h@@ k@@ in .
-bolt , a comic character a@@ k@@ a l@@ a@@ r@@ r@@ y b@@ o@@ l@@ a@@ t@@ i@@ n@@ sky was created by d@@ an m@@ i@@ s@@ h@@ k@@ in .
-the comic character bolt whose alternative name is l@@ a@@ r@@ r@@ y b@@ o@@ l@@ a@@ t@@ i@@ n@@ sky was created by e@@ r@@ n@@ i@@ e c@@ o@@ l@@ on and d@@ an m@@ i@@ s@@ h@@ k@@ in .
-an alternative name for the comic character bolt is l@@ a@@ r@@ r@@ y b@@ o@@ l@@ a@@ t@@ i@@ n@@ sky and he was created by paris c@@ u@@ l@@ l@@ i@@ n@@ s and d@@ an m@@ i@@ s@@ h@@ k@@ in .
-the comic character bolt , a@@ k@@ a l@@ a@@ r@@ r@@ y b@@ o@@ l@@ a@@ t@@ i@@ n@@ sky , was created by paris c@@ u@@ l@@ l@@ i@@ n@@ s and d@@ an m@@ i@@ s@@ h@@ k@@ in .
-from spain , ajoblanco ( a@@ l@@ t@@ e@@ r@@ n@@ a@@ t@@ i@@ v@@ e@@ l@@ y known as a@@ j@@ o b@@ l@@ a@@ n@@ c@@ o ) has bread as an ingredient .
-ajoblanco , also known as " a@@ j@@ o b@@ l@@ a@@ n@@ c@@ o " , comes from spain . bread is one of the ingredients .
-bread is an ingredient of ajoblanco , which is from spain and an alternative name to a@@ j@@ o b@@ l@@ a@@ n@@ c@@ o .
-ajoblanco is from andalusia , in spain . ajoblanco contains water .
-water is an ingredient in ajoblanco , which is a food found in andalusia , in spain .
-arem arem originates from the country of indonesia , where two of the leaders are , joko widodo and jusuf kalla .
-arem arem originates from indonesia where two of the leaders are joko widodo and j@@ u@@ s@@ e@@ f kalla .
-arem-arem is a food found nationwide in indonesia , but is m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c to java . jusuf kalla is the leader of indonesia .
-jusuf kalla is the leader of indonesia , the country which serves arem-arem . w@@ h@@ i@@ l@@ e arem-arem is nationwide in indonesia , it is m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c to java .
-jusuf kalla is a leader in indonesia , where the dish arem-arem is found nationwide , t@@ h@@ o@@ u@@ g@@ h it is m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c to java .
-the leader of italy is sergio mattarella , it is also where italian is spoken and the arrabbiata sauce is from .
-sergio mattarella is a leader of italy where the italian language is spoken and arrabbiata sauce can be found .
-arrabbiata sauce is from italy , where the spoken language is italian and a leader is sergio mattarella .
-arrabbiata sauce , a traditional dish from rome in italy , has c@@ h@@ i@@ l@@ i p@@ e@@ p@@ p@@ e@@ r as one of its i@@ m@@ p@@ o@@ r@@ t@@ a@@ n@@ t ingredients .
-arrabbiata sauce from rome in italy contains c@@ h@@ i@@ l@@ i p@@ e@@ p@@ p@@ e@@ r .
-arrabbiata sauce is from the region of rome in italy and one of the main ingredients is c@@ h@@ i@@ l@@ i p@@ e@@ p@@ p@@ e@@ r .
-garlic is an ingredient in arrabbiata sauce which originates from the region of rome , in italy .
-arrabbiata sauce contains garlic and comes from the rome region of italy .
-garlic is an ingredient in arrabbiata sauce , which is a traditional dish from rome , italy .
-arros negre contains s@@ q@@ u@@ i@@ d and comes from the catalonia region of spain .
-s@@ q@@ u@@ i@@ d is an ingredient of arros negre which is from the region of catalonia in spain .
-arros negre is from the region of catalonia , spain , and one of its ingredients is s@@ q@@ u@@ i@@ d .
-c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h is an ingredient in arròs negre which comes from the region of the valencian community , in spain .
-c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h is an ingredient of the dish arròs negre , which is a dish that comes from the valencian community in spain .
-c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h is an ingredient in arròs negre , which is a traditional dish from the valencian community in spain .
-the main ingredients of asam pedas , a food from the sumatra and malay peninsula r@@ e@@ g@@ i@@ o@@ n@@ s of malaysia , c@@ o@@ n@@ s@@ i@@ s@@ t of f@@ i@@ s@@ h cooked in a sour and h@@ o@@ t sauce .
-asam pedas is made from f@@ i@@ s@@ h cooked in a sour and h@@ o@@ t sauce and comes from the sumatra and malay peninsula r@@ e@@ g@@ i@@ o@@ n@@ s in malaysia .
-the dish asam pedas comes from the region of sumatra and the malay peninsula . malaysia and the main ingredients are f@@ i@@ s@@ h cooked in sour and h@@ o@@ t sauce .
-ayam penyet is made from s@@ q@@ u@@ e@@ e@@ z@@ e@@ d or s@@ q@@ u@@ a@@ s@@ h@@ e@@ d chicken served with s@@ a@@ m@@ b@@ l@@ a and is a popular dish in java , malaysia .
-ayam penyet 's main ingredients are s@@ q@@ u@@ e@@ e@@ z@@ e@@ d or s@@ m@@ a@@ s@@ h@@ e@@ d fried chicken served with s@@ a@@ m@@ b@@ al . it is a popular dish in malaysia and also found in java .
-ayam penyet originates from malaysia and java . the main ingredients are s@@ q@@ u@@ e@@ e@@ z@@ e@@ d or s@@ m@@ a@@ s@@ h@@ e@@ d fried chicken served with s@@ a@@ m@@ b@@ al .
-bacon and sausage are the main ingredients in a bacon explosion , which comes from the united states .
-bacon explosion , whose name comes from the united states , has bacon and sausage .
-one of the ethnic groups in the united states are native americans , the country is also the home of the dish bacon explosion and has w@@ a@@ s@@ i@@ n@@ g@@ t@@ on d.c. as it 's c@@ a@@ p@@ i@@ t@@ o@@ l city .
-bacon explosion originated in the united states , where the capital is washington dc and native americans are an ethnic group .
-bacon explosion comes from the united states where washington d.c. is the capital and native americans are an ethnic group .
-the united states is the country of bacon explosion . barack obama is the leader and washington d.c. is the capital .
-the bacon explosion comes from the united states where barack obama is a leader and the capital city is washington dc .
-the bacon explosion originates from the united states where the leader is barack obama and the capital is washington dc .
-the bacon explosion originated in the united states , where african americans are an ethnic group and john r@@ o@@ b@@ e@@ r@@ t@@ s is a leader .
-bacon explosion comes from the united states where african americans are an ethnic group and john r@@ o@@ b@@ e@@ r@@ t@@ s is a leader .
-bacon s@@ a@@ n@@ d@@ w@@ i@@ c@@ h@@ e@@ s are variations of blt and come from the u@@ .@@ k@@ . c@@ o@@ n@@ d@@ i@@ m@@ e@@ n@@ t@@ s are found in t@@ h@@ e@@ s@@ e s@@ a@@ n@@ d@@ w@@ i@@ c@@ h@@ e@@ s .
-the uk dish , the bacon sandwich uses c@@ o@@ n@@ d@@ i@@ m@@ e@@ n@@ t@@ s as an ingredient and has the variation blt .
-the bacon sandwich , a variation of the blt , comes from the uk and contains c@@ o@@ n@@ d@@ i@@ m@@ e@@ n@@ t@@ s .
-m@@ e@@ r@@ i@@ n@@ g@@ u@@ e is an ingredient of a baked alaska , which is from the new york region and france .
-m@@ e@@ r@@ i@@ n@@ g@@ u@@ e is an ingredient of a baked alaska , which is r@@ e@@ p@@ u@@ t@@ e@@ d to come from both france and new york .
-an ingredient of baked alaska is m@@ e@@ r@@ i@@ n@@ g@@ u@@ e which originates in france and the new york r@@ e@@ g@@ i@@ o@@ n@@ s .
-sponge cake is one of the ingredients in baked alaska , a dish from the new york region and found in the united states .
-sponge cake is an ingredient of baked alaska , which comes from the region of new york and can be found in the u.s.
-an ingredient of baked alaska is sponge cake , the dish originates from new york , usa .
-c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding is an ingredient in the dessert baked alaska . c@@ o@@ o@@ k@@ i@@ e is also a dessert .
-a c@@ o@@ o@@ k@@ i@@ e can be a dessert , as can baked alaska which has c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding as an ingredient .
-c@@ o@@ o@@ k@@ i@@ e@@ s are a dessert i@@ t@@ e@@ m , as is baked alaska that has c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding as one of its ingredients .
-sandesh ( c@@ o@@ n@@ f@@ e@@ c@@ t@@ i@@ o@@ n@@ e@@ r@@ y ) is a dish that can be served as a dessert . a@@ n@@ o@@ t@@ h@@ e@@ r dish that is a dessert is baked alaska which has c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding as an ingredient .
-sandesh and baked alaska are d@@ e@@ s@@ s@@ e@@ r@@ t@@ s . baked alaska uses c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding as an ingredient .
-c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding is an ingredient in baked alaska , which is a dessert , same as sandesh .
-part of c@@ o@@ l@@ u@@ m@@ b@@ i@@ an cuisine , bandeja paisa ( which has k@@ i@@ d@@ n@@ e@@ y beans as one of the ingredients ) , comes from antioquia department area .
-bandeja paisa , which contains k@@ i@@ d@@ n@@ e@@ y beans , is a traditional dish found in the antioquia department of c@@ o@@ l@@ o@@ m@@ b@@ i@@ a .
-k@@ i@@ d@@ n@@ e@@ y beans are an ingredient of bandeja paisa which is a colombian dish from the antioquia department .
-barny cakes come from france where g@@ e@@ r@@ a@@ r@@ d larcher and c@@ l@@ a@@ u@@ de b@@ a@@ r@@ t@@ o@@ l@@ one are leaders .
-barny cakes are found in france where g@@ e@@ r@@ a@@ r@@ d larcher and c@@ l@@ a@@ u@@ de b@@ a@@ r@@ t@@ o@@ l@@ one are leaders .
-barny cakes are found in france where both g@@ e@@ r@@ a@@ r@@ d larcher and c@@ l@@ a@@ u@@ de b@@ a@@ r@@ t@@ o@@ l@@ one are leaders .
-barny cakes can be made with a@@ p@@ p@@ l@@ e and have 18 g@@ r@@ a@@ m@@ s of c@@ a@@ r@@ b@@ s and 1@@ .@@ 8 g of p@@ r@@ o@@ t@@ e@@ in .
-barny cakes can be made with a@@ p@@ p@@ l@@ e and c@@ o@@ n@@ t@@ a@@ in 1@@ .@@ 8 g p@@ r@@ o@@ t@@ e@@ in and 1@@ 8@@ g of c@@ a@@ r@@ b@@ s .
-barny cakes m@@ a@@ y be made with a@@ p@@ p@@ l@@ e and have 1@@ .@@ 8 g of p@@ r@@ o@@ t@@ e@@ in and 1@@ 8@@ g of c@@ a@@ r@@ b@@ o@@ h@@ y@@ d@@ r@@ a@@ t@@ e@@ s .
-beef kway teow is a dish from the country of singapore , where the leader is halimah yacob and the currency is the singapore d@@ o@@ l@@ l@@ a@@ r .
-beef kway teow is a popular dish in singapore , where the singapore d@@ o@@ l@@ l@@ a@@ r is the currency and the leader is halimah yacob .
-a dish c@@ o@@ m@@ m@@ o@@ n@@ l@@ y found in singapore and indonesia is beef kway teow which has o@@ y@@ s@@ t@@ e@@ r sauce as a main ingredient .
-beef kway teow contains o@@ y@@ s@@ t@@ e@@ r sauce and is found in indonesia and singapore .
-a popular food in indonesia , beef kway teow originates from singapore . the country where tony tan is the leader .
-tony tan is a leader in singapore where the dish beef kway teow originates from . it is also found in indonesia .
-bhajji originates from india , it 's main ingredients are g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r and vegetables .
-the key ingredients of a bhajji from india are g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r and vegetables .
-the main ingredients in bhajji , which originates from i@@ n@@ d@@ i@@ a@@ m are g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r and vegetables .
-bhajji originates from india , country of i@@ n@@ d@@ i@@ a@@ n@@ s where the leader is t@@ . s@@ . thakur .
-bhajji originates from india , where the leader is called t s thakur and the people who live there are called i@@ n@@ d@@ i@@ a@@ n@@ s .
-bhajji o@@ r@@ i@@ g@@ i@@ n@@ a@@ t@@ e from india where t s thakur leads the indian people .
-bhajji comes from the country of india , where two of the leaders are , t@@ . s@@ . thakur and narendra modi .
-bhajji originates from india , where two of the leaders are narendra modi and t@@ .@@ s@@ . thakur .
-the dish bhajji originates in india where t@@ .@@ s@@ . thakur and narendra modi are leaders .
-bhajji originates from the karnataka region and the main ingredients are vegetables and g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r .
-the main ingredients in bhajji are g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r and vegetables , this comes from the karnataka region .
-bhajji are found in the region of karnataka , its main ingredients are g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r and vegetables .
-the binignit dish can be found in the philippines . two of the main ingredients in it are banana and sweet potato .
-the main ingredients of binignit are banana and sweet p@@ o@@ t@@ a@@ t@@ o@@ e@@ s , and it can be found in the philippines .
-binignit is a dish from the philippines made from banana and sweet potato .
-bionico is a dessert c@@ o@@ n@@ t@@ a@@ i@@ n@@ i@@ n@@ g sour cream from mexico .
-sour cream is an ingredient of bionico , that is a dessert course found in mexico .
-sour cream is used to s@@ e@@ r@@ v@@ e bionico , a dessert food found in mexico .
-c@@ o@@ n@@ t@@ a@@ i@@ n@@ i@@ n@@ g raisins , bionico is found in the region of j@@ a@@ l@@ i@@ s@@ c@@ o , in mexico .
-raisins are found in bionico which comes from the region of j@@ a@@ l@@ i@@ s@@ c@@ o in mexico .
-raisins are an ingredient of bionico which is from the region j@@ a@@ l@@ i@@ s@@ c@@ o , mexico .
-one ingredient in bakso is c@@ e@@ l@@ e@@ r@@ y , which is a member of the g@@ e@@ n@@ us a@@ p@@ i@@ u@@ m in the family a@@ p@@ i@@ a@@ c@@ e@@ a@@ e .
-c@@ e@@ l@@ e@@ r@@ y is from the g@@ e@@ n@@ us a@@ p@@ i@@ u@@ m and the family a@@ p@@ i@@ a@@ c@@ e@@ a@@ e . it is an ingredient of bakso .
-c@@ e@@ l@@ e@@ r@@ y is a member of the family a@@ p@@ i@@ a@@ c@@ e@@ a@@ e , it is from the g@@ e@@ n@@ us a@@ p@@ i@@ u@@ m and is an ingredient of bakso .
-bionico is a dessert that r@@ e@@ q@@ u@@ i@@ r@@ e@@ s granola as one of its ingredients ; it can be eaten as an alternative to cake .
-bionico r@@ e@@ q@@ u@@ i@@ r@@ e@@ s granola as one of its ingredients , it is served at the dessert course , l@@ i@@ k@@ e cake .
-bakso is a dish from the country of indonesia , where the capital is j@@ a@@ k@@ a@@ r@@ t@@ a and one of the leaders is jusuf kalla .
-the dish bakso comes from indonesia where jusuf kalla is the leader and j@@ a@@ k@@ a@@ r@@ t@@ a is the c@@ a@@ p@@ i@@ t@@ o@@ l city .
-bakso is a dish from the country of indonesia , where the capital is j@@ a@@ k@@ a@@ r@@ t@@ a and the leader is jusuf kalla .
-from the singapore region , ayam penyet , is a food found in java where an e@@ t@@ h@@ i@@ c group is the b@@ a@@ d@@ u@@ y .
-ayam penyet is a dish from the region of singapore and is also found in java where the b@@ a@@ d@@ u@@ y are an ethnic group .
-ayam penyet is from singapore and also java , where the b@@ a@@ d@@ u@@ y are an ethnic group .
-ayam penyet originates from java where the b@@ a@@ n@@ y@@ u@@ m@@ a@@ s@@ an are an ethnic group . it can be found nationwide and also in singapore and malaysia .
-the dish ayam penyet originates from java where the b@@ a@@ n@@ y@@ u@@ m@@ a@@ s@@ an people are an ethnic group . the dish can also be found in malaysia and singapore .
-the leader of spain is felipe vi and it is also where spanish is spoken and the dish arros negre is from .
-arros negre is a traditional dish from spain where they speak spanish and the leader is felipe vi .
-arros negre comes from spain where felipe vi is the leader and the spanish language is spoken .
-adams county , pennsylvania is the location of the 11th mississippi infantry monument . franklin county pennsylvania is to the west and frederick county to the south west .
-the 11th mississippi infantry monument is located in adams county pennsylvania , b@@ e@@ t@@ w@@ e@@ e@@ n franklin county to the west and frederick county to the s@@ o@@ u@@ t@@ h@@ west .
-the baku turkish m@@ a@@ r@@ t@@ y@@ r 's memorial which is dedicated to the soldiers of the ottoman army who were killed in the battle of baku is located in azerbaijan . at p@@ r@@ e@@ s@@ e@@ n@@ t artur rasizade is the leader of the country .
-the baku turkish martyrs memorial in azerbaijan was designed by h@@ ü@@ s@@ e@@ y@@ in b@@ ü@@ t@@ ü@@ n@@ e@@ r and hilmi g@@ ü@@ n@@ e@@ r and is dedicated to ottoman army soldiers killed in the battle of baku .
-the baku turkish martyrs ' memorial in azerbaijan was designed by h@@ ü@@ s@@ e@@ y@@ in b@@ ü@@ t@@ ü@@ n@@ e@@ r and hilmi g@@ ü@@ n@@ e@@ r and is dedicated to the ottoman army soldiers killed in the battle of baku .
-the baku turkish m@@ a@@ r@@ t@@ y@@ r 's memorial in azerbaijan , designed by h@@ ü@@ s@@ e@@ y@@ in b@@ ü@@ t@@ ü@@ n@@ e@@ r and hilmi g@@ ü@@ n@@ e@@ r , is dedicated to the ottoman army soldiers killed in the battle of baku .
-azerbaijan , where the leader is artur rasizade , is the location of the baku turkish martyrs memorial . the memorial was designed by huseyin butuner and hilmi guner .
-the baku turkish martyrs ' memorial , designed by huseyin butuner and hilmi guner , is located in azerbaijan , where the leader is artur rasizade .
-the baku turkish martyrs ' memorial was designed by huseyin butuner and hilmi guner , and is located in azerbaijan , where it is called t@@ u@@ r@@ k s@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i a@@ n@@ i@@ t@@ i .
-a.c. cesena , in the serie b league , has 2@@ 3@@ 9@@ 0@@ 0 members and is located is cesena .
-ac cesena 's ground is in cesena and they have 2@@ 3@@ 9@@ 0@@ 0 members . the club plays in serie b.
-a.c. cesena , with 2@@ 3@@ 9@@ 0@@ 0 members , is in the serie b league and has a ground in cesena .
-massimo drago played for the club s@@ s@@ d p@@ o@@ t@@ e@@ n@@ z@@ a calcio and his o@@ w@@ n club was calcio c@@ a@@ t@@ a@@ n@@ i@@ a . he is currently m@@ a@@ n@@ a@@ g@@ i@@ n@@ g ac cesena .
-massimo drago manages a.c. cesena and played for the club s@@ s@@ d p@@ o@@ t@@ e@@ n@@ z@@ a calcio . he is also in club calcio c@@ a@@ t@@ a@@ n@@ i@@ a .
-massimo drago played for s@@ .@@ s@@ .@@ d@@ . p@@ o@@ t@@ e@@ n@@ z@@ a calcio and now plays for calcio c@@ a@@ t@@ a@@ n@@ i@@ a w@@ h@@ i@@ l@@ e m@@ a@@ n@@ a@@ g@@ i@@ n@@ g a.c. cesena .
-ac lumezzane has 4@@ 1@@ 5@@ 0 members and is in the l@@ e@@ g@@ a p@@ r@@ o@@ /@@ a league where they played in the 2014 season .
-i a@@ m i@@ n@@ t@@ e@@ r@@ e@@ s@@ t@@ e@@ d in the 2014 a.c. lumezzane season . it plays in l@@ e@@ g@@ a p@@ r@@ o@@ /@@ a . and has 4@@ 1@@ 5@@ 0 members .
-a@@ .@@ c lumezzane , with 4@@ 1@@ 5@@ 0 members , play in the l@@ e@@ g@@ a p@@ r@@ o@@ /@@ a , p@@ a@@ r@@ t@@ i@@ c@@ i@@ p@@ a@@ t@@ i@@ n@@ g in the 2014 season .
-the a.e dimitra efxeinoupolis club is located in greece , where there are leaders called nikos voutsis and prokopis pavlopoulos .
-there are two p@@ r@@ o@@ m@@ i@@ n@@ e@@ n@@ t leaders in greece : nikos voutsis and prokopis pavlopoulos as well the a@@ .@@ e@@ . dimitra efxeinoupolis is located there .
-a.e dimitra efxeinoupolis is located in greece , the leader of the country is nikos voutsis a@@ n@@ d@@ /@@ or prokopis p@@ a@@ v@@ l@@ o@@ o@@ p@@ o@@ u@@ los .
-the manager of a.f.c. blackpool is stuart parker who is with d@@ r@@ o@@ g@@ h@@ e@@ d@@ a united f@@ .@@ c and plays for r@@ u@@ n@@ c@@ o@@ r@@ n f.c. h@@ a@@ l@@ t@@ on .
-f@@ o@@ o@@ t@@ b@@ a@@ l@@ l@@ e@@ r stuart parker , the manager of afc blackpool , was at d@@ r@@ o@@ g@@ h@@ e@@ d@@ a united fc and plays for r@@ u@@ n@@ c@@ o@@ r@@ n f.c. h@@ a@@ l@@ t@@ on .
-stuart parker is a f@@ o@@ o@@ t@@ b@@ a@@ l@@ l@@ e@@ r with the d@@ r@@ o@@ g@@ h@@ e@@ d@@ a united f.c. , also plays for r@@ u@@ n@@ c@@ o@@ r@@ n f.c. h@@ a@@ l@@ t@@ on and has managed afc blackpool .
-the manager of a.f.c. blackpool is stuart parker who was at d@@ r@@ o@@ g@@ h@@ e@@ d@@ a united fc and o@@ n@@ c@@ e played for s@@ t@@ o@@ c@@ k@@ port county fc .
-afc blackpool have h@@ a@@ d stuart parker as their manager . he plays for d@@ r@@ o@@ g@@ h@@ e@@ d@@ a united f.c. and s@@ t@@ o@@ c@@ k@@ port county f.c.
-stuart parker ( football p@@ l@@ a@@ y@@ e@@ r of d@@ r@@ o@@ g@@ h@@ e@@ d@@ a united f.c. ) managed afc blackpool . he was a member of s@@ t@@ o@@ c@@ k@@ port county f.c.
-stuart parker is a member of the i@@ r@@ i@@ a@@ m town f.c. as well as the manager of a.f.c. blackpool and has also r@@ e@@ p@@ r@@ e@@ s@@ e@@ n@@ t@@ e@@ d the k@@ v m@@ e@@ c@@ h@@ e@@ l@@ e@@ n club .
-afc blackpool have h@@ a@@ d stuart parker as their manager . he has r@@ e@@ p@@ r@@ e@@ s@@ e@@ n@@ t@@ e@@ d the club k@@ v m@@ e@@ c@@ h@@ e@@ l@@ e@@ n and is a member of the i@@ r@@ l@@ a@@ m town f.c.
-afc blackpool have h@@ a@@ d stuart parker as their manager . he is attached to i@@ r@@ l@@ a@@ m town football club and is part of the k@@ v m@@ e@@ c@@ h@@ e@@ l@@ e@@ n club .
-afc fylde has the full name " association football club fylde , " they have 3@@ 1@@ 8@@ 0 members and their ground is located in w@@ a@@ r@@ t@@ on , fylde .
-association football club fylde , abbreviated to a@@ .@@ f@@ .@@ c fylde , has 3@@ 1@@ 8@@ 0 members and its ground is w@@ a@@ r@@ t@@ on fylde .
-c@@ h@@ r@@ i@@ s@@ t@@ i@@ an p@@ a@@ n@@ u@@ c@@ c@@ i , who has been attached to the g@@ e@@ n@@ o@@ a c@@ fc and r@@ e@@ al madrid c@@ f c@@ l@@ u@@ b@@ s , manages a.s. livorno calcio .
-a.s. livorno calcio is managed by c@@ h@@ r@@ i@@ s@@ t@@ i@@ an p@@ a@@ n@@ u@@ c@@ c@@ i . is was attached to the r@@ e@@ al madrid c@@ f club . he is currently attached to the club g@@ e@@ n@@ o@@ a c@@ fc .
-c@@ h@@ r@@ i@@ s@@ t@@ i@@ an p@@ a@@ n@@ u@@ c@@ c@@ i was attached to the r@@ e@@ al madrid c@@ f club , he managed a.s. livorno calcio and played football for g@@ e@@ n@@ o@@ a c@@ .@@ f.c.
-the " associazione sportiva roma s@@ .@@ p@@ .@@ a. " is the n@@ o@@ n@@ -@@ abbreviated name of a.s. roma which has 7@@ 0@@ 6@@ 34 members and a home ground in rome , italy .
-a@@ .@@ s@@ .@@ roma have 7@@ 0@@ 6@@ 34 members , play their home g@@ a@@ m@@ e@@ s in rome and their full title is associazione roma s@@ .@@ p@@ .@@ a.
-a.s. roma , or associazione sportiva roma s@@ .@@ p@@ .@@ a. , has 7@@ 0@@ 6@@ 34 members and its ground is in rome , italy .
-aek athens f.c. ground is in athens , they have 6@@ 9@@ 6@@ 18 members and they c@@ o@@ m@@ p@@ e@@ t@@ e in the superleague greece .
-aek athens f.c. , with 6@@ 9@@ 6@@ 18 members , play in the superleague greece . their ground is in athens .
-aek athens f.c. has 6@@ 9@@ 6@@ 18 members , their ground is in athens and they play in the superleague of greece .
-afc ajax ( amateurs ) has 5@@ 0@@ 0@@ 0 members play in the h@@ o@@ o@@ f@@ d@@ k@@ l@@ a@@ s@@ s@@ e league and competed in the 2014 season .
-afc ajax ( amateurs ) competed in the 2014 season , they play in the h@@ o@@ o@@ f@@ d@@ k@@ l@@ a@@ s@@ s@@ e league and the main team have 5@@ 0@@ 0@@ 0 members .
-afc ajax , who played in the 2014 season , have 5@@ 0@@ 0@@ 0 members and play in the h@@ o@@ o@@ f@@ d@@ k@@ l@@ a@@ s@@ s@@ e league .
-azal pfk play their home m@@ a@@ t@@ c@@ h@@ e@@ s at the azal a@@ r@@ e@@ n@@ a , and are in the azerbaijan premier league , who 's c@@ h@@ a@@ m@@ p@@ i@@ o@@ n@@ s@@ h@@ i@@ p@@ s name is the q@@ a@@ r@@ a@@ b@@ a@@ g f@@ k .
-azal a@@ r@@ e@@ n@@ a is the ground of azal pfk and c@@ o@@ m@@ p@@ e@@ t@@ e@@ s in the azerbaijan premier league , which champions are q@@ a@@ r@@ a@@ b@@ a@@ g f@@ k .
-alkmaar z@@ a@@ a@@ n@@ s@@ t@@ r@@ e@@ e@@ k is the full name of az alkmaar who played in the 2014 season and has 1@@ 7@@ 0@@ 23 members .
-" alkmaar z@@ a@@ a@@ n@@ s@@ t@@ r@@ e@@ e@@ k " is the full name of az alkmaar who played in the 2014 season and has 1@@ 7@@ 0@@ 23 members .
-alkmaar z@@ a@@ a@@ n@@ s@@ t@@ r@@ e@@ e@@ k ( az alkmaar ) has 1@@ 7@@ 0@@ 7@@ 23 members and played in the 2014 season .
-john van den brom manages the az a@@ l@@ k@@ m@@ a@@ air and plays for v@@ i@@ t@@ e@@ s@@ s@@ e a@@ r@@ n@@ h@@ e@@ m and de g@@ r@@ a@@ a@@ f@@ s@@ c@@ h@@ a@@ p .
-john van den brom , the manager of az alkmaar , is in v@@ i@@ t@@ e@@ s@@ s@@ e a@@ r@@ n@@ h@@ e@@ m and plays for de g@@ r@@ a@@ a@@ f@@ s@@ c@@ h@@ a@@ p .
-john van den brom has been manager of az alkmaar , he is in v@@ i@@ t@@ e@@ s@@ s@@ e a@@ r@@ n@@ h@@ e@@ m and plays for de g@@ r@@ a@@ a@@ f@@ s@@ c@@ h@@ a@@ p .
-agremiação sportiva arapiraquense play at their ground e@@ s@@ t@@ a@@ d@@ i@@ o m@@ i@@ n@@ i@@ c@@ i@@ p@@ al c@@ o@@ a@@ r@@ a@@ c@@ y d@@ a m@@ a@@ t@@ a f@@ o@@ n@@ s@@ e@@ c@@ a in the campeonato brasileiro série c league . the champions of this league are v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be .
-a@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o sportiva arapiraquense 's ground is the e@@ s@@ t@@ a@@ d@@ i@@ o m@@ i@@ n@@ i@@ c@@ i@@ p@@ al c@@ o@@ a@@ r@@ a@@ c@@ y d@@ a m@@ a@@ t@@ a f@@ o@@ n@@ s@@ e@@ c@@ a and they play in the campeonato brasileiro série c league . the serie c champions have been v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be .
-agremiação sportiva arapiraquense plays at e@@ s@@ t@@ á@@ d@@ i@@ o m@@ u@@ n@@ i@@ c@@ i@@ p@@ al c@@ o@@ a@@ r@@ a@@ c@@ y d@@ a m@@ a@@ t@@ a f@@ o@@ n@@ s@@ e@@ c@@ a . the club play in the campeonato brasileiro série c league and the champions of the league were the v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be .
-agremiação sportiva arapiraquense play in the campeonato brasileiro série c league in brazil . v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be are the champions of this league .
-agremiação sportiva arapiraquense play in the campeonato brasileiro série c league in brazil . the v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be were champions at the campeonato brasileiro série c@@ .
-agremiação sportiva arapiraquense play in the campeonato brasileiro série c league , that is based in brazil . the champions are v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be .
-st vincent-st mary high school is the ground of akron summit assault who play in the premier d@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t league , of which k@@ -@@ w united fc have been champions .
-akron summit assault who play in the premier d@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t league , won by k@@ -@@ w united fc , have their home ground at st. vincent-st . mary high school .
-st vincent-st mary high school is the ground of akron summit assault who play in the premier d@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t league which k@@ -@@ w united fc have been champions of .
-k@@ -@@ w united fc were champions of the premier d@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t league where akron summit assault ( which has 3@@ 0@@ 0@@ 0 members ) also play .
-3@@ 0@@ 0@@ 0 member club akron summit assault play in the premier d@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t league a@@ l@@ o@@ n@@ g@@ s@@ i@@ d@@ e f@@ o@@ r@@ m@@ e@@ r champions k@@ -@@ w united fc .
-akron summit assault has 3@@ 0@@ 0@@ 0 members and plays in the premier d@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t league of which k@@ -@@ w united fc were champions .
-the ground of a.s. gubbio 1910 is located in italy where sergio mattarella is a leader of the italian people .
-the ground of a.s. gubbio 1910 is located in italy which is lead by sergio mattarella and i@@ n@@ h@@ a@@ b@@ i@@ t@@ e@@ d by italians .
-the ground of a.s. gubbio 1910 is located in italy , country of italians where the leader is sergio mattarella .
-the ground for aek athens fc is the o@@ l@@ y@@ m@@ p@@ i@@ c stadium ( athens ) in athens whose m@@ a@@ y@@ or is g@@ i@@ o@@ r@@ g@@ o@@ s k@@ a@@ m@@ i@@ n@@ is .
-home ground of aek athens fc , the o@@ l@@ y@@ m@@ p@@ i@@ c stadium is located in athens , who 's m@@ a@@ y@@ or is g@@ i@@ o@@ r@@ g@@ o@@ s k@@ a@@ m@@ i@@ n@@ is .
-the o@@ l@@ y@@ m@@ p@@ i@@ c stadium in athens is the home ground of aek athens fc . the m@@ a@@ y@@ or of athens is g@@ i@@ o@@ r@@ g@@ o@@ s k@@ a@@ m@@ i@@ n@@ is .
-the accademia di architettura di mendrisio is in switzerland . its dean is mario botta and it has 600 students .
-the accademia di architettura di mendrisio of switzerland has 600 students and the dean is called mario botta .
-the acharya institute of technology is located in bangalore , india and its m@@ o@@ t@@ to is : " n@@ u@@ r@@ t@@ u@@ r@@ i@@ n@@ g e@@ x@@ c@@ e@@ l@@ l@@ e@@ n@@ c@@ e " .
-the acharya institute of technology in bangalore , india has the m@@ o@@ t@@ to " n@@ u@@ r@@ t@@ u@@ r@@ i@@ n@@ g e@@ x@@ c@@ e@@ l@@ l@@ e@@ n@@ c@@ e " .
-acharya institute of technology is in bangalore , india and its m@@ o@@ t@@ to is " n@@ u@@ r@@ t@@ u@@ r@@ i@@ n@@ g e@@ x@@ c@@ e@@ l@@ l@@ e@@ n@@ c@@ e " .
-b@@ .@@ m@@ . reddy is the president of the acharya institute of technology , which is located in bangalore , india .
-the acharya institute of technology is in bangalore , india . its president is b@@ .@@ m@@ . reddy .
-the acharya institute of technology ( bangalore , india ) has b. m@@ . reddy as its president .
-the acharya i@@ n@@ s@@ i@@ t@@ u@@ t@@ e of technology o@@ f@@ f@@ e@@ r@@ s tennis and it was established in 2000 . the tennis governing body is the international tennis f@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on .
-the international tennis f@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on is the governing body for the s@@ port which is o@@ f@@ f@@ e@@ r@@ e@@ d at the acharya institute of technology which was established in 2000 .
-awh engineering college is in india . mumbai is the largest city in india . the r@@ i@@ v@@ e@@ r g@@ a@@ n@@ g@@ e@@ s r@@ u@@ n@@ s t@@ h@@ r@@ o@@ u@@ g@@ h india .
-awh engineering college is located in the country of india , whose capital city is mumbai . one of the r@@ i@@ v@@ e@@ r@@ s in india is called the g@@ a@@ n@@ g@@ e@@ s .
-the leader of romania is prime minister klaus l@@ o@@ h@@ a@@ n@@ n@@ is . the 1 decembrie 1918 university is in romania .
-the prime minister of romania is klaus iohannis . the university of romania was established on 1 decembrie 1918 .
-1 decembrie 1918 university is located in romania . the country 's prime minister is klaus j@@ o@@ h@@ a@@ n@@ n@@ is .
-1 decembrie 1918 university is located in romania . its latin name is " universitas a@@ p@@ u@@ l@@ e@@ n@@ s@@ is " . the p@@ a@@ t@@ r@@ on s@@ a@@ i@@ n@@ t of romania is a@@ n@@ d@@ r@@ e@@ w the a@@ p@@ o@@ s@@ t@@ l@@ e .
-universitas a@@ p@@ u@@ l@@ e@@ n@@ s@@ is is the latin name of the 1 decembrie 1918 university in romania . the p@@ a@@ t@@ r@@ on s@@ a@@ i@@ n@@ t of the country is a@@ n@@ d@@ r@@ e@@ w the a@@ p@@ o@@ s@@ t@@ l@@ e .
-the 1 decembrie 1918 university has the latin name , universitas a@@ p@@ u@@ l@@ e@@ n@@ s@@ is . it is situated in romania , which has the p@@ a@@ t@@ r@@ on s@@ a@@ i@@ n@@ t a@@ n@@ d@@ r@@ e@@ w the a@@ p@@ o@@ s@@ t@@ l@@ e .
-the school of business and social sciences at the aarhus university was established in 1928 . it has 737 academic staff and 1@@ 6@@ ,@@ 0@@ 0@@ 0 students .
-the school of business and social sciences at aarhus university was established in 1928 . it has 1@@ 6@@ 0@@ 0@@ 0 students and an academic staff of 737 .
-the school of business and social sciences at the aarhus university was established in 1928 and currently has a staff of 737 and a student population of 1@@ 6@@ 0@@ 0@@ 0 .
-1634 : the bavarian crisis can be located by it 's isbn number " 9@@ 7@@ 8@@ -@@ 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 4@@ 2@@ 5@@ 3@@ -@@ 7 " . it is written by virginia demarce and eric flint and was p@@ u@@ t in print .
-1634 : the bavarian crisis was a@@ u@@ t@@ h@@ o@@ r@@ e@@ d by virginia demarce and eric flint and has a isbn number of 9@@ 7@@ 8@@ -@@ 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 4@@ 2@@ 5@@ 3@@ -@@ 7 .
-the isbn number of 1634 : the bavarian crisis is 9@@ 7@@ 8@@ -@@ 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 4@@ 2@@ 5@@ 3@@ -@@ 7 , it is written by virginia demarce and eric flint and is available in print f@@ o@@ r@@ m .
-born in burbank , california , eric flint wrote 1634 : the bavarian crisis which was preceded by 1634 : the b@@ a@@ l@@ t@@ i@@ c war .
-1634 : the bavarian crisis and it 's p@@ r@@ e@@ d@@ e@@ c@@ e@@ s@@ s@@ o@@ r , 1634 : the b@@ a@@ l@@ t@@ i@@ c war , was written by eric flint who was born in burbank california .
-eric flint is the author of 1634 : the ram rebellion which has 5@@ 12 pages and is available as an e@@ -@@ book .
-d@@ u@@ r@@ i@@ n@@ g 1634 , eric flint wrote the ram rebellion which is 5@@ 12 pages long and is of the m@@ e@@ d@@ i@@ a type e book .
-the hardcover book 1634 : the ram rebellion was written by eric flint and has the isbn number 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 2@@ 0@@ 6@@ 0@@ -@@ 0 .
-1634 : the ram rebellion , isbn number 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 2@@ 0@@ 6@@ 0@@ -@@ 0 , was written by eric flint and is available in hardcover .
-eric flint wrote 1634 : the ram rebellion found in hardcover with an isbn of 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 2@@ 0@@ 6@@ 0@@ -@@ 0 .
-1634 : the ram rebellion , written by eric flint , virginia demarce . e@@ t a@@ l@@ . , is 5@@ 12 pages long and can be found as an e book .
-1634 : the ram rebellion was written by eric flint , virginia demarce , e@@ t al . it has 5@@ 12 pages and is available as an e@@ -@@ book .
-1634 : the ram rebellion has 5@@ 12 pages and was written by eric flint , virginia demarce , e@@ t a@@ l@@ . . it can be found as an e book .
-acm transactions on information systems , or acm t@@ r@@ a@@ n@@ s . i@@ n@@ f . s@@ y@@ st. , is part of the academic discipline of c@@ o@@ m@@ p@@ u@@ t@@ e@@ r science and has an issn number of 1@@ 0@@ 4@@ 6@@ -@@ 8@@ 1@@ 8@@ 8 .
-acm transactions on information systems is part of the academic discipline of c@@ o@@ m@@ p@@ u@@ t@@ e@@ r science and has the abbreviation of acm t@@ r@@ a@@ n@@ s . i@@ n@@ f . s@@ y@@ st . it has the issn number 1@@ 0@@ 4@@ 6@@ -@@ 8@@ 1@@ 8@@ 8 .
-the abbreviation " acm t@@ r@@ a@@ n@@ s . i@@ n@@ f . s@@ y@@ st . " is for acm transactions on information systems which is part of the academic discipline of c@@ o@@ m@@ p@@ u@@ t@@ e@@ r science and has an issn number of 1@@ 0@@ 4@@ 6@@ -@@ 8@@ 1@@ 8@@ 8 .
-the acm transactions on information systems issn number is 1@@ 5@@ 5@@ 8@@ -@@ 2@@ 8@@ 6@@ 8 . it is part of the academic discipline of c@@ o@@ m@@ p@@ u@@ t@@ e@@ r science and abbreviated to acm t@@ r@@ a@@ n@@ s . i@@ n@@ f . s@@ y@@ st .
-acm transactions on information systems is part of the academic discipline of c@@ o@@ m@@ p@@ u@@ t@@ e@@ r science and has the abbreviation " acm t@@ r@@ a@@ n@@ s . i@@ n@@ f . s@@ y@@ st . " and the issn number 1@@ 5@@ 5@@ 8@@ -@@ 2@@ 8@@ 6@@ 8 .
-acm transactions on information systems , or acm t@@ r@@ a@@ n@@ s . i@@ n@@ f . s@@ y@@ st. , is part of the academic discipline of c@@ o@@ m@@ p@@ u@@ t@@ e@@ r science and has a issn number of 1@@ 5@@ 5@@ 8@@ -@@ 2@@ 8@@ 6@@ 8 .
-the aids journal was published by lippincott williams & wilkins in the united kingdom where elizabeth ii is the leader .
-the aids journal is published by l@@ i@@ p@@ p@@ i@@ n@@ c@@ o@@ t williams & wilkins and comes from the united kingdom where elizabeth ii is the leader .
-the aids journal , which c@@ a@@ m@@ e from the united kingdom in the r@@ e@@ i@@ g@@ n of elizabeth ii , was published by lippincott williams and wilkins .
-a.t. charlie johnson , who l@@ i@@ v@@ e@@ s in the us , is the editor of aip advances which is published by the american institute of p@@ h@@ y@@ s@@ i@@ c@@ s .
-a t charlie johnson r@@ e@@ s@@ i@@ d@@ e@@ s in the united states and is the editor of aip advances which is published by the american institute of p@@ h@@ y@@ s@@ i@@ c@@ s .
-a t charlie johnson l@@ i@@ v@@ e@@ s in the us and is the editor of aip advances which was published by the american institute of p@@ h@@ y@@ s@@ i@@ c@@ s .
-aip advances , or aip a@@ d@@ v@@ . , has a coden of a@@ a@@ i@@ d@@ b@@ i and is e@@ d@@ i@@ t@@ e@@ d by a. t@@ . charlie johnson .
-a t charlie johnson is the editor of aip advances which is abbreviated to aip a@@ d@@ v and has a coden code of a@@ a@@ i@@ d@@ b@@ i .
-" aip a@@ d@@ v@@ . " is the abbreviation of aip advances which is e@@ d@@ i@@ t@@ e@@ d by a t charlie johnson and has the coden code a@@ a@@ i@@ d@@ b@@ i .
-a glastonbury romance , which can be found in hardcover , has the isbn number 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 as well as the oclc number 7@@ 6@@ 7@@ 9@@ 8@@ 3@@ 1@@ 7 .
-a glastonbury romance is available in hardcover and has the oclc number of 7@@ 6@@ 7@@ 9@@ 8@@ 3@@ 1@@ 7 . and the isbn number of 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 .
-a glastonbury romance is available in hardcover and has the oclc number 7@@ 6@@ 7@@ 9@@ 8@@ 3@@ 1@@ 7 and the isbn number 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 .
-a long long way ( followed by the book the secret scripture ) is written in the english language , which is spoken in great britain .
-followed by the secret scripture , the book a long long way is written in english , the language spoken in great britain .
-a loyal character dancer was published by soho press in the united states , which c@@ o@@ u@@ n@@ t@@ s african americans a@@ m@@ o@@ n@@ g its ethnic groups .
-a loyal character dancer was published in the united states by soho press . one of the ethnic groups in the us are african americans .
-a loyal character dancer is published by soho press in the united states where the african americans are an ethnic group .
-a loyal character dancer was published by soho press in the united states where barack obama is the leader .
-a loyal character dancer is published by soho press in the united states where barack obama is the president .
-a severed wasp can be found in print with the oclc number 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 and the l@@ i@@ b@@ r@@ a@@ r@@ y of c@@ o@@ n@@ g@@ r@@ e@@ s@@ s c@@ l@@ a@@ s@@ s@@ i@@ f@@ i@@ c@@ a@@ t@@ i@@ on of p@@ s@@ 3@@ 5@@ 2@@ 3@@ .@@ e@@ 5@@ 5 s@@ 4 1@@ 9@@ 8@@ 2 .
-a severed wasp can be found in print and has the oclc number 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 and the l@@ i@@ b@@ r@@ a@@ r@@ y of c@@ o@@ n@@ g@@ r@@ e@@ s@@ s c@@ l@@ a@@ s@@ s@@ i@@ f@@ i@@ c@@ a@@ t@@ i@@ on is p@@ s@@ 3@@ 5@@ 2@@ 3@@ .@@ e@@ 5@@ 5 s@@ 4 1@@ 9@@ 8@@ 2 .
-a severed wasp has an isbn number of " 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 " , 3@@ 8@@ 8 pages and can be found in print .
-" a severed wasp " is in print , has 3@@ 8@@ 8 pages and has an isbn number of " 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 " .
-a severed wasp ( isbn number 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 ) has 3@@ 8@@ 8 pages a@@ l@@ t@@ o@@ g@@ e@@ t@@ h@@ e@@ r and is available in print .
-d@@ i@@ a@@ n@@ e d@@ u@@ a@@ n@@ e wrote a wizard of mars which was published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k and has the oclc number 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 .
-a wizard of mars was written by d@@ i@@ a@@ n@@ e d@@ u@@ a@@ n@@ e and is published in hardcover . the oclc number of a wizard of mars is 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 .
-a wizard of mars , written by d@@ i@@ a@@ n@@ e d@@ u@@ a@@ n@@ e , has a oclc number of 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 .
-d@@ i@@ a@@ n@@ e d@@ u@@ a@@ n@@ e wrote a wizard of mars which is published in hardcover and has the isbn number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
-the hardcover book . a wizard of mars , was written by d@@ i@@ a@@ n@@ e d@@ u@@ a@@ n@@ e and has the isbn number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
-a wizard of mars by d@@ i@@ a@@ n@@ e d@@ u@@ a@@ n@@ e is published in hardcover isbn 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
-above the veil , from a@@ u@@ s@@ t@@ r@@ a@@ l@@ i@@ a , is the t@@ h@@ i@@ r@@ d book in a s@@ e@@ r@@ i@@ e@@ s a@@ f@@ t@@ e@@ r aenir and castle .
-above the veil , from a@@ u@@ s@@ t@@ r@@ a@@ l@@ i@@ a , is the sequel to aenir , which followed the novel castle .
-above the veil is from a@@ u@@ s@@ t@@ r@@ a@@ l@@ i@@ a and was preceded by aenir and castle .
-acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a , or acta math . h@@ u@@ n@@ g@@ a@@ r@@ . , has a lccn number of 8@@ 3@@ 6@@ 4@@ 6@@ 3@@ 15 and a issn number of 1@@ 5@@ 8@@ 8@@ -@@ 2@@ 6@@ 3@@ 2 .
-acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a ( abbreviated to acta math . h@@ u@@ n@@ g@@ a@@ r . ) has the lccn number 8@@ 3@@ 6@@ 4@@ 6@@ 3@@ 15 and issn number 1@@ 5@@ 8@@ 8@@ -@@ 2@@ 6@@ 3@@ 2 .
-acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a , abbreviated to acta m@@ a@@ t@@ h@@ .@@ h@@ u@@ n@@ g@@ a@@ r , has lccn n@@ o@@ . 8@@ 3@@ 6@@ 4@@ 6@@ 3@@ 15 and issn n@@ o@@ . 1@@ 5@@ 8@@ 8@@ -@@ 2@@ 6@@ 3@@ 2 .
-the acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a issn number is " 0@@ 2@@ 3@@ 6@@ -@@ 5@@ 2@@ 9@@ 4 " and the abbreviation is acta math . h@@ u@@ n@@ g@@ a@@ r . it comes under the academic discipline of math .
-the acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a has the issn number 0@@ 2@@ 3@@ 6@@ -@@ 5@@ 2@@ 9@@ 4 . it is also known as acta math . h@@ u@@ n@@ g@@ a@@ r and it c@@ o@@ v@@ e@@ r@@ s the academic discipline of mathematics .
-acta m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a h@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a ( also known as acta math . h@@ u@@ n@@ g@@ a@@ r ) , c@@ o@@ v@@ e@@ r@@ s the academic discipline of mathematics and has the issn number 0@@ 2@@ 3@@ 6@@ -@@ 5@@ 2@@ 9@@ 4 .
-acta palaeontologica polonica has the issn number 1@@ 7@@ 3@@ 2@@ -@@ 2@@ 4@@ 2@@ 1 and an lccn number of 6@@ 0@@ 0@@ 4@@ 0@@ 7@@ 14 . the abbreviated name is acta palaeontol . p@@ o@@ l .
-acta palaeontologica polonica ( abbreviated to acta palaeontol . p@@ o@@ l ) has the issn number 1@@ 7@@ 3@@ 2@@ -@@ 2@@ 4@@ 2@@ 1 and the lccn number 6@@ 0@@ 0@@ 4@@ 0@@ 7@@ 14 .
-addiction is the abbreviated v@@ e@@ r@@ s@@ i@@ on of the " addiction journal " which has the issn number 0@@ 9@@ 6@@ 5@@ -@@ 2@@ 1@@ 4@@ 0 .
-addiction journal ( abbreviated to addiction ) is a@@ b@@ o@@ ut addiction . it has the issn number 0@@ 9@@ 6@@ 5@@ -@@ 2@@ 1@@ 4@@ 0 .
-aenir , written by garth nix , was p@@ r@@ o@@ d@@ u@@ c@@ e@@ d in print and has the oclc number 4@@ 5@@ 6@@ 4@@ 4@@ 8@@ 11 .
-aenir was written by garth nix and p@@ r@@ o@@ d@@ u@@ c@@ e@@ d in print . it has an oclc number of 4@@ 5@@ 6@@ 4@@ 4@@ 8@@ 11 .
-aenir , oclc number 4@@ 5@@ 6@@ 4@@ 4@@ 8@@ 11 , by author garth nix is available in print .
-aenir has the isbn number of " 0@@ -@@ 4@@ 3@@ 9@@ -@@ 1@@ 7@@ 6@@ 8@@ 4@@ -@@ 0 " , it was written by garth nix and was p@@ r@@ o@@ d@@ u@@ c@@ e@@ d in print .
-garth nix is the author of aenir . it can be found by isbn number 0@@ -@@ 4@@ 3@@ 9@@ -@@ 1@@ 7@@ 6@@ 8@@ 4@@ -@@ 0 .
-aenir was written by garth nix and has a isbn number of 0@@ -@@ 4@@ 3@@ 9@@ -@@ 1@@ 7@@ 6@@ 8@@ 4@@ -@@ 0 .
-the american journal of mathematics , abbreviated to a@@ m@@ .@@ j@@ .@@ math , whose academic discipline is mathematics has issn n@@ o@@ . 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
-a@@ m . j@@ . math is the abbreviation for the american journal of mathematics with the issn number of 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 in the discipline of math .
-the american journal of mathematics ( discipline mathematics ) is also known by the abbreviated title of a@@ m . j@@ . math and has the issn number 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
-the american journal of mathematics was first published in 1@@ 8@@ 7@@ 8 and is also known by the abbreviated title of a@@ m . j@@ . math . it has an issn number of 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
-the american journal of mathematics was first published in 1@@ 8@@ 7@@ 8 and has the abbreviation a@@ m . j@@ . math . . the issn number for the journal is 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
-also known by the abbreviated title of a@@ m . j@@ . math , the american journal of mathematics was first published in 1@@ 8@@ 7@@ 8 and has the issn number 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
-administrative science quarterly ( a@@ d@@ m@@ in . s@@ c@@ i . q ) is published by s@@ a@@ g@@ e p@@ u@@ b@@ l@@ i@@ c@@ a@@ t@@ i@@ o@@ n@@ s which was founded by s@@ a@@ r@@ a miller m@@ c@@ c@@ u@@ n@@ e .
-administrative science quarterly ( a@@ d@@ m@@ in . s@@ c@@ i . q , ) is published by s@@ a@@ g@@ e p@@ u@@ b@@ l@@ i@@ c@@ a@@ t@@ i@@ o@@ n@@ s who 's f@@ o@@ u@@ n@@ d@@ e@@ r is s@@ a@@ r@@ a miller m@@ c@@ c@@ u@@ n@@ e .
-s@@ a@@ r@@ a miller m@@ c@@ c@@ u@@ n@@ e is the f@@ o@@ u@@ n@@ d@@ e@@ r of s@@ a@@ g@@ e p@@ u@@ b@@ l@@ i@@ c@@ a@@ t@@ i@@ o@@ n@@ s which p@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ s the administrative science quarterly . the abbreviation for the administrative science quarterly is a@@ d@@ m@@ in . s@@ c@@ i . q@@ .
-the aids ( journal ) , is published by lippincott williams & wilkins who are based in the united kingdom which is where david c@@ a@@ m@@ e@@ r@@ on is the leader .
-the aids journal was published by lippincott , williams & wilkins in the uk . david c@@ a@@ m@@ e@@ r@@ on is the leader .
-the aids ( journal ) is published by lippincott williams & wilkins . it was published in the united kingdom , which leader is david c@@ a@@ m@@ e@@ r@@ on .
-a fortress of grey ice is from the united states where barack obama is the leader and the african americans are one of the ethnic groups .
-barack obama is both president of the us and african american , which is an ethnic group of the united states . a fortress of grey ice originates from the us .
-in the united states , one of the ethnic groups is african american , barack obama is president and it is where a fortress of grey ice originates .
-in the united states , english is the language , asian americans are an ethnic group and the book alcatraz versus the evil librarians was written .
-alcatraz versus the evil librarians is from the united states where english is spoken and the asian americans are an ethnic group .
-the book alcatraz versus the evil librarians comes from the united states where english is the p@@ r@@ i@@ mary language . a@@ d@@ d@@ i@@ t@@ i@@ o@@ n@@ a@@ l@@ l@@ y , asian americans is one of the ethnic groups in the united states .
-with a runway length of 1@@ ,@@ 1@@ 2@@ 1 metres , abilene regional airport serves abilene , texas , in the united states .
-abilene , texas is served by the abilene regional airport in the u.s. its runway is 1@@ 1@@ 2@@ 1 long .
-abilene , texas , united states , is served by abilene regional airport , which has a runway length of 1@@ 1@@ 2@@ 1@@ .@@ 0 .
-adolfo suarez madrid barajas airport is located in alcobendas , spain , and operated by the madrid - based enaire .
-adolfo suarez madrid-barajas airport is located in alcobendas , spain . the airport is operated by enaire .
-adolfo suárez madrid – barajas airport , operated by madrid 's enaire , is located in alcobendas , spain .
-adolfo suarez madrid-barajas airport is located at madrid , paracuellos de jarama , san s@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los reyes and alcobendas and is operated by enaire . the runway name is 1@@ 8@@ r@@ /@@ 2@@ 6@@ l and is 3@@ ,@@ 5@@ 0@@ 0 in length .
-adolfo suárez madrid – barajas airport can be found in madrid , paracuellos de jarama , san s@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los reyes and alcobendas . enaire operates this airport . 1@@ 8@@ r@@ /@@ 3@@ 6@@ l is the runway name and its length is 3500 .
-adolfo suarez madrid-barajas airport is located at madrid , paracuellos de jarama , san s@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los reyes and alcobendas and r@@ u@@ n by enaire . its runway name is 1@@ 8@@ r@@ /@@ 3@@ 6@@ l and it is 3500 m long , .
-agra airport is in uttar pradesh , which is part of a@@ w@@ a@@ d@@ h and b@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and , is located 1@@ 6@@ 7@@ .@@ 9@@ 4 metres above sea level .
-agra airport is 1@@ 6@@ 7@@ .@@ 9@@ 4 metres above sea level and located in uttar pradesh , part of a@@ w@@ a@@ d@@ h and b@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and .
-agra airport is located in uttar pradesh ( lead by ram n@@ a@@ i@@ k ) which is part of a@@ w@@ a@@ d@@ h and b@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and .
-ram n@@ a@@ i@@ k is the leader in uttar pradesh where agra airport is located and is part of a@@ w@@ a@@ d@@ h and b@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and .
-agra airport is located in uttar pradesh which is part of a@@ w@@ a@@ d@@ h and also b@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and , and lead by ram n@@ a@@ i@@ k .
-al asad airbase is operated b@@ t the united states air force which c@@ a@@ r@@ r@@ i@@ e@@ d o@@ ut the 1@@ 9@@ 8@@ 6 united states b@@ o@@ m@@ b@@ i@@ n@@ g of l@@ i@@ b@@ y@@ a . its aircraft fighter is g@@ e@@ n@@ e@@ r@@ al d@@ y@@ n@@ a@@ m@@ i@@ c@@ s f@@ -@@ 1@@ 6 f@@ i@@ g@@ h@@ t@@ i@@ n@@ g f@@ a@@ l@@ c@@ on and the lockheed ac-130 can be found on u@@ s@@ a@@ f aircraft c@@ a@@ r@@ r@@ i@@ e@@ r@@ s .
-al asad airbase is operated by the united states air force who were i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the 1@@ 9@@ 8@@ 6 b@@ o@@ m@@ b@@ i@@ n@@ g of l@@ i@@ b@@ y@@ a , and d@@ e@@ p@@ l@@ o@@ y the aircraft fighter g@@ e@@ n@@ e@@ r@@ al d@@ y@@ n@@ a@@ m@@ i@@ c@@ s f@@ -@@ 1@@ 6 f@@ i@@ g@@ h@@ t@@ i@@ n@@ g f@@ a@@ l@@ c@@ on and have the lockheed a@@ c@@ 1@@ 3@@ 0 on their aircraft c@@ a@@ r@@ r@@ i@@ e@@ r@@ s .
-al asad airbase is operated by the united states air force who p@@ a@@ r@@ t@@ i@@ c@@ i@@ p@@ a@@ t@@ e@@ d in the b@@ a@@ t@@ t@@ l@@ e@@ s d@@ u@@ r@@ i@@ n@@ g o@@ p@@ e@@ r@@ a@@ t@@ i@@ on e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m . they d@@ e@@ p@@ l@@ o@@ y the lockheed ac-130 on their aircraft c@@ a@@ r@@ r@@ i@@ e@@ r@@ s and also m@@ a@@ k@@ e u@@ s@@ e of the aircraft fighter g@@ e@@ n@@ e@@ r@@ al d@@ y@@ n@@ a@@ m@@ i@@ c@@ s f@@ -@@ 1@@ 6 f@@ i@@ g@@ h@@ t@@ i@@ n@@ g f@@ a@@ l@@ c@@ on .
-the united states air force is the operating organisation for al asad airbase and has the l@@ o@@ c@@ k@@ h@@ e@@ a@@ d ac-130 and g@@ e@@ n@@ e@@ r@@ al d@@ y@@ n@@ a@@ m@@ i@@ c@@ s f@@ -@@ 1@@ 6 f@@ i@@ g@@ h@@ t@@ i@@ n@@ g f@@ a@@ l@@ c@@ on as aircraft . one of their b@@ a@@ t@@ t@@ l@@ e@@ s was o@@ p@@ e@@ r@@ a@@ t@@ i@@ on e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m . .
-al asad airbase is operated by the united states air force which uses lockheed ac-130 aircraft c@@ a@@ r@@ r@@ i@@ e@@ r@@ s . the g@@ e@@ n@@ e@@ r@@ al d@@ y@@ n@@ a@@ m@@ i@@ c@@ s f@@ -@@ 1@@ 6 f@@ i@@ g@@ h@@ t@@ i@@ n@@ g f@@ a@@ l@@ c@@ on is an aircraft used by the u@@ s@@ a@@ f and they were i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the o@@ p@@ e@@ r@@ a@@ t@@ i@@ on e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m .
-al asad airbase is operated by the united states air force who d@@ e@@ p@@ l@@ o@@ y the lockheed ac-130 as an a@@ t@@ t@@ a@@ c@@ k aircraft and the m@@ c@@ d@@ o@@ n@@ n@@ e@@ l@@ l d@@ o@@ u@@ g@@ l@@ as f@@ -@@ 1@@ 5 e@@ a@@ g@@ l@@ e as a fighter aircraft . they also f@@ o@@ u@@ g@@ h@@ t in the b@@ a@@ t@@ t@@ l@@ e@@ s of o@@ p@@ e@@ r@@ a@@ t@@ i@@ on e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m .
-o@@ p@@ e@@ r@@ a@@ t@@ i@@ on e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m was a battle i@@ n@@ v@@ o@@ l@@ v@@ i@@ n@@ g the united states air force who o@@ p@@ e@@ r@@ a@@ t@@ e al asad airbase . they d@@ e@@ p@@ l@@ o@@ y the lockheed ac-130 on their aircraft c@@ a@@ r@@ r@@ i@@ e@@ r@@ s and the m@@ c@@ d@@ o@@ n@@ n@@ e@@ l@@ l d@@ o@@ u@@ g@@ l@@ as f@@ -@@ 1@@ 5 e@@ a@@ g@@ l@@ e as a fighter aircraft .
-al asad airbase is operated by the united states air force which was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in o@@ p@@ e@@ r@@ a@@ t@@ i@@ on e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m . the lockheed ac-130 and m@@ c@@ d@@ o@@ n@@ n@@ e@@ l@@ l d@@ o@@ u@@ g@@ l@@ as f@@ -@@ 1@@ 5 e@@ a@@ g@@ l@@ e are two of their a@@ i@@ r@@ c@@ r@@ a@@ f@@ t@@ s .
-al asad airbase is operated by the united states air force who t@@ o@@ o@@ k part in the n@@ o@@ t@@ e@@ d b@@ a@@ t@@ t@@ l@@ e@@ s at the invasion of g@@ r@@ e@@ n@@ a@@ d@@ a . they d@@ e@@ p@@ l@@ o@@ y the lockheed ac-130 a@@ t@@ t@@ a@@ c@@ k aircraft and the g@@ e@@ n@@ e@@ r@@ al d@@ y@@ n@@ a@@ m@@ i@@ c@@ s f@@ -@@ 1@@ 6 f@@ i@@ g@@ h@@ t@@ i@@ n@@ g f@@ a@@ l@@ c@@ on as an aircraft fighter .
-the united states air force , which is the operating organisation for al asad airbase was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in b@@ a@@ t@@ t@@ l@@ e@@ s at the invasion of g@@ r@@ e@@ n@@ a@@ d@@ a . they d@@ e@@ p@@ l@@ o@@ y the lockheed ac-130 a@@ t@@ t@@ a@@ c@@ k aircraft and the g@@ e@@ n@@ e@@ r@@ al d@@ y@@ n@@ a@@ m@@ i@@ c@@ s f@@ -@@ 1@@ 6 f@@ i@@ g@@ h@@ t@@ i@@ n@@ g f@@ a@@ l@@ c@@ on .
-the united states air force , who f@@ o@@ u@@ g@@ h@@ t in the invasion of g@@ r@@ e@@ n@@ a@@ d@@ a operates the al asad airbase . the u@@ s@@ a@@ f f@@ l@@ y lockheed ac-130 aircraft from aircraft c@@ a@@ r@@ r@@ i@@ e@@ r@@ s , in a@@ d@@ d@@ i@@ t@@ i@@ on to the g@@ e@@ n@@ e@@ r@@ al d@@ y@@ n@@ a@@ m@@ i@@ c@@ s f@@ -@@ 1@@ 6 f@@ i@@ g@@ h@@ t@@ i@@ n@@ g f@@ a@@ l@@ c@@ on .
-the pakistan civil aviation authority has headquarters at j@@ i@@ n@@ n@@ a@@ h international airport and g@@ o@@ v@@ e@@ r@@ n@@ s the allama iqbal international airport in punjab , pakistan which is lead by the p@@ r@@ o@@ v@@ i@@ n@@ c@@ i@@ al assembly of the punjab .
-the allama iqbal international airport is located in punjab , pakistan which is led by the p@@ r@@ o@@ v@@ i@@ n@@ c@@ i@@ al assembly of the punjab . the airport is governed by the pakistan civil aviation authority h@@ e@@ a@@ d@@ q@@ u@@ a@@ r@@ t@@ e@@ red in j@@ i@@ n@@ n@@ a@@ h international airport .
-allama iqbal international airport is located in punjab , pakistan which is led by the p@@ r@@ o@@ v@@ i@@ n@@ c@@ i@@ al assembly of punjab . the airport is operated by the pakistan civil aviation authority whose headquarters is in the j@@ i@@ n@@ n@@ a@@ h international airport .
-alpena county regional airport serves alpena , michigan and is located at m@@ a@@ p@@ l@@ e ridge township , alpena county , michigan . it has a runway length of 1@@ 5@@ 3@@ 3@@ .@@ 0 and is 210 metres above sea level .
-alpena county regional airport is located in m@@ a@@ p@@ l@@ e ridge township , alpena county and serves the city of alpena , michigan . it is located 210 metres above sea level and has a runway length of 1@@ 5@@ 3@@ 3@@ .@@ 0 .
-alpena , michigan , is served by the alpena county regional airport in m@@ a@@ p@@ l@@ e ridge township . the runway length is 1@@ 5@@ 3@@ 3@@ .@@ 0 and the elevation is 210 metres above sea level .
-the city of amsterdam is served by amsterdam airport schiphol which is -@@ 3@@ .@@ 3@@ 5@@ 2@@ 8 metres above sea level . it has a runway length of 2@@ 0@@ 1@@ 4@@ .@@ 0 meters and 0@@ 6@@ /@@ 2@@ 4 , k@@ a@@ a@@ g@@ b@@ a@@ an , is the runway name .
-s@@ e@@ r@@ v@@ i@@ n@@ g the city of amsterdam , amsterdam airport s@@ c@@ h@@ i@@ p@@ o@@ l is -@@ 3@@ .@@ 3@@ 5@@ 2@@ 8 above sea level . amsterdam airport schiphol 's runway length is 2@@ 0@@ 1@@ 4@@ .@@ 0 and it has the runway name , 0@@ 6@@ /@@ 2@@ 4 k@@ a@@ a@@ g@@ b@@ a@@ an .
-the d@@ e@@ m@@ o@@ n@@ y@@ m for the people of texas is t@@ e@@ j@@ a@@ n@@ o and the spoken language is english . the state is the location of andrews county airport and has the capital city of austin .
-andrews county airport is in texas where the capital city is austin , the l@@ o@@ c@@ al people are known as t@@ e@@ j@@ a@@ n@@ o and the spoken language is english .
-andrews county airport is located in texas whose capital city is austin . t@@ e@@ j@@ a@@ n@@ o are the inhabitants of the state and english language is spoken there .
-andrews county airport , texas is in the united states . the inhabitants of texas , t@@ e@@ x@@ a@@ n@@ s , speak english .
-andrews county airport is located in texas within the united states , the people of texas are r@@ e@@ f@@ e@@ r@@ red to as t@@ e@@ x@@ a@@ n@@ s and the l@@ o@@ c@@ al language is english .
-texas is the location of andrews county airport and is in the united states . the inhabitants are known as t@@ e@@ x@@ a@@ n@@ s and they speak the english language .
-andrews county airport is in texas , united states , where the people are known as t@@ e@@ x@@ a@@ n@@ s and spanish is spoken .
-t@@ e@@ x@@ a@@ n@@ s are the people from texas in the united states where spanish is spoken and andrews county airport is located .
-andrews county airport is located in t@@ e@@ x@@ t@@ s , united states . the people of texas are called t@@ e@@ x@@ a@@ n@@ s and spanish language is spoken there .
-andrews county airport is located in texas in the united states . in texas , the capital city is austin and the largest city is h@@ o@@ u@@ s@@ t@@ on .
-andrews county airport in the us is located in texas where the capital is austin and the largest city is h@@ o@@ u@@ s@@ t@@ on .
-andrews county airport is located in texas , united states , where h@@ o@@ u@@ s@@ t@@ on is the largest city and austin is the capital .
-at 1@@ 5@@ 9 meters above sea level , angola international airport is located at Í@@ c@@ o@@ l@@ o e bengo , part of luanda province , in angola .
-angola international airport , situated 1@@ 5@@ 9 metres above sea level , is located at Í@@ c@@ o@@ l@@ o e bengo , part of luanda province in angola .
-angola international airport is located in Í@@ c@@ o@@ l@@ o e bengo in luanda province , angola . it is 1@@ 5@@ 9 metres above sea level . .
-the flemish government r@@ u@@ n@@ s the flemish region in belgium where antwerp is served by antwerp international airport .
-antwerp international airport serves the city of antwerp . the flemish region is in the country of belgium and is under the j@@ u@@ r@@ i@@ s@@ d@@ i@@ c@@ t@@ i@@ on of the flemish government .
-the flemish region , which is led by the flemish government , is part of belgium . antwerp international airport serves antwerp .
-appleton international airport ( in greenville , wisconsin ) has an elevation of 2@@ 8@@ 0 metres above sea level , serves the city of appleton , and has a runway length of 2@@ ,@@ 4@@ 3@@ 9 .
-appleton international airport is located in greenville , wisconsin and serves the n@@ e@@ a@@ r@@ by city of appleton . the airport is 2@@ 8@@ 0 metres above sea level and has a runway which is 2@@ 4@@ 3@@ 9 metres long .
-appleton international airport can be found in greenville , wisconsin it serves appleton , it 's runway length is 2@@ 4@@ 3@@ 9 u@@ n@@ its and it is 2@@ 8@@ 0 metres above sea level .
-appleton international airport , which serves appleton , wisconsin , is located in greenville , wisconsin which is part of both m@@ e@@ n@@ a@@ s@@ h@@ a and d@@ a@@ l@@ e .
-a@@ p@@ p@@ l@@ e@@ t@@ one international airport serves the city of appleton in greenville , wisconsin . both m@@ e@@ n@@ a@@ s@@ h@@ a and d@@ a@@ l@@ e are p@@ a@@ r@@ t@@ s of greenville .
-appleton international airport serves appleton in greenville , wisconsin . both m@@ e@@ n@@ a@@ s@@ h@@ a ( town ) and d@@ a@@ l@@ e are p@@ a@@ r@@ t@@ s of greenville .
-poaceae is of the order p@@ o@@ a@@ l@@ e@@ s , the c@@ l@@ a@@ s@@ s of m@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on and belongs to the order of c@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s . it c@@ o@@ n@@ s@@ t@@ i@@ t@@ u@@ t@@ e@@ s the surface of the 3rd runway at ardmore airport in new zealand .
-ardmore airport ( new zealand ) 's 3rd runway surface type is poaceae which is a member of the order of p@@ o@@ a@@ l@@ e@@ s , the c@@ l@@ a@@ s@@ s is m@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on , and belongs to the order of c@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s .
-ardmore airport ( new zealand ) 's 3rd runway is s@@ u@@ r@@ f@@ a@@ c@@ e@@ d with poaceae . poaceae belongs to the p@@ o@@ a@@ l@@ e@@ s and c@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s order and c@@ l@@ a@@ s@@ s@@ i@@ f@@ i@@ e@@ d as m@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on .
-the ardmore airport in new zealand is 34 meters above sea level and has a runway length of 5@@ 9@@ 7@@ .@@ 0 . it has the runway name 0@@ 3@@ r@@ /@@ 2@@ 1@@ l and the 3rd runway is made of poaceae .
-ardmore airport in new zealand is 34 metres above sea level and has a runway length of 5@@ 9@@ 7@@ .@@ 0 . the 3rd runway is made of poaceae and one of the r@@ u@@ n@@ w@@ a@@ y@@ s is called 0@@ 3@@ r@@ /@@ 2@@ 1@@ l .
-ardmore airport in new zealand has a 3rd runway made of poaceae and is 34 meters above sea level . it has a runway name of 0@@ 3@@ r@@ /@@ 2@@ 1@@ l with a length of 5@@ 9@@ 7@@ .@@ 0 .
-with a runway length of 1@@ ,@@ 8@@ 7@@ 3 , atlantic city international airport is located in egg harbor township , new j@@ e@@ r@@ s@@ e y ( part of atlantic county ) in the united states .
-egg harbor township , is a township in atlantic county , new jersey , united states . with a runway length of 1@@ 8@@ 7@@ 3 metres , atlantic city international airport is located in egg harbor township .
-adolfo suarez madrid-barajas airport is operated by enaire , which is located in the city of madrid , spain . the adolfo suarez madrid-barajas airport is located in madrid , paracuellos de jarama , san s@@ e@@ b@@ a@@ s@@ t@@ i@@ an de los reyes and alcobendas .
-adolfo suárez madrid – barajas airport can be found in madrid , paracuellos de jarama , san s@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los reyes and alcobendas and is operated by enaire from the city of madrid , spain .
-adolfo suárez madrid – barajas airport , operated by enaire ( madrid ) , is found in madrid , paracuellos de jarama , san s@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los reyes and alcobendas ; spain .
-egg harbor township is in new jersey , in the united states and is where atlantic city international airport is located . this airport has a runway length of 3@@ 0@@ 4@@ 8@@ .@@ 0 .
-egg harbor township , new jersey is part of new jersey in the united states . it is where atlantic city international airport ( with a runway length of 3@@ 0@@ 4@@ 8@@ .@@ 0 ) is located .
-atlantic city airport , ( runway length 3@@ 0@@ 4@@ 8@@ .@@ 0 ) is located in egg harbor township , which is part of new jersey in the united states .
-poaceae , of the c@@ l@@ a@@ s@@ s m@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on and the order of c@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s belongs to the division of flowering plants and is used as the surface of the s@@ e@@ c@@ o@@ n@@ d runway of ardmore airport , new zealand .
-the surface type of the s@@ e@@ c@@ o@@ n@@ d runway of ardmore airport , new zealand is poaceae . poaceae is a flowering plant of the order of c@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s and the c@@ l@@ a@@ s@@ s of m@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on .
-the 2@@ n@@ d runway at ardmore airport ( new zealand ) is made of poaceae . poaceae is a flowering plant in the c@@ l@@ a@@ s@@ s of m@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on in the order of c@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s .
-alan bean ( of the united states ) was a crew member of nasa 's apollo 12 under the c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r david scott .
-united states national alan bean was a crew member of nasa 's apollo 12 mission under c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r david s c@@ o@@ t@@ t .
-alan shepard , who was born in new hampshire on november 1@@ 8@@ t@@ h , 1923 , graduated with a m.a. from nwc in 1957 and retired on a@@ u@@ g@@ u@@ st 1st , 1@@ 9@@ 7@@ 4 .
-alan shepard was born 1@@ 9@@ 2@@ 3@@ -@@ 1@@ 1@@ -@@ 1@@ 8 in new hampshire . he o@@ b@@ t@@ a@@ i@@ n@@ e@@ d a m@@ a in 1957 from " nwc " he retired 1@@ 9@@ 7@@ 4@@ -@@ 0@@ 8@@ -@@ 0@@ 1 .
-american test pilot alan shepard died in california and was born in new hampshire .
-alan shepard was born in new hampshire and became a test pilot . he died in california .
-alan shepard was born in new hampshire and died in california . he served as a test pilot .
-alan shepard was a test pilot born in new hampshire who nasa p@@ i@@ c@@ k@@ e@@ d as a member of apollo 14 .
-alan shepard , o@@ r@@ i@@ g@@ i@@ n@@ a@@ l@@ l@@ y from new hampshire joined nasa as a test pilot and also became a member of apollo 14 .
-alan shepard , who was born in new hampshire and served as a test pilot , was a crew member of the nasa operated apollo 14 mission .
-the backup pilot to apollo 12 was alfred w@@ o@@ r@@ den and also part of apollo 12 were alan bean and c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r david scott who were all chosen by nasa .
-alan bean was a crew member on the nasa apollo 12 mission along with backup pilot alfred w@@ o@@ r@@ den and c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r david scott .
-buzz aldrin is a national of the united states whose leader is joe biden . he was born in glen ridge , e@@ s@@ s@@ e@@ x county , new jersey .
-elliot see , a g@@ r@@ a@@ d@@ u@@ a@@ t@@ e of university of texas at austin , was born in dallas on july 23 , 1927 , and died in st. louis .
-elliot see attended the university of texas in austin . he became a test pilot . he died in st. louis on 1@@ 9@@ 6@@ 6@@ -@@ 0@@ 2@@ -@@ 2@@ 8 .
-e@@ l@@ l@@ i@@ or see attended the university of texas at austin . he was a pilot and died in st. louis , 2@@ 8@@ t@@ h february 1966 .
-elliot see attended the university of texas in austin which is affiliated to the university of texas system . he died in st louis which is part of the kingdom of france .
-elliot see died in st louis which is part of the kingdom of france , his alma mater was the university of texas at austin which is affiliated with the university of texas system .
-elliot see was born on july 23rd , 1927 in dallas , and died in st. louis on february 2@@ 8@@ t@@ h , 1966 .
-e@@ l@@ l@@ i@@ or see was born 23rd july 1927 in dallas and died in st. louis on 2@@ 8@@ t@@ h february 1966 .
-the members of apollo 8 were buzz aldrin who was backup pilot , c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r frank borman and william anders who retired on september 1st , 1969 .
-william anders served as a crew member of apollo 8 under c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r frank b@@ o@@ r@@ r@@ man and backup pilot buzz aldrin . he retired 1@@ 9@@ 6@@ 9@@ .@@ 0@@ 9@@ .@@ 0@@ 1 .
-c@@ y@@ r@@ i@@ l r@@ a@@ m@@ a@@ p@@ h@@ o@@ s@@ a is one of the leaders of south africa , which capital is c@@ a@@ p@@ e town . the address , 11 diagonal street is located in that country and one of the the ethnic groups is asian south a@@ f@@ r@@ i@@ c@@ a@@ n@@ s .
-lead by c@@ y@@ r@@ i@@ l r@@ a@@ m@@ a@@ p@@ h@@ o@@ s@@ a , south africa is location of 11 diagonal street , has the capital of c@@ a@@ p@@ e town and has an ethnic group of asian south a@@ f@@ r@@ i@@ c@@ a@@ n@@ s .
-with the capital of c@@ a@@ p@@ e town , south africa is the location of 11 diagonal street , has the ethnic group of asian south african and one of its leaders is c@@ y@@ r@@ i@@ l r@@ a@@ m@@ a@@ p@@ h@@ o@@ s@@ a .
-with the capital of c@@ a@@ p@@ e town , south africa is the location of 11 diagonal street and has the ethnic groups of asian south a@@ f@@ r@@ i@@ c@@ a@@ n@@ s and white south a@@ f@@ r@@ i@@ c@@ a@@ n@@ s .
-11 diagonal street is located in south africa , of which c@@ a@@ p@@ e town is the capital . two ethnic groups within south africa are the asian south a@@ f@@ r@@ i@@ c@@ a@@ n@@ s , and white south a@@ f@@ r@@ i@@ c@@ a@@ n@@ s .
-11 diagonal street is located in south africa , where the capital is c@@ a@@ p@@ e town . white south a@@ f@@ r@@ i@@ c@@ a@@ n@@ s and asian south a@@ f@@ r@@ i@@ c@@ a@@ n@@ s are ethnic groups in south africa .
-200 public square is located in cleveland , c@@ u@@ y@@ a@@ h@@ o@@ g@@ a county , ohio which is governed by cleveland city council .
-200 public square is located in cleveland , c@@ u@@ y@@ a@@ h@@ o@@ g@@ a county , ohio which is governed by the cleveland city council .
-200 public square is located in cleveland , c@@ u@@ y@@ a@@ h@@ o@@ g@@ a county , ohio , and is governed by cleveland city council .
-c@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on b@@ e@@ g@@ i@@ n@@ n@@ i@@ n@@ g in january 2014 , p@@ o@@ s@@ t@@ m@@ o@@ d@@ e@@ r@@ n art 250 delaware avenue has 12 floors with a total area of 3@@ 0@@ 8@@ 4@@ 3@@ .@@ 8 square meters .
-c@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on of the 12 floor p@@ o@@ s@@ t@@ m@@ o@@ d@@ e@@ r@@ n style building , 250 delaware avenue , which has a floor area of 3@@ 0@@ 8@@ 4@@ 3@@ .@@ 8 square metres b@@ e@@ g@@ an in january 2014 .
-first b@@ e@@ g@@ u@@ n to be built in january 2014 , the p@@ o@@ s@@ t@@ m@@ o@@ d@@ e@@ r@@ n@@ i@@ s@@ t art 250 delaware avenue has 12 floors and a total floor area of 3@@ 0@@ 8@@ 4@@ 3@@ .@@ 8 square metres .
-300 north lasalle is located in chicago , d@@ u p@@ a@@ g@@ e county , illinois , united states where the leader is susana m@@ e@@ n@@ d@@ o@@ z@@ a .
-300 north lasalle is located in chicago , d@@ u@@ p@@ a@@ g@@ e county , illinois . the leader or chicago is susana m@@ e@@ n@@ d@@ o@@ z@@ a .
-300 north lasalle is situated in chicago which is part of the d@@ u@@ p@@ a@@ g@@ e county in illinois located in the u.s. susana m@@ e@@ n@@ d@@ o@@ z@@ a is currently the leader of chicago .
-3 a@@ r@@ e@@ n@@ a is located in dublin , the republic of ireland , where c@@ r@@ í@@ o@@ n@@ a n@@ í d@@ h@@ á@@ l@@ a@@ i@@ g@@ h was l@@ o@@ r@@ d m@@ a@@ y@@ or . the o@@ w@@ n@@ e@@ r of 3arena is live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t .
-the l@@ o@@ r@@ d m@@ a@@ y@@ or of dublin ( republic of ireland ) is c@@ r@@ i@@ o@@ n@@ a ni d@@ h@@ a@@ l@@ a@@ i@@ g@@ h . based in dublin is 3arena which is owned by live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ r@@ e@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t .
-the 3arena , dublin , republic of ireland is owned by live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t . c@@ r@@ í@@ o@@ n@@ a n@@ í d@@ h@@ á@@ l@@ a@@ i@@ g@@ h was l@@ o@@ r@@ d m@@ a@@ y@@ or of dublin .
-live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t o@@ w@@ n@@ s 3arena , located in dublin , republic of ireland . the l@@ o@@ r@@ d m@@ a@@ y@@ or of dublin is c@@ r@@ í@@ o@@ n@@ a n@@ í d@@ h@@ á@@ l@@ a@@ i@@ g@@ h .
-owned by live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t , 3arena can be found in dublin in the republic of ireland , a republic r@@ u@@ n by l@@ o@@ r@@ d m@@ a@@ y@@ or c@@ r@@ í@@ o@@ n@@ a n@@ í d@@ h@@ á@@ l@@ a@@ i@@ g@@ h .
-ac hotel bella sky is located in copenhagen , denmark and the tenant from the hotel is marriott international . it is o@@ w@@ n by bella c@@ e@@ n@@ t@@ e@@ r and there is 23 floors in that hotel .
-there are 23 floors in the ac hotel bella sky copenhagen , denmark . the tenant is the marriott international hotel and the o@@ w@@ n@@ e@@ r is bella c@@ e@@ n@@ t@@ e@@ r .
-located in denmark and with tenant marriott international , ac hotel bella sky copenhagen is owned by bella c@@ e@@ n@@ t@@ e@@ r and has 23 floors .
-the tenant of the ac hotel bella sky copenhagen is marriott international . the hotel has 23 floors , was designed by the company 3@@ x@@ n and is owned by the bella c@@ e@@ n@@ t@@ e@@ r .
-3@@ x@@ n was the architect of the ac hotel bella sky copenhagen which has 23 floors and is owned by the bella c@@ e@@ n@@ t@@ e@@ r and currently t@@ e@@ n@@ a@@ n@@ t@@ e@@ d by marriott international .
-bella c@@ e@@ n@@ t@@ e@@ r o@@ w@@ n@@ s ac hotel bella sky copenhagen and marriott international is a tenant . the hotel has 23 floors and was designed by 3@@ x@@ n .
-c@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on b@@ e@@ g@@ an in 1927 and f@@ i@@ n@@ i@@ s@@ h@@ e@@ d in 1@@ 9@@ 3@@ 1 of adisham hall in sri lanka and was in the t@@ u@@ d@@ or and j@@ a@@ c@@ o@@ bean style .
-the t@@ u@@ d@@ or and j@@ a@@ c@@ o@@ bean s@@ t@@ y@@ led adisham hall was built in sri lanka b@@ e@@ t@@ w@@ e@@ e@@ n 1927 and 1@@ 9@@ 3@@ 1 .
-adisham hall b@@ e@@ g@@ an in 1927 and completed in 1@@ 9@@ 3@@ 1 . it has a t@@ u@@ d@@ or and j@@ a@@ c@@ a@@ b@@ i@@ an style and is located in sri lanka .
-adisham hall is located in haputale , sri lanka which has the capital city of sri jayawardenepura k@@ o@@ t@@ t@@ e . t@@ a@@ m@@ i@@ l is the language of the country .
-adisham hall can be found in haputale , sri lanka , a country with the capital sri jayawardenepura k@@ o@@ t@@ t@@ e and language of the t@@ a@@ m@@ i@@ l language .
-adisham hall can be found in haputale , sri lanka , where sri lanka 's capital is sri jayawardenepura k@@ o@@ t@@ t@@ e and the language is the t@@ a@@ m@@ i@@ l language .
-c@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on of adisham hall in sri lanka b@@ e@@ g@@ an in 1927 and e@@ n@@ d@@ e@@ d in 1@@ 9@@ 3@@ 1 . it was built in the t@@ u@@ d@@ or r@@ e@@ v@@ i@@ v@@ al architectural style .
-adisham hall , sri lanka , was s@@ t@@ a@@ r@@ t@@ e@@ d in 1927 and completed in 1@@ 9@@ 3@@ 1 . it has the t@@ u@@ d@@ or r@@ e@@ v@@ i@@ v@@ al style .
-the architectural s@@ t@@ y@@ led " t@@ u@@ d@@ or r@@ e@@ v@@ i@@ v@@ al " adisham hall is located in sri lanka and was built in 1927 and completed in 1@@ 9@@ 3@@ 1 .
-the akita museum of art is located in akita prefecture , akita , japan . one of the ethnic groups of japan is the f@@ i@@ l@@ i@@ p@@ i@@ n@@ o@@ s .
-akita museum of art is located in akita , akita , akita prefecture , japan , where one of the ethnic groups is the f@@ i@@ l@@ i@@ p@@ i@@ n@@ o@@ s .
-the akita prefecture , where the akita museum of art is located , is part of the country of japan a country where one of the ethnic groups is f@@ i@@ l@@ i@@ p@@ i@@ n@@ o@@ s .
-the mason school of business is located in the us and they are the current tenants of alan b miller hall . robert a@@ .@@ m@@ . stern is the architect for alan b. miller hall , which is situated in virginia .
-the us based mason school of business are the current tenants of alan b miller hall in virginia which was designed by the architect robert a m stern .
-the mason school of business are the current tenants of alan b miller hall , which is located in virginia , united states and was designed by the architect robert a m stern .
-situated in virginia , united states , , alan b. miller hall was completed on 1st june 2009 . the current tenants are the mason school of business .
-located in virginia , united states and with the current tenants of the mason school of business , the alan b. miller hall was completed in june 1st , 2009 .
-narendra modi and sumitra mahajan are leaders in india where amdavad ni gufa is located in ahmedabad .
-amdavad ni gufa is located in ahmedabad , india . narendra modi is the prime minister of india w@@ h@@ i@@ l@@ st sumitra mahajan is a@@ n@@ o@@ t@@ h@@ e@@ r leader of india .
-amdavad ni gufa can be found in ahmedabad , india , a country lead by narendra modi and sumitra mahajan .
-the address for amdavad ni gufa is l@@ a@@ l@@ b@@ h@@ a@@ i d@@ a@@ l@@ p@@ a@@ t@@ b@@ h@@ a@@ i campus , n@@ e@@ a@@ r c@@ e@@ p@@ t university , o@@ p@@ p . gujarat university , university road , gujarat , ahmedabad , india .
-the address of amdavad ni gufa is l@@ a@@ l@@ b@@ h@@ a@@ i d@@ a@@ l@@ p@@ a@@ t@@ b@@ h@@ a@@ i campus , n@@ e@@ a@@ r c@@ e@@ p@@ t university , o@@ p@@ p . gujarat university , university road , ahmedabad , gujarat , india .
-amdavad ni gufa is located in ahmedabad , gujarat , india . t s thakur was an indian leader .
-amdavad ni gufa is located in ahmedabad , g@@ u@@ j@@ u@@ r@@ at , india . t s thakur is a leader in india .
-amdavad ni gufa is located in gujarat , ahmedabad , india , where the leader was t@@ . s@@ . thakur .
-ampara hospital is located in the eastern province of sri lanka , where the currency is the s@@ k@@ i l@@ a@@ n@@ k@@ an rupee . one of the leaders of sri lanka is ranil wickremesinghe .
-ampara hospital is located in eastern province , sri lanka . the currency of sri lanka is the sri l@@ a@@ n@@ k@@ an rupee and the leader of the country is ranil wickremesinghe .
-ampara hospital is in the eastern province , sri lanka . the leader of sri lanka is ranil wickremesinghe and its currency is the sri l@@ a@@ n@@ k@@ an rupee .
-san f@@ r@@ a@@ n@@ c@@ i@@ s@@ c@@ o born architect julia morgan designed many s@@ i@@ g@@ n@@ i@@ f@@ i@@ c@@ a@@ n@@ t b@@ u@@ i@@ l@@ d@@ i@@ n@@ g@@ s including the asilomar conference grounds , the los a@@ n@@ g@@ e@@ l@@ e@@ s h@@ e@@ r@@ a@@ l@@ d e@@ x@@ a@@ m@@ i@@ n@@ e@@ r building and the asilomar state b@@ e@@ a@@ c@@ h .
-julia morgan , born in san f@@ r@@ a@@ n@@ c@@ i@@ s@@ c@@ o and d@@ e@@ s@@ i@@ g@@ n@@ e@@ r of many s@@ i@@ g@@ n@@ i@@ f@@ i@@ c@@ a@@ n@@ t b@@ u@@ i@@ l@@ d@@ i@@ n@@ g@@ s , including the los a@@ n@@ g@@ e@@ l@@ e@@ s h@@ e@@ r@@ a@@ l@@ d e@@ x@@ a@@ m@@ i@@ n@@ e@@ r building and the asilomar state b@@ e@@ a@@ c@@ h , was also the architect of the grounds of asilomar conference .
-julia morgan was born in san f@@ r@@ a@@ n@@ s@@ i@@ s@@ c@@ o . s@@ h@@ e designed the asilomar conference grounds , the asilomar state b@@ e@@ a@@ c@@ h and the los a@@ n@@ g@@ e@@ l@@ e@@ s h@@ e@@ r@@ a@@ l@@ d e@@ x@@ a@@ m@@ i@@ n@@ e@@ r , a l@@ a@@ n@@ d@@ m@@ a@@ r@@ k in california .
-born in california , julia morgan has designed b@@ u@@ i@@ l@@ d@@ i@@ n@@ g@@ s s@@ u@@ c@@ h as los a@@ n@@ g@@ e@@ l@@ e@@ s h@@ e@@ r@@ a@@ l@@ d e@@ x@@ a@@ m@@ i@@ n@@ e@@ r building and the r@@ i@@ v@@ e@@ r@@ s@@ i@@ d@@ e art museum , and was also the architect of the grounds of asilomar conference .
-julia morgan from california , designed many i@@ m@@ p@@ o@@ r@@ t@@ a@@ n@@ t b@@ u@@ i@@ l@@ d@@ i@@ n@@ g@@ s including the los a@@ n@@ g@@ e@@ l@@ e@@ s h@@ e@@ r@@ a@@ l@@ d building and the a@@ s@@ i@@ l@@ o@@ m@@ e@@ r conference grounds .
-asser levy public baths are in new york city , u.s. which is part of manhattan . new york city was part of new n@@ e@@ t@@ h@@ e@@ r@@ l@@ and .
-asser levy public baths are located in new york city , manhattan , new n@@ e@@ t@@ h@@ e@@ r@@ l@@ and in the united states .
-asser levy public baths is located in new york city , on manhattan i@@ s@@ l@@ and , new york , in the united states . new york city was part of w@@ h@@ at was new n@@ e@@ t@@ h@@ e@@ r@@ l@@ and .
-the architect john madin was the d@@ e@@ s@@ i@@ g@@ n@@ e@@ r of 103 colmore row , which is located in his home city of birmingham . l@@ a@@ b@@ o@@ u@@ r p@@ o@@ l@@ i@@ t@@ i@@ c@@ i@@ an , john c@@ l@@ a@@ n@@ c@@ y is the leader of birmingham and the city has the p@@ o@@ s@@ t@@ al code ' b ' .
-103 colmore row was designed by the architect , john madin , birmingham native . birmingham has the p@@ o@@ s@@ t@@ code area ' b ' and is lead by l@@ a@@ b@@ o@@ u@@ r p@@ o@@ l@@ i@@ t@@ i@@ c@@ i@@ an , john c@@ l@@ a@@ n@@ c@@ y .
-l@@ a@@ b@@ o@@ u@@ r p@@ o@@ l@@ i@@ t@@ i@@ c@@ i@@ an , john c@@ l@@ a@@ n@@ c@@ y is the leader of birmingham which has the p@@ o@@ s@@ t@@ code area ' b ' and is home town of john madin the architect who designed 103 colmore row .
-addis ababa , ethiopia is home to addis ababa stadium and the addis ababa city hall . the name of the leader in ethiopia is m@@ a@@ l@@ a@@ t@@ u t@@ e@@ s@@ h@@ o@@ m@@ e .
-m@@ u@@ l@@ a@@ t@@ u t@@ e@@ s@@ h@@ o@@ m@@ e is a leader in ethiopia , a country where addis ababa is located and within which is addis ababa city hall and addis ababa stadium .
-m@@ u@@ l@@ a@@ t@@ a t@@ e@@ s@@ h@@ o@@ m@@ e is an e@@ t@@ h@@ i@@ o@@ p@@ i@@ an leader . addis ababa city hall is located in addis ababa , e@@ t@@ h@@ o@@ p@@ i@@ a . addis ababa stadium is part of a@@ d@@ d@@ i@@ d ababa .
-the leader of the us is known as the president and the capital city is washington dc . one of the country 's leaders i@@ f paul ryan and it is the location of 250 delaware avenue .
-paul ryan is president of the united states and both 250 delaware avenue and washington dc ( the capital ) are located there .
-paul ryan is the leader , or president of the united states , of which washington d.c. is the capital . 250 delaware avenue is part of the united states .
-t@@ i@@ m b@@ r@@ o@@ o@@ k@@ e@@ -@@ t@@ a@@ y@@ l@@ o@@ r was the s@@ t@@ a@@ r of bananaman , an s@@ t@@ v s@@ e@@ r@@ i@@ e@@ s first a@@ i@@ red on 1@@ 0@@ /@@ 0@@ 3@@ /@@ 1983 and created by s@@ t@@ e@@ v@@ e b@@ r@@ i@@ g@@ h@@ t .
-bananaman was created by s@@ t@@ e@@ v@@ e b@@ r@@ i@@ g@@ h@@ t and starred t@@ i@@ m b@@ r@@ o@@ o@@ k@@ e@@ -@@ t@@ a@@ y@@ l@@ o@@ r . the s@@ h@@ o@@ w was first a@@ i@@ red on 3rd october 1983 by s@@ t@@ v .
-t@@ i@@ m b@@ r@@ o@@ o@@ k@@ e@@ -@@ t@@ a@@ y@@ l@@ o@@ r starred in bananaman that was created by s@@ t@@ e@@ v@@ e b@@ r@@ i@@ g@@ h@@ t . it was broadcast by s@@ t@@ v and first a@@ i@@ red on 3 october 1983 .
-d@@ an m@@ i@@ s@@ h@@ k@@ in and the p@@ u@@ e@@ r@@ to r@@ i@@ c@@ an national , e@@ r@@ n@@ i@@ e c@@ o@@ l@@ on created the comic character of bolt who has the alternative name of l@@ a@@ r@@ r@@ y b@@ o@@ l@@ a@@ t@@ i@@ n@@ sky .
-d@@ an m@@ i@@ s@@ h@@ k@@ in and e@@ r@@ n@@ i@@ e c@@ o@@ l@@ ó@@ n ( p@@ u@@ e@@ r@@ to r@@ i@@ c@@ an ) created the comic character bolt , the alternative name of which is l@@ a@@ r@@ r@@ y b@@ o@@ l@@ a@@ t@@ i@@ n@@ sky .
-the comic book character of bolt has the alternative name of l@@ a@@ r@@ r@@ y b@@ o@@ l@@ a@@ t@@ i@@ n@@ sky . it was created by d@@ an m@@ i@@ s@@ h@@ k@@ in and the p@@ u@@ e@@ r@@ to r@@ i@@ c@@ an national , e@@ r@@ n@@ i@@ e c@@ o@@ l@@ on .
-baymax is a character in big hero 6 that stars d@@ a@@ m@@ on w@@ a@@ y@@ a@@ n@@ s j@@ r . the character was created by the american , duncan rouleau .
-d@@ a@@ m@@ on w@@ a@@ y@@ a@@ n@@ s j@@ r starred in the film big hero 6 which also i@@ n@@ c@@ l@@ u@@ d@@ e@@ d the character of baymax who was created by the american , duncan rouleau .
-baymax is a character in the film big hero 6 which starred d@@ a@@ m@@ on w@@ a@@ y@@ a@@ n@@ s , j@@ r . the character was created by the american national duncan rouleau .
-baymax , a character in big hero 6 , s@@ t@@ a@@ r@@ r@@ i@@ n@@ g j@@ a@@ m@@ i@@ e c@@ h@@ u@@ n@@ g , was created by duncan rouleau , an american .
-j@@ a@@ m@@ i@@ e c@@ h@@ u@@ n@@ g starred in the film big hero 6 in which the character of baymax a@@ p@@ p@@ e@@ a@@ r@@ e@@ d . baymax was created by the american national , duncan rouleau .
-duncan rouleau , who is american , created the character baymax , which a@@ p@@ p@@ e@@ a@@ r@@ e@@ d in the m@@ o@@ v@@ i@@ e big hero 6 s@@ t@@ a@@ r@@ r@@ i@@ n@@ g j@@ a@@ m@@ i@@ e c@@ h@@ u@@ n@@ g .
-big hero 6 starred m@@ a@@ y r@@ u@@ d@@ o@@ l@@ p@@ h and the character of baymax who was created by the american , duncan rouleau .
-baymax is a character in the film big hero 6 which starred m@@ a@@ y@@ a r@@ u@@ d@@ o@@ l@@ p@@ h . the creator of this character was american born duncan rouleau .
-m@@ a@@ y@@ a r@@ u@@ d@@ o@@ l@@ p@@ h stars in big hero 6 in which the character baymax also a@@ p@@ p@@ e@@ a@@ r@@ s . baymax was created by the american , duncan rouleau .
-bread , almonds , garlic , water , and olive oil are the main ingredients in ajoblanco , a food which originates from andalusia , in spain .
-ajoblanco is from andalusia spain and ingredients include bread , almonds , garlic , water , and olive oil .
-ajoblanco , a dish from the andalusia region of spain , has the main ingredients bread , almonds , garlic , water and olive oil .
-water is an ingredient in ajoblanco , also known as a@@ j@@ o b@@ l@@ a@@ n@@ c@@ o , a dish that comes from andalusia spain .
-ajoblanco is a food originates from the a@@ n@@ d@@ a@@ l@@ u@@ s@@ i@@ an region of spain and contains water . an o@@ t@@ h@@ e@@ r alternative name of the dish is a@@ j@@ o b@@ l@@ a@@ n@@ c@@ o .
-l@@ e@@ m@@ p@@ e@@ r , a dish variation of arem-arem contains banana leaf in which is cooked c@@ o@@ m@@ p@@ r@@ e@@ s@@ s@@ e@@ d rice with vegetables or m@@ i@@ n@@ c@@ e@@ d meat f@@ i@@ l@@ l@@ i@@ n@@ g@@ s and is a f@@ o@@ r@@ m of javanese cuisine .
-the main ingredients of arem-arem are c@@ o@@ m@@ p@@ r@@ e@@ s@@ s@@ e@@ d rice cooked in banana leaf with vegetables or m@@ i@@ n@@ c@@ e@@ d meat f@@ i@@ l@@ l@@ i@@ n@@ g@@ s . the dish is of javanese cuisine and has a variation known as l@@ e@@ m@@ p@@ e@@ r .
-arem-arem is a food that is found nationwide in indonesia , but m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c to java , it can be served as a main course and has a banana leaf in it . it 's main ingredients are c@@ o@@ m@@ p@@ r@@ e@@ s@@ s@@ e@@ d rice cooked in banana leaf with vegetables or m@@ i@@ n@@ c@@ e@@ d meat f@@ i@@ l@@ l@@ i@@ n@@ g@@ s .
-the main ingredients of arem-arem are c@@ o@@ m@@ p@@ r@@ e@@ s@@ s@@ e@@ d rice cooked in banana leaf with vegetables or m@@ i@@ n@@ c@@ e@@ d meat f@@ i@@ l@@ l@@ i@@ n@@ g@@ s . it is served as a main course and is found nationwide in indonesia and m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c@@ a@@ l@@ l@@ y in java .
-arrabbiata sauce originates from the region of rome in italy . it is made with t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , red c@@ h@@ i@@ l@@ i , garlic and olive oil .
-arrabbiata sauce is a traditional dish from rome , italy . the main ingredients of it are t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , red c@@ h@@ i@@ l@@ i p@@ e@@ p@@ p@@ e@@ r , garlic and olive oil .
-arrabbiata sauce is a traditional dish from rome in italy . an i@@ m@@ p@@ o@@ r@@ t@@ a@@ n@@ t ingredient is c@@ h@@ i@@ l@@ i p@@ e@@ p@@ p@@ e@@ r and it also contains t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , red c@@ h@@ i@@ l@@ i , garlic and olive oil .
-arros negre is a traditional dish from the catalonia region of spain . the main ingredients of arros negre are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k , and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s .
-arros negre is from the region of catalonia in spain . the main ingredients of arros negre are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k , and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s .
-arros negre , from the catalonia region of spain , includes c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k , white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h@@ /@@ s@@ q@@ u@@ i@@ d and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s .
-the main ingredients of arròs negre , which is from spain , are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k , c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s . arròs negre is from the catalonia region .
-the main ingredients in arròs negre are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s . it is a traditional dish from the catalonia region of spain .
-the main ingredients in arròs negre are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s . it is a traditional spanish dish from the catalonia region .
-arros negre is a t@@ r@@ a@@ d@@ i@@ t@@ o@@ n@@ al dish from the valencian community , spain . it has the main ingredients of white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k and c@@ u@@ b@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s .
-arros negre comes from the region of the valencian community , spain . the main ingredients are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s .
-arros negre comes from the region of the valencian community in spain . the main ingredients are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k , c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s .
-asam pedas is found in the region of sumatra and malay peninsula in malaysia . it can also be called asam p@@ a@@ d@@ e@@ h and it 's ingredients are f@@ i@@ s@@ h cooked in sour and h@@ o@@ t sauce .
-asam pedas ( a@@ k@@ a asam p@@ a@@ d@@ e@@ h ) is from the sumatra and malay peninsula r@@ e@@ g@@ i@@ o@@ n@@ s of malaysia . the main ingredients are f@@ i@@ s@@ h cooked in sour and h@@ o@@ t sauce .
-asam p@@ a@@ d@@ e@@ h is also known as asam pedas and is a food found in malaysia o@@ r@@ i@@ g@@ i@@ n@@ a@@ t@@ i@@ n@@ g from the s@@ u@@ n@@ a@@ t@@ r@@ a and malay peninsula r@@ e@@ g@@ i@@ o@@ n@@ s . the main ingredients is f@@ i@@ s@@ h cooked in a sour and h@@ o@@ t sauce .
-asam pedas is a food found in malaysia and sumatra . malaysian malay is an ethnic group in malaysia and sumatra has an ethnic group called the m@@ i@@ n@@ a@@ n@@ g@@ k@@ a@@ b@@ a@@ u people .
-asam pedas is a food found in malaysia and sumatra . malay is the ethnic group of malaysia and the m@@ i@@ n@@ a@@ n@@ g@@ k@@ a@@ b@@ a@@ u people are an ethnic group of sumatra .
-asam pedas is found in malaysia , o@@ r@@ i@@ g@@ i@@ n@@ a@@ t@@ i@@ n@@ g from sumatra . sumatra is home to the m@@ i@@ n@@ a@@ n@@ g@@ k@@ a@@ b@@ a@@ u people and malaysia , the malay people .
-the bacon explosion comes from the k@@ a@@ n@@ s@@ as city m@@ e@@ t@@ r@@ o area in the u@@ .@@ s . the main ingredient in it is bacon and also includes sausage .
-bacon explosion comes from the k@@ a@@ n@@ s@@ as city m@@ e@@ t@@ r@@ o@@ p@@ o@@ l@@ i@@ t@@ an area of the united states and includes the main ingredient of sausage and bacon .
-bacon explosion is from the k@@ a@@ n@@ s@@ as city m@@ e@@ t@@ r@@ o@@ p@@ o@@ l@@ i@@ t@@ an area of the united states . the main ingredient is bacon along with sausage .
-bacon explosion comes from the united states , where one of the leaders is paul ryan . it is also where asian americans are one of the ethnic groups and washington , d.c. is the capital .
-the united states is the country of the bacon explosion and the leader is paul ryan . asian americans are an ethnic group in the united states and the capital is washington , d.c.
-the bacon explosion originates from the united states . the u.s. b@@ o@@ a@@ s@@ t@@ s leader paul ryan , is home to asian americans and has its capital in washington d.c.
-bacon s@@ a@@ n@@ d@@ w@@ i@@ c@@ h@@ e@@ s are popular in the uk , have a v@@ a@@ r@@ i@@ a@@ n@@ t called a blt , include the ingredient bacon and s@@ o@@ m@@ e@@ t@@ i@@ m@@ e@@ s g@@ o by the name of : bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ asher sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m and bacon m@@ u@@ f@@ f@@ in .
-the bacon sandwich , of which an ingredient is bacon , has a variation called the blt and has d@@ i@@ f@@ f@@ e@@ r@@ e@@ n@@ t n@@ a@@ m@@ e@@ s including : bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ asher sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m and bacon m@@ u@@ f@@ f@@ in .
-a bacon sandwich , which is a variation of the blt , can also be known as a bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ asher sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m , or bacon m@@ u@@ f@@ f@@ in . it is a dish c@@ o@@ n@@ t@@ a@@ i@@ n@@ i@@ n@@ g bacon and comes from the united kingdom .
-bacon sandwich is a dish from the united kingdom and a variation is the blt . an ingredient used is brown sauce and it 's d@@ i@@ f@@ f@@ e@@ r@@ e@@ n@@ t n@@ a@@ m@@ e@@ s include bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ asher sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m and bacon m@@ u@@ f@@ f@@ in .
-the country that bacon sandwich comes from is the united kingdom , it is also known as a bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ asher sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m , or bacon m@@ u@@ f@@ f@@ in . brown sauce can be served with it and a variation is the blt .
-bacon s@@ a@@ n@@ d@@ w@@ i@@ c@@ h@@ e@@ s are popular in the uk and can c@@ o@@ n@@ t@@ a@@ in the ingredient brown sauce . a variation of the sandwich is a blt and it can also be known as a bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ asher sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m , or bacon m@@ u@@ f@@ f@@ in .
-from the united kingdom , the bacon sandwich 's main ingredients are bread and bacon and a c@@ o@@ n@@ d@@ i@@ m@@ e@@ n@@ t , o@@ f@@ t@@ e@@ n k@@ e@@ t@@ c@@ h@@ u@@ p or brown sauce . it can also be known as a bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ asher sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m , or bacon m@@ u@@ f@@ f@@ in .
-bacon sandwich originates from the united kingdom and its main ingredients are bread , bacon with k@@ e@@ t@@ c@@ h@@ u@@ p or brown sauce . it has d@@ i@@ f@@ f@@ e@@ r@@ e@@ n@@ t n@@ a@@ m@@ e@@ s including : bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ asher sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m and bacon m@@ u@@ f@@ f@@ in .
-the main ingredients of a bacon sandwich , ( popular in the uk ) , are bread , bacon and k@@ e@@ t@@ c@@ h@@ u@@ p or brown sauce as a c@@ o@@ n@@ d@@ i@@ m@@ e@@ n@@ t . the bacon sandwich has s@@ e@@ v@@ e@@ r@@ al alternative n@@ a@@ m@@ e@@ s including : bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ asher sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m and bacon m@@ u@@ f@@ f@@ in .
-baked alaska has the main ingredients of m@@ e@@ r@@ i@@ n@@ g@@ u@@ e , ice cream and sponge cake ( or c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding ) . it is found in france , the us , china , hong kong , new york and paris .
-baked alaska contains : ice cream , sponge cake ( c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding ) and m@@ e@@ r@@ i@@ n@@ g@@ u@@ e . it is found in hong kong , new york and paris . the o@@ r@@ i@@ g@@ i@@ n@@ s are e@@ i@@ t@@ h@@ e@@ r france , c@@ a@@ n@@ a@@ d@@ a or the united states .
-baked alaska comes from e@@ i@@ t@@ h@@ e@@ r paris , new york usa or hong kong . m@@ e@@ r@@ i@@ n@@ g@@ u@@ e , ice cream , sponge cake or c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding are main ingredients in baked alaska .
-baked alaska is found in hong kong , new york and paris . m@@ e@@ r@@ i@@ n@@ g@@ u@@ e , ice cream , sponge cake or c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding are its main ingredients .
-the bakewell tart is popular in the derbyshire dales area which is part of derbyshire . it 's a v@@ a@@ r@@ i@@ a@@ n@@ t of bakewell pudding and uses f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e .
-bakewell tart , a variation of bakewell pudding , includes the ingredient f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e and originates from the derbyshire dales region of derbyshire .
-bakewell tart is a v@@ a@@ r@@ i@@ a@@ n@@ t of bakewell pudding and comes from the derbyshire dales . it contains f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e .
-bakewell tart is a variation of bakewell pudding that originates from the derbyshire dales . it is a dessert that has the main ingredients of ground almond , jam , butter and eggs .
-bakewell tart is a variation of bakewell pudding which is a dessert that comes from the derbyshire dales area and has the main ingredients ground almonds , jam , butter and eggs .
-bakewell pudding is a dessert from the derbyshire dales region and contains the ingredients ground almonds , jam , butter and eggs . it has a variation called bakewell tart .
-from the derbyshire dales region ( in derbyshire ) , is bakewell pudding . a variation of which , is bakewell tart , its main ingredient is s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y .
-bakewell tart is a variation of bakewell pudding which uses s@@ h@@ o@@ r@@ t@@ c@@ u@@ t p@@ a@@ s@@ t@@ r@@ y and comes from the derbyshire dales in derbyshire .
-bakewell tart is a v@@ a@@ r@@ i@@ a@@ n@@ t of bakewell pudding from the derbyshire dales in derbyshire . the main ingredient is s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y .
-bandeja paisa is a colombian dish from the paisa region . its main ingredients include red beans , pork b@@ e@@ l@@ l@@ y , white rice , ground meat , c@@ h@@ i@@ c@@ h@@ a@@ r@@ on , fried egg , p@@ l@@ a@@ n@@ t@@ a@@ in ( p@@ a@@ t@@ a@@ c@@ o@@ n@@ e@@ s ) , c@@ h@@ o@@ r@@ i@@ z@@ o , a@@ r@@ e@@ p@@ a , h@@ o@@ g@@ a@@ o sauce , black pudding ( m@@ o@@ r@@ c@@ i@@ l@@ l@@ a ) , avocado and lemon .
-bandeja paisa originates from the paisa region , c@@ o@@ l@@ u@@ m@@ b@@ i@@ a . the main ingredients are : red beans , pork b@@ e@@ l@@ l@@ y , white rice , ground meat , c@@ h@@ i@@ c@@ h@@ a@@ r@@ on , fried egg , p@@ l@@ a@@ n@@ t@@ a@@ in ( p@@ a@@ t@@ a@@ c@@ o@@ n@@ e@@ s ) , c@@ h@@ o@@ r@@ i@@ z@@ o , a@@ r@@ e@@ p@@ a , h@@ o@@ g@@ a@@ o sauce , black pudding ( m@@ o@@ r@@ c@@ i@@ l@@ l@@ a ) , avocado and lemon .
-bandeja paisa is a t@@ y@@ p@@ i@@ c@@ al colombian dish from the paisa region and contains the ingredients : red beans , pork b@@ e@@ l@@ l@@ y , white rice , ground meat , c@@ h@@ i@@ c@@ h@@ a@@ r@@ on , fried egg , p@@ l@@ a@@ n@@ t@@ a@@ in ( p@@ a@@ t@@ a@@ c@@ o@@ n@@ e@@ s ) , c@@ h@@ o@@ r@@ i@@ z@@ o , a@@ r@@ e@@ p@@ a , h@@ o@@ g@@ a@@ o sauce , black pudding ( m@@ o@@ r@@ c@@ i@@ l@@ l@@ a ) , avocado and lemon .
-batagor is an indonesian food and a variation of the siomay dish . it contains a fried f@@ i@@ s@@ h d@@ u@@ m@@ p@@ l@@ i@@ n@@ g with t@@ o@@ f@@ u and vegetables in peanut s@@ u@@ a@@ c@@ e .
-batagor , ( a variation of siomay ) , is a dish found in indonesia and its main ingredients are fried f@@ i@@ s@@ h d@@ u@@ m@@ p@@ l@@ i@@ n@@ g with t@@ o@@ f@@ u and vegetables in peanut sauce .
-batagor , from indonesia , is a dish c@@ o@@ n@@ s@@ i@@ s@@ t@@ i@@ n@@ g of fried f@@ i@@ s@@ h d@@ u@@ m@@ p@@ l@@ i@@ n@@ g@@ s , t@@ o@@ f@@ u and vegetables in peanut sauce . siomay is a variation of batagor .
-batagor is found in the country of indonesia . it is a variation on siomay or shumai , the l@@ a@@ t@@ t@@ e@@ r of which includes s@@ h@@ i@@ i@@ t@@ a@@ k@@ e .
-shumai , which has s@@ h@@ i@@ i@@ t@@ a@@ k@@ e as a c@@ o@@ m@@ p@@ o@@ n@@ e@@ n@@ t and is s@@ i@@ m@@ i@@ l@@ a@@ r to siomay , is a variation of the indonesian dish batagor .
-beef kway teow is a dish from the country of singapore , where halimah yacob is leader and s@@ t@@ a@@ n@@ d@@ a@@ r@@ d chinese is spoken . the dish originated from the region of indonesia .
-beef kway teow comes from the region of indonesia and also singapore . the leader of singapore , where s@@ t@@ a@@ n@@ d@@ a@@ r@@ d chinese is the spoken language , is halimah yacob .
-beef kway teow is a dish found in singapore and indonesia . kway teow , beef t@@ e@@ n@@ d@@ e@@ r l@@ o@@ in , g@@ u@@ l@@ a m@@ e@@ l@@ a@@ k@@ a , s@@ l@@ i@@ c@@ e@@ d , d@@ r@@ i@@ e@@ d black beans , garlic , d@@ a@@ r@@ k s@@ o@@ y sauce , l@@ e@@ n@@ g@@ k@@ u@@ as , o@@ y@@ s@@ t@@ e@@ r sauce , s@@ o@@ y@@ a sauce , c@@ h@@ i@@ l@@ l@@ i and s@@ e@@ s@@ a@@ m@@ e oil are main ingredients in beef kway teow .
-beef kway teow is served in the region of indonesia and is also found in singapore . the main ingredients are kway teow , beef t@@ e@@ n@@ d@@ e@@ r l@@ o@@ in , g@@ u@@ l@@ a m@@ e@@ l@@ a@@ k@@ a , s@@ l@@ i@@ c@@ e@@ d , d@@ r@@ i@@ e@@ d black beans , garlic , d@@ a@@ r@@ k s@@ o@@ y sauce , l@@ e@@ n@@ g@@ k@@ u@@ as , o@@ y@@ s@@ t@@ e@@ r sauce , s@@ o@@ y@@ a sauce , c@@ h@@ i@@ l@@ l@@ i and s@@ e@@ s@@ a@@ m@@ e oil .
-b@@ e@@ e@@ k kway t@@ e@@ o@@ s includes : kway teow , beef t@@ e@@ n@@ d@@ e@@ r@@ l@@ o@@ in , g@@ u@@ l@@ a m@@ e@@ l@@ a@@ k@@ a , black beans , garlic , o@@ y@@ s@@ t@@ e@@ r , s@@ o@@ y@@ a and s@@ o@@ y sauce , l@@ e@@ n@@ g@@ k@@ u@@ as , c@@ h@@ i@@ l@@ i and s@@ e@@ s@@ a@@ m@@ e oil . it is found in singapore .
-beef kway teow is known to come from the singapore region and also indonesia . it 's main ingredients are kway teow , beef t@@ e@@ n@@ d@@ e@@ r l@@ o@@ in , g@@ u@@ l@@ a m@@ e@@ l@@ a@@ k@@ a , s@@ l@@ i@@ c@@ e@@ d , d@@ r@@ i@@ e@@ d black beans , garlic , d@@ a@@ r@@ k s@@ o@@ y sauce , l@@ e@@ n@@ g@@ k@@ u@@ as , o@@ y@@ s@@ t@@ e@@ r sauce , s@@ o@@ y@@ a sauce , c@@ h@@ i@@ l@@ l@@ i and s@@ e@@ s@@ a@@ m@@ e oil .
-beef kway teow , o@@ r@@ i@@ g@@ i@@ n@@ a@@ t@@ i@@ n@@ g in indonesia , is a dish found in singapore . its main ingredients are kway teow , beef t@@ e@@ n@@ d@@ e@@ r l@@ o@@ in , g@@ u@@ l@@ a m@@ e@@ l@@ a@@ k@@ a , s@@ l@@ i@@ c@@ e@@ d , d@@ r@@ i@@ e@@ d black beans , garlic , d@@ a@@ r@@ k s@@ o@@ y sauce , l@@ e@@ n@@ g@@ k@@ u@@ as , o@@ y@@ s@@ t@@ e@@ r sauce , s@@ o@@ y@@ a sauce , c@@ h@@ i@@ l@@ l@@ i and s@@ e@@ s@@ a@@ m@@ e oil .
-kway teow , beef t@@ e@@ n@@ d@@ e@@ r l@@ o@@ in , g@@ u@@ l@@ a m@@ e@@ l@@ a@@ k@@ a , s@@ l@@ i@@ c@@ e@@ d , d@@ r@@ i@@ e@@ d black beans , garlic , d@@ a@@ r@@ k s@@ o@@ y sauce , l@@ e@@ n@@ g@@ k@@ u@@ as , o@@ y@@ s@@ t@@ e@@ r sauce , s@@ o@@ y@@ a sauce , c@@ h@@ i@@ l@@ l@@ i and s@@ e@@ s@@ a@@ m@@ e oil are the main ingredients of beef kway teow . the dish originated in singapore and is found in indonesia .
-beef kway teow comes from the singapore region where the english language is spoken . the dish is found in the c@@ o@@ u@@ n@@ t@@ r@@ i@@ e@@ s of indonesia and singapore . the leader of singapore is tony tan .
-beef kway teow is a dish of singapore where tony tan is the leader and english is spoken . the dish is also popular in indonesia .
-singapore 's leader is tony tan and one of the country 's spoken language is english . beef kway teow is made there and indonesia t@@ o@@ o .
-bhajji comes from the country india , where two of the leaders are t@@ .@@ s@@ . thakur and narendra modi . it is also where the indian rupee is the currency .
-bhajji comes from the country india , where the currency is the rupee . the leader of india is e@@ i@@ t@@ h@@ e@@ r t@@ . s@@ . thakur a@@ n@@ d@@ /@@ or narendra modi .
-bhajji comes from the country india , where the currency is the rupee and the leader is e@@ i@@ t@@ h@@ e@@ r t@@ . s@@ . thakur a@@ n@@ d@@ /@@ or narendra modi .
-bhajji o@@ r@@ i@@ g@@ i@@ n@@ a@@ t@@ e from india where the indian people come from . the leaders of the country are t s thakur and sumitra mahajan .
-bhajji o@@ r@@ i@@ g@@ i@@ n@@ a@@ t@@ e from india where the indian people are lead by t s thakur and sumitra mahajan .
-bhajji come from the karnataka region of india . narendra modi is the name of the leader of india , a@@ n@@ o@@ t@@ h@@ e@@ r leader is sumitra mahajan .
-bhajji originates from the karnataka region of india . the country 's leaders are narendra modi and sumitra mahajan .
-bhajji o@@ r@@ i@@ g@@ i@@ n@@ a@@ t@@ e from the karnataka region in india . the country 's leaders are narendra modi and sumitra mahajan .
-bhajji comes from karnataka , india . one leader in india is t@@ .@@ s@@ . thakur and a@@ n@@ o@@ t@@ h@@ e@@ r v@@ a@@ j@@ u@@ b@@ h@@ a@@ i v@@ a@@ l@@ a .
-bhajji are found in the region of karnataka , india . the leader of india is called t@@ . s@@ . thakur and v@@ a@@ j@@ u@@ b@@ h@@ a@@ i v@@ a@@ l@@ a is the leader of karnataka .
-bhajji comes from the karnataka region or india . v@@ a@@ j@@ u@@ b@@ h@@ a@@ i v@@ a@@ l@@ a is a leader of k@@ a@@ r@@ n@@ a@@ t@@ k@@ a and t@@ .@@ s@@ . thakur is the leader of india .
-c@@ o@@ o@@ k@@ i@@ e@@ s and binignit are t@@ y@@ p@@ e@@ s of dessert . one of the i@@ n@@ g@@ r@@ e@@ d@@ i@@ e@@ n@@ s in binignit is sweet potato which belongs to the order solanales .
-sour cream , c@@ h@@ o@@ p@@ p@@ e@@ d f@@ r@@ u@@ its , condensed milk . granola , raisins and s@@ h@@ r@@ e@@ d@@ d@@ e@@ d coconut are the main ingredients in bionico , a food found in g@@ u@@ a@@ d@@ a@@ l@@ a@@ j@@ a@@ r@@ a , in mexico .
-bionico has the ingredients c@@ h@@ o@@ p@@ p@@ e@@ d f@@ r@@ u@@ its , sour cream , condensed milk , granola , s@@ h@@ r@@ e@@ d@@ d@@ e@@ d coconut and raisins and can be found in g@@ u@@ a@@ d@@ a@@ l@@ a@@ j@@ a@@ r@@ a , mexico .
-the main ingredients of bionico , a dish from the g@@ u@@ a@@ d@@ a@@ l@@ a@@ r@@ a@@ j@@ a region of mexico , are c@@ h@@ o@@ p@@ p@@ e@@ d f@@ r@@ u@@ its , sour cream , condensed milk , granola , s@@ h@@ r@@ e@@ d@@ d@@ e@@ d coconut and raisins .
-bionico is a food found in the j@@ a@@ l@@ i@@ s@@ c@@ o region of mexico ; its ingredients c@@ o@@ n@@ t@@ a@@ in the f@@ o@@ l@@ l@@ o@@ w@@ i@@ n@@ g : sour cream , c@@ h@@ o@@ p@@ p@@ e@@ d f@@ r@@ u@@ its , condensed milk . granola , raisins and s@@ h@@ r@@ e@@ d@@ d@@ e@@ d coconut .
-bionico comes from the j@@ a@@ l@@ i@@ s@@ c@@ o region of mexico . the main ingredients of the food are : c@@ h@@ o@@ p@@ p@@ e@@ d f@@ r@@ u@@ its , sour cream , condensed milk , granola , s@@ h@@ r@@ e@@ d@@ d@@ e@@ d coconut and raisins .
-bionico is found in the region of j@@ a@@ l@@ i@@ s@@ c@@ o , mexico and c@@ o@@ n@@ s@@ i@@ s@@ t@@ s of sour cream , c@@ h@@ o@@ p@@ p@@ e@@ d f@@ r@@ u@@ its , condensed milk . granola , raisins and s@@ h@@ r@@ e@@ d@@ d@@ e@@ d coconut .
-bakso is a chinese dish found in indonesia , the leader of which is jusuf kalla . j@@ a@@ k@@ a@@ r@@ t@@ a is the capital of indonesia .
-bakso is from the chinese cuisine and is found in indonesia where the capital city is j@@ a@@ k@@ a@@ r@@ t@@ a and jusuf kalla is a leader .
-bakso comes from indonesia , and c@@ e@@ l@@ e@@ r@@ y is a main ingredient . j@@ a@@ s@@ u@@ f kalla is a leader in indonesia .
-c@@ e@@ l@@ e@@ r@@ y is an ingredient of bakso , a dish from the country of indonesia , where jusuf kalla is a leader .
-bakso ( which contains c@@ e@@ l@@ e@@ r@@ y ) is a dish found in indonesia where it originated . one of the country 's leaders is jusuf kalla .
-two leaders of italy , where amatriciana sauce is found , are m@@ a@@ t@@ t@@ e@@ o r@@ e@@ n@@ z@@ i and sergio mattarella . its capital is rome .
-italy is the country amatriciana sauce comes from . the capital is rome and p@@ o@@ l@@ i@@ t@@ i@@ c@@ al leaders include m@@ a@@ t@@ t@@ e@@ o r@@ e@@ n@@ z@@ i and sergio mattarella .
-rome is the capital of italy , where sergio m@@ a@@ t@@ t@@ a@@ r@@ e@@ l@@ l and m@@ a@@ t@@ t@@ e@@ o r@@ e@@ n@@ z@@ i are leaders and where amatriciana sauce is a traditional dish .
-ayam penyet comes from the s@@ i@@ n@@ g@@ a@@ p@@ o@@ r@@ e@@ an region and halimah yacob is the country 's leader . it can be found in java as well where b@@ a@@ d@@ u@@ y people is an ethnic group .
-ayam penyet is a dish from the region of singapore which is lead by halimah yacob . it is also found in java where the b@@ a@@ d@@ u@@ y are an ethnic group .
-a@@ y@@ e@@ m penyet is a dish from java where the b@@ a@@ d@@ u@@ y are an ethnic group . it also originates from the region of singapore where the leader is halimah yacob .
-ayam penyet is a dish from java and singapore . the leader of the l@@ a@@ t@@ t@@ e@@ r is tony tan and the b@@ a@@ n@@ y@@ u@@ m@@ a@@ s@@ an people are an ethnic group from java .
-ayam penyet is a dish from singapore and java . b@@ a@@ n@@ y@@ u@@ m@@ a@@ s@@ an people is one of the ethnic groups in java and tony tan is a leader in singapore .
-the b@@ a@@ n@@ y@@ u@@ m@@ a@@ s@@ an people are an ethnic group in java , where the dish ayam penyet is found . the dish originates in singapore , where tony tan is the leader .
-the language spoken in the philippines is philippine spanish and batchoy is eaten there . ethnic groups include the l@@ l@@ o@@ c@@ a@@ n@@ o people and the m@@ o@@ r@@ o people .
-batchoy is eaten in the philippines where p@@ h@@ i@@ l@@ l@@ i@@ p@@ p@@ i@@ n@@ e spanish is spoken and ethnic groups include the i@@ l@@ o@@ c@@ a@@ n@@ o and m@@ o@@ r@@ o .
-the m@@ o@@ r@@ o and the i@@ l@@ o@@ c@@ a@@ n@@ o people are ethnic groups within the philippines where batchoy is eaten and the language used is philippine spanish .
-arròs negre is a traditional dish from spain whose leader is felipe vi and euro is its currency . spaniards are the ethnic group of spain .
-the euro is the currency in spain , where the leader is felipe vi and spaniards are an ethnic group . spain is also the home of the traditional dish arròs negre .
-arròs negre is a dish from spain where the leader is felipe vi . spaniards are an ethnic group of spain and the currency used is the euro .
-adams county , pennsylvania has carrol county , maryland to its southeast and pennsylvania 's cumberland county is to the north of the adams county . the 11th mississippi infantry monument is in adams county of the municipality of gettysburg pennsylvania . .
-the 11th mississippi infantry monument is located at gettysburg , adams county , pennsylvania , which has cumberland county , pennsylvania to its north and carrol county , maryland to its southeast .
-the municipality of gettysburg , adams county , pennsylvania is the location of the 11th mississippi infantry monument . adams county is south of cumberland county and to the n@@ o@@ r@@ t@@ h@@ west of c@@ a@@ r@@ r@@ o@@ l@@ l county , maryland .
-the 11th mississippi infantry monument is a contributing property located in adams county , pennsylvania , with franklin county to its west and carrol county , maryland to its southeast .
-pennsylvania 's franklin county is found to the west of adams county w@@ h@@ i@@ l@@ e carrol county maryland is southeast of adams county pennsylvania . the location of the 11th mississippi infantry monument is adams county , pennsylvania and f@@ a@@ l@@ l@@ s under the category of contributing property .
-baku , the capital of azerbaijan is the location of the turkish martyrs memorial dedicated to the soldiers of the ottoman army killed in the battle of baku . the memorial was designed by huseyin butuner and hilmi guner .
-the baku turkish martyrs memorial has been dedicated to ottoman army soldiers killed in the battle of baku and is located in azerbaijan 's capital baku . the memorial was designed by h@@ ü@@ s@@ e@@ y@@ in b@@ ü@@ t@@ ü@@ n@@ e@@ r and hilmi g@@ ü@@ n@@ e@@ r .
-baku is the capital of azerbaijan and the location of the turkish martyrs memorial dedicated to the soldiers of the ottoman army who died in the battle of baku . the memorial was designed by huseyin butuner and hilmi guner .
-baku is the capital of azerbaijan and the leader of the l@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ u@@ r@@ e ( the national assembly ) is artur rasizade . azerbaijan is the location of the baku turkish martyrs memorial .
-the national assembly is the l@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ i@@ v@@ e b@@ r@@ a@@ n@@ c@@ h of government in azerbaijan where the leader is artur rasizade . the turkish martyrs memorial is located in the capital , baku .
-the baku turkish martyrs ' memorial is located in baku , the capital of azerbaijan , where leader is artur rasizade and the l@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ u@@ r@@ e is known as the national assembly .
-the red granite and white marble baku turkish martyrs ' memorial is dedicated to the ottoman army soldiers killed in the battle of baku , and is located in baku , azerbaijan , where the leader is artur rasizade .
-artur rasizade was an azerbaijan leader . baku turkish martyrs ' memorial is made of red granite and white marble , is dedicated to the ottoman army soldiers killed in the battle of baku and located in azerbaijan .
-artur rasizade is an azerbaijan leader . the baku turkish martyrs ' memorial located in baku , azerbaijan is made with red granite and white marble and has been dedicated to ottoman army soldiers killed in the battle of baku .
-the baku turkish martyrs ' memorial , which is dedicated to the ottoman army soldiers killed in the battle of baku , is located in azerbaijan , where the official leader ( prime minister of azerbaijan ) is called artur rasizade .
-the baku turkish m@@ a@@ r@@ t@@ y@@ r 's memorial is dedicated to the ottoman army soldiers killed in the battle of baku , and is located in azerbaijan , which is led by the prime minister of azerbaijan , artur rasizade .
-artur rasizade is the prime minister of azerbaijan . azerbaijan is the location of the baku turkish martyrs memorial which is dedicated to the soldiers of the ottoman army killed in the battle of baku .
-the full name of a.c. chievo verona is associazione calcio c@@ h@@ i@@ e@@ v@@ o@@ verona s@@ .@@ r@@ .@@ l@@ . and their home ground in verona , italy h@@ o@@ l@@ d@@ s 3@@ 9@@ 3@@ 7@@ 1 f@@ a@@ n@@ s . the club played the 2014-15 season in serie a.
-a.c. chievo verona played the 2014-15 season in serie a and has 3@@ 9@@ 3@@ 7@@ 1 members . their full name is " associazione calcio c@@ h@@ i@@ e@@ v@@ o@@ verona s@@ .@@ r@@ .@@ l@@ . " and their home ground is in verona , italy .
-italian born rolando maran manages associazione calcio chievo verona . he is also in the u@@ n@@ i@@ one t@@ r@@ i@@ e@@ s@@ t@@ i@@ n@@ a 2@@ 0@@ 12 s@@ .@@ s@@ .@@ d@@ . club as well as p@@ l@@ a@@ y@@ i@@ n@@ g for c@@ a@@ r@@ r@@ a@@ r@@ e@@ s@@ e calcio .
-italian born rolando maran plays at the c@@ a@@ r@@ r@@ a@@ r@@ e@@ s@@ e calcio and is in the u@@ n@@ i@@ one t@@ r@@ i@@ e@@ s@@ t@@ i@@ n@@ a 2@@ 0@@ 12 s@@ .@@ s@@ .@@ d@@ . club . he is currently the manager of ac chievo verona .
-born in italy , rolando maran is the manager of ac chievo verona . he also plays for c@@ a@@ r@@ r@@ a@@ r@@ e@@ s@@ e calcio and is in the u@@ n@@ i@@ one t@@ r@@ i@@ e@@ s@@ t@@ i@@ n@@ a 2@@ 0@@ 12 s@@ .@@ s@@ .@@ d@@ . club .
-michele marcolini , manager of a.c. lumezzane , was born in italy , o@@ w@@ n@@ s t@@ o@@ r@@ i@@ n@@ o f.c. and has been a@@ s@@ s@@ o@@ c@@ i@@ a@@ t@@ e@@ d with f.c. b@@ a@@ r@@ i 1@@ 9@@ 0@@ 8 .
-italian born michele marcolini , previously at fc b@@ a@@ r@@ i 1@@ 9@@ 0@@ 8 and manager of ac lumezzane , is the o@@ w@@ n@@ e@@ r of t@@ o@@ r@@ i@@ n@@ o f.c.
-italian born michele marcolini , previously of fc b@@ a@@ r@@ i 1@@ 9@@ 0@@ 8 , is now the manager of a.c. lumezzane , w@@ h@@ i@@ s@@ t also the o@@ w@@ n@@ e@@ r of t@@ o@@ r@@ i@@ n@@ o f.c.
-greece , led by alexis tsipras and nikos voutsis is the location of a@@ .@@ e@@ . dimitra efxeinoupolis , where the language is g@@ r@@ e@@ e@@ k .
-greece is the location of the a.e dimitra efxeinoupolis club . the language of the country is g@@ r@@ e@@ e@@ k and two of the leaders are alexis tsipras and nikos voutsis .
-the a.e dimitra efxeinoupolis club is located in greece where alexis tsipras h@@ e@@ a@@ d@@ s greece and nikos voutsis is the leader .
-the full name of the italian club as gubbio 1910 is " associazione sportiva gubbio 1910 s@@ r@@ l " . they played in the 2014 season and they have 5@@ 300 members .
-the full name of a.s. gubbio 1910 is associazione sportiva gubbio 1910 s@@ r@@ l . the club has 5@@ 300 members and has a ground in italy . it competed in the 2014 season .
-associazione sportiva gubbio 1910 s@@ r@@ l ( abbreviated to a@@ .@@ s@@ .@@ gubbio 1910 ) has 5@@ 300 members , has its grounds in italy and played in the 2014 season .
-the f@@ u@@ l@@ l@@ name of a.s. gubbio 1910 is associazione sportiva gubbio 1910 s@@ r@@ l and they competed in the 2014 season . their ground is called the stadio pietro b@@ a@@ r@@ b@@ e@@ t@@ t@@ i and they have 5@@ 300 members .
-associazione s@@ p@@ o@@ r@@ t@@ i@@ v@@ e gubbio 1910 s@@ r@@ l ( abbreviated to as gubbio 1910 ) has 5@@ 300 members , played in the 2014 season and its ground is stadio pietro b@@ a@@ r@@ b@@ e@@ t@@ t@@ i .
-the full name of as gubbio 1910 is " associazione sportiva gubbio 1910 s@@ r@@ l " . its ground is called stadio pietro b@@ a@@ r@@ b@@ e@@ t@@ t@@ i , it competed in the 2014 season and has 5@@ 300 members .
-the f@@ u@@ l@@ l@@ name of a.s. livorno calcio is livorno calcio s@@ .@@ p@@ .@@ a. and their home ground is the stadio a@@ r@@ m@@ a@@ n@@ d@@ o p@@ i@@ c@@ c@@ h@@ i . they competed in serie b d@@ u@@ r@@ i@@ n@@ g the 2014-15 season and has 1@@ 9@@ 2@@ 3@@ 8 members .
-1@@ 9@@ 2@@ 3@@ 8 members s@@ t@@ r@@ o@@ n@@ g livorno calcio s@@ .@@ p@@ .@@ a. , a@@ k@@ a a.s. livorno calcio , played season 2014-15 in serie b from their home stadium stadio a@@ r@@ m@@ a@@ n@@ d@@ o p@@ i@@ c@@ c@@ h@@ i .
-stadio a@@ r@@ m@@ a@@ n@@ d@@ o p@@ i@@ c@@ c@@ h@@ i 's is home to a s livorno calcio ( livorno calcio s@@ .@@ p@@ .@@ a. ) . they have 1@@ 9@@ 2@@ 3@@ 8 members and played the 2014-15 serie b season .
-a.s. roma 's f@@ u@@ l@@ l@@ name is associazione sportiva roma s@@ .@@ p@@ .@@ a. and they have 7@@ 0@@ 6@@ 34 members . their ground is in rome and the club played in serie a in 2014-15 .
-the f@@ u@@ l@@ l@@ name of a.s. roma is associazione sportiva roma s@@ .@@ p@@ .@@ a. and they have 7@@ 0@@ 6@@ 34 members . the club have a ground in rome and competed in serie a in 2014-15 .
-a@@ .@@ s roma were in serie a in 2014-15 . they have a ground in rome and have 7@@ 0@@ 6@@ 34 members , there full name is associazione sportiva roma s@@ .@@ p@@ .@@ a.
-azal pfk play their home m@@ a@@ t@@ c@@ h@@ e@@ s at the azal a@@ r@@ e@@ n@@ a in azerbaijan and they c@@ o@@ m@@ p@@ e@@ t@@ e in the azerbaijan premier league where q@@ a@@ r@@ a@@ b@@ a@@ g f@@ k are champions .
-azal pfk plays at azal a@@ r@@ e@@ n@@ a in azerbaijan and c@@ o@@ m@@ p@@ e@@ t@@ e@@ s in their premier league . the champions of the league are q@@ a@@ r@@ a@@ b@@ a@@ g f@@ k .
-azal pfk play in the azerbaijan premier league , which champions are q@@ a@@ r@@ a@@ b@@ a@@ g f@@ k , its ground is azal a@@ r@@ e@@ n@@ a , that is located in azerbaijan .
-azal p@@ r@@ k , known as the q@@ a@@ r@@ a@@ b@@ a@@ g f@@ k in the azerbaijan premier league is located in azal a@@ r@@ e@@ n@@ a and has 3500 members .
-the azal pfk , with 3500 members , c@@ o@@ m@@ p@@ e@@ t@@ e@@ s in the azerbaijan premier league , with c@@ h@@ a@@ m@@ p@@ i@@ o@@ n@@ s@@ h@@ i@@ p team being q@@ a@@ r@@ a@@ b@@ a@@ g f@@ k . azal a@@ r@@ e@@ n@@ a is the ground of azal pfk .
-john van den brom plays for afc ajax and i@@ s@@ t@@ a@@ n@@ b@@ u@@ l@@ s@@ p@@ o@@ r a@@ .@@ s . he manages az a@@ l@@ k@@ m@@ a@@ air which is owned by robert e@@ e@@ n@@ h@@ o@@ o@@ r@@ n .
-agremiação sportiva arapiraquense , which has the n@@ i@@ c@@ k@@ name a@@ s@@ a g@@ i@@ g@@ a@@ n@@ t@@ e , play in the campeonato brasileiro série c league from brazil . the league was previously won by v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be .
-agremiação sportiva arapiraquense , n@@ i@@ c@@ k@@ named a@@ s@@ a g@@ i@@ g@@ a@@ n@@ t@@ e , play in the campeonato brasileiro série c league in brazil . v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be are the champions of campeonato brasileiro serie c@@ .
-agremiação sportiva arapiraquense play in the campeonato brasileiro série c league based in brazil . their n@@ i@@ c@@ k@@ name is a@@ s@@ a g@@ i@@ g@@ a@@ n@@ t@@ e . the champions of the league are v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be .
-b@@ r@@ a@@ z@@ i@@ l@@ i@@ an football team agremiação sportiva arapiraquense play their football in the campeonato brasileiro série c league . campeonato brasileiro serie c is a b@@ r@@ a@@ z@@ i@@ l@@ i@@ an league . agremiação sportiva arapiraquense competed in the 2@@ 0@@ 15 campeonato brasileiro série c . the v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be were the w@@ i@@ n@@ n@@ e@@ r@@ s at the campeonato brasileiro série c@@ .
-a@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o sportiva arapiraquense play in the campeonato brasileiro serie c league , as they d@@ i@@ d in 2@@ 0@@ 15 , which is based in brazil . the current champions of this league are v@@ i@@ l@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be .
-agremiação sportiva arapiraquense play in brazil 's campeonato brasileiro série c league and competed in the 2@@ 0@@ 15 e@@ v@@ e@@ n@@ t . v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be have been champions of série c@@ .
-3@@ 0@@ 0@@ 0 member s@@ t@@ r@@ o@@ n@@ g akron summit assault , f@@ u@@ l@@ l@@ name " akron m@@ e@@ t@@ r@@ o f@@ u@@ t@@ b@@ o@@ l club summit assault " , play in the 2@@ 0@@ 11 p@@ d@@ l season . d@@ e@@ n@@ z@@ i@@ l a@@ n@@ t@@ o@@ n@@ i@@ o was previously their manager .
-the akron summit assault team is based in akron , ohio , united states . they play in the premier d@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t league , which has been won by k@@ -@@ w united fc .
-the akron summit assault team is based in akron , ohio , usa . they play in the premier d@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t league which was previously won by k@@ -@@ w united fc .
-the akron summit assault team of akron , ohio , u@@ .@@ s currently play in the premier d@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t league , of which k@@ -@@ w united fc have previously been champions .
-the ground of a.s. gubbio 1910 is located in italy , where the capital is rome , the leader is sergio mattarella and the language spoken is italian .
-italian is spoken in italy where the capital city is rome . the country , which is lead by sergio mattarella is the location of the as gubbio 1910 's ground .
-the capital of italy is rome and the leader is pietro grasso . the italian language is spoken in the country which is the location of the home ground of as gubbio 1910 .
-the ground of a.s. gubbio 1910 is located in italy where the capital is rome , italian is the official language and pietro grasso is the leader .
-the " associazione sportiva roma s@@ .@@ p@@ .@@ a. " is the n@@ o@@ n@@ -@@ abbreviated name of a.s. roma with their ground in stadio o@@ l@@ i@@ m@@ p@@ i@@ c@@ o . a.s. roma play in serie a whose current champions are juventus f.c. .
-the " associazione sportiva roma s@@ .@@ p@@ .@@ a. " is the full name name of a.s. roma who have their home ground at stadio o@@ l@@ i@@ m@@ p@@ i@@ c@@ o . the club plays in serie a a@@ l@@ o@@ n@@ g@@ s@@ i@@ d@@ e juventus fc who have been previous champions .
-a.s. roma play in serie a where juventus f@@ .@@ c are a@@ m@@ o@@ n@@ g there f@@ o@@ r@@ m@@ e@@ r champions . there full name is associazione sportiva roma s@@ .@@ p@@ .@@ a. and they play at the stadio o@@ l@@ i@@ m@@ p@@ i@@ c@@ o .
-the accademia di architettura di mendrisio in switzerland has a staff of 100 , the dean is named mario botta .
-the accademia di architettura di mendrisio is located in mendrisio , switzerland . it has 100 academic staff and its dean is mario botta .
-the accademia di architettura di mendrisio is located in mendrisio in switzerland . it 's dean is mario botta with its staff s@@ i@@ z@@ e being 100 .
-the accademia di architettura di mendrisio was established in switzerland in 1996 . it has 600 students . the leader of switzerland is the federal chancellor .
-accademia di architettura di mendrisio was established in 1996 in switzerland and has 600 a@@ t@@ t@@ e@@ n@@ d@@ i@@ n@@ g students . it 's leader is the federal chancellor of switzerland .
-the accademia di architettura di mendrisio of switzerland was established in 1996 and has 600 students . the leader of the country has the title federal chancellor of switzerland .
-the accademia di architettura di mendrisio ( dean - mario botta ) was established in 1996 , has an academic staff of 100 and is located in the city of mendrisio .
-accademia di architettura di mendrisio in the city of mendrisio was established in 1996 and has an academic staff s@@ i@@ z@@ e of 100 people . its dean is mario botta .
-the accademia di architettura di mendrisio was established in 1996 in mendrisio . it has an academic staff s@@ i@@ z@@ e of 100 and the dean is mario botta .
-acharya institute of technology has an a@@ f@@ f@@ i@@ l@@ i@@ a@@ t@@ i@@ on with visvesvaraya technological university ( belgaum ) and was g@@ i@@ v@@ e@@ n the ' technical campus ' s@@ t@@ a@@ t@@ us by the all india council for technical e@@ d@@ u@@ c@@ a@@ t@@ i@@ on , which is located in mumbai .
-acharya institute of technology , an a@@ f@@ f@@ i@@ l@@ i@@ a@@ t@@ i@@ on of belgaum 's visvesvaraya technological university was r@@ e@@ c@@ o@@ g@@ n@@ i@@ z@@ e@@ d as the technical campus by the all india council for technical e@@ d@@ u@@ c@@ a@@ t@@ i@@ on of mumbai .
-the acharya institute of technology is located in soldevanahalli , acharya dr. sarvapalli r@@ a@@ d@@ h@@ a@@ r@@ k@@ r@@ i@@ s@@ h@@ n@@ an road , hessarghatta main road , bangalore - 560090 , india . it has 700 postgraduate students .
-acharya i@@ n@@ s@@ t@@ i@@ t@@ u@@ e of technology campus which has 700 postgraduate students is located in india at in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 .
-acharya institute of technological in b@@ a@@ n@@ g@@ a@@ l@@ or , india has 700 p@@ o@@ s@@ t@@ -@@ g@@ r@@ a@@ d@@ u@@ a@@ t@@ e students and is located in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 .
-the acharya institute of technology ( director - dr. g. p@@ . prabhukumar ) , is located in india , was established in 2000 and is affiliated with visvesvaraya technological university .
-acharya institute of technology in india was established in 2000 . its director is dr. g. p@@ . p@@ r@@ a@@ b@@ h@@ u@@ k@@ u@@ m@@ a and the school is affiliated with visvesvaraya technological university .
-an a@@ f@@ f@@ i@@ l@@ i@@ a@@ t@@ e of visvesvaraya technological university and established in 2000 in india , acharya institute of technology is led by director dr. g. p@@ . prabhukumar .
-the 1 decembrie 1918 university is located in romania ( capital bucharest ) . the leader of romania is klaus l@@ o@@ h@@ a@@ n@@ n@@ is and the ethnic group is g@@ e@@ r@@ m@@ a@@ n@@ s of romania .
-the leader of romania is klaus iohannis . the country is home to d@@ i@@ f@@ f@@ e@@ r@@ e@@ n@@ t ethnic groups , one of which are the g@@ e@@ r@@ m@@ a@@ n@@ s of romania . the capital city is bucharest and the country is the location of the 1 decembrie 1918 university .
-the school of business and social sciences at the aarhus university is located in denmark and affiliated to the european university association . it was established in 1928 and it has 737 academic staff .
-the school of business and social sciences at the aarhus university in denmark was established in 1928 . it is affiliated with the european university association and has 737 academic staff .
-denmark 's school of business and social sciences at the aarhus university was established in 1928 . it currently has 737 staff and is affiliated with the european university association .
-the school of business and social sciences at the aarhus university was established in 1928 in denmark . it has an academic staff of 737 and a student body of 1@@ 6@@ 0@@ 0@@ 0 .
-the school of business and social sciences at the aarhus university , denmark ( established 1928 ) has an academic staff of 737 and a student r@@ o@@ l@@ l of 1@@ 6@@ 0@@ 0@@ 0 .
-1634 : the bavarian crisis was preceded by 1634 : the b@@ a@@ l@@ t@@ i@@ c war ( author : david w@@ e@@ b@@ e@@ r ) and followed by r@@ i@@ n@@ g of f@@ i@@ r@@ e ii which is written in english .
-1634 : the b@@ a@@ l@@ t@@ i@@ c war , written by david w@@ e@@ b@@ e@@ r , has two s@@ e@@ q@@ u@@ e@@ l@@ s , 1634 : the bavarian crisis and r@@ i@@ n@@ g of f@@ i@@ r@@ e ii ( written in english ) .
-1634 : the ram rebellion was written by virginia demarce and has 5@@ 12 pages . it can be found as an e@@ book and has the isbn number of 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 2@@ 0@@ 6@@ 0@@ -@@ 0 .
-the author of the novel 1634 the ram r@@ e@@ b@@ e@@ l@@ l@@ i@@ o@@ n@@ s author is virginia demarce , it is 5@@ 12 pages long ( also can be found as an e@@ -@@ book ) and has an isbn number 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 2@@ 0@@ 6@@ 0@@ -@@ 0 .
-virginia demarce is the author of 1634 : the ram rebellion , which has 5@@ 12 pages , the isbn number 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 2@@ 0@@ 6@@ 0@@ -@@ 0 and is available as an e book .
-the aids journal is published by lippincott , williams & wilkins in the united kingdom . the capital of the country is london and it 's leader is elizabeth ii .
-the aids journal was published in the united kingdom , london , by lippincott , williams & wilkins .
-published by lippincott williams & wilkins , the aids journal was published in the united kingdom , t@@ h@@ a capital of the uk is london and the h@@ e@@ a@@ d of state is elizabeth ii .
-a fortress of grey ice was written by j@@ . v@@ . jones and is available in print . t@@ h book which has the isbn number 0@@ -@@ 7@@ 6@@ 5@@ 3@@ -@@ 0@@ 6@@ 3@@ 3@@ -@@ 6 . it also has the oclc number 5@@ 1@@ 9@@ 6@@ 9@@ 1@@ 7@@ 3 .
-the author of a fortress of grey ice , available in print , is j@@ .@@ v@@ . jones and has an oclc number of 5@@ 1@@ 9@@ 6@@ 9@@ 1@@ 7@@ 3 and the isbn number is 0@@ -@@ 7@@ 6@@ 5@@ 3@@ -@@ 0@@ 6@@ 3@@ 3@@ -@@ 6 .
-j@@ .@@ v@@ . jones a@@ u@@ t@@ h@@ o@@ r@@ e@@ d a fortress of grey ice , made available in print it 's oclc and isbn n@@ u@@ m@@ b@@ e@@ r@@ s are 5@@ 1@@ 9@@ 6@@ 9@@ 1@@ 7@@ 3 and 0@@ -@@ 7@@ 6@@ 5@@ 3@@ -@@ 0@@ 6@@ 3@@ 3@@ -@@ 6 r@@ e@@ s@@ p@@ e@@ c@@ t@@ i@@ v@@ e@@ l@@ y .
-published by viking press , the i@@ r@@ i@@ s@@ h novel a long long way was preceded by a@@ n@@ n@@ i@@ e d@@ u@@ n@@ n@@ e and followed by the secret scripture .
-a long long way , written in ireland and published by viking press , was preceded by a@@ n@@ n@@ i@@ e d@@ u@@ n@@ n@@ e , and followed by the secret scripture .
-a long long way was written in ireland and published by viking press . it was preceded by a@@ n@@ n@@ i@@ e d@@ u@@ n@@ n and followed by the secret scripture .
-a severed wasp is available in print , with the l@@ i@@ b@@ r@@ a@@ r@@ y of c@@ o@@ n@@ g@@ r@@ e@@ s@@ s c@@ l@@ a@@ s@@ s@@ i@@ f@@ i@@ c@@ a@@ t@@ i@@ on p@@ s@@ 3@@ 5@@ 2@@ 3@@ .@@ e@@ 5@@ 5 s@@ 4 1@@ 9@@ 8@@ 2 . its isbn number is 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 , and its oclc number is 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 .
-the book a severed wasp ( isbn number 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 ) is available in print and has the oclc number 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 . it has the l@@ i@@ b@@ r@@ a@@ r@@ y of c@@ o@@ n@@ g@@ r@@ e@@ s@@ s c@@ l@@ a@@ s@@ s@@ i@@ f@@ i@@ c@@ a@@ t@@ i@@ on p@@ s@@ 3@@ 5@@ 2@@ 3@@ .@@ e@@ 5@@ 5 s@@ 4 1@@ 9@@ 8@@ 2 .
-a severed wasp is in print and has the oclc number of 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 and the isbn number 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 . the l@@ i@@ b@@ r@@ a@@ r@@ y of c@@ o@@ n@@ g@@ r@@ e@@ s@@ s c@@ l@@ a@@ s@@ s@@ i@@ f@@ i@@ c@@ a@@ t@@ i@@ on is p@@ s@@ 3@@ 5@@ 2@@ 3@@ .@@ e@@ 5@@ 5 s@@ 4 1@@ 9@@ 8@@ 2 .
-english is spoken in great britain and is the language used in a severed wasp . the book originates from the united states where the african americans are an ethnic group , .
-a severed wasp was written in english ( the language originated in great b@@ r@@ i@@ t@@ i@@ an ) in the united states . the us has many ethnic groups , including african american .
-a severed wasp was published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k and has 3@@ 8@@ 8 pages . the oclc number of a severed wasp is 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 and the isbn number of " 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 " .
-a severed wasp , published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k , has 3@@ 8@@ 8 pages . its oclc number is 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 , and isbn number is 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 .
-a severed wasp is a hardcover book with 3@@ 8@@ 8 pages . it 's oclc number is 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 and the isbn number is 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 .
-a wizard of mars , written by d@@ i@@ a@@ n@@ e d@@ u@@ a@@ n@@ e , is available in hardcover , has the isbn number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 and the oclc number 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 .
-a wizard of mars , oclc number 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 , isbn number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 , was written by d@@ i@@ a@@ n@@ e d@@ u@@ a@@ n@@ e and published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k .
-a wizard of mars , isbn number is " 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 " , oclc number 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 , was written by d@@ i@@ a@@ n@@ e d@@ u@@ a@@ n@@ e and published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k .
-the addiction journal c@@ o@@ n@@ c@@ e@@ r@@ n@@ s the t@@ o@@ p@@ i@@ c of addiction and has the lccn number 9@@ 3@@ 6@@ 4@@ 5@@ 9@@ 7@@ 8 . the abbreviated name is " addiction " and the issn number is 1@@ 3@@ 6@@ 0@@ -@@ 0@@ 4@@ 4@@ 3 .
-addiction is the abbreviated v@@ e@@ r@@ s@@ i@@ on of the addiction journal and is a@@ b@@ o@@ ut addiction . the lccn number is 9@@ 3@@ 6@@ 4@@ 5@@ 9@@ 7@@ 8 and the issn number is 1@@ 3@@ 6@@ 0@@ -@@ 0@@ 4@@ 4@@ 3 .
-the issn number of addiction ( journal ) , which is a@@ b@@ o@@ ut addiction , is 1@@ 3@@ 6@@ 0@@ -@@ 0@@ 4@@ 4@@ 3 . addiction ( journal ) has the abbreviation of addiction and the lccn number 9@@ 3@@ 6@@ 4@@ 5@@ 9@@ 7@@ 8 .
-cornell university in i@@ t@@ h@@ a@@ c@@ a , new york is the publisher of administrative science quarterly . the university is affiliated with the association of american universities .
-cornell university is located in i@@ t@@ h@@ a@@ c@@ a , new york state . it is affiliated with the association of american universities and p@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ s the administrative science quarterly .
-cornell university is located in the city of i@@ t@@ h@@ a@@ c@@ a , new york , it 's affiliated with the association of american universities and p@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ s the administrative science quarterly .
-the book alcatraz versus the evil librarians was written in english and comes from the united states where the capital city is washington dc and the african americans are an ethnic group .
-alcatraz versus the evil librarians is an english book written in the usa where african americans are an ethnic group and the c@@ a@@ p@@ i@@ t@@ o@@ l city is washington .
-the american journal of mathematics is abbreviated to a@@ m . j@@ . math . and comes under the discipline of math . it is published b@@ i@@ m@@ o@@ n@@ t@@ h@@ l@@ y and has the issn number 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
-the american journal of mathematics s@@ t@@ u@@ d@@ i@@ e@@ s mathematics and is abbreviated to a@@ m . j@@ . math . it is published b@@ i@@ m@@ o@@ n@@ t@@ h@@ l@@ y and has the issn number 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
-the american journal of mathematics , a@@ k@@ a a@@ m . j@@ . m@@ a@@ t@@ h@@ . , is a b@@ i@@ -@@ m@@ o@@ n@@ t@@ h@@ l@@ y journal a@@ b@@ o@@ ut mathematics , isbn number 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
-the academic discipline of the american journal of mathematics is mathematics , published in 1@@ 8@@ 7@@ 8 .
-the american journal of mathematics , a@@ b@@ b@@ r@@ e@@ i@@ v@@ a@@ t@@ e@@ d to a@@ m . j@@ . math , s@@ t@@ u@@ d@@ i@@ e@@ s mathematics . it was first published in 1@@ 8@@ 7@@ 8 and has an issn number of 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
-the american journal of mathematics was first published in 1@@ 8@@ 7@@ 8 and has the issn number 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 . it f@@ a@@ l@@ l@@ s under the academic discipline of math and the abbreviated title is a@@ m . j@@ . math . .
-english is the language in great britain and the united states . a loyal character dancer was published by soho press in the united states .
-english is spoken in great britain and the united states . a loyal character dancer was published by soho press which are based in the united states .
-a loyal character dancer is published by soho press which is based in the united states . the language spoken in the u.s. , and in great britain , is english .
-the language of the united states and great britain is english . the united states has an ethnic group called asian americans and is where a severed wasp originates from .
-english is the language of great britain and the united states . the country is the o@@ r@@ i@@ g@@ in of a severed wasp and includes many asian americans .
-a severed wasp is from the english speaking ( also spoken in great britain ) united states . the united states is home to the asian american ethnic group .
-alcatraz versus the evil librarians is from the united states where one of the ethnic groups are the native americans . the english language is spoken in the us as well as great britain .
-the book alcatraz versus the evil librarians originated in the u.s. where native americans m@@ a@@ k@@ e u@@ p many of the c@@ o@@ u@@ n@@ t@@ r@@ i@@ e@@ s ethnic groups . english is the national language of both great britain and the united states .
-english is spoken in great britain and is also the language of the united states , of which native americans are one of its ethnic groups and from where alcatraz versus the evil librarians has come .
-in the united kingdom , the prime minister is david c@@ a@@ m@@ e@@ r@@ on and the q@@ u@@ e@@ e@@ n is elizabeth ii . the aids journal was published in the united kingdom by lippincott , williams & wilkins .
-aids journal , published by lippincott williams and wilkins , is from the united kingdom . the leader of the uk was david c@@ a@@ m@@ e@@ r@@ on and elizabeth ii is the q@@ u@@ e@@ e@@ n .
-the aids ( journal ) is published by lippincott williams & wilkins in the united kingdom , the two leaders of this country are david c@@ a@@ m@@ e@@ r@@ on and elizabeth ii .
-a fortress of grey ice is from the united states where african american is an ethnic group and english is spoken l@@ i@@ k@@ e in great britain .
-english is spoken in great britain and the united states . a fortress of grey ice is from the united states where one of the ethnic groups are african americans .
-a fortress of grey ice is from the united states where the african americans are an ethnic group . english is spoken in the united states and also in great britain .
-a fortress of grey ice is from the united states . that country has an ethnic group called asian americans and they speak english , same as in great britain .
-in great britain english is the language spoken . the same is t@@ r@@ u@@ e for the united states where there are many asian americans . it is also where a fortress of grey ice is from .
-asian americans are one of the ethnic groups in the united states of which a fortress of grey ice is also , the english language is spoken in both the united states and in great britain .
-a severed wasp originates from the united states where the leader is barack obama . the english language is spoken in the us where one of the ethnic groups is african american .
-the president of the united states is barack obama who is african american , which m@@ a@@ k@@ e@@ s u@@ p one of the many ethnic groups in the united states . the national language spoken in the u.s. is english . the book a severed wasp originated in the u.s.
-with a runway length of 2@@ 1@@ 9@@ 4@@ .@@ 0 , abilene regional airport serves a@@ b@@ i@@ l@@ i@@ e@@ n@@ e , part of jones county , texas , in the united states .
-abilene regional airport has a runway length of 2@@ 1@@ 9@@ 4@@ .@@ 0 and serves abilene , jones county , texas in the united states .
-abilene , texas is served by abilene regional airport which is 5@@ 4@@ 6 metres above sea level and has the icao location identifier of k@@ a@@ b@@ i . it has the runway name of 1@@ 7@@ l@@ /@@ 3@@ 5@@ r with a length of 2@@ 1@@ 9@@ 4@@ .@@ 0 .
-abilene regional airport , w@@ h@@ i@@ c@@ his 5@@ 4@@ 6 metres above sea level , has the icao location identifier of k@@ a@@ b@@ i and serves the city of abilene , texas . it has the runway named 1@@ 7@@ l@@ /@@ 3@@ 5@@ r which is 2@@ 1@@ 9@@ 4@@ .@@ 0 in length .
-runway 1@@ 7@@ l@@ /@@ 3@@ 5@@ r at abilene regional airport in texas has a length of 2@@ 1@@ 9@@ 4 and is 5@@ 4@@ 6@@ m above sea level . it has the identifier of k@@ a@@ b@@ i .
-s@@ e@@ r@@ v@@ i@@ n@@ g the city of abilene in texas , is abilene regional airport . it has the icao location identifier k@@ a@@ b@@ i and the runway name 1@@ 7@@ r@@ /@@ 3@@ 5@@ l . the airport is 5@@ 4@@ 6 metres above sea level and has a runway length of 2@@ 1@@ 9@@ 4@@ .@@ 0 .
-abilene , texas is served by abilene regional airport which has the icao location identifier of k@@ a@@ b@@ i . it is located 5@@ 4@@ 6 metres above sea level and has a runway 2@@ 1@@ 9@@ 4 metres long with the name of 1@@ 7@@ r@@ /@@ 3@@ 5@@ l .
-abilene regional airport serves the city of abilene in texas , it 's icao identifier is k@@ a@@ b@@ i , it 's runway length is 2@@ 1@@ 9@@ 4@@ .@@ 0 and is 5@@ 4@@ 6 metres above sea level , the name of the runway is 1@@ 7@@ r@@ /@@ 3@@ 5@@ l .
-the adolfo suárez madrid – barajas airport is operated by enaire and can be found in m@@ a@@ d@@ r@@ i@@ d@@ .@@ the airport is situated 6@@ 1@@ 0@@ .@@ 0 meters above sea level and has a 4@@ ,@@ 3@@ 4@@ 9 k@@ i@@ l@@ o@@ meters long runway whose name is 1@@ 4@@ l@@ /@@ 3@@ 2@@ r .
-a@@ d@@ o@@ f@@ o suárez madrid-barajas airport , which lies 6@@ 1@@ 0 metres above sea level , is located in madrid and operated by enaire . the airport 's runway , named 1@@ 4@@ l@@ /@@ 3@@ 2@@ r , has a length of 4@@ 3@@ 4@@ 9@@ .@@ 0 .
-agra airport is in uttar pradesh b@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and , it 's icao location identifier is v@@ i@@ a@@ g . the leader of u@@ t@@ t@@ e@@ r@@ a@@ r pradesh is ram n@@ a@@ i@@ k .
-agra airport is located in uttar pradesh . uttar pradesh is part of both a@@ w@@ a@@ d@@ h a@@ d b@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and . the airport 's icao location identifier is " v@@ i@@ a@@ g " . the leader of uttar pradesh is called ram n@@ a@@ i@@ k .
-ram n@@ a@@ i@@ k is the leader of uttar pradesh which is part of a@@ w@@ a@@ d@@ h and b@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and . it is the location of agra airport which has the native name of k@@ h@@ e@@ r@@ i@@ a air force s@@ t@@ a@@ t@@ i@@ on .
-agra airport , which has the native name of k@@ h@@ e@@ r@@ i@@ a air force s@@ t@@ a@@ t@@ i@@ on , is in uttar pradesh , part of a@@ w@@ a@@ d@@ h and b@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and , where ram n@@ a@@ i@@ k is the leader .
-agra airport is located in uttar pradesh which is part of a@@ w@@ a@@ d@@ h and b@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and . k@@ h@@ e@@ r@@ i@@ a air force s@@ t@@ a@@ t@@ i@@ on is its native name . ram n@@ a@@ i@@ k is the leader in uttar pradesh .
-al asad airbase is operated by the united states air force . s@@ o@@ m@@ e of its aircraft include the boeing c-17 globemaster iii ( transport aircraft ) , g@@ e@@ n@@ e@@ r@@ al d@@ y@@ n@@ a@@ m@@ i@@ c@@ s f@@ -@@ 1@@ 6 f@@ i@@ g@@ h@@ t@@ i@@ n@@ g f@@ a@@ l@@ c@@ on ( aircraft fighter ) , and the lockheed ac-130 which can be found on u@@ s@@ a@@ f aircraft c@@ a@@ r@@ r@@ i@@ e@@ r@@ s . the u@@ s@@ a@@ f was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the invasion of p@@ a@@ n@@ a@@ m@@ a .
-al asad airbase is operated by the united states air force which was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in b@@ a@@ t@@ t@@ l@@ e@@ s at the invasion of p@@ a@@ n@@ a@@ m@@ a . they d@@ e@@ p@@ l@@ o@@ y the lockheed ac-130 on their aircraft c@@ a@@ r@@ r@@ i@@ e@@ r@@ s , the boeing c-17 globemaster iii as transport aircraft and the g@@ e@@ n@@ e@@ r@@ al d@@ y@@ n@@ a@@ m@@ i@@ c@@ s f@@ -@@ 1@@ 6 f@@ i@@ g@@ h@@ t@@ i@@ n@@ g f@@ a@@ l@@ c@@ on as fighter aircraft .
-the united states air force , which was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the invasion of p@@ a@@ n@@ a@@ m@@ a , are the o@@ p@@ e@@ r@@ a@@ t@@ o@@ r@@ s of al asad airbase . the u@@ s@@ a@@ f have aircraft including : the lockheed ac-130 a@@ t@@ t@@ a@@ c@@ k aircraft , the boeing c-17 globemaster iii t@@ r@@ a@@ n@@ s@@ p@@ o@@ r@@ t@@ e@@ r and the g@@ e@@ n@@ e@@ r@@ al d@@ y@@ n@@ a@@ m@@ i@@ c@@ s f@@ -@@ 1@@ 6 f@@ i@@ g@@ h@@ t@@ i@@ n@@ g f@@ a@@ l@@ c@@ on fighter p@@ l@@ a@@ n@@ e .
-the united states air force has f@@ o@@ u@@ g@@ h@@ t in the k@@ o@@ r@@ e@@ an war . it is the operating organisation for al asad airbase . it has a boeing c-17 globemaster iii transport aircraft and a@@ d@@ d@@ i@@ t@@ i@@ o@@ n@@ a@@ l@@ l@@ y , the lockheed ac-130 can be found on u@@ s@@ a@@ f aircraft c@@ a@@ r@@ r@@ i@@ e@@ r@@ s . m@@ c@@ d@@ o@@ n@@ n@@ e@@ l@@ l d@@ o@@ u@@ g@@ l@@ as f - e@@ a@@ g@@ l@@ e was a fighter aircraft of the united states air force .
-the united states air force , which f@@ o@@ u@@ g@@ h@@ t b@@ a@@ t@@ t@@ l@@ e@@ s in the k@@ o@@ r@@ e@@ an war , is the operating organisation for al asad airbase . the us a@@ i@@ r@@ force has a boeing c-17 globemaster iii transport aircraft , an aircraft fighter called the m@@ c@@ d@@ o@@ n@@ n@@ e@@ l@@ l d@@ o@@ u@@ g@@ l@@ as f@@ -@@ 1@@ 5 e@@ a@@ g@@ l@@ e and an a@@ t@@ t@@ a@@ c@@ k aircraft named the lockheed ac-130 .
-the transport aircraft for the united states air force is the lockheed c@@ -@@ 1@@ 3@@ 0 h@@ e@@ r@@ c@@ u@@ l@@ e@@ s . and lockheed ac-130 can be found on u@@ s@@ a@@ f aircraft c@@ a@@ r@@ r@@ i@@ e@@ r@@ s . both the k@@ o@@ r@@ e@@ an war and the invasion of g@@ r@@ e@@ n@@ d@@ a i@@ n@@ v@@ o@@ l@@ v@@ e@@ d the united states air force which currently operates the al asad airbase .
-the u@@ s@@ a@@ f which f@@ o@@ u@@ g@@ h@@ t in the k@@ o@@ r@@ e@@ an war and i@@ n@@ v@@ a@@ d@@ e@@ d g@@ r@@ e@@ n@@ a@@ d@@ a , operates the al asad airbase . a@@ m@@ o@@ n@@ g the aircraft found on u@@ s@@ a@@ f c@@ a@@ r@@ r@@ i@@ e@@ r@@ s is the lockheed ac-130 h@@ e@@ r@@ c@@ u@@ l@@ e@@ s which is a transport p@@ l@@ a@@ n@@ e .
-al asad airbase is operated by the united states air force and uses lockheed ac-130 a@@ t@@ t@@ a@@ c@@ k air c@@ r@@ a@@ f@@ t@@ s and lockheed c@@ -@@ 1@@ 3@@ 0 h@@ e@@ r@@ c@@ u@@ l@@ e@@ s transport a@@ i@@ r@@ c@@ r@@ a@@ f@@ t@@ s . the u@@ s@@ a@@ f p@@ a@@ r@@ t@@ i@@ c@@ i@@ p@@ a@@ t@@ e@@ d in the k@@ o@@ r@@ e@@ an war and the invasion of g@@ r@@ e@@ n@@ a@@ d@@ a .
-the i@@ n@@ v@@ a@@ s@@ i@@ o@@ n@@ s of g@@ r@@ e@@ n@@ a@@ d@@ a and p@@ a@@ n@@ a@@ m@@ a in i@@ n@@ v@@ o@@ l@@ v@@ e@@ d the united states air force which now operates the al asad airbase . the air force has s@@ e@@ v@@ e@@ r@@ al t@@ y@@ p@@ e@@ s of aircraft s@@ u@@ c@@ h as the boeing c-17 globemaster iii transport aircraft and the lockheed ac-130 which can be found on u@@ s@@ a@@ f aircraft c@@ a@@ r@@ r@@ i@@ e@@ r@@ s .
-al asad airbase is operated by the united states air force . the u@@ s@@ a@@ f is e@@ q@@ u@@ i@@ p@@ p@@ e@@ d with the a@@ t@@ t@@ a@@ c@@ k aircraft , lockheed ac-130 and boeing c-17 globemaster iii transport aircraft . the u@@ s@@ a@@ f has been i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the invasion of g@@ r@@ e@@ n@@ a@@ d@@ a and invasion of p@@ a@@ n@@ a@@ m@@ a .
-allama iqbal international airport is located in punjab pakistan and serves lahore , pakistan . the pakistan civil aviation authority g@@ o@@ v@@ e@@ r@@ n@@ s the allama iqbal international airport . the country is lead by a@@ n@@ war z@@ a@@ h@@ e@@ e@@ r j@@ a@@ m@@ a@@ l@@ i .
-allama iqbal international airport , which serves the city of lahore , is located in punjab , pakistan and is operated by the pakistan civil aviation authority . pakistan is led by a@@ n@@ war z@@ a@@ h@@ e@@ e@@ r j@@ a@@ m@@ a@@ l@@ i .
-in the city of lahore , punjab , pakistan , there is an airport called allama iqbal international airport . it is operated by the pakistan civil aviation authority , in punjab pakistan , which is led by a@@ n@@ war z@@ a@@ h@@ e@@ e@@ r j@@ a@@ m@@ a@@ l@@ i .
-the pakistan civil aviation authority is the operating organisation of the allama iqbal international airport . the airport serves the city of lahore , in pakistan where s@@ h@@ e@@ h@@ b@@ az s@@ h@@ a@@ r@@ i@@ f is the leader , it is also where the allama iqbal international airport is found , in punjab , pakistan .
-the pakistan civil aviation authority is the operating organisation of the allama iqbal international airport located in punjab , pakistan , which is lead by s@@ h@@ e@@ h@@ b@@ az s@@ h@@ a@@ r@@ i@@ f . the airport serves lahore in pakistan .
-located in texas , and s@@ e@@ r@@ v@@ i@@ n@@ g andrews , is andrews county airport . the airport is 9@@ 7@@ 3@@ .@@ 0 b@@ e@@ l@@ o@@ w sea level , has a runway length of 8@@ 9@@ 6 , and a runway with the name 1@@ 1@@ /@@ 2@@ 9 .
-andrews county airport in texas has a runway length of 8@@ 9@@ 6 and serves the city of andrews . it is located 9@@ 7@@ 3 metres b@@ e@@ l@@ o@@ w sea level and has the runway name 1@@ 1@@ /@@ 2@@ 9 .
-andrews county airport is located in texas . it serves the city of andrews and is 9@@ 7@@ 3 metres above sea level . its runway length is named 1@@ 1@@ /@@ 2@@ 9 and is 8@@ 9@@ 6 long .
-andrews county airport is in texas in the u@@ .@@ s@@ .@@ a. where spanish is one of the languages spoken . h@@ o@@ u@@ s@@ t@@ on is the largest city in the state and its capital is austin .
-andrews county airport is located in texas , united states . the largest city in texas is h@@ o@@ u@@ s@@ t@@ on , the state capital is austin and spanish is one of the languages spoken there .
-h@@ o@@ u@@ s@@ t@@ on is the largest city in texas , where austin is the capital city . andrews county airport is located in texas and s@@ o@@ m@@ e t@@ e@@ x@@ a@@ n@@ s can speak spanish .
-andrews county airport is located in texas , a state where spanish is spoken and the people are called t@@ e@@ x@@ a@@ n@@ s . h@@ o@@ u@@ s@@ t@@ on is the largest city in texas and austin is the state 's capital .
-andrews county airport is located in texas where the spanish language is spoken and the people are known as t@@ e@@ x@@ a@@ n@@ s . the capital city is austin but the largest city is h@@ o@@ u@@ s@@ t@@ on .
-the angola international airport is in Í@@ c@@ o@@ l@@ o e bengo , ( luanda province ) , the airport serves luanda , and is 1@@ 5@@ 9 metres above sea level .
-angola international airport is located at Í@@ c@@ o@@ l@@ o e bengo in luanda province , a@@ n@@ g@@ o@@ l@@ a@@ .@@ the airport is situated 1@@ 5@@ 9 meters above sea level and serves the city of luanda .
-angola international airport , which is located in Í@@ c@@ o@@ l@@ o e bengo in the luanda province in angola , serves luanda . the airport lies 1@@ 5@@ 9 metres above sea level .
-angola international airport is located in Í@@ c@@ o@@ l@@ o e bengo , luanda , angola . the runway is 4@@ 0@@ 0@@ 0@@ f@@ t long and is 1@@ 5@@ 9@@ m a@@ .@@ s@@ .@@ l@@ .
-angola international airport is located in i@@ c@@ o@@ l@@ o e bengo , which is a part of luanda province , located in angola . the airport is 1@@ 5@@ 9 meters above sea level and its runway has a l@@ e@@ n@@ g@@ h@@ t of 4@@ 0@@ 0@@ 0@@ .@@ 0 .
-angola international airport is located in i@@ c@@ o@@ l@@ o e bengo , which is located in the luanda province , angola . the airport is situated 1@@ 5@@ 9 meters above sea level and it has a runway that m@@ e@@ a@@ s@@ u@@ r@@ e@@ s a length of 4@@ 0@@ 0@@ 0@@ .@@ 0 .
-the flemish department of m@@ o@@ b@@ i@@ l@@ i@@ t@@ y and public w@@ o@@ r@@ k@@ s is the operating organisation of antwerp international airport which is owned by the flemish region . the airport serves the city of antwerp , is 1@@ 2@@ .@@ 0 metres above sea level , and has a runway length of 6@@ 0@@ 0@@ .@@ 0 .
-the flemish region o@@ w@@ n@@ s antwerp international airport which is operated by the flemish department of m@@ o@@ b@@ i@@ l@@ i@@ t@@ y and public w@@ o@@ r@@ k@@ s and serves the city of antwerp . the runway length is 6@@ 0@@ 0@@ .@@ 0 and the airport is 12 metres above sea level .
-antwerp international airport is owned by the flemish region and located in the city of antwerp . the airport has a runway length of 6@@ 0@@ 0@@ .@@ 0 , elevation of 1@@ 2@@ .@@ 0 metres above sea level and the flemish department of m@@ o@@ b@@ i@@ l@@ i@@ t@@ y and public w@@ o@@ r@@ k@@ s is the operating organisation .
-the city of appleton is served by appleton international airport located 2@@ 8@@ 0 metres above sea level in greenville , wisconsin . the runway at the airport is 3@@ /@@ 2@@ 1 and is 2@@ 4@@ 3@@ 9 in length .
-appleton international airport can be found in greenville , wisconsin and serves the city of a@@ p@@ p@@ l@@ e@@ t@@ o@@ n@@ .@@ it is situated 2@@ 8@@ 0 meters above sea level and has a 2@@ ,@@ 4@@ 3@@ 9 k@@ i@@ l@@ o@@ meters long runway called 3@@ /@@ 2@@ 1 .
-appleton international airport , which serves the city of appleton is located in greenville , wisconsin . it is elevated 2@@ 8@@ 0@@ 1 meters above sea level . the airport 's runway , which is named 3@@ /@@ 2@@ 1 m@@ e@@ a@@ s@@ u@@ r@@ e@@ s a l@@ e@@ n@@ g@@ h@@ t of 2@@ 4@@ 3@@ 9 u@@ n@@ its .
-the city of appleton is served by appleton international airport in greenville ( part of m@@ e@@ n@@ a@@ s@@ h@@ a ) , c@@ l@@ a@@ y@@ t@@ on w@@ i@@ n@@ n@@ e@@ b@@ a@@ g@@ o county , wisconsin , united states .
-appleton , wisconsin is served by appleton international airport which is located in greenville ( part of m@@ e@@ n@@ a@@ s@@ h@@ a town ) , c@@ l@@ a@@ y@@ t@@ on w@@ i@@ n@@ n@@ e@@ b@@ a@@ g@@ o county , wisconsin , usa .
-ardmore airport in new zealand is operated by the civil aviation authority and is 34 metres above sea level . it has a runway named 0@@ 3@@ r@@ /@@ 2@@ 1@@ l which is 1@@ ,@@ 4@@ 11 long and its t@@ h@@ i@@ r@@ d runway has a poaceae surface .
-ardmore airport ( new zealand ) is operated by the civil aviation authority of new zealand . its 3rd runway is made of poaceae and its name is 0@@ 3@@ r@@ /@@ 2@@ 1@@ l . it is 1@@ 4@@ 11 m long and the airport is 34 m above sea level .
-the civil aviation authority of new zealand is the operating organisation for ardmore airport , new zealand and is situated 34 meters above sea l@@ e@@ v@@ e@@ l@@ .@@ the airport 's 3rd runway is s@@ u@@ r@@ f@@ a@@ c@@ e@@ d with poaceae and has a 1@@ ,@@ 4@@ 11 m@@ e@@ t@@ e@@ r long runway called " 0@@ 3@@ r@@ /@@ 2@@ 1@@ l " .
-turkmenistan airlines operates ashgabat international airport in ashgabat . the airport is 2@@ 11 metres above sea level , has the runway length of 2@@ 9@@ 8@@ 9@@ .@@ 0 and 1@@ 2@@ r@@ /@@ 3@@ 0@@ l is the runway name .
-ashgabat international airport is operated by turkmenistan airlines . the runway 1@@ 2@@ r@@ /@@ 3@@ 0@@ l is 2@@ 9@@ 8@@ 9@@ m long and is 2@@ 1@@ 1@@ m a@@ .@@ s@@ .@@ l@@ .
-ashgabat international airport is located in ashgabat and is operated b@@ y@@ turkmenistan airlines . it is 2@@ 11 metres above sea level and has a runway length of 2@@ 9@@ 8@@ 9@@ .@@ 0 . it has a runway named 1@@ 2@@ r@@ /@@ 3@@ 0@@ l .
-atlantic city international airport has a runway length of 1@@ ,@@ 8@@ 7@@ 3 and is operated by the port authority of new york and new jersey . it is situated 23 metres above sea level , has the runway name of 4@@ /@@ 2@@ 2 and is known by the icao location identifier k@@ a@@ c@@ y .
-runway 4@@ /@@ 2@@ 2 at atlantic city international airport has an elevation of 2@@ 3@@ m above sea level and its length is 1@@ 8@@ 7@@ 3 . it is operated by port authority of new york and new jersey under the location identifier of k@@ a@@ c@@ y .
-the port authority of new york and new jersey is the operating organisation of atlantic city international airport , which lies 2@@ 3@@ .@@ 0 meters above sea level . the airport 's icao location identifier is k@@ a@@ c@@ y . the 4@@ /@@ 2@@ 2 is the name of the runway in atlantic city international airport and it m@@ e@@ a@@ s@@ u@@ r@@ e@@ s 1@@ 8@@ 7@@ 3 .
-the flemish government have j@@ u@@ r@@ i@@ s@@ d@@ i@@ c@@ t@@ i@@ on o@@ v@@ e@@ r the flemish region of belgium . the leader of the country is c@@ h@@ a@@ r@@ l@@ e@@ s m@@ i@@ c@@ h@@ e@@ l and the city of antwerp is served by antwerp international airport .
-antwerp international airport serves the city of antwerp in belgium , the country where the leader is c@@ h@@ a@@ r@@ l@@ e@@ s m@@ i@@ c@@ h@@ e@@ l . the flemish region can be found in belgium and it is led by the flemish government who has j@@ u@@ r@@ i@@ s@@ d@@ i@@ c@@ t@@ i@@ on o@@ v@@ e@@ r it .
-antwerp international airport serves antwerp . the flemish region is in the country of belgium and it is led by the flemish government . the j@@ u@@ r@@ i@@ s@@ d@@ i@@ c@@ t@@ i@@ on of the flemish government is in the flemish region and the leader of belgium is c@@ h@@ a@@ r@@ l@@ e@@ s m@@ i@@ c@@ h@@ e@@ l .
-adirondack regional airport serves the city of lake p@@ l@@ a@@ c@@ i@@ d and saranac lake in new york . saranac lake is part of harrietstown and e@@ s@@ s@@ e@@ x county in new york in the u.s.
-adirondack regional airport serves the c@@ i@@ t@@ i@@ e@@ s of lake p@@ l@@ a@@ c@@ i@@ d and saranac lake , new york , united s@@ t@@ a@@ t@@ e@@ s@@ .@@ saranac lake , new york is part of harrietstown , e@@ s@@ s@@ e@@ x county , new york .
-adirondack regional airport serves the c@@ i@@ t@@ i@@ e@@ s of lake p@@ l@@ a@@ c@@ i@@ d and saranac lake in new york state , united states . saranac lake , new york is part of harrietstown in e@@ s@@ s@@ e@@ x county , new york .
-alan bean was an american born in wheeler , texas . he served as a test pilot and became a crew member of apollo 12 , which was operated by nasa .
-apollo 12 was operated by nasa and its crew members i@@ n@@ c@@ l@@ u@@ d@@ e@@ d american national alan bean . he was born in wheeler , texas and served as a test pilot .
-alan bean , a us national , was born in wheeler , texas . he served as a test pilot before b@@ e@@ c@@ o@@ m@@ i@@ n@@ g part of the nasa operated apollo 12 mission as a crew member .
-alan shepard , born in new hampshire on november 18 , 1923 , graduated from nwc in 1957 with a m@@ .@@ a . he died in california on july 2@@ 1 , 1@@ 9@@ 9@@ 8 .
-alan shepard was born in new hampshire on the 1@@ 8@@ t@@ h of november , 1923 . he graduated from nwc in 1957 with a m.a. on the 2@@ 1st of july , 1@@ 9@@ 9@@ 8 , he p@@ a@@ s@@ s@@ e@@ d a@@ way in california .
-alan shepard was born on the 1@@ 8@@ t@@ h of november , 1923 in new hampshire and p@@ a@@ s@@ s@@ e@@ d a@@ way on the 2@@ 1st of july , 1@@ 9@@ 9@@ 8 in california . he graduated with a m.a. from nwc in 1957 .
-alan shepard , born in new hampshire , has died in california . a@@ f@@ t@@ e@@ r g@@ r@@ a@@ d@@ u@@ a@@ t@@ i@@ n@@ g from nwc , m@@ a in 1957 he served as a test pilot .
-alan shepard has died in california . he was born in new hampshire and went to school at nwc , g@@ r@@ a@@ d@@ u@@ a@@ t@@ i@@ n@@ g with an m@@ a in 1957 , he served as a test pilot .
-alan shepard has died in california . he was born in new hampshire and graduated from nwc m@@ a in 1957 . he served as a test pilot .
-the l@@ a@@ t@@ e alan shepard was born in new hampshire , and chosen by nasa in 1959 a a crew member of apollo 14 .
-the l@@ a@@ t@@ e alan shepard was born in new hampshire . he was selected by nasa in 1959 and served as a crew member of nasa operated apollo 14 .
-alan shepard was o@@ r@@ i@@ g@@ i@@ n@@ a@@ l@@ l@@ y from new hampshire and joined nasa in 1959 where he became a member of the apollo 14 crew . m@@ r shepard p@@ a@@ s@@ s@@ e@@ d a@@ way .
-alan bean ( born in wheeler , texas ) was a crew member of apollo 12 operated by nasa and was in space 1@@ 0@@ 0@@ 3@@ 0@@ 5 minutes . apollo 12 was c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ d by david scott and alfred w@@ o@@ r@@ den was a backup pilot .
-alfred w@@ o@@ r@@ den was a backup pilot on the nasa operated apollo 12 on which david scott the c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r and alan bean , who spent a total of 1@@ 0@@ 0@@ 3@@ 0@@ 5 minutes in space , was a c@@ r@@ e@@ w@@ man .
-alan shepard ( born november 1@@ 8@@ t@@ h , 1923 , new hampshire ) was awarded the united states navy distinguished service medal which is higher than the department of commerce gold medal has died in california .
-alan shepard was born on 18 november 1923 in new hampshire . he was awarded the distinguished service medal , which is higher than the department of commerce gold medal , by the us navy . he died in california .
-alan shepard was born in new hampshire on 18 november 1923 . before his d@@ e@@ a@@ t@@ h in california he h@@ a@@ d been awarded the distinguished service medal by the us navy an award higher than the department of commerce gold medal .
-elliot see was born in dallas and l@@ a@@ t@@ e@@ r attended the university of texas at austin . the university of texas at austin is affiliated with university of texas system and is c@@ o@@ m@@ p@@ e@@ t@@ i@@ n@@ g in the big 12 conference . n@@ o@@ w@@ a@@ d@@ a@@ y@@ s , g@@ r@@ e@@ g@@ o@@ r@@ y l@@ . f@@ e@@ n@@ v@@ e@@ s is the president of the university .
-elliot see was born in dallas and attended the university of texas at austin which is affiliated with the university of texas system and competed in the big 12 conference in austin . g@@ r@@ e@@ g@@ o@@ r@@ y l@@ . f@@ e@@ n@@ v@@ e@@ s is the a@@ p@@ p@@ o@@ i@@ n@@ t@@ e@@ d president of the university of texas at austin .
-elliot see was born in dallas and was a student at university of texas at austin . this university , whose president is g@@ r@@ e@@ g@@ o@@ r@@ y l@@ . f@@ e@@ n@@ v@@ e@@ s , is affiliated with the university of texas system . the university of texas at austin c@@ o@@ m@@ p@@ e@@ t@@ e@@ s in the big 12 conference .
-elliot see , a g@@ r@@ a@@ d@@ u@@ a@@ t@@ e of the university of texas at austin , p@@ a@@ s@@ s@@ e@@ d a@@ way on 2@@ 8@@ t@@ h february 1966 in st. louis . he was born in dallas .
-elliot see was born in dallas and attended the university of texas at austin . he died in st louis on 2@@ 8 february 1966 .
-elliot see , who was born on the 2@@ 8@@ t@@ h february 1966 in dallas , has died in st louis . he w@@ i@@ l@@ l be r@@ e@@ m@@ e@@ m@@ b@@ e@@ r@@ e@@ d as a great student at university of texas at austin .
-elliot see was born in dallas , which is a county in texas . he attended the university of texas at austin , which is affiliated to the university of texas system . the university of texas at austin w@@ i@@ l@@ l be part of the big 12 conference c@@ o@@ m@@ p@@ e@@ t@@ i@@ t@@ i@@ on .
-elliot see was born in dallas , texas and attended the university of texas ( affiliated to the university of texas system ) which competed in the big 12 conference .
-elliot see , who was born in dallas , texas , attended the university of texas at austin ( affiliated to the university of texas system ) which w@@ i@@ l@@ l c@@ o@@ m@@ p@@ e@@ t@@ e in the big 12 conference .
-elliot see was born in dallas and s@@ t@@ u@@ died at the university of texas in austin ( which is affiliated to the university of texas system ) . he died in st. louis .
-elliot see was born in dallas and s@@ t@@ u@@ died at austin university ( part of the university of texas system ) . he died in st. louis .
-elliot see , who was born in dallas , has died in st louis . he graduated from the university of texas at austin which is affiliated to the university of texas system .
-william anders was a member of the apollo 8 crew ( operated by nasa ) and he retired on september 1st , 1969 . frank borman was the c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r of apollo 8 and buzz aldrin was a b@@ a@@ c@@ k u@@ p pilot .
-william anders , who retired on september 1st , 1969 , was a crew member on apollo 8 and served under c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r frank borman . apollo 8 was operated by nasa with buzz aldrin as backup pilot .
-william anders joined nasa and was a member of apollo 8 along with frank borman as c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r and buzz aldrin as b@@ a@@ c@@ k u@@ p pilot . william anders retired on september 1st 1969 .
-20 fenchurch street is located within the united kingdom , where london is the capital , and the currency is p@@ o@@ u@@ n@@ d@@ s s@@ t@@ e@@ r@@ l@@ i@@ n@@ g . b@@ o@@ r@@ is johnson is the leader in london , and one of the leaders of the united kingdom is elizabeth ii .
-the united kingdom uses the currency of the p@@ o@@ u@@ n@@ d s@@ t@@ e@@ r@@ l@@ i@@ n@@ g and is lead by elizabeth ii along with b@@ o@@ r@@ is johnson . the capital city is london and the country is also the location of 20 fenchurch street .
-250 delaware avenue was built in b@@ u@@ f@@ f@@ a@@ l@@ o new york at a c@@ o@@ st of 1@@ 1@@ 0 m@@ i@@ l@@ l@@ i@@ on d@@ o@@ l@@ lars . c@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on b@@ e@@ g@@ an in january 2014 and the building has 12 floors with an area of 3@@ 0@@ 8@@ 4@@ 3@@ .@@ 8 square metres .
-there are 12 floors at 250 delaware avenue in b@@ u@@ f@@ f@@ a@@ l@@ o , new york . c@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on , which b@@ e@@ g@@ an in january 2014 c@@ o@@ st 1@@ 1@@ 0 m@@ i@@ l@@ l@@ i@@ on d@@ o@@ l@@ lars for a floor area of 3@@ 0@@ 8@@ 4@@ 3@@ .@@ 8 square metres .
-r@@ a@@ h@@ m e@@ manuel is the leader of chicago , d@@ u@@ p@@ a@@ g@@ e county , illinois , united states which is the location of the building at 300 north lasalle which has 6@@ 0 floors .
-300 north lasalle has 6@@ 0 floors and is located in chicago , d@@ u@@ p@@ a@@ g@@ e county , illinois , united states . the leader of chicago is r@@ a@@ h@@ m e@@ manuel .
-300 north lasalle , which has 6@@ 0 floors , is located in chicago which is part of d@@ u@@ p@@ a@@ g@@ e county in illinois , united states . the leader of chicago is r@@ a@@ h@@ m e@@ manuel .
-3arena ( owned by live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t ) is located in dublin , republic of ireland . d@@ á@@ i@@ l É@@ i@@ r@@ e@@ a@@ n@@ n is a leader in dublin , which is part of l@@ e@@ i@@ n@@ s@@ t@@ e@@ r .
-3arena , owned by live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t , is located in dublin , which is part of l@@ e@@ i@@ n@@ s@@ t@@ e@@ r in the republic of ireland . d@@ á@@ i@@ l É@@ i@@ r@@ e@@ a@@ n@@ n is a leader in dublin .
-located in dublin , l@@ e@@ i@@ n@@ s@@ t@@ e@@ r , 3arena is owned by live n@@ a@@ t@@ i@@ on e@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t . dublin is also part of the republic of ireland and is lead by d@@ á@@ i@@ l É@@ i@@ r@@ e@@ a@@ n@@ n .
-adisham hall in sri lanka was constructed b@@ e@@ t@@ w@@ e@@ e@@ n 1927 and 1@@ 9@@ 3@@ 1 at st b@@ e@@ n@@ e@@ d@@ i@@ c@@ t@@ s m@@ o@@ n@@ a@@ s@@ t@@ e@@ r@@ y , adisham , h@@ a@@ p@@ u@@ t@@ h@@ a@@ l@@ e , sri lanka in the t@@ u@@ d@@ or and j@@ a@@ c@@ o@@ bean style of a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t@@ u@@ r@@ e .
-c@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on of adisham hall t@@ o@@ o@@ k p@@ l@@ a@@ c@@ e b@@ e@@ t@@ w@@ e@@ e@@ n 1927 and 1@@ 9@@ 3@@ 1 in the architectural style of t@@ u@@ d@@ or and j@@ a@@ c@@ o@@ bean . it is located at st b@@ e@@ n@@ e@@ d@@ i@@ c@@ t 's m@@ o@@ n@@ a@@ s@@ t@@ e@@ r@@ y , adisham , h@@ a@@ p@@ u@@ t@@ h@@ a@@ l@@ e , sri lanka .
-adisham hall is located in haputale , sri lanka . the capital of sri lanka is sri jayawardenepura k@@ o@@ t@@ t@@ e , the language used in the country is t@@ a@@ m@@ i@@ l and the currency is the sri l@@ a@@ n@@ k@@ an rupee .
-adisham hall is in haputale , sri lanka . the capital of sri lanka is sri jayawardenepura k@@ o@@ t@@ t@@ e , the language spoken there is t@@ a@@ m@@ i@@ l and the currency is the sri l@@ a@@ n@@ k@@ an rupee .
-a@@ d@@ m@@ i@@ s@@ h@@ a@@ m hall is located at haputale , sri lanka . sri jayawardenepura k@@ o@@ t@@ t@@ e is the capital of sri lanka , where the currency is the sri l@@ a@@ n@@ k@@ an rupee and the language used is t@@ a@@ m@@ i@@ l .
-ranil wickremesinghe is the leader of sri lanka where the capital city is sri jayawardenepura k@@ o@@ t@@ t@@ e and the currency is the sri l@@ a@@ n@@ k@@ an rupee . adisham hall is located in the country at haputale .
-adisham hall is located in haputale , sri lanka . the capital of sri lanka is sri jayawardenepura k@@ o@@ t@@ t@@ e with ranil wickremesinghe as its leader and the rupee as its currency .
-adisham hall is located in haputale , sri lanka , where the capital is called sri jayawardenepura k@@ o@@ t@@ t@@ e . ranil wickremesinghe is a leader of sri lanka , and the currency is the sri l@@ a@@ n@@ k@@ an rupee .
-the main ethnic group in japan are the j@@ a@@ p@@ a@@ n@@ e@@ s@@ e and the leader is t@@ a@@ r@@ ō a@@ s@@ ō . akita museum of art is in akita , akita which is part of japan and the akita prefecture .
-" the akita museum of art is located in akita , akita which is located in japan . the leader of japan is taro a@@ s@@ o and the main ethnic group in japan is the j@@ a@@ p@@ a@@ n@@ e@@ s@@ e . akita , akita is part of akita prefecture . " .
-akita museum of art is in the city of akita , japan . the main ethnic group in japan are the j@@ a@@ p@@ a@@ n@@ e@@ s@@ e , the leader is taro a@@ s@@ o and akita , akita is part of akita prefecture .
-amdavad ni gufa is located in gujarat , ahmedabad , india . gujarat 's leader is known as the gujarat l@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ i@@ v@@ e assembly , and the leader of india is narendra modi .
-amdavad ni gufa is located in gujarat , ahmedabad which is in india . the leader of india is narendra modi but the leader of gujarat is the gujarat l@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ i@@ v@@ e assembly .
-amdavad ni gufa is in gujarat , ahmedabad which is in india . gujarat 's leader is the gujarat l@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ i@@ v@@ e assembly and narendra modi is the prime minister of india .
-amdavad ni gufa is located in ahmedabad , gujarat , india ; led by the gujarat l@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ i@@ v@@ e assembly , including leader t s thakur .
-the 4@@ 7@@ 6 b@@ e@@ d ampara hospital is situated in the eastern province state of sri lanka where austin f@@ e@@ r@@ n@@ a@@ n@@ d@@ o is the leader . the country 's leader is ranil wickremesinghe .
-ampara hospital , which has 4@@ 7@@ 6 b@@ e@@ d@@ s , is located in the eastern province of sri lanka lead by austin f@@ e@@ r@@ n@@ a@@ n@@ d@@ o . the leader of sri lanka is ranil wickremesinghe .
-there are 4@@ 7@@ 6 b@@ e@@ d@@ s at ampara hospital in the eastern province of sri lanka where austin f@@ e@@ r@@ n@@ a@@ n@@ d@@ o is the leader . a@@ n@@ o@@ t@@ h@@ e@@ r leader within the country is ranil wickremesinghe .
-julia morgan , who was born in california , designed the asilomar conference grounds , the los a@@ n@@ g@@ e@@ l@@ e@@ s h@@ e@@ r@@ a@@ l@@ d e@@ x@@ a@@ m@@ i@@ n@@ e@@ r building , the r@@ i@@ v@@ e@@ r@@ s@@ i@@ d@@ e art m@@ u@@ s@@ u@@ e@@ m and h@@ e@@ a@@ r@@ st castle .
-julia morgan was an architect born in california . s@@ h@@ e designed asilomar conference grounds , the r@@ i@@ v@@ e@@ r@@ s@@ i@@ d@@ e art museum , h@@ e@@ a@@ r@@ st castle and the los a@@ n@@ g@@ e@@ l@@ e@@ s h@@ e@@ r@@ a@@ l@@ d e@@ x@@ a@@ m@@ i@@ n@@ e@@ r building .
-asilomar conference grounds were designed by julia morgan ( born in california ) , who is known for a number of b@@ u@@ i@@ l@@ d@@ i@@ n@@ g@@ s , including h@@ e@@ a@@ r@@ st castle and the r@@ i@@ v@@ e@@ r@@ s@@ i@@ d@@ e art museum , and h@@ e@@ r w@@ o@@ r@@ k in san f@@ r@@ a@@ n@@ c@@ i@@ s@@ c@@ o 's c@@ h@@ i@@ n@@ a@@ t@@ o@@ w@@ n .
-julia morgan , the architect , was born in california and s@@ o@@ m@@ e of h@@ e@@ r s@@ i@@ g@@ n@@ i@@ f@@ i@@ c@@ a@@ n@@ t p@@ r@@ o@@ j@@ e@@ c@@ t@@ s include : the asilomar conference grounds , the r@@ i@@ v@@ e@@ r@@ s@@ i@@ d@@ e art museum , h@@ e@@ a@@ r@@ st castle and s@@ o@@ m@@ e b@@ u@@ i@@ l@@ d@@ i@@ n@@ g@@ s in c@@ h@@ i@@ n@@ a@@ t@@ o@@ w@@ n , san f@@ r@@ a@@ n@@ c@@ i@@ s@@ c@@ o .
-julia morgan , born in california , was the architect b@@ e@@ h@@ i@@ n@@ d the grounds of asilomar conference , the r@@ i@@ v@@ e@@ r@@ s@@ i@@ d@@ e art museum , h@@ e@@ a@@ r@@ st castle and c@@ h@@ i@@ n@@ a@@ t@@ o@@ w@@ n in san f@@ r@@ a@@ n@@ c@@ i@@ s@@ c@@ o .
-the asilomar conference grounds were constructed in 1@@ 9@@ 1@@ 3 . they are located in pacific grove , california and they were added to the national register of historic places on february 2@@ 7@@ t@@ h 1@@ 9@@ 8@@ 7 ( with reference number 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 ) . the grounds are in the architectural style of the a@@ r@@ t@@ s and c@@ r@@ a@@ f@@ t@@ s m@@ o@@ v@@ e@@ m@@ e@@ n@@ t .
-asilomar conference grounds are located in pacific grove , california . they were constructed in 1@@ 9@@ 1@@ 3 with the architectural style of the a@@ r@@ t@@ s and c@@ r@@ a@@ f@@ t@@ s m@@ o@@ v@@ e@@ m@@ e@@ n@@ t . they were added to the national register of historic places on 27 february 1@@ 9@@ 8@@ 7 with reference number " 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 " .
-the asilomar conference grounds were constructed in 1@@ 9@@ 1@@ 3 and are in pacific grove , california . they have an a@@ r@@ t@@ s and c@@ r@@ a@@ f@@ t@@ s m@@ o@@ v@@ e@@ m@@ e@@ n@@ t style a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t@@ u@@ r@@ e and were added to the national register of historic places on 27 february 1@@ 9@@ 8@@ 7 with the reference number 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 .
-asser levy public baths , built in 1@@ 9@@ 0@@ 4 in a r@@ o@@ m@@ a@@ n@@ e@@ s@@ q@@ u@@ e r@@ e@@ v@@ i@@ v@@ al style , is located at 23rd street ( manhattan ) . the s@@ i@@ t@@ e was added to the national register of historic places on 1@@ 9@@ 8@@ 0@@ -@@ 0@@ 4@@ -@@ 23 , with reference number 8@@ 0@@ 0@@ 0@@ 2@@ 7@@ 0@@ 9 .
-the asser levy baths are located on 23rd street in manhattan and have the r@@ o@@ m@@ a@@ n@@ e@@ s@@ q@@ u@@ e r@@ e@@ v@@ i@@ v@@ al style of a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t@@ u@@ r@@ e . they were built in 1@@ 9@@ 0@@ 4 and added to the national register of historic places with the reference number 8@@ 0@@ 0@@ 0@@ 2@@ 7@@ 0@@ 9 on 23 april 1@@ 9@@ 8@@ 0 .
-the asser levy public baths was built in 1@@ 9@@ 0@@ 4 in the architectural style of r@@ o@@ m@@ a@@ n@@ e@@ s@@ q@@ u@@ e r@@ e@@ v@@ i@@ v@@ al , and is located on 23rd street , manhattan . the s@@ i@@ t@@ e was added to the national register of historic places on " 1@@ 9@@ 8@@ 0@@ -@@ 0@@ 4@@ -@@ 23 " , with reference number 8@@ 0@@ 0@@ 0@@ 2@@ 7@@ 0@@ 9 .
-the asser levy public baths are found in new york city , new york , united states . a@@ n@@ o@@ t@@ h@@ e@@ r part of new york city is manhattan where g@@ a@@ l@@ e b@@ r@@ e@@ w@@ e@@ r is the leader .
-g@@ a@@ l@@ e b@@ r@@ e@@ w@@ e@@ r is the leader of manhattan which is part of new york city , new york , united states . new york city is the location of asser levy public baths .
-the location of asser levy public baths are new york city , us . new york city and manhattan are part of new york . the leader of manhattan is g@@ a@@ l@@ e b@@ r@@ e@@ w@@ e@@ r .
-103 colmore row was designed by the architect john madin , who was born in birmingham , where the p@@ o@@ s@@ t@@ al code is ' b ' . a@@ n@@ d@@ r@@ e@@ w m@@ i@@ t@@ c@@ h@@ e@@ l@@ l is the leader of the city and birmingham city council is the governing body .
-the city council is the governing body for birmingham where a@@ n@@ d@@ r@@ e@@ w m@@ i@@ t@@ c@@ h@@ e@@ l@@ l is a leader . the city has the b p@@ o@@ s@@ t@@ code and is the b@@ i@@ r@@ t@@ h@@ p@@ l@@ a@@ c@@ e of the architect john madin who designed 103 colmore row .
-birmingham is lead by a@@ n@@ d@@ r@@ e@@ w m@@ i@@ t@@ c@@ h@@ e@@ l@@ l and the birmingham city council . the town , which has the b p@@ o@@ s@@ t@@ code , is the b@@ i@@ r@@ t@@ h@@ p@@ l@@ a@@ c@@ e of architect john madin who designed 103 colmore row .
-h@@ a@@ i@@ l@@ e@@ m@@ a@@ r@@ i@@ a@@ m d@@ e@@ s@@ a@@ l@@ e@@ g@@ n and m@@ u@@ l@@ a@@ t@@ u t@@ e@@ s@@ h@@ o@@ m@@ e are leaders within ethiopia . the addis ababa stadium and the addis ababa city hall are both located within the country in addis ababa .
-addis ababa stadium and addis ababa city hall are located in addis ababa , ethiopia . the country is lead by m@@ a@@ l@@ a@@ t@@ u t@@ e@@ s@@ h@@ o@@ m@@ e and h@@ a@@ i@@ l@@ e@@ m@@ a@@ r@@ i@@ a@@ m d@@ e@@ s@@ a@@ l@@ e@@ g@@ n , .
-addis ababa stadium and addis ababa city hall are both located in addis ababa , ethiopia . m@@ a@@ l@@ a@@ t@@ u t@@ e@@ s@@ h@@ o@@ m@@ e and h@@ a@@ i@@ l@@ e@@ m@@ a@@ r@@ i@@ a@@ m d@@ e@@ s@@ a@@ l@@ e@@ g@@ n are leaders in the country .
-the president is the p@@ r@@ i@@ mary leader of english language speaking united states , ( includes leader john r@@ o@@ b@@ e@@ r@@ t@@ s ) , has the ethnic african american group and is home to 250 delaware avenue .
-250 delaware avenue is located in the united states , where the leader is known as the president of the united states , s@@ u@@ p@@ p@@ o@@ r@@ t@@ e@@ d by the united states of a@@ m@@ e@@ r@@ i@@ c@@ a ` s c@@ h@@ i@@ e@@ f j@@ u@@ s@@ t@@ ice , john r@@ o@@ b@@ e@@ r@@ t@@ s . the main language is english , and one of the ethnic groups is the african americans .
-joe biden is a leader of the united states which is lead by a president . the white americans are one of the ethnic groups of the country which uses the english language and is where 250 delaware avenue is located .
-250 delaware avenue is located in the united states , where english is spoken . the president of the united states is the main leader , a@@ l@@ o@@ n@@ g@@ s@@ i@@ d@@ e joe biden , and an ethnic group in the country is white americans .
-bananaman was s@@ h@@ o@@ w@@ n on the bbc , first a@@ i@@ r@@ i@@ n@@ g on 3 october 1983 and the f@@ i@@ n@@ al broadcast being 15 april 1@@ 9@@ 8@@ 6 . it was created by john g@@ e@@ e@@ r@@ i@@ n@@ g and starred t@@ i@@ m b@@ r@@ o@@ o@@ k@@ e t@@ a@@ y@@ l@@ o@@ r .
-the bbc b@@ e@@ g@@ an a@@ i@@ r@@ i@@ n@@ g bananaman october 3rd , 1983 and the l@@ a@@ s@@ t e@@ p@@ i@@ s@@ o@@ de was broadcast on april 15th , 1@@ 9@@ 8@@ 6 . john g@@ e@@ e@@ r@@ i@@ n@@ g is one of the c@@ r@@ e@@ a@@ t@@ o@@ r@@ s of bananaman which also starred t@@ i@@ m b@@ r@@ o@@ o@@ k@@ e@@ -@@ t@@ a@@ y@@ l@@ o@@ r .
-the t@@ v character bananaman was created by john g@@ e@@ e@@ r@@ i@@ n@@ g . the p@@ r@@ o@@ g@@ r@@ a@@ m@@ m@@ e was broadcast by the bbc and starred t@@ i@@ m b@@ r@@ o@@ o@@ k@@ e@@ -@@ t@@ a@@ y@@ l@@ o@@ r . it first a@@ i@@ red on the 1@@ 0@@ t@@ h march 1983 and was l@@ a@@ s@@ t s@@ h@@ o@@ w@@ n on april 15th 1@@ 9@@ 8@@ 6 .
-baymax is a character from the film big hero 6 s@@ t@@ a@@ r@@ r@@ i@@ n@@ g scott a@@ d@@ s@@ it . he was created by s@@ t@@ e@@ v@@ e@@ n t s@@ e@@ a@@ g@@ l@@ e and the american , duncan rouleau .
-american duncan rouleau and s@@ t@@ e@@ v@@ e t@@ . s@@ e@@ a@@ g@@ l@@ e created baymax . baymax is a character in big hero 6 which starred scott a@@ d@@ s@@ it .
-baymax was created by american duncan rouleau and s@@ t@@ e@@ v@@ e@@ n t@@ . s@@ e@@ a@@ g@@ l@@ e . baymax is a character in big hero 6 which stars scott a@@ d@@ s@@ it .
-from andalusia , spain , ajoblanco is made with bread , almonds , garlic , water and olive oil . a@@ j@@ o b@@ l@@ a@@ n@@ c@@ o is an alternative name to ajoblanco .
-ajoblanco , also known as a@@ j@@ o b@@ l@@ a@@ n@@ c@@ o is a dish from the a@@ n@@ d@@ a@@ l@@ u@@ s@@ i@@ an region of spain and includes the main ingredients of bread , almonds , garlic , water and olive oil .
-a dish found in the a@@ n@@ d@@ a@@ l@@ u@@ s@@ i@@ an region of spain is called ajoblanco ( or a@@ j@@ o b@@ l@@ a@@ n@@ c@@ o ) . it contains bread , almonds , garlic , water and olive oil .
-t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , g@@ u@@ a@@ n@@ c@@ i@@ a@@ l@@ e , cheese , and olive oil are main ingredients in the traditional amatriciana sauce , which comes from the region of l@@ a@@ z@@ i@@ o and can be found in an italian m@@ e@@ al .
-amatriciana is a traditional sauce from l@@ a@@ z@@ i@@ o , italy . it includes cheese along with t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , g@@ u@@ a@@ n@@ c@@ i@@ a@@ l@@ e and olive oil .
-amatriciana sauce can be found in italian food and comes from the country 's l@@ a@@ z@@ i@@ o r@@ e@@ g@@ i@@ o@@ n@@ .@@ the main ingredients of the sauce are g@@ u@@ a@@ n@@ c@@ i@@ a@@ l@@ e , t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , cheese , and olive oil .
-arem-arem , a javanese dish , is c@@ o@@ m@@ m@@ o@@ n@@ l@@ y served in indonesia where the leader is joko widodo . it is also where the currency is the indonesian r@@ u@@ p@@ i@@ a@@ h and where indonesian language is the language spoken .
-sergio mattarella is a leader in italy , a country where rome is the capital , and both the people and the language spoken are italian . arrabbiata sauce can be found in italy .
-arrabbiata sauce is from italy where the capital is rome , italian is the language spoken and sergio mattarella is a leader .
-x@@ i@@ m@@ o p@@ u@@ i@@ g is a leader of the valencian community which is where arros negre comes from . it is a a traditional dish from spain , where the people are called spaniards and the leader is felipe vi of spain .
-arros negre is from the valencian community of spain , home to the spaniards , led by felipe vi and x@@ i@@ m@@ o p@@ u@@ i@@ g .
-asam pedas is a food found in the malay peninsula of malaysia , whose capital is k@@ u@@ a@@ l@@ a l@@ u@@ m@@ p@@ u@@ r , and includes the malaysian chinese and malaysian i@@ n@@ d@@ i@@ a@@ n@@ s .
-asam pedas is a food found in the malay peninsula in malaysia , whose capital is k@@ u@@ a@@ l@@ a l@@ u@@ m@@ p@@ u@@ r , where malaysian i@@ n@@ d@@ i@@ a@@ n@@ s and malaysian chinese are ethnic groups .
-malaysia and the malay peninsula are home to the dish asam pedas . the capital of malaysian chinese and indian i@@ n@@ h@@ a@@ b@@ i@@ t@@ e@@ d malaysia is k@@ u@@ a@@ l@@ a l@@ u@@ m@@ p@@ u@@ r .
-malaysian indian and malaysian chinese are two of the ethnic groups in malaysia where a@@ r@@ i@@ f@@ in z@@ a@@ k@@ a@@ r@@ i@@ a is the leader . asam pedas is found in malaysia and is from the malay peninsula region .
-asam pedas is a food found in the malay peninsula region , malaysia , where ethnic groups include malaysian indian and chinese . a@@ r@@ i@@ f@@ in z@@ a@@ k@@ a@@ r@@ i@@ a is the country 's leader .
-malaysia , led by a@@ r@@ i@@ f@@ in z@@ a@@ k@@ a@@ r@@ i@@ a , is home to the malaysian indian and chinese , as well as the asam pedas of the malay peninsula region .
-ayam penyet is a javanese dish made nationwide , and can also be found in malaysia and singapore . it s@@ h@@ o@@ u@@ l@@ d be served h@@ o@@ t and contains the main ingredients of s@@ q@@ u@@ e@@ e@@ z@@ e@@ d or s@@ m@@ a@@ s@@ h@@ e@@ d fried chicken served with s@@ a@@ m@@ b@@ al .
-ayam penyet is a h@@ o@@ t food dish found in java , malaysia and singapore and c@@ o@@ n@@ s@@ i@@ s@@ t@@ s of fried chicken and s@@ a@@ m@@ b@@ al sauce .
-ayam penyet is a food made in java r@@ e@@ g@@ i@@ o@@ n@@ s of malaysia and singapore . it contains fried chicken that is s@@ m@@ a@@ s@@ h@@ e@@ d and served h@@ o@@ t with s@@ a@@ m@@ b@@ al .
-bacon explosion is a dish that originates in the united states , where english is the language spoken and the capital is washington dc . barack obama is leader of the us and native americans are one of the ethnic groups of the country .
-barack obama is leader of united states , the home of the dish bacon explosion . native americans are one of the ethnic groups of the country , where washington dc is the capital and english is the language spoken .
-bacon explosion comes from the united states whose leader is barack obama . the capital of the united states is washington , d.c. , the spoken language is english and native americans are one of the ethnic groups of the country .
-baked alaska originates from france where the national language is french and one of the leader is g@@ e@@ r@@ a@@ r@@ d larcher . the dessert is served in hong kong as well where the leader is c@@ a@@ r@@ r@@ i@@ e l@@ a@@ m .
-baked alaska comes from france where the spoken language is french , and the country 's leader is g@@ e@@ r@@ a@@ r@@ d larcher . this dessert is also served in hong kong .
-baked alaska , served in hong kong , who 's p@@ o@@ l@@ i@@ t@@ i@@ c@@ al leader is c@@ a@@ r@@ r@@ i@@ e l@@ a@@ m , but is a@@ c@@ t@@ u@@ a@@ l@@ l@@ y from france where the national language is french and the leader is g@@ e@@ r@@ a@@ r@@ d larcher .
-bakewell tart ( or pudding ) is from the derbyshire dales area of derbyshire where p@@ a@@ t@@ r@@ i@@ c@@ k m@@ c@@ l@@ o@@ u@@ g@@ h@@ l@@ in is a leader . the tart is made with s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y .
-the s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y@@ -@@ based dessert bakewell tart ( or pudding ) h@@ a@@ i@@ l@@ s from the derbyshire dales area of derbyshire where p@@ a@@ t@@ r@@ i@@ c@@ k m@@ c@@ l@@ o@@ u@@ g@@ h@@ l@@ in is a leader .
-a v@@ a@@ r@@ i@@ a@@ n@@ t of bakewell pudding is bakewell tart , which key ingredient is s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y . bakewell pudding originates from the derbyshire dales , which leader is p@@ a@@ t@@ r@@ i@@ c@@ k m@@ c@@ l@@ o@@ u@@ g@@ h@@ l@@ in .
-bandeja paisa is a dish from colombian cuisine and originates from the paisa region . one of the ingredients in bandeja paisa is lemon which is a member of the family r@@ u@@ t@@ a@@ c@@ e@@ a@@ e and is from the g@@ e@@ n@@ us c@@ i@@ t@@ r@@ us .
-bandeja paisa is a traditional dish from the paisa region , c@@ o@@ l@@ o@@ m@@ b@@ i@@ a . lemon is one of its ingredients and is a member of the family r@@ u@@ t@@ a@@ c@@ e@@ a@@ e and is from the g@@ e@@ n@@ us c@@ i@@ t@@ r@@ us .
-bandeja paisa is t@@ y@@ p@@ i@@ c@@ al colombian cuisine that originates from the paisa region and contains lemon . the lemon belongs to the r@@ u@@ t@@ a@@ c@@ e@@ a@@ e family and the order of r@@ o@@ s@@ i@@ d@@ s .
-barny cakes , which are made from sponge cake , are from france , where g@@ e@@ r@@ a@@ r@@ d larcher and c@@ l@@ a@@ u@@ de b@@ a@@ r@@ t@@ o@@ l@@ one are leaders and french is the language spoken .
-barny cakes , made with sponge cake , are found in france , where french is spoken and whose leaders are c@@ l@@ a@@ u@@ de b@@ a@@ r@@ t@@ o@@ l@@ one and g@@ e@@ r@@ a@@ r@@ d larcher .
-created by m@@ o@@ n@@ d@@ e@@ l@@ e@@ z international ( founded in chicago ) , barny cakes come from france where g@@ e@@ r@@ a@@ r@@ d larcher is leader and they speak french .
-barny cakes is created by m@@ o@@ n@@ d@@ e@@ l@@ e@@ z international , which was founded in chicago . it comes from france , which leader is g@@ é@@ r@@ a@@ r@@ d larcher and the language is french .
-english speaking singapore , led by tony tan and halimah yacob , o@@ f@@ f@@ e@@ r@@ s the dish beef kway teow , also found in indonesia .
-bhajji is also known as b@@ h@@ a@@ j@@ i or b@@ a@@ j@@ j , originates from the karnataka region of india . it is u@@ s@@ u@@ a@@ l@@ l@@ y made u@@ p of vegetables and g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r .
-bhajji , also known as b@@ h@@ a@@ j@@ i or b@@ a@@ j@@ j@@ i , originates from india in the karnataka region and the main ingredients are g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r and vegetables .
-bhajji ( b@@ h@@ a@@ j@@ i ) , or b@@ a@@ j@@ j@@ i , contains vegetables and g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r ; it originates from the karnataka region of india .
-i@@ n@@ d@@ i@@ a@@ n@@ s is the name g@@ i@@ v@@ e@@ n to people from india and the leaders are sumitra mahajan and v@@ a@@ j@@ u@@ b@@ h@@ a@@ i v@@ a@@ l@@ a . bhajji is from the karnataka region of india .
-bhajji is from the k@@ a@@ r@@ a@@ n@@ t@@ a@@ k@@ e region of india . india is led by v@@ a@@ j@@ u@@ b@@ h@@ a@@ i v@@ a@@ l@@ a and home to the indian people .
-bhajji originates from the karnataka region ( led by v@@ a@@ j@@ u@@ b@@ h@@ a@@ i v@@ a@@ l@@ a ) of india . the i@@ n@@ d@@ i@@ a@@ n@@ s of india are led by sumitra mahajan .
-bionico is a dessert from j@@ a@@ l@@ i@@ s@@ c@@ o , m@@ e@@ x@@ i@@ o . the leader in j@@ a@@ l@@ i@@ s@@ c@@ o is j@@ e@@ s@@ us c@@ a@@ s@@ i@@ l@@ l@@ as r@@ o@@ m@@ e@@ r@@ o . a@@ n@@ o@@ t@@ h@@ e@@ r dessert is a cake .
-bionico is a dessert found in the j@@ a@@ l@@ i@@ s@@ c@@ o region of mexico . the name of the leader in j@@ a@@ l@@ i@@ s@@ c@@ o is j@@ e@@ s@@ us c@@ a@@ s@@ i@@ l@@ l@@ as r@@ o@@ m@@ e@@ r@@ o . a@@ n@@ o@@ t@@ h@@ e@@ r dessert is a cake .
-a type of dessert is a cake . h@@ o@@ w@@ e@@ v@@ e@@ r , bionico is n@@ o@@ t a cake , and i@@ n@@ s@@ t@@ e@@ a@@ d a dessert from the g@@ u@@ a@@ d@@ a@@ l@@ a@@ j@@ a@@ r@@ a region , in mexico . mexico is where e@@ n@@ r@@ i@@ q@@ u@@ e pena n@@ i@@ e@@ to is the leader .
-bionico is a dessert from g@@ u@@ a@@ d@@ a@@ l@@ a@@ j@@ a@@ r@@ a , mexico where the leader is e@@ n@@ r@@ i@@ q@@ u@@ e pena n@@ i@@ e@@ to . a@@ n@@ o@@ t@@ h@@ e@@ r dessert is a cake .
-p@@ a@@ t@@ r@@ i@@ c@@ k m@@ c@@ l@@ o@@ u@@ g@@ h@@ l@@ in is the leader of derbyshire dales which is in the county of derbyshire . bakewell tart , a variation of bakewell pudding , comes from the derbyshire dales and contains f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e .
-p@@ a@@ t@@ r@@ i@@ c@@ k m@@ c@@ l@@ o@@ u@@ g@@ h@@ l@@ in is a leader in the derbyshire dales ( in the county of derbyshire ) where the bakewell tart is a popular dish . this dish contains f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e and has a v@@ a@@ r@@ i@@ a@@ n@@ t called bakewell pudding .
-p@@ a@@ t@@ r@@ i@@ c@@ k m@@ c@@ l@@ o@@ u@@ g@@ h@@ l@@ in is a leader in derbyshire dales in the county of derbyshire the f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e bakewell tart , a variation of bakewell pudding , is popular in the derbyshire dales area .
-p@@ a@@ t@@ r@@ i@@ c@@ k m@@ c@@ l@@ o@@ u@@ g@@ h@@ l@@ in is the leader of derbyshire dales which is part of derbyshire . c@@ o@@ m@@ i@@ n@@ g from the derbyshire dales region is bakewell tart ( a variation of bakewell pudding ) which has f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e as an ingredient .
-the derbyshire dales , whose leader is p@@ a@@ t@@ r@@ i@@ c@@ k m@@ c@@ l@@ o@@ u@@ g@@ h@@ l@@ in , is part of derbyshire and is where bakewell t@@ a@@ r@@ t@@ s come from . bakewell tart is a variation of bakewell pudding and one of the ingredients is f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e .
-the f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e - based dessert bakewell tart ( or pudding ) is popular in the derbyshire dales area of derbyshire where p@@ a@@ t@@ r@@ i@@ c@@ k m@@ c@@ l@@ o@@ u@@ g@@ h@@ l@@ in is a leader .
-j@@ a@@ k@@ a@@ r@@ t@@ a is the capital of indonesia where the leader is jusuf kalla , they speak indonesian and e@@ at bakso .
-bakso is a dish from the country of indonesia , which leader is jusuf kalla , the capital is j@@ a@@ k@@ a@@ r@@ t@@ a and the language is indonesian .
-bakso is a food and a dish found in indonesia , where the capital is j@@ a@@ k@@ a@@ r@@ t@@ a , the language is indonesia and jusuf kalla is the leader .
-italy is the country amatriciana sauce comes from and people there are called italians . the capital is rome and the leaders are m@@ a@@ t@@ t@@ e@@ o r@@ e@@ n@@ z@@ i and sergio mattarella .
-rome is the capital of italy where the leaders are m@@ a@@ t@@ t@@ e@@ o r@@ e@@ n@@ z@@ i and sergio mattarella . amatriciana sauce can be found there and people are called italians .
-amatriciana sauce is from italy , where rome is the capital and where italians live . leaders of the country include sergio mattarella and m@@ a@@ t@@ t@@ e@@ o r@@ e@@ n@@ z@@ i .
-halimah yacob is the leader in singapore where english is spoken and the dish ayam penyet is from . it is also from java , a country where one of the ethnic groups are the b@@ a@@ d@@ u@@ y .
-the b@@ a@@ d@@ u@@ y is an ethnic group in java where ayam penyet is from . this dish is also from singapore where english is spoken and halimah yacob is the leader .
-ayam penyet originates from java where b@@ a@@ d@@ u@@ y people are one of the ethnic g@@ r@@ o@@ u@@ p@@ s@@ .@@ the food can also be found in singapore where english is m@@ a@@ i@@ n@@ l@@ y spoken and halimah yacob is the president .
-philippines is the country the dish batchoy comes from . the l@@ l@@ o@@ c@@ a@@ n@@ o and i@@ g@@ o@@ r@@ o@@ t p@@ e@@ o@@ p@@ l@@ e@@ s are ethnic groups from the philippines , where languages spoken include arabic and p@@ h@@ i@@ l@@ l@@ i@@ p@@ p@@ i@@ n@@ e english .
-batchoy is eaten in the philippines , languages spoken there include english ( official language ) and also arabic . ethnic groups there include the i@@ l@@ o@@ c@@ a@@ n@@ o and i@@ g@@ o@@ r@@ o@@ t p@@ e@@ o@@ p@@ l@@ e@@ s .
-available nationwide in indonesia and singapore , beef kway teow is a dish which comes from singapore , where english is spoken . it is also where two of the leaders are halimah yacob and tony tan .
-j@@ u@@ s@@ t l@@ i@@ k@@ e in indonesia , beef kway teow is popular nationwide is singapore ( where it comes from ) . in this country , english is spoken and two of the leaders are halimah yacob and tony tan .
-beef kway teow is a popular dish in singapore and indonesia . tony tan and halimah yacob are leaders in singapore where english is spoken .
-ajoblanco is a dish from spain , where the currency is the euro , the leader is felipe vi , the language spoken is spanish and the people that live there are called spaniards .
-ajoblanco is a food found in spanish speaking and felipe vi led spain . it is also home to the spaniards and can be p@@ u@@ r@@ c@@ h@@ a@@ s@@ e@@ d with the euro .
-the 11th mississippi infantry monument is located in the municipality of gettysburg , adams county , pennsylvania . adams county is east of franklin county and south of cumberland county . maryland 's carrol county is located to the southeast .
-the 11th mississippi infantry monument is p@@ l@@ a@@ c@@ e@@ d in the municipality of gettysburg , adams county , pennsylvania . to the west of adams county lies franklin county and to the north , cumberland county , both of t@@ h@@ e@@ s@@ e are in pennsylvania . carrol county maryland is southeast of adams county .
-the 11th mississippi infantry monument is located in gettysburg , adams county , pennsylvania . adams county is located east of franklin county and south of cumberland county . maryland 's carrol county is located to the southeast .
-the capital of azerbaijan is baku and the leader and prime minister of azerbaijan is called artur rasizade . the baku turkish m@@ a@@ r@@ t@@ y@@ r 's memorial is located in azerbaijan and the l@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ u@@ r@@ e is known as the national assembly .
-prime minister of azerbaijan ( capital baku ) is the official title of the leader whose name is artur rasizade . baku turkish martyrs ' memorial is located in azerbaijan and the l@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ u@@ r@@ e of the country is the national assembly .
-the baku turkish martyrs ' memorial in azerbaijan is dedicated to the ottoman army soldiers killed in the battle of baku and was designed by huseyin butuner and hilmi guner . the monument is also known by the native name t@@ ü@@ r@@ k Ş@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i a@@ n@@ ı@@ t@@ ı . azerbaijan 's leader is artur rasizade .
-the baku turkish martyrs ' memorial ( native name : " t@@ ü@@ r@@ k s@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i a@@ n@@ i@@ t@@ i " ) in azerbaijan has been dedicated to ottoman army soldiers killed in the battle of baku and it was designed by h@@ ü@@ s@@ e@@ y@@ in b@@ ü@@ t@@ ü@@ n@@ e@@ r and hilmi g@@ ü@@ n@@ e@@ r@@ .@@ artur rasizade is the leader of azerbaijan .
-the baku turkish m@@ a@@ r@@ t@@ y@@ r 's memorial in azerbaijan is dedicated to the ottoman army soldiers killed in the battle of baku . the native name of the memorial is " t@@ ü@@ r@@ k s@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i a@@ n@@ i@@ t@@ i " and was designed by h@@ ü@@ s@@ e@@ y@@ in b@@ ü@@ t@@ ü@@ n@@ e@@ r and hilmi g@@ ü@@ n@@ e@@ r . the leader of turkey is artur rasizade .
-huseyin butuner and hilmi guner designed the red granite and white marble baku turkish martyrs memorial in azerbaijan . it is also known as t@@ u@@ r@@ k s@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i a@@ n@@ i@@ t@@ i and is dedicated to the soldiers of the ottoman army killed in the battle of baku .
-the baku turkish martyrs ' memorial is located in azerbaijan , where it is known as " t@@ ü@@ r@@ k s@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i a@@ n@@ i@@ t@@ i " . the memorial is dedicated to ottoman army soldiers who were killed in the battle of baku . it was designed by h@@ ü@@ s@@ e@@ y@@ in b@@ ü@@ t@@ ü@@ n@@ e@@ r and hilmi g@@ ü@@ n@@ e@@ r , and constructed o@@ ut of red granite and white marble .
-baku turkish martyrs ' memorial , made of red granite and white marble , is dedicated to the ottoman army soldiers killed in the battle of baku and was designed by huseyin butuner and hilmi guner . the memorial is known in turkish as t@@ u@@ r@@ k s@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i a@@ n@@ i@@ t@@ i and can be found in azerbaijan .
-the baku turkish martyrs ' memorial , designed by huseyin butuner and hilmi guner and made of granite and white marble , is dedicated to the ottoman army soldiers killed in the battle of baku . the memorial is found in azerbaijan whose leader is the prime minister .
-the baku turkish martyrs ' memorial in azerbaijan is dedicated to the ottoman army soldiers killed in the battle of baku . it was designed by h@@ ü@@ s@@ e@@ y@@ in b@@ ü@@ t@@ ü@@ n@@ e@@ r and hilmi g@@ ü@@ n@@ e@@ r and is built u@@ s@@ i@@ n@@ g red granite and white marble . azerbaijan 's leader is the prime minister of azerbaijan .
-the baku turkish m@@ a@@ r@@ t@@ y@@ r 's memorial , designed by h@@ ü@@ s@@ e@@ y@@ in b@@ ü@@ t@@ ü@@ n@@ e@@ r and hilmi g@@ ü@@ n@@ e@@ r , was constructed u@@ s@@ i@@ n@@ g red granite and white marble . it is located in baku , azerbaijan , which is led by a prime minister . this memorial is dedicated to the ottoman army soldiers killed in the battle of baku .
-g@@ o@@ r@@ d@@ on m@@ a@@ r@@ s@@ den is the leader of blackpool where afc blackpool are located . their manager is stuart parker who is a member of c@@ h@@ e@@ s@@ t@@ e@@ r@@ f@@ i@@ e@@ l@@ d fc and plays for k@@ v m@@ e@@ c@@ h@@ e@@ l@@ e@@ n .
-g@@ o@@ r@@ d@@ on m@@ a@@ r@@ s@@ den is the leader of blackpool where afc blackpool is located . the club is managed by stuart parker who is part of the k@@ v m@@ e@@ c@@ h@@ e@@ l@@ e@@ n club and a member of c@@ h@@ e@@ s@@ t@@ e@@ r@@ f@@ i@@ e@@ l@@ d fc .
-o@@ l@@ y@@ m@@ p@@ i@@ a@@ c@@ o@@ s f.c. were p@@ a@@ s@@ t champions in the greece superleague , the league aek athens fc c@@ o@@ m@@ p@@ e@@ t@@ e in . their manager is g@@ u@@ s p@@ o@@ y@@ e@@ t , whose club is r@@ e@@ al z@@ a@@ r@@ a@@ g@@ o@@ z@@ a e@@ v@@ e@@ n t@@ h@@ o@@ u@@ g@@ h he played for c@@ h@@ e@@ l@@ sea f.c.
-g@@ u@@ s p@@ o@@ y@@ e@@ t is the manager of aek athens f.c. who play in the superleague of greece ( which has o@@ l@@ y@@ m@@ p@@ i@@ a@@ c@@ o@@ s fc as previous champions ) . p@@ o@@ y@@ e@@ t previously played for c@@ h@@ e@@ l@@ sea fc and is in the r@@ e@@ al z@@ a@@ r@@ a@@ g@@ o@@ z@@ a club .
-previous champions of the superleague greece are o@@ l@@ y@@ m@@ p@@ i@@ a@@ c@@ o@@ s fc . aek athens fc also c@@ o@@ m@@ p@@ e@@ t@@ e in the league and they are managed by g@@ u@@ s p@@ o@@ y@@ e@@ t who previously played for c@@ h@@ e@@ l@@ sea fc and whose club is r@@ e@@ al z@@ a@@ r@@ a@@ g@@ o@@ z@@ a .
-e@@ s@@ t@@ á@@ d@@ i@@ o m@@ u@@ n@@ i@@ c@@ i@@ p@@ al c@@ o@@ a@@ r@@ a@@ c@@ y d@@ a m@@ a@@ t@@ a f@@ o@@ n@@ s@@ e@@ c@@ a is the name of the ground of agremiação sportiva arapiraquense . it is located in a@@ l@@ a@@ g@@ o@@ as . agremiação sportiva arapiraquense play in the campeonato brasileiro série c league from brazil . the v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be were champions at the série c@@ .
-v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be have been champions of campeonato brasileiro série c@@ . from brazil in which agremiação sportiva arapiraquense also play . this l@@ a@@ t@@ t@@ e@@ r team have their ground at e@@ s@@ t@@ á@@ d@@ i@@ o m@@ u@@ n@@ i@@ c@@ i@@ p@@ al c@@ o@@ a@@ r@@ a@@ c@@ y d@@ a m@@ a@@ t@@ a f@@ o@@ n@@ s@@ e@@ c@@ a which is located in a@@ l@@ a@@ g@@ o@@ as .
-l@@ located in a@@ l@@ a@@ g@@ o@@ as , e@@ s@@ t@@ á@@ d@@ i@@ o m@@ u@@ n@@ i@@ c@@ i@@ p@@ al c@@ o@@ a@@ r@@ a@@ c@@ y d@@ a m@@ a@@ t@@ a f@@ o@@ n@@ s@@ e@@ c@@ a is the name of the ground of agremiação sportiva arapiraquense . they play in the campeonato brasileiro série c league , which is from brazil , and the champions of which have been v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be .
-v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be have been champions of campeonato brasileiro série c@@ . league in brazil . agremiação sportiva arapiraquense also play in the league and have their home ground at e@@ s@@ t@@ á@@ d@@ i@@ o m@@ u@@ n@@ i@@ c@@ i@@ p@@ al c@@ o@@ a@@ r@@ a@@ c@@ y d@@ a m@@ a@@ t@@ a f@@ o@@ n@@ s@@ e@@ c@@ a in a@@ r@@ a@@ p@@ i@@ r@@ a@@ c@@ a .
-agremiação sportiva arapiraquense play in the campeonato brasileiro série c league ( in brazil ) , which has been won by v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be . a@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o sportiva arapiraquense 's ground is the e@@ s@@ t@@ a@@ d@@ i@@ o m@@ i@@ n@@ i@@ c@@ i@@ p@@ al c@@ o@@ a@@ r@@ a@@ c@@ y d@@ a m@@ a@@ t@@ a f@@ o@@ n@@ s@@ e@@ c@@ a , which is located in a@@ r@@ a@@ p@@ i@@ r@@ a@@ c@@ a .
-agremiação sportiva arapiraquense play in the campeonato brasileiro série c league in brazil . v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be are the champions of serie c@@ . e@@ s@@ t@@ á@@ d@@ i@@ o m@@ u@@ n@@ i@@ c@@ i@@ p@@ al c@@ o@@ a@@ r@@ a@@ c@@ y d@@ a m@@ a@@ t@@ a f@@ o@@ n@@ s@@ e@@ c@@ a ( a@@ r@@ a@@ p@@ i@@ r@@ a@@ c@@ a ) is the name of the ground of agremiação sportiva arapiraquense .
-the v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be were champions at the campeonato brasileiro série c@@ . in brazil . agremiação sportiva arapiraquense who also play in the league have 17000 members and are managed by v@@ i@@ c@@ a .
-agremiação sportiva arapiraquense play in the campeonato brasileiro série c league in brazil , which has been won by v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be . a@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o sportiva arapiraquense 's ground can h@@ o@@ l@@ d 17000 f@@ a@@ n@@ s and the team is managed by v@@ i@@ c@@ a .
-v@@ i@@ l@@ a n@@ o@@ v@@ a f@@ u@@ t@@ e@@ b@@ o@@ l c@@ l@@ u@@ be have been champions of campeonato brasileiro série c , which is from brazil . it is in this league that agremiação sportiva arapiraquense play in . they are managed by v@@ i@@ c@@ a , and h@@ a@@ v@@ e@@ 17000 members .
-the accademia di architettura di mendrisio in mendrisio , switzerland h@@ a@@ d 100 academic staff and 600 students . its dean is mario botta .
-the dean of the accademia di architettura di mendrisio in the city of mendrisio , switzerland is mario botta . there are 600 students and 100 academic staff at the accademia .
-the accademia di architettura di mendrisio in switzerland has a staff of 100 and a student population of 600 . the dean is mario botta .
-the accademia di architettura di mendrisio is located in t@@ i@@ c@@ i@@ n@@ o , switzerland . it was established in 1996 and it has 600 students . the leader of switzerland is johann schneider-ammann .
-the leader of switzerland is johann schneider-ammann . the country is the location of the accademia di architettura di mendrisio in t@@ i@@ c@@ i@@ n@@ o which was established in 1996 and has 600 students .
-the accademia di architettura di mendrisio , which has 600 students , was founded in 1996 in t@@ i@@ c@@ i@@ n@@ o , switzerland . the leader of switzerland is johann s@@ c@@ h@@ n@@ e@@ i@@ d@@ e@@ r - a@@ m@@ man .
-the acharya institute of technology is affiliated with the visvesvaraya technological university and is located in bangalore , karnataka . to its northeast is t@@ e@@ l@@ a@@ n@@ g@@ a@@ n@@ a and to its west is the a@@ r@@ a@@ b@@ i@@ an sea .
-the acharya institute of technology in b@@ a@@ l@@ g@@ a@@ l@@ o@@ r@@ e , karnataka is east of the a@@ r@@ a@@ b@@ i@@ an sea and s@@ o@@ u@@ t@@ h@@ west of t@@ e@@ l@@ a@@ n@@ g@@ a@@ n@@ a . it is affiliated with the visvesvaraya technological university .
-karnataka state which has the a@@ r@@ a@@ b@@ i@@ an sea to it 's west and t@@ e@@ l@@ a@@ n@@ g@@ a@@ n@@ a to it ' s n@@ o@@ r@@ t@@ h@@ west is also home to the acharya institute of technology . the institute is located in the city of bangalore and is affiliated with the visvesvaraya technological university .
-the acharya institute of technology is located at in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 , india . the school was established in 2000 and has 700 postgraduate students .
-the acharya institute of technology was established in 2000 and is based in the city of bangalore in india . it currently has 700 postgraduate students and it 's e@@ x@@ a@@ c@@ t location is ' in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore - 560090 .
-acharya institute of technology was founded by k@@ e@@ m@@ p@@ e g@@ o@@ w@@ d@@ a i in bangalore in the state of karnataka . it has the a@@ r@@ a@@ b@@ i@@ an sea to its west and is affiliated with visvesvaraya technological university .
-acharya institute of technology is located in bangalore , karnataka , east of the a@@ r@@ a@@ b@@ i@@ an sea . the institute is affiliated with visvesvaraya technological university . bangalore was founded by k@@ e@@ m@@ p@@ e g@@ o@@ w@@ d@@ a .
-the 1 decembrie 1918 university is in alba i@@ u@@ l@@ i@@ a , romania . the country 's capital is bucharest and the prime minister is klaus iohannis .
-1 decembrie 1918 university is in alba i@@ u@@ l@@ i@@ a , romania . bucharest is the capital of romania and klaus iohannis is the country 's prime minister .
-1 decembrie 1918 university is located in the city of alba l@@ u@@ l@@ i@@ a in romania . the capital of romania is bucharest and the prime minister is klaus l@@ o@@ h@@ a@@ n@@ n@@ is .
-the school of business and social sciences at aarhus university in denmark is affiliated with the european university association . it has 1@@ 6@@ ,@@ 0@@ 0@@ 0 students , 737 e@@ m@@ p@@ l@@ o@@ y@@ e@@ e@@ s . and was established in 1928 .
-the school of business and social sciences at the aarhus university in denmark was established in 1928 . it is affiliated with the european university association and has a staff c@@ o@@ m@@ p@@ l@@ i@@ m@@ e@@ n@@ t of 737 . 1@@ 6@@ 0@@ 0@@ 0 students a@@ t@@ t@@ e@@ n@@ d the university currently .
-the school of business and social sciences at the aarhus university was established in denmark in 1928 . the school is affiliated with the european university association and has 1@@ 6@@ ,@@ 0@@ 0@@ 0 students and 737 academic staff .
-f@@ a@@ b@@ e@@ r and f@@ a@@ b@@ e@@ r are the p@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ r@@ s of the secret scripture , a sequel to a long long way . that book comes from ireland which is located in e@@ u@@ r@@ o@@ p@@ e and where there is an ethnic group of white people .
-ireland , where the white people are an ethnic group , is situated within e@@ u@@ r@@ o@@ p@@ e . the book a long long way was written in ireland and published by f@@ a@@ b@@ e@@ r and f@@ a@@ b@@ e@@ r . the sequel to the book is known as the secret scripture .
-ireland is a country within e@@ u@@ r@@ o@@ p@@ e and the ethnic group are white people . the novel a long long way was written in ireland and was followed by the secret scripture which was published by f@@ a@@ b@@ e@@ r and f@@ a@@ b@@ e@@ r .
-the ethnic group of ireland is white people and is where a long long way comes from . it was preceded by a@@ n@@ n@@ i@@ e d@@ u@@ n@@ n@@ e and followed by the secret scripture which is published by f@@ a@@ b@@ e@@ r and f@@ a@@ b@@ e@@ r .
-an ethnic group of ireland is white people where a long long way comes from . it was preceded by a@@ n@@ n@@ i@@ e d@@ u@@ n@@ n@@ e preceded and followed by the secret scripture which is published by f@@ a@@ b@@ e@@ r and f@@ a@@ b@@ e@@ r .
-above the veil is an a@@ u@@ s@@ t@@ r@@ a@@ l@@ i@@ an novel and the sequel to aenir and castle . it was l@@ a@@ t@@ e@@ r followed by i@@ n@@ to battle and the v@@ i@@ o@@ l@@ e@@ t k@@ e@@ y@@ s@@ t@@ one .
-above the v@@ i@@ e@@ l is an a@@ u@@ s@@ t@@ r@@ l@@ i@@ an novel and the sequel to aenir and castle . it was followed by i@@ n@@ to battle and the v@@ i@@ o@@ l@@ e@@ t k@@ e@@ y@@ s@@ t@@ one .
-above the veil is an a@@ u@@ s@@ t@@ r@@ l@@ i@@ an novel and the sequel to aenir and castle . it was followed by i@@ n@@ to the battle and the v@@ i@@ o@@ l@@ e@@ t k@@ e@@ y@@ s@@ t@@ one .
-cornell university is in i@@ t@@ h@@ a@@ c@@ a , new york and is n@@ i@@ c@@ k@@ named cornell big red . they are the publisher of administrative science quarterly and are affiliated with the association of american universities .
-cornell university is in i@@ t@@ h@@ a@@ c@@ a , new york and their n@@ i@@ c@@ k@@ name is cornell big red . they are the publisher of administrative science quarterly and are affiliated with the association of american universities .
-cornell u@@ n@@ v@@ e@@ r@@ s@@ i@@ t@@ y is in i@@ t@@ h@@ a@@ c@@ a , new york and their n@@ i@@ c@@ k@@ name is cornell big red . they are the publisher of the administrative science quarterly and are affiliated with the association of american universities .
-the administrative science quarterly is published by cornell university , i@@ t@@ h@@ a@@ c@@ a , in the state of new york . cornell university ( n@@ i@@ c@@ k@@ named ' cornell big red ' ) is affiliated with the association of public and l@@ and g@@ r@@ a@@ n@@ t universities .
-cornell big red is the n@@ i@@ c@@ k@@ name of cornell university which is affiliated with the association of public and l@@ and g@@ r@@ a@@ n@@ t universities . the university is in the city of i@@ t@@ h@@ a@@ c@@ a , new york , new york state and p@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ s the administrative science quarterly .
-cornell university , of i@@ t@@ h@@ a@@ c@@ a , new york , is the publisher of the administrative science quarterly . the university , which has the n@@ i@@ c@@ k@@ name cornell big red , is affiliated with the association of public and l@@ and g@@ r@@ a@@ n@@ t universities .
-the united states is home to the ethnic group of african americans and is lead by barack obama . the country is the o@@ r@@ i@@ g@@ in of the book alcatraz versus the evil librarians . this book was written in english , as spoken in great britain .
-alcatraz versus the evil librarians is from the united states and is written in english which is also spoken in great britain . the leader of the us is barack obama and african americans are one of the ethnic groups .
-a severed wasp is from the united states which l@@ i@@ k@@ e great britain s@@ p@@ e@@ a@@ k@@ s english . the capital of the us is washington d@@ .@@ c and one ethnic group is the african americans .
-a severed wasp originates in the united states where l@@ i@@ k@@ e in great britain , english is also spoken . washington dc is the capital of the us and one ethnic group is the african americans .
-a severed wasp is a novel from the united states where english is l@@ a@@ r@@ g@@ e@@ l@@ y spoken ( as in great britain ) . the capital of the us is washington d.c. and african americans are an ethnic group there .
-english is spoken in great britain and the united states where joe biden is leader , african americans are an ethnic group and alcatraz versus the evil librarians is from there .
-alcatraz versus the evil librarians is a book from the united states . in that country the m@@ a@@ j@@ o@@ r@@ i@@ t@@ y language is english ( as in great britain ) . a l@@ e@@ a@@ d@@ i@@ n@@ g p@@ o@@ l@@ i@@ t@@ i@@ c@@ i@@ an of the us is joe biden and african americans are an ethnic group there .
-alcatraz versus the evil librarians is from the united states . english is spoken there ( as in great britain ) and joe biden is a l@@ e@@ a@@ d@@ i@@ n@@ g p@@ o@@ l@@ i@@ t@@ i@@ c@@ i@@ an there . african americans are an ethnic group in the us .
-david c@@ a@@ m@@ e@@ r@@ on and elizabeth ii are leaders in the united kingdom . the country , which uses the english language has the capital city of london and is where the aids journal originates .
-the aids journal was published in the united kingdom , where english is spoken . the leader of the uk is elizabeth ii , and a@@ n@@ o@@ t@@ h@@ e@@ r leader is david c@@ a@@ m@@ e@@ r@@ on . english is spoken in the united kingdom , where the capital is london .
-aids journal is from the united kingdom , which capital is london and the language is english . the leaders of that country are david c@@ a@@ m@@ e@@ r@@ on and elizabeth ii .
-the leaders of the united kingdom are elizabeth ii and david c@@ a@@ m@@ e@@ r@@ on . the aids journal is published in the united kingdom by lippincott , williams & wilkins , whose parent company is w@@ o@@ l@@ t@@ e@@ r@@ s k@@ l@@ u@@ w@@ e@@ r .
-the aids journal was published in the united kingdom where elizabeth ii and david c@@ a@@ m@@ e@@ r@@ on are leaders . the journal was published by lippincott williams & wilkins whose parent company is w@@ o@@ l@@ t@@ e@@ r@@ s k@@ l@@ u@@ w@@ e@@ r .
-the english language is spoken in great britain and a severed wasp was written in it e@@ v@@ e@@ n t@@ h@@ o@@ u@@ g@@ h it comes from the united states . barack obama is the leader of the united states where native americans are an ethnic group .
-a severed wasp is written in english , the language spoken in great britain . h@@ o@@ w@@ e@@ v@@ e@@ r , it originates from the united states where the president is barack obama and the native americans are an ethnic group .
-a severed wasp is from the united states , where barack obama is the president . english is the main language of the u.s. , and is also spoken in great britain . native americans are one of the national ethnic groups .
-a severed wasp is from the united states , where english is spoken ( as in great britain ) , and barack obama is president . native americans are one of the ethnic groups in the u.s.
-american alan bean was a member of nasa 's apollo 12 which was c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ d by david scott . bean , who was born in wheeler , texas , is now retired .
-american alan bean was born in wheeler , texas and is retired . he was on the crew of apollo 12 , whose o@@ p@@ e@@ r@@ a@@ t@@ or was nasa and david scott was the c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r of apollo 12 .
-alan bean is o@@ r@@ i@@ g@@ i@@ n@@ a@@ l@@ l@@ y from wheeler , texas and joined nasa where he became a crew member of apollo 12 . david scott was his c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r and m@@ r bean is now retired .
-the american alan shepard was born on november 18 , 1923 , in new hampshire . he graduated with an m.a. from nwc in 1957 , and was h@@ i@@ red by nasa in 1959 . shepard died in california .
-alan shepard was an american who went to school at nwc and graduated with an m@@ a in 1957 . he was selected by nasa in 1959 . he was born in new hampshire on november 18 , 1923 and died in california .
-alan shepard was born on the 1@@ 8@@ t@@ h of november , 1923 in new hampshire . he graduated from nwc with a m.a. in 1957 and was selected by nasa in 1959 . his d@@ e@@ a@@ t@@ h p@@ l@@ a@@ c@@ e was california .
-alan shepard was born november 1@@ 8@@ t@@ h , 1923 in new hampshire . he graduated from nwc with a m.a. in 1957 and was selected by nasa in 1959 . he p@@ a@@ s@@ s@@ e@@ d a@@ way in california .
-alan shepard was born on november 18 , 1923 , in new hampshire . he served as a crew member on nasa 's apollo 14 mission before r@@ e@@ t@@ i@@ r@@ i@@ n@@ g on a@@ u@@ g@@ u@@ st 1 , 1@@ 9@@ 7@@ 4 . shepard p@@ a@@ s@@ s@@ e@@ d a@@ way in california .
-alan shepard was part of nasa 's apollo 14 crew . he was born in new hampshire on november 1@@ 8@@ t@@ h , 1923 , he retired a@@ u@@ g@@ u@@ st 1st , 1@@ 9@@ 7@@ 4 and died in california .
-alan shepard was born in 1923 in new hampshire . he w@@ o@@ r@@ k@@ e@@ d for nasa and became a crew member for apollo 14 before he retired in a@@ u@@ g@@ u@@ st 1@@ 9@@ 7@@ 4 . he l@@ a@@ t@@ e@@ r died in california .
-alan s@@ h@@ e@@ p@@ h@@ a@@ r@@ d was born in new hampshire . he was won the american d@@ e@@ f@@ e@@ n@@ c@@ e service r@@ i@@ b@@ b@@ on . the united states navy also awarded h@@ i@@ m the distinguished service medal , which is higher than the department of commerce gold medal . he died on july 2@@ 1st , 1@@ 9@@ 9@@ 8 .
-alan shepard ( who died on the 2@@ 1st of july , 1@@ 9@@ 9@@ 8 in california ) was born in new hampshire . he was awarded american d@@ e@@ f@@ e@@ n@@ s@@ e service r@@ i@@ b@@ b@@ on , as well as the distinguished service medal by the united states navy . the distinguished service medal of the united states navy is r@@ a@@ n@@ k@@ e@@ d higher than the department of commerce gold medal .
-the u@@ .@@ s navy awarded alan shepard the distinguished service medal , an award that r@@ a@@ n@@ k@@ s higher than the department of commerce gold medal . shepard who was born in new hampshire and died july 2@@ 1st , 1@@ 9@@ 9@@ 8 in california , was also the r@@ e@@ c@@ i@@ p@@ i@@ e@@ n@@ t of the american d@@ e@@ f@@ e@@ n@@ s@@ e service r@@ i@@ b@@ b@@ on .
-buzz aldrin was a fighter pilot who was born in glen ridge , new jersey o@@ m january 2@@ 0@@ t@@ h , 1930 . his r@@ e@@ al name is e@@ d@@ w@@ in e@@ . aldrin j@@ r@@ . and a@@ f@@ t@@ e@@ r g@@ r@@ a@@ d@@ u@@ a@@ t@@ i@@ n@@ g from mit with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in science in 1963 , he became a member of apollo 11 .
-buzz aldrin was born in glen ridge , n@@ j on january 2@@ 0@@ t@@ h 1930 . his r@@ e@@ al name was e@@ d@@ w@@ in e@@ . aldrin , j@@ r . he graduated from mit with a s@@ c@@ .@@ d in 1963 . he was a fighter pilot and crew member of apollo 11 .
-e@@ d@@ w@@ in e aldrin j@@ r , m@@ o@@ r@@ e c@@ o@@ m@@ m@@ o@@ n@@ l@@ y known as buzz aldrin was born in glen ridge new jersey in 1930 and graduated from mit with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in science in 1963 . he was a fighter pilot and a crew member of apollo 11 .
-buzz aldrin was born in glen ridge new jersey in 1930 . he graduated from mit in 1963 and was h@@ i@@ red by nasa in the same year . he was a member of the apollo 11 crew and is now retired .
-retired apollo 11 crew member buzz aldrin was born january 20 1930 in glen ridge , new jersey . he was selected by nasa in 1963 w@@ h@@ e@@ n he graduated from mit with a s@@ c . d@@ .
-buzz aldrin was o@@ r@@ i@@ g@@ i@@ n@@ a@@ l@@ l@@ y from glen ridge , new jersey and graduated in 1963 from m@@ a@@ s@@ s@@ a@@ c@@ h@@ u@@ s@@ e@@ t@@ t@@ s institute of technology . he t@@ h@@ e@@ n went on to j@@ o@@ in nasa in 1963 and became a member of the apollo 11 crew before he retired .
-buzz aldrin graduated from m@@ a@@ s@@ s@@ a@@ c@@ h@@ u@@ s@@ e@@ t@@ t@@ s institute of technology with a s@@ c@@ .@@ d in 1963 and became a fighter pilot . he was selected to w@@ o@@ r@@ k for nasa in 1963 , and was chosen as a crew member ( s@@ e@@ r@@ v@@ i@@ n@@ g as backup pilot ) of the nasa operated apollo 11 mission .
-buzz aldrin was a fighter pilot . in 1963 , he graduated from m@@ a@@ s@@ s@@ a@@ c@@ h@@ u@@ s@@ e@@ t@@ t@@ s institute of technology with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in science and was selected to be part of nasa 's apollo 11 crew . william anders was the backup pilot on apollo 11 .
-elliot see was born in dallas as us national and graduated from the university of texas at austin . elliot see has died on the 2@@ 8@@ t@@ h of february 1966 in st louis .
-united states national elliot see was born in dallas , and s@@ t@@ u@@ died at university of texas at austin . on the 2@@ 8@@ t@@ h of february , 1996 he p@@ a@@ s@@ s@@ e@@ d a@@ way in st. louis .
-elliot see was born on 0@@ 7@@ /@@ 2@@ 3@@ /@@ 1927 in dallas and died in st. louis . he attended the university of texas at austin which is a part of the university of texas system .
-elliot see was born on 0@@ 7@@ /@@ 2@@ 3@@ /@@ 1927 in dallas has graduated from the university of texas which affiliated to the university of texas system has died and d@@ e@@ c@@ e@@ a@@ s@@ e@@ d in st louis .
-elliot see was born in dallas on july 23rd 1927 . he graduated from the university of texas at austin which is affiliated to the university of texas system . elliot see died in s@@ t@@ .@@ louis .
-william anders was born on october 1@@ 7 , 1933 , in british hong kong . he graduated from afit in 1962 with an m.s. , and w@@ o@@ u@@ l@@ d g@@ o on to s@@ e@@ r@@ v@@ e as a fighter pilot , and as a crew member on apollo 8 . anders retired on september 1 , 1969 .
-william anders was born on the 1@@ 7@@ t@@ h of october 1933 in british hong kong . he graduated in 1962 from afit with a m.s. and went on to b@@ e@@ come a fighter pilot and a crew member on apollo 8 before he retired in 1969 .
-william anders was born in 1933 in british hong kong and graduated in 1962 from afit with a m@@ .@@ s . he t@@ h@@ e@@ n went on to b@@ e@@ come a test pilot and joined the apollo 8 crew before he retired in 1969 .
-ankara is the turkish capital and the country 's leader 's name is ahmet davutoglu . the atatürk monument ( İ@@ z@@ m@@ i@@ r ) can be found in turkey . pietro canonica designed the monument and it is made of bronze . the ataturk monument was inaugurated on 2@@ 7@@ t@@ h july , 1932 .
-the ataturk monument in izmir was inaugurated on the 2@@ 7@@ t@@ h july , 1932 . it is made of bronze and it was designed by pietro canonica . turkey 's leader is called ahmet davutoglu and its capital is ankara .
-the capital city of turkey is ankara and the country 's leader is ahmet davutoglu . the country is the location of izmir where the bronze ataturk monument designed by pietro canonica was inaugurated on 27 july 1932 .
-the baku turkish martyrs ' memorial was designed by huseyin butuner and hilmi guner and is located in azerbaijan . it is dedicated to the ottoman army soldiers killed in the battle of baku . the leader , the prime minister of azerbaijan is artur rasizade .
-the baku turkish martyrs ' memorial is located in azerbaijan and the country 's leader is prime minister artur rasizade . the memorial is dedicated to the ottoman army soldiers killed in the battle of baku and its d@@ e@@ s@@ i@@ g@@ n@@ e@@ r@@ s are huseyin butuner and hilmi guner . the native name for the baku turkish martyrs ' memorial is t@@ ü@@ r@@ k Ş@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i a@@ n@@ ı@@ t@@ ı .
-huseyin butuner and hilmi guner are the d@@ e@@ s@@ i@@ g@@ n@@ e@@ r@@ s of the baku turkish martyrs memorial , also known as t@@ u@@ r@@ k s@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i a@@ n@@ i@@ t@@ i . the memorial is located in azerbaijan and dedicated to the ottoman army soldiers who died in the battle of baku . prime minister artur rasizade is the leader of the country .
-the 14th new jersey volunteer infantry monument is located at the monocacy national battlefield n@@ e@@ a@@ r frederick , maryland . the monument was established 1@@ 9@@ 0@@ 7@@ -@@ 0@@ 7@@ -@@ 11 and belongs to the category of historic d@@ i@@ s@@ t@@ r@@ i@@ c@@ t@@ s in the united states . the monument has been p@@ r@@ o@@ v@@ i@@ d@@ e@@ d by the national park service .
-the 14th new jersey volunteer infantry monument was established on july 11 , 1@@ 9@@ 0@@ 7 , in the monocacy national battlefield , in frederick county , maryland . the monument is c@@ a@@ t@@ e@@ g@@ o@@ r@@ i@@ z@@ e@@ d as a united states historic district and is under the r@@ e@@ s@@ p@@ o@@ n@@ s@@ i@@ b@@ i@@ l@@ i@@ t@@ y of the national park service . the c@@ l@@ o@@ s@@ e@@ s@@ t city to the battlefield is frederick , maryland .
-the 14th new jersey volunteer infantry monument ( established on 11th july 1@@ 9@@ 0@@ 7 ) belongs to the category of historic d@@ i@@ s@@ t@@ r@@ i@@ c@@ t@@ s in the united states and is located on monocacy national battlefield . the n@@ e@@ a@@ r@@ e@@ s@@ t city is frederick , frederick county , maryland . the 14th new jersey volunteer infantry monument is owned by the national park service .
-the 14th new jersey volunteer infantry monument is located in the monocacy national battlefield , in frederick county , maryland , united states . the monument was established on july 11th , 1@@ 9@@ 0@@ 7 . it is now c@@ a@@ t@@ e@@ g@@ o@@ r@@ i@@ z@@ e@@ d as a united states historic district and is owned by the national park service .
-the 14th new jersey volunteer infantry monument was established on 11 july 1@@ 9@@ 0@@ 7 in the district of the monocacy national battlefield , frederick county , maryland , united states . it belongs to the category of historic us d@@ i@@ s@@ t@@ r@@ i@@ c@@ t@@ s and is owned by the national park service .
-the 14th new jersey volunteer infantry monument is located in the monocacy national battlefield , in frederick county , maryland , usa . established on july 11 , 1@@ 9@@ 0@@ 7 , the monument is c@@ a@@ t@@ e@@ g@@ o@@ r@@ i@@ z@@ e@@ d as a historic district and is owned by the national park service .
-the accademia di architettura di mendrisio located in t@@ i@@ c@@ i@@ n@@ o , switzerland was established in 1996 . it has 600 students . switzerland 's leader is federal chancellor johann schneider-ammann .
-federal chancellor johann schneider-ammann is the current leader of switzerland where the accademia di architettura di mendrisio is located in t@@ i@@ c@@ i@@ n@@ o . it was established in 1996 and has 600 students .
-accademia di architettura di mendrisio in t@@ i@@ c@@ i@@ n@@ o , switzerland was established in 1996 and currently has 600 students . the federal chancellor of switzerland is named johann schneider-ammann .
-acharya institute of technology is in bangalore , india in the state of karnataka . the school was established in 2000 and its director is dr. g. p@@ . prabhukumar . the full address of the school is in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 .
-established in 2000 , the acharya institute of technology is in bangalore , karnataka india . the institute 's director is dr. g. p@@ . prabhukumar and the campus is located in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 .
-the acharya institute of technology campus is located at soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 , karnataka , india . the institute was established in the year 2000 and the director there is dr. g. p@@ . prabhukumar .
-the acharya institute of technology in bangalore , india was established in 2000 . it is affiliated with the visvesvaraya technological university . its president is b@@ .@@ m@@ . reddy and its d@@ i@@ r@@ e@@ c@@ t@@ o@@ r@@ e is dr. g@@ .@@ p@@ . prabhukumar .
-the acharya institute of technology in bangalore , india was established in 2000 and is affiliated to the visvesvaraya technological university . it was established in 2000 and has b m reddy as president and d@@ r g p prabhukumar as director .
-acharya institute of technology is located in bangalore , india . its president is b@@ .@@ m@@ . reddy and the director is dr. g. p@@ . prabhukumar . it was established in 2000 and its a@@ f@@ f@@ i@@ l@@ i@@ a@@ t@@ i@@ on is visvesvaraya technological university .
-the acharya institute of technology in mumbai , karnataka was g@@ i@@ v@@ e@@ n the " technological campus " s@@ t@@ a@@ t@@ us by the all india council for technical e@@ d@@ u@@ c@@ a@@ t@@ i@@ on ( located in mumbai ) . the acharya institute o@@ f@@ f@@ e@@ r@@ s tennis and the s@@ p@@ o@@ r@@ t@@ s governing body is the international tennis f@@ o@@ u@@ n@@ d@@ a@@ t@@ i@@ on . karnataka has the a@@ r@@ a@@ b@@ i@@ an sea to its west .
-tennis , which has the international tennis f@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on as its governing body , is o@@ f@@ f@@ e@@ r@@ e@@ d as a s@@ port at the acharya institute of technology . the institute was g@@ i@@ v@@ e@@ n technical campus s@@ t@@ a@@ t@@ us by the all india council for technical e@@ d@@ u@@ c@@ a@@ t@@ i@@ on based in mumbai and is situated in the state of karnataka which has the a@@ r@@ a@@ b@@ i@@ an sea to the west .
-governed by the international tennis f@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on , the acharya institute of technology in karnataka o@@ f@@ f@@ e@@ r@@ s tennis c@@ o@@ u@@ r@@ s@@ e@@ s and was g@@ i@@ v@@ e@@ n the ' technical campus ' s@@ t@@ a@@ t@@ us by the all india council for technical e@@ d@@ u@@ c@@ a@@ t@@ i@@ on in mumbai . karnataka is east of the a@@ r@@ a@@ b@@ i@@ an sea .
-acharya institute of technology is affiliated with visvesvaraya technological university in belgium . the institute was g@@ i@@ v@@ e@@ n technical campus ' s@@ t@@ a@@ t@@ us by the all india council for technical e@@ d@@ u@@ c@@ a@@ t@@ i@@ on in mumbai . the institute o@@ f@@ f@@ e@@ r@@ s tennis which is governed by the international tennis f@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on .
-governed by the international tennis f@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on , the acharya institute of technology o@@ f@@ f@@ e@@ r@@ s tennis c@@ o@@ u@@ r@@ s@@ e@@ s and was g@@ i@@ v@@ e@@ n the ' technical campus ' s@@ t@@ a@@ t@@ us by the all india council for technical e@@ d@@ u@@ c@@ a@@ t@@ i@@ on in mumbai . it is also affiliated with the visvesvaraya technological university in belgaum .
-bucharest is the capital of romania where one of the country 's ethnic groups are the g@@ e@@ r@@ m@@ a@@ n@@ s of romania . the country 's leader is prime minister klaus iohannis . the p@@ a@@ t@@ r@@ on s@@ a@@ i@@ n@@ t of the country is a@@ n@@ d@@ r@@ e@@ w the a@@ p@@ o@@ s@@ t@@ l@@ e and the country is the location of the 1 decembrie 1918 university .
-romania is governed by a prime minister who is klaus iohannis . the country is also known for it 's p@@ a@@ t@@ r@@ on s@@ a@@ i@@ n@@ t a@@ n@@ d@@ r@@ e@@ w the a@@ p@@ o@@ s@@ t@@ l@@ e , the ethnic group the g@@ e@@ r@@ m@@ a@@ n@@ s of romania and the capital bucharest . romania is also home to the 1 decembrie 1918 university .
-the leader of romania , the prime minister , is klaus iohannis . the capital is bucharest , their ethnic group is g@@ e@@ r@@ m@@ a@@ n@@ s of romania and its p@@ a@@ t@@ r@@ on s@@ a@@ i@@ n@@ t is a@@ n@@ d@@ r@@ e@@ w the a@@ p@@ o@@ t@@ l@@ e . in romania w@@ e can found 1 decembrie 1918 university .
-the school of business and social sciences at the aarhus university is located in aarhus , denmark was established in 1928 . its academic staff n@@ u@@ m@@ b@@ e@@ r@@ s 737 and it is affiliated to the european university association . denmark 's leader is lars lokke rasmussen .
-the city of aarhus is the location of the school of business and social sciences at the aarhus university which is affiliated with the european university association . the school , which has 737 academic staff , was established in 1928 in denmark where the leader is lars lokke rasmussen .
-established in 1928 and with a current staff of 737 , the school of business and social sciences at the aarhus university in a@@ a@@ r@@ us , denmark is affiliated with the european university association . the country 's leader is named lars l@@ ø@@ k@@ k@@ e rasmussen .
-the school of business and social sciences at the aarhus university at aarhus , denmark was established in 1928 . it has 737 academic staff and 1@@ 6@@ ,@@ 0@@ 0@@ 0 students . it is affiliated to the european university association .
-the school of business and social sciences at the aarhus university is based in the city of aarhus , denmark . it was established in 1928 and is affiliated to the european university association . there are 1@@ 6@@ 0@@ 0@@ 0 students and an academic staff of 7@@ 27 .
-school of business and social sciences at the aarhus university is located in aarhus , denmark . it was established in 1928 and its a@@ f@@ f@@ i@@ l@@ i@@ a@@ t@@ i@@ on is european university association . the number of students is 1@@ 6@@ 0@@ 0@@ 0 and academic staff is 737 .
-alan bean was born on march 15 , 1932 in wheeler , texas and is american . he w@@ o@@ r@@ k@@ e@@ d as a test pilot and was a member of apollo 12 , which was r@@ u@@ n by nasa . bean is retired .
-alan bean is an american , who was born in wheeler , texas on 15th march 1@@ 8@@ 3@@ 2 . he was a test pilot and crew member on the nasa operated apollo 12 f@@ l@@ i@@ g@@ h@@ t mission . he is now retired .
-alan bean is a us national who was on the crew of apollo 12 . his b@@ i@@ r@@ t@@ h@@ p@@ l@@ a@@ c@@ e is wheeler , texas . he was born on march 15 , 1932 and he is retired . he p@@ e@@ r@@ f@@ o@@ r@@ m@@ e@@ d as a test pilot on the apollo 12 mission that was operated by nasa .
-alan bean was born in wheeler , texas and attended ut austin where he graduated in 1955 with a b@@ s . p@@ r@@ i@@ or to his r@@ e@@ t@@ i@@ r@@ e@@ m@@ e@@ n@@ t he served as a test pilot and was selected by nasa to s@@ e@@ r@@ v@@ e as a crew member on apollo 12 a@@ l@@ o@@ n@@ g@@ s@@ i@@ d@@ e c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r david scott .
-alan shepard was born on n@@ o@@ v 18 , 1923 in new hampshire , us . he graduated from nwc in 1957 with an m@@ .@@ a . in 1959 he b@@ e@@ g@@ an w@@ o@@ r@@ k@@ i@@ n@@ g for nasa and was a member of apollo 14 . he died in california .
-alan shepard was born on november 1@@ 8@@ t@@ h , 1923 in new hampshire . he was an american , who graduated from nwc in 1957 with an m@@ .@@ a . he was chosen by nasa in 1959 and he was a crew member of apollo 11 .
-alan s@@ h@@ e@@ p@@ h@@ a@@ r@@ d is a us c@@ i@@ t@@ i@@ z@@ e@@ n who was born in new hampshire on november 1@@ 8@@ t@@ h , 1923 . he graduated from nwc with an m@@ a in 1957 . he was chosen by nasa in 1959 and he c@@ r@@ e@@ w@@ e@@ d apollo 14 .
-alan shepard was born on n@@ o@@ v 18 , 1923 in new hampshire , usa . he graduated from nwc in 1957 with an m@@ .@@ a . he w@@ o@@ r@@ k@@ e@@ d as a test pilot before p@@ a@@ s@@ s@@ i@@ n@@ g a@@ way in california .
-american alan shepard was born in new hampshire on n@@ o@@ v 18 , 1923 . he graduated from nwc with a m.a. in 1957 and was a test pilot . he d@@ e@@ c@@ e@@ a@@ s@@ e@@ d and died in california .
-the d@@ e@@ c@@ e@@ a@@ s@@ e@@ d alan shepard , a united states national , was born in new hampshire on 1@@ 9@@ 2@@ 3@@ -@@ 1@@ 1@@ -@@ 1@@ 8 . he graduated from nwc , m.a. in 1957 and served as a test pilot . alan shepard died in california .
-alan shepard was born on november 18 , 1923 . m@@ u@@ r@@ i@@ o in california . he was a test pilot r@@ e@@ w@@ a@@ r@@ d@@ e@@ d with the medal of service distinguished from the s@@ e@@ a@@ -@@ c@@ o@@ a@@ s@@ t of the united states , medal of the united states navy is higher than the department of commerce gold medal .
-the test pilot alan bean was born in new hampshire on n@@ o@@ v 1@@ 8@@ t@@ h 1923 . he was awarded the distinguished service medal , which is higher than the department of commerce gold medal , in the united states navy . he died in california .
-retired american fighter pilot buzz aldrin , also known as e@@ d@@ w@@ in e@@ . aldrin j@@ r@@ . , was born in glen ridge , new jersey . he graduated from m@@ a@@ s@@ s@@ a@@ c@@ h@@ u@@ s@@ e@@ t@@ t@@ s institute of technology in 1963 with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in science and was a crew member on apollo 11 .
-buzz aldrin , whose r@@ e@@ al name was e@@ d@@ w@@ in e aldrin j@@ r , has now retired . he is an american born in glen ridge , new jersey . a@@ f@@ t@@ e@@ r g@@ r@@ a@@ d@@ u@@ a@@ t@@ i@@ n@@ g from mit in 1963 with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in science he became a fighter pilot and crew member on apollo 11 .
-buzz aldrin was born in glen ridge , e@@ s@@ s@@ e@@ x county , new jersey . he is a us national , who was a crew member of the nasa operated apollo 11 p@@ r@@ o@@ g@@ r@@ a@@ m . william anders was a backup pilot on the apollo 11 mission . the us leader was joe biden .
-buzz aldrin was born on j@@ an 20 , 1930 in glen ridge , new jersey . he graduated from mit with an s@@ c . d in 1963 . he b@@ e@@ g@@ an w@@ o@@ r@@ k@@ i@@ n@@ g for nasa in 1963 was a member of apollo 11 which was r@@ u@@ n by nasa . he is now retired .
-buzz aldrin , now retired , was born in glen ridge , new jersey on january 2@@ 0@@ t@@ h , 1930 . he graduated from mit in 1963 with a s@@ c . d@@ . and in 1963 he was p@@ i@@ c@@ k@@ e@@ d by nasa to be part of the apollo 11 crew .
-buzz aldrin was born in glen ridge , new jersey and graduated from m@@ a@@ s@@ s@@ a@@ c@@ h@@ u@@ s@@ e@@ t@@ t@@ s institute of technology in 1963 with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in science . he was a member of the apollo 11 crew a@@ f@@ t@@ e@@ r being selected by nasa in 1963 with william anders as a backup pilot on apollo 11 .
-buzz aldrin was born in glen ridge , new jersey . he graduated from mit in 1963 with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in science . he was a fighter pilot and b@@ e@@ g@@ an w@@ o@@ r@@ k@@ i@@ n@@ g for nasa in 1963 . aldrin was a member of apollo 11 , which was r@@ u@@ n by nasa and william anders was the backup pilot .
-buzz aldrin was born in glen ridge , new jersey and o@@ b@@ t@@ a@@ i@@ n@@ e@@ d a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in science from mit in 1963 . he served as a fighter pilot before being h@@ i@@ red by nasa in 1963 and s@@ e@@ r@@ v@@ i@@ n@@ g as a crew member on apollo 11 with backup pilot william anders .
-elliot see was born on july 23 , 1927 in dallas . he graduated from u of texas at austin which is part of the u of texas system . he w@@ o@@ r@@ k@@ e@@ d as a test pilot before he died in st. louis .
-elliot see was born in dallas on july 23rd , 1927 . he attended ut at austin , which is affiliated with the university of texas system . he was a test pilot , who died in st. louis .
-elliot see has died in st louis . he was born in dallas on 23 july 1927 and graduated from university of texas at austin which is affiliated with the university of texas system p@@ r@@ i@@ or to s@@ e@@ r@@ v@@ i@@ n@@ g as a test pilot .
-elliot see was born in dallas on the 23rd of july in 1927 before a@@ t@@ t@@ e@@ n@@ d@@ i@@ n@@ g the university of texas at austin . elliot was a test pilot before p@@ a@@ s@@ s@@ i@@ n@@ g a@@ way in st louis in 1966 .
-test pilot elliot see , born in dallas on july 23 , 1927 , graduated from the university of texas in austin . he died in st. louis on february 2@@ 8 , 1966 .
-elliot see was born on july 23 , 1927 . he was a student at university of texas at austin , and l@@ a@@ t@@ e@@ r served as a test pilot . elliot died in st. louis on february 2@@ 8 , 1966 .
-william anders ( born on the 1@@ 7@@ t@@ h of october 1933 in british hong kong ) graduated from afit , m.s. in 1962 . he was a us national and served as a fighter pilot before he retired on the 1st of september in 1969 .
-william anders was born in british hong kong in october 1@@ 7@@ t@@ h 1933 . william graduated from afit , m.s. in 1962 and became a fighter pilot . william retired in september 1st in 1969 .
-william anders in an american who was born in british hong kong on the 1@@ 7@@ t@@ h of october 1933 . a@@ f@@ t@@ e@@ r g@@ r@@ a@@ d@@ u@@ a@@ t@@ i@@ n@@ g from afit with an m.s. in 1962 , he w@@ o@@ r@@ k@@ e@@ d as a test pilot u@@ n@@ t@@ i@@ l he retired on the 1st of september 1969 .
-the municipality of gettysburg is located in adams county , pennsylvania which lies to the south of cumberland county and to the n@@ o@@ r@@ t@@ h@@ west of c@@ a@@ r@@ r@@ o@@ l@@ l county , maryland . it is the location of the 11th mississippi infantry monument which was established in 2000 and categorised as a contributing property within the united states .
-the 11th mississippi infantry monument which was e@@ r@@ e@@ c@@ t@@ e@@ d in the municipality of gettysburg , adams county in 2000 is categorised as a contributing property . adams county is located south of cumberland county in the same state , and carrol county , maryland is situated to the southeast .
-ankara is the capital of turkey where the currency is the turkish lira and the leader is ahmet davutoglu . izmir is located in the country and is the s@@ i@@ t@@ e of the bronze ataturk monument which was inaugurated in izmir on 27 july 1932 , h@@ a@@ v@@ i@@ n@@ g been designed by pietro canonica .
-the atatürk monument is located in İ@@ z@@ m@@ i@@ r , in the country of turkey , whose leader is ahmet d@@ a@@ v@@ u@@ t@@ o@@ ğ@@ l@@ u . the monument is made of bronze , was designed by pietro canonica and was inaugurated on the 2@@ 7@@ t@@ h of july , 1932 . turkey 's capital city is ankara and the currency is the turkish lira .
-the turkish lira is the currency of turkey where ahmet davutoglu is the leader and ankara is the capital . the ataturk monument designed in bronze by pietro canonica is located in izmir and was inaugurated on 27 july 1932 .
-the national assembly is the official l@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ u@@ r@@ e of azerbaijan which is lead by a prime minister . the capital city is baku which is the location of the memorial designed in red granite and white marble by huseyin butuner and hilmi guner . the memorial is dedicated to the ottoman army soldiers who were killed in the battle of baku .
-baku is the capital of azerbaijan where the leader 's title is prime minister and the l@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ u@@ r@@ e is the national assembly . the city is the location of the baku turkish martyrs memorial which was designed by huseyin butuner and hilmi guner in red granite and white marble . the memorial is dedicated to the soldiers of the ottoman army who died in the battle of baku .
-h@@ u@@ y@@ s@@ e@@ y@@ in butuner and hilmi guner designed the baku turkish martyrs ' memorial . it is located in baku , azerbaijan , which has l@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ u@@ r@@ e of national assembly , and led by the prime m@@ i@@ n@@ s@@ t@@ e@@ r . the memorial is made from red granite and white marble , and is dedicated to the ottoman army soldiers killed in the battle of baku .
-acharya institute of technology 's campus is located in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore , karnataka , india – 560090 . the institute ( president b m reddy ) was established in 2000 and is affiliated with visvesvaraya technological university .
-president b m reddy is h@@ e@@ a@@ d of the acharya institute of technology located at " in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 . " the institute was established in the state of karnataka in 2000 and is affiliated with the visvesvaraya technological university .
-the acharya institute of technology 's campus is located in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore , karnataka , india , 560090 . it was established in 2000 ; its president is b@@ .@@ m@@ . reddy and it is affiliated with the visvesvaraya technological university .
-in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 is the location of the acharya institute of technology in india which is affiliated with the visvesvaraya technological university . the m@@ o@@ t@@ to of the institute which was established in the year 2000 is " n@@ u@@ r@@ t@@ u@@ r@@ i@@ n@@ g e@@ x@@ c@@ e@@ l@@ l@@ e@@ n@@ c@@ e " and there are 700 postgraduate students .
-the acharya institute of technology 's campus is located in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore , india , 560090 . it was established in 2000 and its m@@ o@@ t@@ to is " n@@ u@@ r@@ t@@ u@@ r@@ i@@ n@@ g e@@ x@@ c@@ e@@ l@@ l@@ e@@ n@@ c@@ e " . it has 700 postgraduate students and it is affiliated to the visvesvaraya technological university .
-the acharya institute of technology in bangalore , india was created in 2000 , has 700 p@@ o@@ st g@@ r@@ a@@ d@@ u@@ a@@ t@@ e students and uses as its m@@ o@@ t@@ to n@@ u@@ r@@ t@@ u@@ r@@ i@@ n@@ g e@@ x@@ c@@ e@@ l@@ l@@ e@@ n@@ c@@ e . it is affiliated with visvesvaraya technological university and its full address is in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 .
-acharya institute of technology in bangalore , india was established in 2000 and is affiliated with visvesvaraya technological university . the school president is b. m@@ . reddy and its director is dr. g. p@@ . prabhukumar . the school 's full address is in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 .
-the acharya institute of technology is in bangalore , india was established in 2000 . the president is b@@ .@@ m@@ . reddy and the director is dr. g. p@@ . prabhukumar . the institute is affiliated with the visvesvaraya technological university and the campus is located in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 . " .
-the acharya institute of technology , affiliated with the visvesvaraya technological university , is located in soldevanahalli , on acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore , india ( 560090 ) . it was established in the year 2000 , and its current president is b@@ .@@ m@@ . reddy , w@@ h@@ i@@ l@@ e its director is dr. g@@ .@@ p@@ . prabhukumar .
-acharya institute of technology ( president b m reddy ) is located in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore , india – 560090 . the institute was established in 2000 , has 700 postgraduate students and is affiliated with visvesvaraya technological university of belgaum .
-in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 is the location of the acharya institute of technology in india . the president of the institute which was established in the year 2000 is b m reddy and there are 700 postgraduate students . the institute is affiliated with the visvesvaraya technological university .
-the acharya institute of technology was established in the year 2000 in india . its campus is in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 and its president is b. m@@ . reddy . it has 700 postgraduate students and is affiliated with the visvesvaraya technological university in belgaum .
-awh engineering college in kuttikkattoor , india is in the state of kerala which has m@@ a@@ he to its n@@ o@@ r@@ t@@ h@@ west . the school has 250 e@@ m@@ p@@ l@@ o@@ y@@ e@@ e@@ s . india is home to the g@@ a@@ n@@ g@@ e@@ s r@@ i@@ v@@ e@@ r and its largest city is mumbai .
-india is known for the r@@ i@@ v@@ e@@ r g@@ a@@ n@@ g@@ e@@ s and the largest city being mumbai is also home to the state of kerala which is p@@ o@@ s@@ i@@ t@@ i@@ o@@ n@@ e@@ d with m@@ a@@ he to it 's n@@ o@@ r@@ t@@ h@@ west . kerala is also where awh engineering college is located within the city of kuttikkattoor . the college currently has 250 members of staff .
-the awh engineering college in kuttikkattoor , kerala , india has an academic staff of 250 . kerala has m@@ a@@ h@@ é , i@@ n@@ d@@ i@@ a@@ t@@ o its n@@ o@@ r@@ t@@ h@@ west . mumbai is the largest city in india . the r@@ i@@ v@@ e@@ r g@@ a@@ n@@ g@@ e@@ s r@@ u@@ n@@ s t@@ h@@ r@@ o@@ u@@ g@@ h india .
-1 decembrie 1918 university is located in the city of alba i@@ u@@ l@@ i@@ a , romania . the country 's capital is bucharest and the leader ( title prime minister of romania ) is klaus iohannis . an ethnic group of the country is the g@@ e@@ r@@ m@@ a@@ n@@ s of romania and the country 's national anthem is d@@ e@@ ș@@ t@@ e@@ a@@ p@@ t@@ ă@@ -@@ t@@ e , r@@ o@@ m@@ â@@ n@@ e !
-the national anthem of romania is " d@@ e@@ s@@ t@@ e@@ a@@ p@@ t@@ a@@ -@@ t@@ e , r@@ o@@ m@@ a@@ n@@ e ! " and the capital city is bucharest . the country is lead by prime minister klaus iohannis and is the location of the 1 decembrie 1918 university in the city of alba i@@ u@@ l@@ i@@ a . one of the ethnic groups of the country is the g@@ e@@ r@@ m@@ a@@ n@@ s of romania .
-the 1 decembrie 1918 university is located in alba i@@ u@@ l@@ i@@ a , romania . romania 's capital is bucharest ; its leader is prime minister klaus iohannis and its ethnic group is the g@@ e@@ r@@ m@@ a@@ n@@ s of romania . romania 's capital is bucharest and its anthem is d@@ e@@ s@@ t@@ e@@ a@@ p@@ t@@ a@@ -@@ t@@ e , r@@ o@@ m@@ a@@ n@@ e !
-in the year 2000 the acharya institute of technology was established in the state of karnataka , india . the current location is " in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 . " the director is d@@ r g p prabhukumar and it is affiliated with the visvesvaraya technological university in the city of belgaum .
-the acharya institute of technology 's campus is located in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore , k@@ a@@ r@@ n@@ a@@ t@@ k@@ a , 560090 . it was established in 2000 and its director is d@@ r g p prabhukumar . it is affiliated to the visvesvaraya technological university in belgaum .
-acharya institute of technology is affiliated with visvesvaraya technological university which is in belgium . the institute i@@ t@@ s@@ e@@ l@@ f is in india 's karnataka state and its full address is in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 . it was created in 2000 and its director is dr. g. p@@ . prabhukumar .
+The leader of Aarhus is J@@ a@@ c@@ o@@ b B@@ u@@ n@@ d@@ s@@ g@@ a@@ a@@ r@@ d .
+Aarhus Airport 's runway length is 2@@ 7@@ 0@@ 2@@ .@@ 0 .
+The Aarhus Airport has a runway length of 2@@ 7@@ 0@@ 2@@ .@@ 0 .
+Adirondack Regional Airport is 5@@ 0@@ 7 metres above sea level .
+Adirondack Regional airport is located at Harrietstown , New York .
+Adirondack Regional Airport is located in Harrietstown , New York .
+Adolfo Suárez Madrid – Barajas Airport is found in San S@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los Reyes .
+Adolfo Suarez Madrid - Barajas airport is located at San S@@ e@@ b@@ a@@ s@@ t@@ i@@ an de los Reyes .
+The Adolfo Suárez Madrid – Barajas Airport is in San S@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los Reyes .
+Adolfo Suárez Madrid-Barajas Airport runway name is 1@@ 4@@ L@@ /@@ 3@@ 2@@ R .
+The Adolfo Suárez Madrid – Barajas Airport runway name is 1@@ 4@@ L@@ /@@ 3@@ 2@@ R .
+1@@ 4@@ L@@ /@@ 3@@ 2@@ R is the runway name of A@@ d@@ o@@ f@@ o Suárez Madrid-Barajas Airport .
+1@@ 4@@ R@@ /@@ 3@@ 2@@ L is the name of the runway for Adolfo Suárez Madrid – Barajas Airport .
+1@@ 4@@ R@@ /@@ 3@@ 2@@ L is the runway name of Adolfo Suárez Madrid-Barajas Airport .
+The operating organization for Afonso Pena International Airport is Infraero .
+Afonso Pena International Airport is operated by Infraero .
+Agra Airport is in Agra .
+Agra airport is located in Agra .
+A@@ l@@ -@@ T@@ a@@ q@@ a@@ d@@ d@@ u@@ m Air B@@ a@@ s@@ e is 8@@ 4 metres above sea level .
+Al T@@ a@@ q@@ a@@ d@@ d@@ u@@ m Air B@@ a@@ s@@ e is 8@@ 4 metres above sea level .
+The elevation above the sea level ( in metres ) of A@@ l@@ -@@ T@@ a@@ q@@ a@@ d@@ d@@ u@@ m Air B@@ a@@ s@@ e is 8@@ 4@@ .@@ 0 .
+The Alderney Airport serves Alderney .
+Alderney Airport serves the city of Alderney .
+1@@ 8@@ R@@ /@@ 3@@ 6@@ L is the runway name at Allama Iqbal International airport .
+Allama Iqbal International Airport has a runway named 1@@ 8@@ R@@ /@@ 3@@ 6@@ L .
+Allama Iqbal International Airport 's runway name is " 1@@ 8@@ R@@ /@@ 3@@ 6@@ L " .
+The runway length of Alpena County Regional Airport is 1@@ ,@@ 5@@ 3@@ 3 .
+The runway length of Alpena County Regional airport is 1@@ 5@@ 3@@ 3@@ .@@ 0 .
+Alpena C@@ o@@ u@@ n@@ t@@ r@@ y Regional Airport runway name is 1@@ /@@ 1@@ 9 / .
+1@@ /@@ 1@@ 9 is the runway name of Alpena County Regional Airport .
+The runway name of Alpena County Regional Airport is 1@@ /@@ 1@@ 9 .
+Amsterdam Airport Schiphol serves the city of Amsterdam .
+Amsterdam airport , S@@ c@@ h@@ i@@ p@@ o@@ l serves the city of Amsterdam .
+Amsterdam Airport S@@ c@@ h@@ u@@ p@@ h@@ o@@ l serves Amsterdam .
+Andrews County , Texas is country s@@ e@@ at to Andrews , Texas .
+Andrews , Texas is the country s@@ e@@ at of Andrews County , Texas .
+Andrews County , Texas has its county s@@ e@@ at in Andrews , Texas .
+Andrews C@@ o@@ u@@ n@@ t@@ r@@ y Airport 's city is served by Andrews , Texas .
+Andrews County Airport serves Andrews , Texas .
+Andrews County Airport serves the city of Andrews in Texas .
+Andrews C@@ o@@ u@@ n@@ t@@ r@@ y Airport runway name is 1@@ 1@@ /@@ 2@@ 9 .
+1@@ 1@@ /@@ 2@@ 9 is the runway name of Andrews County Airport .
+The runway name of Andrews County Airport is 1@@ 1@@ /@@ 2@@ 9 .
+The name of the runway at Andrews County Airport is H@@ e@@ l@@ i@@ p@@ a@@ d .
+H@@ e@@ l@@ i@@ p@@ a@@ d is the runway name of Andrews County Airport .
+The runway at Andrews County Airport is called H@@ e@@ l@@ i@@ p@@ a@@ d .
+Angola International Airport city served is Luanda .
+Angola International Airport serves the city of Luanda .
+Angola International Airport serves Luanda .
+The Ardmore Airport , New Zealand is in A@@ u@@ c@@ k@@ l@@ and .
+Ardmore Airport is located in A@@ u@@ c@@ k@@ l@@ and , New Zealand .
+Athens m@@ a@@ y@@ or is G@@ i@@ o@@ r@@ g@@ o@@ s K@@ a@@ m@@ i@@ n@@ is .
+G@@ i@@ o@@ r@@ g@@ o@@ s K@@ a@@ m@@ i@@ n@@ is is the m@@ a@@ y@@ or of Athens .
+The m@@ a@@ y@@ or of Athens is G@@ i@@ o@@ r@@ g@@ o@@ s K@@ a@@ m@@ i@@ n@@ is .
+Athens International Airport is in S@@ p@@ a@@ t@@ a .
+Athens International Airport is located in S@@ p@@ a@@ t@@ a .
+Belgium language is G@@ e@@ r@@ m@@ an language .
+G@@ e@@ r@@ m@@ an is the language of Belgium .
+The language spoken is Belgium is G@@ e@@ r@@ m@@ an .
+P@@ h@@ i@@ l@@ i@@ p@@ p@@ e of Belgium is the leader of Belgium .
+The leader of Belgium is P@@ h@@ i@@ l@@ i@@ p@@ p@@ e of Belgium .
+The leader of Belgium is P@@ h@@ i@@ l@@ l@@ i@@ p@@ e of Belgium .
+The capital of Denmark is Copenhagen .
+Copenhagen is the capital of Denmark .
+Denmark 's leader name is Lars L@@ ø@@ k@@ k@@ e Rasmussen .
+Lars L@@ ø@@ k@@ k@@ e Rasmussen leads Denmark .
+Lars L@@ ø@@ k@@ k@@ e Rasmussen is the leader of Denmark .
+The Flemish region is led by the Flemish government .
+The Flemish G@@ o@@ v@@ e@@ r@@ n@@ m@@ e@@ n@@ t leads the Flemish Region .
+G@@ r@@ e@@ e@@ k is the language spoken in Greece .
+The language spoken in Greece is G@@ r@@ e@@ e@@ k .
+The leader of Greece is Nikos Voutsis .
+Harrietstown , New York is part of the United States .
+Harrietstown , N@@ .@@ Y@@ . is part of the U.S.
+The leader of Pakistan is A@@ n@@ w@@ a@@ r Z@@ a@@ h@@ e@@ e@@ r J@@ a@@ m@@ a@@ l@@ i .
+Pakistan has a leader called A@@ n@@ w@@ a@@ r Z@@ a@@ h@@ e@@ e@@ r J@@ a@@ m@@ a@@ l@@ i .
+Paracuellos de Jarama is part of the community of Madrid .
+Port Authority of New York and New Jersey h@@ e@@ a@@ d@@ q@@ u@@ a@@ r@@ t@@ e@@ r is F@@ o@@ u@@ r W@@ o@@ r@@ l@@ d T@@ r@@ a@@ d@@ e C@@ e@@ n@@ t@@ e@@ r .
+The F@@ o@@ u@@ r W@@ o@@ r@@ l@@ d T@@ r@@ a@@ d@@ e C@@ e@@ n@@ t@@ e@@ r is the headquarters of the Port Authority of New York and New Jersey .
+San S@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los Reyes is in Spain .
+San S@@ e@@ b@@ a@@ s@@ t@@ i@@ an de los Reyes is located in Spain .
+Saranac Lake , New York is part of the United States .
+Saranac Lake , New York , is part of the United States .
+South Jersey T@@ r@@ a@@ n@@ s@@ p@@ o@@ r@@ t@@ a@@ t@@ i@@ on Authority c@@ h@@ i@@ e@@ f is S@@ t@@ e@@ p@@ h@@ e@@ n D@@ i@@ l@@ t@@ s .
+S@@ t@@ e@@ p@@ h@@ e@@ n D@@ i@@ l@@ t@@ s is the c@@ h@@ i@@ e@@ f of the South Jersey T@@ r@@ a@@ n@@ s@@ p@@ o@@ r@@ t@@ a@@ t@@ i@@ on Authority .
+S@@ t@@ e@@ p@@ h@@ e@@ n D@@ i@@ l@@ t@@ s is the c@@ h@@ i@@ e@@ f of South Jersey T@@ r@@ a@@ n@@ s@@ p@@ o@@ r@@ t@@ a@@ t@@ i@@ on Authority .
+The United States Navy awarded the Distinguished Service Medal to Alan Shepard .
+Alan Shepard was awarded the Distinguished Service Medal by the United States Navy .
+Alan Shepard was awarded the Distinguished Service Medal in the United States Navy .
+Alan Shepard was awarded the Distinguished Service Medal by the US Navy .
+Alan Shepard was awarded the United States Navy Distinguished Service Medal .
+Alan Shepard died in California .
+William Anders was the backup pilot on Apollo 11 .
+William Anders was a backup pilot on the Apollo 11 mission .
+Apollo 11 's backup pilot was William Anders .
+The Apollo 14 was operated by NASA .
+NASA operated the Apollo 14 .
+Apollo 14 was operated by NASA .
+The Apollo 8 o@@ p@@ e@@ r@@ a@@ t@@ or is NASA .
+Apollo 8 is operated by N@@ a@@ s@@ a .
+Apollo 8 was operated by NASA .
+Buzz Aldrin 's nationality is United States .
+Buzz Aldrin was a United States national .
+Buzz Aldrin was an American .
+Buzz Aldrin is a US national .
+Elliot See was a test pilot .
+Elliot See served as a test pilot .
+Elliot See f@@ l@@ e@@ w as a test pilot .
+Elliot See 's o@@ c@@ c@@ u@@ p@@ a@@ t@@ i@@ on was a test pilot .
+Elliot See p@@ e@@ r@@ f@@ o@@ r@@ m@@ e@@ d as a test pilot .
+The university of t@@ e@@ x@@ as at Austin is affiliated to the university of t@@ e@@ x@@ as system .
+The University of Texas at Austin 's m@@ a@@ s@@ c@@ o@@ t is called H@@ o@@ o@@ k '@@ e@@ m .
+H@@ o@@ o@@ k '@@ e@@ m is the m@@ a@@ s@@ c@@ o@@ t for the University of Texas at Austin .
+The m@@ a@@ s@@ c@@ o@@ t of the University of Texas is H@@ o@@ o@@ k '@@ e@@ m .
+The H@@ o@@ o@@ k '@@ e@@ m is the m@@ a@@ s@@ c@@ o@@ t of University of Texas at Austin .
+103 Colmore Row was designed by the architect , John Madin .
+103 Colmore Row was designed by the architect John Madin .
+103 Colmore Row is located at Colmore Row .
+103 Colmore Row is located in Colmore Row .
+11 Diagonal Street was completed in 1983 .
+The 200 Public Square was completed in 1@@ 9@@ 8@@ 5 .
+200 Public Square was completed in 1@@ 9@@ 8@@ 5 .
+The building at 20 Fenchurch Street was s@@ t@@ a@@ r@@ t@@ e@@ d in January 2009 .
+The construction of 20 Fenchurch Street b@@ e@@ g@@ an in January 2009 .
+20 Fenchurch Street is located in the United Kingdom .
+20 Fenchurch Street is located within the United Kingdom .
+There are 6@@ 0 floors at 300 North LaSalle .
+300 North LaSalle has 6@@ 0 floors .
+H@@ O@@ K S@@ V@@ E was the architect of 3Arena .
+H@@ O@@ K S@@ V@@ E was the architect of the 3Arena .
+The 3Arena is located at East L@@ i@@ n@@ k B@@ r@@ i@@ d@@ g@@ e .
+The 3Arena is located on the East L@@ i@@ n@@ k B@@ r@@ i@@ d@@ g@@ e .
+3 A@@ r@@ e@@ n@@ a is located at East L@@ i@@ n@@ k B@@ r@@ i@@ d@@ g@@ e .
+Adare Manor 's building s@@ t@@ a@@ r@@ t was in 1@@ 7@@ 0@@ 0 .
+The building of the Adare Manor was s@@ t@@ a@@ r@@ t@@ e@@ d in 1@@ 7@@ 0@@ 0 .
+Adare Manor is located in the Republic of Ireland .
+The Adare Manor is in the Republic of Ireland .
+The Akita Museum of Art was inaugurated on 2@@ 8@@ t@@ h September 2@@ 0@@ 1@@ 3 .
+The Mason School of Business are the current tenants of Alan B Miller Hall .
+The a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ c@@ t B V D@@ o@@ s@@ h@@ i designed Amdavad N@@ i Gufa .
+B V D@@ o@@ s@@ h@@ i is the architect who designed Amdavad ni Gufa .
+Ampara Hospital is located in Sri Lanka .
+Ampara Hospital is in Sri Lanka .
+Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places on " 1@@ 9@@ 8@@ 8@@ -@@ 1@@ 1@@ -@@ 2@@ 2 " .
+The Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places , on 2@@ 2@@ n@@ d November 1@@ 9@@ 8@@ 8 .
+The Asser Levy Public Baths was built in 1@@ 9@@ 0@@ 4 .
+Asser Levy Public Baths were constructed in 1@@ 9@@ 0@@ 4 .
+Birmingham has the p@@ o@@ s@@ t@@ code area ' B ' .
+The B p@@ o@@ s@@ t@@ code area is the p@@ o@@ s@@ t@@ a@@ l code of Birmingham .
+Chicago is part of D@@ u@@ P@@ a@@ g@@ e County in Illinois .
+Chicago is part of D@@ u@@ P@@ a@@ g@@ e County Illinois .
+Dublin is in the Republic of Ireland .
+Dublin is part of L@@ e@@ i@@ n@@ s@@ t@@ e@@ r .
+Sumitra Mahajan is an Indian leader .
+The name of the leader in India is Sumitra Mahajan .
+One of the ethnic groups in Japan in the B@@ r@@ a@@ z@@ i@@ l@@ i@@ a@@ n@@ s .
+The B@@ r@@ a@@ z@@ i@@ l@@ i@@ a@@ n@@ s in Japan are an ethnic group found in Japan .
+The leader of Japan is T@@ a@@ r@@ ō A@@ s@@ ō .
+Bill Marriott is the key person at Marriott International .
+One of the key people in Marriott International is Bill Marriott .
+Ireland official language is I@@ r@@ i@@ s@@ h English .
+English language is the main language of the Republic of Ireland .
+One language used in the Republic of Ireland is English .
+C@@ a@@ p@@ e T@@ own is the capital of South Africa .
+The capital of South Africa is C@@ a@@ p@@ e T@@ own .
+The capital of the United Kingdom is London .
+London is the capital of the United Kingdom .
+Native Americans are an ethnic group in the United States .
+Paul Ryan is the leader of the United States .
+The leader of the United States is Paul Ryan .
+The area code of Abilene , in Texas , is 3@@ 2@@ 5 .
+3@@ 2@@ 5 is the area code for Abilene , Texas .
+The area code for Abilene in Texas is 3@@ 2@@ 5 .
+Abilene is a part of Texas .
+Abilene , Texas , is part of Texas .
+A@@ l@@ b@@ a@@ n@@ y , Georgia has a M@@ a@@ y@@ or as leader .
+A@@ l@@ b@@ a@@ n@@ y , Georgia is lead by a M@@ a@@ y@@ or .
+The leader of A@@ l@@ b@@ a@@ n@@ y , Georgia is the M@@ a@@ y@@ or .
+A@@ l@@ b@@ a@@ n@@ y , O@@ r@@ e@@ g@@ on has a total area of 4@@ 5@@ .@@ 9@@ 7 square k@@ i@@ l@@ o@@ metres .
+The total area of A@@ l@@ b@@ a@@ n@@ y O@@ r@@ e@@ g@@ on is 4@@ 5@@ .@@ 9@@ 7 S@@ q K@@ .
+The total area of A@@ l@@ b@@ a@@ n@@ y , O@@ r@@ e@@ g@@ on is 4@@ 5@@ .@@ 9@@ 7 s@@ q k@@ m@@ s .
+A@@ l@@ b@@ a@@ n@@ y , O@@ r@@ e@@ g@@ on is in the U.S.
+A@@ l@@ b@@ a@@ n@@ y , O@@ r@@ e@@ g@@ on is located within the United States .
+A@@ l@@ b@@ u@@ q@@ u@@ e@@ r@@ q@@ u@@ e , New Mexico is led by the State S@@ e@@ n@@ a@@ t@@ e .
+The A@@ l@@ b@@ u@@ q@@ u@@ e@@ r@@ q@@ u@@ e City Council has a l@@ e@@ a@@ d@@ e@@ r@@ s@@ h@@ i@@ p r@@ o@@ l@@ e in A@@ l@@ b@@ u@@ q@@ u@@ e@@ r@@ q@@ u@@ e , New Mexico .
+A@@ l@@ b@@ u@@ q@@ u@@ e@@ r@@ q@@ u@@ e in New Mexico is led by the A@@ l@@ b@@ u@@ q@@ u@@ e@@ r@@ q@@ u@@ e City Council .
+A@@ m@@ a@@ r@@ i@@ l@@ l@@ o is in Texas , in the United States .
+The United States is the home country to A@@ m@@ a@@ r@@ i@@ l@@ l@@ o , Texas .
+A@@ m@@ a@@ r@@ i@@ l@@ l@@ o , Texas is located within the United States .
+A@@ m@@ a@@ r@@ i@@ l@@ l@@ o is part of P@@ o@@ t@@ t@@ e@@ r County in Texas .
+A@@ m@@ a@@ r@@ i@@ l@@ l@@ o is part of P@@ o@@ t@@ t@@ e@@ r County , Texas .
+A@@ m@@ a@@ r@@ i@@ l@@ l@@ o is in Texas , in the United States .
+A@@ m@@ a@@ r@@ i@@ l@@ l@@ o , Texas is part of the United States .
+A@@ m@@ a@@ r@@ i@@ l@@ l@@ o , Texas , is part of the United States .
+A@@ n@@ a@@ h@@ e@@ i@@ m , in California , has the area code 6@@ 5@@ 7 .
+The area code of A@@ n@@ a@@ h@@ e@@ i@@ m , California is 6@@ 5@@ 7 .
+The area code for A@@ n@@ a@@ h@@ e@@ i@@ m , California , is 6@@ 5@@ 7 .
+A@@ n@@ d@@ e@@ r@@ s@@ on , Indiana is part of Adams F@@ a@@ l@@ l C@@ r@@ e@@ e@@ k , L@@ a@@ f@@ a@@ y@@ e@@ t@@ t@@ e , R@@ i@@ c@@ h@@ l@@ and , U@@ n@@ i@@ on .
+Angola is in P@@ l@@ e@@ a@@ s@@ a@@ n@@ t Township which is part of S@@ t@@ e@@ u@@ b@@ e@@ n County , in Indiana .
+Angola , Indiana is part of P@@ l@@ e@@ a@@ s@@ a@@ n@@ t Township , which is in S@@ t@@ e@@ u@@ b@@ e@@ n County .
+A City A@@ d@@ m@@ i@@ n@@ i@@ s@@ t@@ r@@ a@@ t@@ or leads A@@ n@@ n A@@ r@@ b@@ or , Michigan .
+The City A@@ d@@ m@@ i@@ n@@ i@@ s@@ t@@ r@@ a@@ t@@ or leads A@@ n@@ n A@@ r@@ b@@ or in Michigan .
+M@@ a@@ y@@ or , is the title of the leader in A@@ n@@ n A@@ r@@ b@@ or , Michigan .
+A@@ n@@ n A@@ r@@ b@@ or , Michigan is led by the M@@ a@@ y@@ or .
+The leader title of A@@ n@@ n A@@ r@@ b@@ or , Michigan , is M@@ a@@ y@@ or .
+The city of A@@ n@@ n A@@ r@@ b@@ or , Michigan , has a population of 1@@ 5@@ 8@@ 0@@ .@@ 7 as p@@ e@@ r square k@@ i@@ l@@ o@@ m@@ e@@ t@@ r@@ e .
+A@@ n@@ n@@ A@@ r@@ b@@ or , Michigan has a population of 1@@ 5@@ 8@@ 0@@ .@@ 7 p@@ e@@ e@@ r square k@@ i@@ l@@ o@@ m@@ e@@ t@@ e@@ r .
+The population density of A@@ n@@ n A@@ r@@ b@@ or , Michigan is 1@@ 5@@ 8@@ 0@@ .@@ 7 inhabitants p@@ e@@ r s@@ q k@@ m .
+A@@ n@@ t@@ i@@ o@@ c@@ h , C@@ A is 1@@ 3 above sea level .
+A@@ n@@ t@@ i@@ o@@ c@@ h , California is 1@@ 3@@ .@@ 0 metres above sea level .
+A@@ n@@ t@@ i@@ o@@ c@@ h , California is located at 1@@ 3@@ .@@ 0 above sea level .
+The leader title of A@@ n@@ t@@ i@@ o@@ c@@ h , California , is California 's 11th State Assembly district .
+The leader title of A@@ n@@ t@@ i@@ o@@ c@@ h California is California 's 11th State Assembly district .
+A@@ r@@ l@@ i@@ n@@ g@@ t@@ on Texas is has an elevation of 1@@ 8@@ 4 above sea level .
+A@@ r@@ l@@ i@@ n@@ g@@ t@@ on in Texas is located at 1@@ 8@@ 4@@ .@@ 0 above sea level .
+Atlantic County , New Jersey is located in the United States .
+Atlantic County in New Jersey is located in the United States .
+A@@ t@@ t@@ i@@ c@@ a is part of F@@ o@@ u@@ n@@ t@@ a@@ in County Indiana .
+A@@ t@@ t@@ i@@ c@@ a , Indiana is in F@@ o@@ u@@ n@@ t@@ a@@ in County , Indiana .
+A@@ u@@ b@@ u@@ r@@ n is part of A@@ l@@ a@@ b@@ a@@ m@@ a .
+A@@ u@@ b@@ u@@ r@@ n is located in A@@ l@@ a@@ b@@ a@@ m@@ a .
+California is in the United States .
+California is in the U.S.
+A@@ t@@ l@@ a@@ n@@ t@@ a is the largest city of F@@ u@@ l@@ t@@ on County , Georgia .
+A@@ t@@ l@@ a@@ n@@ t@@ a is the largest city in F@@ u@@ l@@ t@@ on County , Georgia .
+The state of Georgia is in the U.S.
+Georgia is in the country of United States .
+The state of Georgia is located within the United States .
+I@@ n@@ d@@ i@@ a@@ n@@ a@@ p@@ o@@ l@@ is is the capital of Indiana .
+L@@ e@@ e County is in A@@ l@@ a@@ b@@ a@@ m@@ a .
+L@@ e@@ e County is in the state of A@@ l@@ a@@ b@@ a@@ m@@ a .
+L@@ e@@ e County is situated within the state of A@@ l@@ a@@ b@@ a@@ m@@ a .
+T@@ r@@ e@@ n@@ t@@ on is the capital of New Jersey .
+The capital of the state of New Jersey is T@@ r@@ e@@ n@@ t@@ on .
+P@@ o@@ t@@ t@@ e@@ r County is in Texas .
+P@@ o@@ t@@ t@@ e@@ r County is in the State of Texas .
+T@@ a@@ r@@ r@@ a@@ n@@ t County , Texas is situated in the United States .
+T@@ a@@ r@@ r@@ a@@ n@@ t County in Texas is in the U.S.
+T@@ a@@ r@@ r@@ a@@ n@@ t County , Texas is located within the United States .
+A@@ n@@ n A@@ r@@ b@@ or is the largest city in W@@ a@@ s@@ h@@ t@@ e@@ n@@ a@@ w County , Michigan .
+The largest town in W@@ a@@ s@@ h@@ t@@ e@@ n@@ a@@ w county Michigan is A@@ n@@ n A@@ r@@ b@@ or .
+The largest city in W@@ a@@ s@@ h@@ t@@ e@@ n@@ a@@ w County , Michigan is A@@ n@@ n A@@ r@@ b@@ or .
+A@@ s@@ t@@ e@@ r@@ i@@ x was created by R@@ e@@ n@@ e G@@ o@@ s@@ c@@ i@@ n@@ n@@ y .
+The creator of A@@ s@@ t@@ e@@ r@@ i@@ x ( c@@ o@@ m@@ i@@ c@@ s character ) is R@@ e@@ n@@ é G@@ o@@ s@@ c@@ i@@ n@@ n@@ y .
+The comic character A@@ s@@ t@@ e@@ r@@ i@@ x , was created by R@@ e@@ n@@ é G@@ o@@ s@@ c@@ i@@ n@@ n@@ y .
+The comic character A@@ u@@ r@@ on was created by M@@ a@@ r@@ v W@@ o@@ l@@ f@@ m@@ an .
+A@@ u@@ r@@ on was created by M@@ a@@ r@@ v W@@ o@@ l@@ f@@ m@@ an .
+The comic book character A@@ u@@ r@@ on was created by M@@ a@@ r@@ v W@@ o@@ l@@ f@@ m@@ an .
+The comic character , B@@ a@@ l@@ d@@ e@@ r , was created by J@@ a@@ c@@ k K@@ i@@ r@@ by .
+The comic character B@@ a@@ l@@ d@@ e@@ r was created by J@@ a@@ c@@ k K@@ i@@ r@@ by .
+J@@ a@@ c@@ k K@@ i@@ r@@ by created the comic character B@@ a@@ l@@ d@@ e@@ r .
+Bananaman is broadcast by S@@ T@@ V .
+Bananaman is b@@ r@@ o@@ a@@ d@@ c@@ a@@ s@@ t@@ e@@ d by " S@@ T@@ V " .
+Bananaman was b@@ r@@ o@@ a@@ d@@ c@@ a@@ s@@ t@@ e@@ d by S@@ T@@ V .
+Bananaman first a@@ i@@ red on 3rd October 1983 .
+Bananaman first a@@ i@@ red on the 3rd of October , 1983 .
+Bananaman was first a@@ i@@ red on 1@@ 0@@ /@@ 0@@ 3@@ /@@ 1983 .
+Bill O@@ d@@ die stars in Bananaman .
+Bananaman starred Bill O@@ d@@ die .
+Bill O@@ d@@ die starred in Bananaman .
+Baymax is a character in Big Hero 6 .
+Bill E@@ v@@ e@@ r@@ e@@ t@@ t has won the E@@ i@@ s@@ n@@ e@@ r A@@ w@@ a@@ r@@ d .
+Bill E@@ v@@ e@@ r@@ e@@ t@@ t has been awarded the E@@ i@@ s@@ n@@ e@@ r award .
+Bill O@@ d@@ die 's d@@ a@@ u@@ g@@ h@@ t@@ e@@ r is K@@ a@@ t@@ e H@@ a@@ r@@ die .
+K@@ a@@ t@@ e H@@ a@@ r@@ die is Bill O@@ d@@ die 's c@@ h@@ i@@ l@@ d .
+D@@ an M@@ i@@ s@@ h@@ k@@ in is one of the creators of the comic character , Bolt .
+The comic book character Bolt was created by D@@ an M@@ i@@ s@@ h@@ k@@ in .
+The comic character Bolt was created by D@@ an M@@ i@@ s@@ h@@ k@@ in .
+B@@ o@@ z@@ o the I@@ r@@ on Man ’@@ s full name is H@@ u@@ g@@ h H@@ a@@ z@@ z@@ a@@ r@@ d .
+The full name of B@@ o@@ z@@ o the I@@ r@@ on Man is " H@@ u@@ g@@ h H@@ a@@ z@@ z@@ a@@ r@@ d " .
+The comic book character B@@ o@@ z@@ o the I@@ r@@ on Man 's a@@ l@@ t@@ e@@ r e@@ g@@ o is H@@ u@@ g@@ h H@@ a@@ z@@ z@@ a@@ r@@ d .
+John B@@ u@@ s@@ c@@ e@@ m@@ a has won the comic book award , E@@ a@@ g@@ l@@ e A@@ w@@ a@@ r@@ d .
+John B@@ u@@ s@@ c@@ e@@ m@@ a r@@ e@@ c@@ e@@ i@@ v@@ e@@ d the E@@ a@@ g@@ l@@ e A@@ w@@ a@@ r@@ d for his work in c@@ o@@ m@@ i@@ c@@ s .
+M@@ a@@ r@@ v W@@ o@@ l@@ f@@ m@@ an is a r@@ e@@ c@@ i@@ p@@ i@@ e@@ n@@ t of the E@@ a@@ g@@ l@@ e A@@ w@@ a@@ r@@ d .
+M@@ a@@ r@@ v W@@ o@@ l@@ f@@ m@@ an won the E@@ a@@ g@@ l@@ e A@@ w@@ a@@ r@@ d for c@@ o@@ m@@ i@@ c@@ s .
+M@@ a@@ r@@ v W@@ o@@ l@@ f@@ m@@ an has r@@ e@@ c@@ e@@ i@@ v@@ e@@ d the E@@ a@@ g@@ l@@ e A@@ w@@ a@@ r@@ d for c@@ o@@ m@@ i@@ c@@ s .
+The alternative name for Ajoblanco is " A@@ j@@ o b@@ l@@ a@@ n@@ c@@ o " .
+A@@ j@@ o b@@ l@@ a@@ n@@ c@@ o is an alternative name to Ajoblanco .
+A@@ j@@ o b@@ l@@ a@@ n@@ c@@ o is an alternative name of Ajoblanco .
+The main ingredients in a@@ j@@ o@@ b@@ l@@ a@@ n@@ c@@ o are b@@ r@@ e@@ a@@ d , almonds , garlic , water and olive oil .
+B@@ r@@ e@@ a@@ d , almonds , garlic , water , and olive oil are the main ingredients in Ajoblanco .
+The main ingredients of Ajoblanco are b@@ r@@ e@@ a@@ d , almonds , garlic , water , olive oil .
+Arem-arem is found nationwide in Indonesia , but is m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c to Java .
+Arem-arem is nationwide in Indonesia , but m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c to Java .
+A@@ r@@ e@@ m a@@ r@@ e@@ m comes from Indonesia .
+Arrabbiata sauce is made with t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , red c@@ h@@ i@@ l@@ i , garlic and olive oil .
+the main ingredients in Arrabbiata sauce are T@@ o@@ m@@ a@@ t@@ o@@ e@@ s , red c@@ h@@ i@@ l@@ i , garlic and olive oil .
+C@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h is an ingredient in Arros negre .
+C@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h is an ingredient of the dish Arròs negre .
+S@@ q@@ u@@ i@@ d is an ingredient of Arros negre .
+Asam pedas is a food found in Malaysia .
+The genus of the a@@ v@@ o@@ c@@ a@@ d@@ o is p@@ e@@ r@@ s@@ e@@ a .
+The genus of A@@ v@@ o@@ c@@ a@@ d@@ o is P@@ e@@ r@@ sea .
+Ayam penyet s@@ h@@ o@@ u@@ l@@ d be served h@@ o@@ t .
+Ayam penyet is a dish that s@@ h@@ o@@ u@@ l@@ d be served h@@ o@@ t .
+a@@ y@@ a@@ m penyet is served h@@ o@@ t .
+Baked Alaska is a dessert .
+An ingredient of b@@ a@@ k@@ e@@ well tart is f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e .
+F@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e is an ingredient in a Bakewell tart .
+F@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e is an ingredient of Bakewell tart .
+The dish Bakso contains noodles .
+N@@ o@@ o@@ d@@ l@@ e is an ingredient in Bakso .
+b@@ a@@ k@@ s@@ o contains noodles .
+V@@ e@@ r@@ m@@ i@@ c@@ e@@ l@@ l@@ i is an ingredient in Bakso .
+V@@ e@@ r@@ m@@ i@@ c@@ e@@ l@@ l@@ i is an ingredient of the dish Bakso .
+V@@ e@@ r@@ m@@ i@@ c@@ e@@ l@@ l@@ i is i@@ n@@ c@@ l@@ u@@ d@@ e@@ d in b@@ a@@ k@@ s@@ o .
+C@@ h@@ o@@ r@@ i@@ z@@ o is an ingredient in the dish Bandeja paisa .
+C@@ h@@ o@@ r@@ i@@ z@@ o is an ingredient in Bandeja paisa .
+M@@ o@@ n@@ d@@ e@@ l@@ e@@ z International is the creator of Barny cakes .
+Barny cakes were created by M@@ o@@ n@@ d@@ e@@ l@@ e@@ z International .
+Barny cakes is created by M@@ o@@ n@@ d@@ e@@ l@@ e@@ z International .
+Barny C@@ a@@ k@@ e@@ s can be c@@ h@@ o@@ c@@ o@@ l@@ a@@ t@@ e f@@ l@@ a@@ v@@ o@@ u@@ red .
+C@@ h@@ o@@ c@@ o@@ l@@ a@@ t@@ e is one variation of the Barny C@@ a@@ k@@ e@@ s dish .
+Barny cakes contain 1@@ .@@ 8 g of p@@ r@@ o@@ t@@ e@@ in .
+Barny cakes contain 1@@ .@@ 8 g of p@@ r@@ o@@ t@@ e@@ in .
+Batchoy is eaten in the Philippines .
+Philippines is the country Batchoy comes from .
+C@@ h@@ i@@ c@@ k@@ e@@ n is an ingredient in Batchoy .
+Batchoy includes chicken .
+V@@ e@@ g@@ e@@ t@@ a@@ b@@ l@@ e are used in the p@@ r@@ e@@ p@@ a@@ r@@ a@@ t@@ i@@ on of Batchoy .
+V@@ e@@ g@@ e@@ t@@ a@@ b@@ l@@ e@@ s are an ingredient in Batchoy .
+Binignit is a dish from the region of V@@ i@@ s@@ a@@ y@@ as .
+P@@ a@@ t@@ r@@ i@@ c@@ k M@@ c@@ L@@ o@@ u@@ g@@ h@@ l@@ in is a leader in the Derbyshire Dales .
+P@@ a@@ t@@ r@@ i@@ c@@ k M@@ c@@ L@@ o@@ u@@ g@@ h@@ l@@ in is a leader in Derbyshire Dales .
+P@@ a@@ t@@ r@@ i@@ c@@ k M@@ c@@ L@@ o@@ u@@ g@@ h@@ l@@ in is the leader of Derbyshire Dales .
+A variation on dessert is cake .
+Ice cream is a type of dessert .
+A type of dessert is an i@@ c@@ e cream .
+Ice cream is a dessert .
+Jusuf Kalla is a leader in Indonesia .
+Jusuf Kalla is the leader of Indonesia .
+Italians are from Italy .
+Italians is the name g@@ i@@ v@@ e@@ n to people from Italy .
+B@@ a@@ d@@ u@@ y is the ethnic group of Java .
+The B@@ a@@ d@@ u@@ y is an ethnic group in Java .
+B@@ a@@ d@@ u@@ y is an ethnic group of Java .
+L@@ e@@ m@@ on is under the order of R@@ o@@ s@@ i@@ d@@ s .
+the order of l@@ e@@ m@@ o@@ n@@ s is R@@ o@@ s@@ i@@ d@@ s .
+Mexico is i@@ n@@ h@@ a@@ b@@ i@@ t@@ e@@ d by M@@ e@@ x@@ i@@ c@@ a@@ n@@ s .
+M@@ e@@ x@@ i@@ c@@ a@@ n@@ s are people from Mexico .
+In Mexico , the spoken language is Spanish .
+Spanish is the language spoken in Mexico .
+The language of Mexico is Spanish .
+One of the languages used in the Philippines is Arabic .
+Arabic is a language spoken in the Philippines .
+One of the languages in Philippines is Arabic .
+Arabic is one of the languages spoken in the Philippines .
+Shumai is a variation of the dish Siomay .
+Siomay and Shumai are variations of the same dish .
+Native Americans in the United States are one of the ethnic groups of the country .
+The Atatürk Monument in Izmir was designed by Pietro Canonica .
+Pietro Canonica designed the Atatürk Monument in Izmir .
+Pietro Canonica is the d@@ e@@ s@@ i@@ g@@ n@@ e@@ r of the Ataturk Monument ( Izmir ) .
+The Ataturk Monument was designed by Pietro Canonica .
+Ataturk Monument was designed by Pietro Canonica .
+The Atatürk Monument ( İ@@ z@@ m@@ i@@ r ) was designed by Pietro Canonica .
+The d@@ e@@ s@@ i@@ g@@ n@@ e@@ r of the A@@ t@@ a@@ t@@ ü@@ r@@ k@@ _@@ Monument ( İ@@ z@@ m@@ i@@ r ) is Pietro Canonica .
+Pietro Canonica is the d@@ e@@ s@@ i@@ g@@ n@@ e@@ r of the Ataturk Monument in Izmir .
+The Atatürk Monument in Izmir is made of bronze .
+The m@@ a@@ t@@ e@@ r@@ i@@ a@@ l of the Ataturk Monument ( Izmir ) is bronze .
+The Ataturk Monument is made from B@@ r@@ o@@ n@@ z@@ e .
+The Atatürk Monument ( İ@@ z@@ m@@ i@@ r ) is made of B@@ r@@ o@@ n@@ z@@ e .
+Ataturk Monument is made of B@@ r@@ o@@ n@@ z@@ e .
+Azerbaijan leader 's name is Artur Rasizade .
+The name of the leader of Azerbaijan is Artur Rasizade .
+The Baku Turkish Martyrs ' Memorial is located in Azerbaijan .
+The Baku Turkish M@@ a@@ r@@ t@@ y@@ r 's Memorial is in Azerbaijan .
+The Turkish m@@ a@@ r@@ t@@ y@@ r@@ s memorial is located in Baku , Azerbaijan .
+Baku Turkish Martyrs ' Memorial is located in Azerbaijan .
+The Baku Turkish Martyrs ' Memorial can be found is Azerbaijan .
+The Baku Turkish Martyrs ' Memorial is in Azerbaijan .
+The Baku Turkish Martyrs ' Memorial is found in Azerbaijan .
+The m@@ a@@ t@@ e@@ r@@ i@@ a@@ l@@ s used for the Baku Turkish Martyrs ' Memorial is red granite and white marble .
+The Baku Turkish Martyrs ' Memorial is created in red granite and white marble .
+The m@@ a@@ t@@ e@@ r@@ i@@ a@@ l of the Baku Turkish Martyrs ' Memorial is R@@ e@@ d granite and white marble .
+The Baku Turkish Martyrs ' Memorial is made from red granite and white marble .
+Baku Turkish Martyrs ' Memorial is made of red granite and white marble .
+Baku Turkish Martyrs ' Memorial is made from red granite and white marble .
+The Baku Turkish Martyrs ' Memorial is made with red granite and white marble .
+Peter S@@ t@@ o@@ g@@ e@@ r is the manager of FC K@@ o@@ l@@ in .
+Peter S@@ t@@ ö@@ g@@ e@@ r is manager of 1 . FC K@@ ö@@ l@@ n .
+The manager of 1 . FC K@@ o@@ l@@ n is Peter S@@ t@@ o@@ g@@ e@@ r .
+1 FC Magdeburg played in the 2014 season .
+A C Lumezzane played the 2@@ 0@@ 1@@ 4@@ -@@ 2@@ 0@@ 15 season in L@@ e@@ g@@ a P@@ r@@ o .
+Lumezzane played in the L@@ e@@ g@@ a P@@ r@@ o d@@ u@@ r@@ i@@ n@@ g the 2014 season .
+A.D. Isidro Metapan 's full name is " A@@ s@@ o@@ c@@ i@@ a@@ c@@ i@@ ó@@ n D@@ e@@ p@@ o@@ r@@ t@@ i@@ v@@ a " .
+A.D. Isidro M@@ e@@ t@@ a@@ p@@ á@@ n 's full name is A@@ s@@ o@@ c@@ i@@ a@@ c@@ i@@ ó@@ n D@@ e@@ p@@ o@@ r@@ t@@ i@@ v@@ a .
+The fullname of A.D. Isidro Metapan is A@@ s@@ o@@ c@@ i@@ a@@ c@@ i@@ on D@@ e@@ p@@ o@@ r@@ t@@ i@@ v@@ a .
+A.E Dimitra Efxeinoupolis 's full name is A.E Dimitra Efxeinoupolis .
+" A.E Dimitra Efxeinoupolis " is the full name of A.E Dimitra Efxeinoupolis .
+A.E Dimitra Efxeinoupolis has the fullname A.E Dimitra Efxeinoupolis .
+A.E Dimitra Efxeinoupolis played in the 2014 season .
+A.E D@@ i@@ m@@ i@@ t@@ i@@ a Efxeinoupolis were in the 2014 season .
+A.E Dimitra Efxeinoupolis played in season 2014 .
+A.E Dimitra Efxeinoupolis were in the 2014 – 15 A E@@ P@@ S@@ T@@ H . Greece season .
+A.E Dimitra Efxeinoupolis were in the 2014-15 A E@@ P@@ S@@ T@@ H , Greece .
+A.F.C. Blackpool has 1@@ 5@@ 0@@ 0 members .
+The Fylde is the home ground of AFC Fylde .
+AFC Fylde has the home ground called The Fylde .
+The ground of A.S. Gubbio 1910 is located in Italy .
+A.S. Livorno Calcio has 1@@ 9@@ 2@@ 3@@ 8 members .
+The AS Livorno Calcio has 1@@ 9@@ 2@@ 3@@ 8 members .
+The A.S. Livorno Calcio has 1@@ 9@@ 2@@ 3@@ 8 members .
+A.S. Roma were in Serie A in 2014-15 .
+Frank de B@@ o@@ e@@ r manages the AFC Ajax team .
+AFC Ajax 's manager is Frank de B@@ o@@ e@@ r .
+The manager of AFC Ajax is Frank de B@@ o@@ e@@ r .
+AFC Ajax ( amateurs ) have the nickname " J@@ o@@ den , G@@ o@@ d@@ e@@ n@@ z@@ o@@ n@@ e@@ n " .
+The AFC Ajax team 's nickname is J@@ o@@ den , G@@ o@@ d@@ e@@ n@@ z@@ o@@ n@@ e@@ n .
+AFC Ajax ( amateurs ) nickname is J@@ o@@ den , G@@ o@@ d@@ e@@ n@@ z@@ o@@ n@@ e@@ n .
+AFC Ajax has 5@@ 0@@ 0@@ 0 M@@ e@@ m@@ b@@ e@@ r@@ s .
+AFC Ajax ( amateurs ) has 5@@ 0@@ 0@@ 0 members .
+AZAL PFK is located at S@@ h@@ u@@ v@@ a@@ l@@ an , Baku , Azerbaijan .
+AZAL PFK is located in S@@ h@@ u@@ v@@ a@@ l@@ an , Baku , Azerbaijan .
+AZ Alkmaar has 1@@ 7@@ 0@@ 23 members .
+A@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o Sportiva Arapiraquense are managed by V@@ i@@ c@@ a .
+Agremiação Sportiva Arapiraquense competed in the 2@@ 0@@ 15 Campeonato Brasileiro Série C@@ .
+A@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o Sportiva Arapiraquense were in Campeonato Brasileiro Serie C in 2@@ 0@@ 15 .
+Akron Summit Assault 's ground is St. Vincent-St . Mary High School .
+St Vincent-St Mary High School is the ground of Akron Summit Assault .
+Akron Summit Assault has 3@@ 0@@ 0@@ 0 members .
+Akron Summit Assault has g@@ o@@ t 3@@ 0@@ 0@@ 0 members .
+A@@ m@@ s@@ t@@ e@@ r@@ d@@ a@@ m@@ -@@ C@@ e@@ n@@ t@@ r@@ u@@ m is part of Amsterdam .
+The leader of Greece is Nikos Voutsis .
+G@@ u@@ s P@@ o@@ y@@ e@@ t is in AEK Athens F.C.
+G@@ u@@ s P@@ o@@ y@@ e@@ t plays for AEK Athens F.C.
+Jens H@@ a@@ r@@ t@@ e@@ l plays for S@@ V G@@ e@@ r@@ m@@ a@@ n@@ i@@ a S@@ c@@ h@@ o@@ n@@ e@@ i@@ c@@ he .
+John van den Brom plays at the AZ Alkmaar club .
+John van den Brom plays for AZ Alkmaar .
+Jorge H@@ u@@ m@@ b@@ e@@ r@@ to R@@ o@@ d@@ r@@ i@@ g@@ u@@ e@@ z 's club is A.D. Isidro Metapan .
+Jorge H@@ u@@ m@@ b@@ e@@ r@@ to R@@ o@@ d@@ r@@ í@@ g@@ u@@ e@@ z is with the A.D. Isidro M@@ e@@ t@@ a@@ p@@ á@@ n club .
+Jorge H@@ u@@ m@@ b@@ e@@ r@@ to R@@ o@@ d@@ r@@ í@@ g@@ u@@ e@@ z was a member of the club A.D. Isidro M@@ e@@ t@@ a@@ p@@ á@@ n .
+Massimo Drago is attached to the club D@@ e@@ l@@ f@@ i@@ n@@ o P@@ e@@ s@@ c@@ a@@ r@@ a 1@@ 9@@ 3@@ 6 .
+Massimo Drago plays for S@@ .@@ S@@ .@@ C@@ h@@ i@@ e@@ t@@ i Calcio .
+Massimo Drago 's club is the S@@ .@@ S@@ . C@@ h@@ i@@ e@@ t@@ i Calcio .
+Massimo Drago plays for S@@ .@@ S@@ . C@@ h@@ i@@ e@@ t@@ i Calcio .
+The O@@ l@@ y@@ m@@ p@@ i@@ c Stadium ( Athens ) is located at M@@ a@@ r@@ o@@ u@@ s@@ i .
+The O@@ l@@ y@@ m@@ p@@ i@@ c Stadium ( Athens ) is located in M@@ a@@ r@@ o@@ u@@ s@@ i .
+K@@ -@@ W United FC have been champions of the Premier D@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t League .
+K@@ -@@ W United FC were champions at the Premier D@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t League .
+Stuart Parker played football for B@@ u@@ r@@ y FC .
+The footballer Stuart Parker plays for the B@@ u@@ r@@ y FC .
+The academic staff s@@ i@@ z@@ e of Accademia di Architettura di Mendrisio is 100 .
+The academic staff number 100 at the Accademia di Architettura di Mendrisio .
+The Accademia di Architettura di Mendrisio has an academic staff of 100 .
+The campus address for the Acharya I@@ n@@ s@@ t@@ i@@ t@@ u@@ e of Technology is : S@@ o@@ l@@ d@@ e@@ n@@ v@@ a@@ n@@ a@@ h@@ a@@ l@@ l@@ i , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 .
+The Acharya Institute of Technology campus is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
+The campus of the Acharya Institute of Technology is located at Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
+Alba I@@ u@@ l@@ i@@ a is located in Romania .
+Alba I@@ u@@ l@@ i@@ a is in the country of Romania .
+Alba I@@ u@@ l@@ i@@ a is in Romania .
+Alba I@@ u@@ l@@ i@@ a o@@ s part of the county of Alba .
+Alba l@@ u@@ l@@ i@@ a is part of Alba County .
+Alba I@@ u@@ l@@ i@@ a is part of Alba County .
+The p@@ a@@ t@@ r@@ on S@@ a@@ i@@ n@@ t of Romania is A@@ n@@ d@@ r@@ e@@ w the A@@ p@@ o@@ s@@ t@@ l@@ e .
+A@@ n@@ d@@ r@@ e@@ w the A@@ p@@ o@@ s@@ t@@ l@@ e is the p@@ a@@ t@@ r@@ on s@@ a@@ i@@ n@@ t of Romania .
+The academic staff of the School of Business and Social Sciences at the Aarhus University number 737 .
+The School of Business and Social Sciences at the Aarhus University has academic staff s@@ i@@ z@@ e of 737 .
+The School of Business and Social Sciences at the Aarhus University has an academic staff of 737 .
+The Aarhus University School of Business and Social Sciences is in the country of Denmark .
+The School of Business and Social Sciences at the Aarhus University is situated in Denmark .
+The School of Business and Social Sciences at the Aarhus University is located in Denmark .
+The School of Business and Social Sciences at the Aarhus University is in Denmark .
+Eric Flint is the author of 1634 : The Bavarian Crisis .
+1634 : The Bavarian Crisis was written by Eric Flint .
+1634 : The Bavarian c@@ r@@ i@@ s@@ i@@ s is the sequel to The Grantville Gazettes .
+1634 : The Bavarian Crisis is preceded by The Grantville Gazettes .
+1634 : The Ram Rebellion was followed by 1@@ 6@@ 3@@ 5 : The C@@ a@@ n@@ n@@ on L@@ a@@ w .
+1634 : The Ram Rebellion is followed by 1@@ 6@@ 3@@ 5 : The C@@ a@@ n@@ n@@ on L@@ a@@ w .
+AIP Advances h@@ a@@ d the E@@ I@@ S@@ S@@ N@@ number 2@@ 1@@ 5@@ 8 .
+The E@@ ISSN number of AIP Advances is 2@@ 1@@ 5@@ 8 .
+A Fortress of Grey Ice is a hardcover book .
+A Fortress of Grey Ice was made in hardcover .
+A Fortress of Grey Ice was p@@ r@@ o@@ d@@ u@@ c@@ e@@ d in H@@ a@@ r@@ d@@ c@@ o@@ v@@ e@@ r .
+The ISBN number of A Long Long Way is 0@@ -@@ 6@@ 7@@ 0@@ -@@ 0@@ 3@@ 3@@ 8@@ 0@@ -@@ 4 .
+The ISBN number to A Long Long Way is 0@@ -@@ 6@@ 7@@ 0@@ -@@ 0@@ 3@@ 3@@ 8@@ 0@@ -@@ 4 .
+The book , A Loyal Character Dancer , has the ISBN number of 1@@ -@@ 5@@ 6@@ 9@@ 4@@ 7@@ -@@ 3@@ 0@@ 1@@ -@@ 3 .
+M@@ a@@ d@@ e@@ l@@ e@@ i@@ n@@ e L@@ '@@ E@@ n@@ g@@ l@@ e wrote " A Severed Wasp " .
+M@@ a@@ d@@ e@@ l@@ e@@ i@@ n@@ e L@@ '@@ E@@ n@@ g@@ l@@ e is the author of A Severed Wasp .
+A Wizard of Mars is published in English .
+A Wizard of Mars is written in English .
+A@@ b@@ h@@ a@@ n@@ d@@ l@@ u@@ n@@ g@@ e@@ n a@@ u@@ s d@@ e@@ m M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ s@@ c@@ h@@ e@@ n S@@ e@@ m@@ i@@ n@@ a@@ r d@@ e@@ r U@@ n@@ i@@ v@@ e@@ r@@ s@@ i@@ t@@ ä@@ t H@@ a@@ m@@ b@@ u@@ r@@ g has the LCCN number 3@@ 2@@ 0@@ 2@@ 4@@ 4@@ 5@@ 9 .
+The A@@ b@@ h@@ a@@ n@@ d@@ l@@ u@@ n@@ g@@ e@@ n a@@ u@@ s d@@ e@@ m M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ s@@ c@@ h@@ e@@ n S@@ e@@ m@@ i@@ n@@ a@@ r d@@ e@@ r U@@ n@@ i@@ v@@ e@@ r@@ s@@ i@@ t@@ ä@@ t H@@ a@@ m@@ b@@ u@@ r@@ g has an LCCN number of 3@@ 2@@ 0@@ 2@@ 4@@ 4@@ 5@@ 9 .
+The LCCN number of A@@ b@@ h@@ a@@ n@@ d@@ l@@ u@@ n@@ g@@ e@@ n a@@ u@@ s d@@ e@@ m M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ s@@ c@@ h@@ e@@ n S@@ e@@ m@@ i@@ n@@ a@@ r d@@ e@@ r U@@ n@@ i@@ v@@ e@@ r@@ s@@ i@@ t@@ ä@@ t H@@ a@@ m@@ b@@ u@@ r@@ g is 3@@ 2@@ 0@@ 2@@ 4@@ 4@@ 5@@ 9 .
+Above the Veil is available in hardcover .
+Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a is also known as Acta Math . H@@ u@@ n@@ g@@ a@@ r .
+Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a has the abbreviation of " Acta Math . H@@ u@@ n@@ g@@ a@@ r . " .
+The abbreviation of Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a is Acta Math . H@@ u@@ n@@ g@@ a@@ r .
+The Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a c@@ o@@ v@@ e@@ r@@ s the academic discipline of Mathematics .
+The Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a discipline is Math .
+Acta Palaeontologica Polonica has the CODEN code A@@ P@@ G@@ P@@ AC .
+The Acta Palaeontologica Polonica CODEN code is " A@@ P@@ G@@ P@@ AC " .
+The CODEN code for the Acta Palaeontologica Polonica is A@@ P@@ G@@ P@@ AC .
+The OCLC number of Addiction ( journal ) is 2@@ 7@@ 3@@ 6@@ 7@@ 1@@ 9@@ 4 .
+The OCLC number for Addiction journal is 2@@ 7@@ 3@@ 6@@ 7@@ 1@@ 9@@ 4 .
+Addiction ( journal ) has an OCLC number 2@@ 7@@ 3@@ 6@@ 7@@ 1@@ 9@@ 4 .
+W@@ i@@ l@@ e@@ y@@ -@@ B@@ l@@ a@@ c@@ k@@ well is the publisher of the journal Addiction .
+W@@ i@@ l@@ e@@ y@@ -@@ B@@ l@@ a@@ c@@ k@@ well is the publisher of Addiction ( journal ) .
+Addiction journal is published by W@@ i@@ l@@ e@@ y@@ -@@ B@@ l@@ a@@ c@@ k@@ well .
+The LCCN number of the Administrative Science Quarterly is 5@@ 7@@ 0@@ 5@@ 9@@ 2@@ 2@@ 6 .
+Administrative Science Quarterly 's L@@ L@@ C@@ N number is 5@@ 7@@ 0@@ 5@@ 9@@ 2@@ 2@@ 6 .
+OCLC number 4@@ 5@@ 6@@ 4@@ 4@@ 8@@ 11 is Aenir .
+OCLC number 4@@ 5@@ 6@@ 4@@ 4@@ 8@@ 11 is for Aenir .
+The OCLC number of Aenir is 4@@ 5@@ 6@@ 4@@ 4@@ 8@@ 11 .
+Alcatraz Versus The Evil L@@ i@@ b@@ r@@ a@@ r@@ i@@ an OCLC number is 7@@ 8@@ 7@@ 7@@ 1@@ 1@@ 0@@ 0 .
+Alcatraz Versus the Evil Librarians has the OCLC number of 7@@ 8@@ 7@@ 7@@ 1@@ 1@@ 0 .
+Alcatraz Versus the Evil Librarians has an OCLC number of 7@@ 8@@ 7@@ 7@@ 1@@ 1@@ 0@@ 0 .
+The book Alcatraz Versus the Evil Librarians is followed by the book Alcatraz Versus the S@@ c@@ r@@ i@@ v@@ e@@ n@@ e@@ r 's B@@ o@@ n@@ e@@ s .
+Alcatraz Versus the Evil Librarians was followed by Alcatraz Versus the S@@ c@@ r@@ i@@ v@@ e@@ n@@ e@@ r 's B@@ o@@ n@@ e@@ s .
+Alcatraz v@@ e@@ r@@ s@@ u@@ s the Evil Librarians is followed by Alcatraz Versus the S@@ c@@ r@@ i@@ v@@ e@@ n@@ e@@ r 's B@@ o@@ n@@ e@@ s .
+The i@@ m@@ p@@ a@@ c@@ t f@@ a@@ c@@ t@@ or of the American Journal of Mathematics is 1@@ .@@ 3@@ 3@@ 7 .
+The American Journal of Mathematics has an i@@ m@@ p@@ a@@ c@@ t F@@ a@@ c@@ t@@ or of 1@@ .@@ 3@@ 3@@ 7 .
+The novel Castle is followed by Aenir .
+Aenir followed the novel Castle .
+Castle is followed by Aenir .
+C@@ o@@ r@@ n@@ well University is n@@ i@@ c@@ k@@ named Cornell Big R@@ e@@ d .
+Cornell Big R@@ e@@ d is the nickname of Cornell University .
+Cornell Big R@@ e@@ d is the nickname for Cornell University .
+The H@@ I@@ V v@@ i@@ r@@ u@@ s is from the genus L@@ e@@ n@@ t@@ i@@ v@@ i@@ r@@ u@@ s .
+H@@ I@@ V is genus L@@ e@@ n@@ t@@ i@@ v@@ i@@ r@@ u@@ s .
+H@@ I@@ V genus is categorised as L@@ e@@ n@@ t@@ i@@ v@@ i@@ r@@ u@@ s .
+W@@ o@@ l@@ f S@@ o@@ l@@ e@@ n@@ t is a n@@ o@@ t@@ a@@ b@@ l@@ e work by John Cowper Powys .
+W@@ o@@ l@@ f S@@ o@@ l@@ e@@ n@@ t is one of John Cowper Powys n@@ o@@ t@@ a@@ b@@ l@@ e w@@ o@@ r@@ k@@ s .
+W@@ o@@ l@@ f S@@ o@@ l@@ e@@ n@@ t is a n@@ o@@ t@@ a@@ b@@ l@@ e work of author John Cowper Powys .
+Elizabeth II is a leader in the United Kingdom .
+The leader of the United Kingdom is Elizabeth II .
+Elizabeth II is the leader in the UK .
+Joe Biden is a United States leader .
+Joe Biden is a leader in the U.S.
+A leader in the United States is Joe Biden .
+John Cowper Powys is the author of W@@ o@@ l@@ f S@@ o@@ l@@ e@@ n@@ t .
+John Cowper Powys is the author of " W@@ o@@ l@@ f S@@ o@@ l@@ e@@ n@@ t " .
+Abilene is in Texas and is served by the Abilene r@@ e@@ g@@ i@@ o@@ n@@ a@@ l airport .
+Abilene , part of Texas , is served by the Abilene r@@ e@@ g@@ i@@ o@@ n@@ a@@ l airport .
+Abilene r@@ e@@ g@@ i@@ o@@ n@@ a@@ l airport serves the city of Abilene which is in Texas .
+Adolfo Suárez Madrid – Barajas Airport is in Alcobendas and has a runway length of 3500 .
+Located in Alcobendas , Adolfo Suarez Madrid-Barajas Airport has a runway with the length of 3@@ 5@@ 0@@ 0@@ .@@ 0 metres .
+The Adolfo Suárez Madrid – Barajas Airport located at San S@@ e@@ b@@ a@@ s@@ t@@ i@@ an de los R@@ e@@ y@@ e has a runway length of 3500 .
+The Adolfo Suárez Madrid – Barajas Airport is in San S@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los Reyes and has a runway length of 3@@ 5@@ 0@@ 0@@ .@@ 0 metres .
+Adolfo Suarez Madrid-Barajas airport is located at San S@@ e@@ b@@ a@@ s@@ t@@ i@@ an de los Reyes and has a runway length of 3500 .
+Agra Airport is in India where one of its leaders is T@@ .@@ S@@ . Thakur .
+Agra Airport is in India , where the leader is T@@ S Thakur .
+Agra Airport is located in India , where the leader is T S Thakur .
+Al Asad Airbase is 6@@ 18 f@@ t above sea level and is located in Al A@@ n@@ b@@ a@@ r Province , Iraq .
+The Al Asad Airbase which is elevated 6@@ 18 feet above sea level , is located in the Al A@@ n@@ b@@ a@@ r Province in Iraq .
+The Al Asad Airbase , which is 6@@ 18 f@@ t above sea level , is located in Al A@@ n@@ b@@ a@@ r Province , Iraq .
+Al Asad Airbase is operated by the United States Air Force who f@@ o@@ u@@ g@@ h@@ t in The O@@ p@@ e@@ r@@ a@@ t@@ i@@ on of E@@ n@@ d@@ u@@ r@@ i@@ n@@ g F@@ r@@ e@@ e@@ d@@ o@@ m b@@ a@@ t@@ t@@ l@@ e .
+O@@ p@@ e@@ r@@ a@@ t@@ i@@ on E@@ n@@ d@@ u@@ r@@ i@@ n@@ g F@@ r@@ e@@ e@@ d@@ o@@ m was a b@@ a@@ t@@ t@@ l@@ e i@@ n@@ v@@ o@@ l@@ v@@ i@@ n@@ g the United States Air Force who operate Al Asad airbase .
+The United States i@@ n@@ v@@ a@@ s@@ i@@ on of P@@ a@@ n@@ a@@ m@@ a was a b@@ a@@ t@@ t@@ l@@ e i@@ n@@ v@@ o@@ l@@ v@@ i@@ n@@ g the United States Air Force who operate the Al Asad Airbase .
+The United States i@@ n@@ v@@ a@@ s@@ i@@ on of P@@ a@@ n@@ a@@ m@@ a was a b@@ a@@ t@@ t@@ l@@ e i@@ n@@ v@@ o@@ l@@ v@@ i@@ n@@ g the United States Air Force who are the operating organisation for Al Asad airbase .
+The United States Air Force was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the i@@ n@@ v@@ a@@ s@@ i@@ on of P@@ a@@ n@@ a@@ m@@ a and is also the operating organisation for Al Asad air base .
+Adolfo Suárez Madrid – Barajas Airport is located in Alcobendas which is part of the Community of Madrid .
+Adolfo Suárez Madrid – Barajas Airport is in Alcobendas which is part of the community of Madrid .
+Poaceae is the surface of the 1st runway at Alderney Airport which has a runway with the length of 8@@ 7@@ 7@@ .@@ 0 metres .
+The 1st runway length of Alderney Airport is 8@@ 7@@ 7@@ .@@ 0 and the surface is poaceae .
+Allama Iqbal International Airport is operated by Pakistan Civil Aviation Authority , the H@@ Q of which is at J@@ i@@ n@@ n@@ a@@ h International Airport .
+The Pakistan Civil Aviation Authority , which has its H@@ Q at J@@ i@@ n@@ n@@ a@@ h International Airport , g@@ o@@ v@@ e@@ r@@ n@@ s Allama Iqbal International Airport .
+Allama Iqbal International Airport is operated by the Pakistan Civil Aviation Authority , which is h@@ e@@ a@@ d@@ q@@ u@@ a@@ r@@ t@@ e@@ r@@ e@@ d at J@@ i@@ n@@ n@@ a@@ h International Airport .
+The location of Alpena County Regional Airport is W@@ i@@ l@@ s@@ on Township , Alpena County , Michigan , United States .
+Alpena County Regional Airport is located in W@@ i@@ l@@ s@@ on Township , Alpena County , Michigan , United States .
+Alpena County Regional Airport is located in the W@@ i@@ l@@ s@@ on Township , Alpena County , Michigan , USA .
+The S@@ c@@ h@@ i@@ p@@ o@@ l G@@ r@@ o@@ up are the o@@ p@@ e@@ r@@ a@@ t@@ o@@ r@@ s of Amsterdam Airport Schiphol , which is -@@ 3@@ .@@ 3@@ 5@@ 2@@ 8 above sea level .
+Schiphol G@@ r@@ o@@ up operates the Amsterdam Airport Schiphol which is -@@ 3@@ .@@ 3@@ 5@@ 2@@ 8 m a@@ .@@ s@@ .@@ l@@ .
+Amsterdam airport S@@ c@@ h@@ i@@ p@@ o@@ l is operated by the S@@ c@@ h@@ i@@ p@@ o@@ l group and is -@@ 3@@ .@@ 3@@ 5@@ 2@@ 8 above sea level .
+Andrews County Airport is 9@@ 7@@ 3 metres above sea level and The 4@@ t@@ h runway is made of A@@ s@@ p@@ h@@ a@@ l@@ t .
+The f@@ o@@ u@@ r@@ t@@ h runway at Andrews County Airport is made of a@@ s@@ p@@ h@@ a@@ l@@ t and the airport is 9@@ 7@@ 3 b@@ e@@ l@@ o@@ w sea level .
+Andrews County Airport is located in Texas , the capital of which is Austin .
+Andrews County Airport is located in Texas which has the capital of Austin .
+Andrews County Airport is located in Texas , where Austin is the capital .
+Angola International Airport serves the city of Luanda , it is 1@@ 5@@ 9@@ m above sea level .
+The Angola International Airport , 1@@ 5@@ 9 m above sea level serves Luanda .
+Angola International Airport is located in Í@@ c@@ o@@ l@@ o e Bengo , Angola .
+Antwerp International Airport , operated by The Flemish d@@ e@@ p@@ a@@ r@@ t@@ m@@ e@@ n@@ t of M@@ o@@ b@@ i@@ l@@ i@@ t@@ y and Public W@@ o@@ r@@ k@@ s , is 12 metres above sea level .
+Appleton , G@@ r@@ and Chute , Wisconsin is a city which is served by Appleton International Airport .
+Appleton , Wisconsin is part of G@@ r@@ and Chute , Wisconsin and is served by A@@ p@@ p@@ l@@ e@@ t@@ one International Airport .
+Appleton International Airport serves the city of Appleton which is part of G@@ r@@ and Chute , Wisconsin .
+New Zealand 's Ardmore Airport 's s@@ e@@ c@@ o@@ n@@ d runway has the surface type Poaceae which is part of the P@@ o@@ a@@ l@@ e@@ s order .
+The 2@@ n@@ d runway at Ardmore Airport ( New Zealand ) is made of Poaceae , which is a member of the order of P@@ o@@ a@@ l@@ e@@ s .
+Poaceae ( part of the P@@ o@@ a@@ l@@ e@@ s order ) is the surface type of the s@@ e@@ c@@ o@@ n@@ d runway of Ardmore Airport , New Zealand .
+Ardmore Airport ( New Zealand ) 's 3rd runway surface type is Poaceae of the class M@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on .
+The 3rd runway at Ardmore Airport ( New Zealand ) is made of Poaceae which is i@@ n@@ c@@ l@@ u@@ d@@ e@@ d in the class M@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on .
+Ardmore Airport ( New Zealand ) 's 3rd runway surface type is Poaceae which is i@@ n@@ c@@ l@@ u@@ d@@ e@@ d in the class of M@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on .
+The runway length at Ashgabat International airport , located in Ashgabat , is 3@@ 8@@ 0@@ 0@@ .@@ 0 .
+Ashgabat International Airport is located in Ashgabat and its runway length is 3@@ 8@@ 0@@ 0 .
+The runway length of Ashgabat International Airport in Ashgabat is 3@@ 8@@ 0@@ 0@@ .@@ 0 .
+Athens International Airport is in S@@ p@@ a@@ t@@ a and serves the city of Athens .
+Athens International Airport , which is located in S@@ p@@ a@@ t@@ a , serves the city of Athens .
+Athens International Airport in S@@ p@@ a@@ t@@ a serves the city of Athens .
+Athens International Airport serves the city of Athens and has a runway length of 3@@ 8@@ 0@@ 0@@ .@@ 0 .
+Athens International Airport serves the city of Athens and has a runway length of 3@@ .@@ 8@@ 0@@ 0 metres .
+San S@@ e@@ b@@ a@@ s@@ t@@ i@@ an de los Reyes is part of the Community of Madrid and is also the location of Adolfo Suárez Madrid – Barajas Airport .
+Adolfo Suárez Madrid – Barajas Airport is found in San S@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los Reyes , part of the Community of Madrid .
+The Adolfo Suárez Madrid – Barajas Airport is in San S@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los Reyes which is part of the Community of Madrid .
+Apollo 14 crew member Alan Shepard retired on the first of A@@ u@@ g@@ u@@ s@@ t , 1@@ 9@@ 7@@ 4 .
+Alan Shepard , who served as a crew member of Apollo 14 , retired 1@@ 9@@ 7@@ 4@@ -@@ 0@@ 8@@ -@@ 0@@ 1 .
+Buzz Aldrin is a US national b@@ e@@ c@@ a@@ use he was born in Glen Ridge , New Jersey .
+American Buzz Aldrin h@@ a@@ i@@ l@@ s from Glen Ridge , New Jersey .
+Buzz Aldrin was born in Glen Ridge , New Jersey in the United States .
+Buzz Aldrin was a US citizen born in Glen Ridge , New Jersey .
+R@@ e@@ t@@ i@@ r@@ e@@ e Buzz Aldrin is a f@@ o@@ r@@ m@@ e@@ r fighter pilot .
+Buzz Aldrin is now retired but he was once a fighter pilot .
+Buzz Aldrin has s@@ i@@ n@@ c@@ e retired but he once served as a fighter pilot .
+Buzz Aldrin served as a fighter pilot and is now retired .
+The Apollo 11 p@@ r@@ o@@ g@@ r@@ a@@ m was o@@ r@@ g@@ a@@ n@@ i@@ z@@ e@@ d by NASA and i@@ n@@ c@@ l@@ u@@ d@@ e@@ d Buzz Aldrin as one of its crew members .
+NASA operated the Apollo 11 p@@ r@@ o@@ g@@ r@@ a@@ m of which Buzz Aldrin was a member .
+Buzz Aldrin was on Apollo 11 which NASA operated .
+Buzz Aldrin served as a crew member of Apollo 11 which is operated by NASA .
+Buzz Aldrin was a crew member of Apollo 11 - whose o@@ p@@ e@@ r@@ a@@ t@@ or was NASA .
+b@@ u@@ z@@ z a@@ l@@ d@@ r@@ in was a crew member of a@@ p@@ o@@ l@@ l@@ o 11 , which was operated by NASA .
+Buzz Aldrin was a crew member of NASA 's Apollo 11 .
+Buzz Aldrin p@@ e@@ r@@ f@@ o@@ r@@ m@@ e@@ d as a fighter pilot and was a crew member on Apollo 11 .
+Buzz Aldrin , who was a fighter pilot , was a crew member on Apollo 11 .
+Buzz Aldrin was a fighter pilot who was also part of the Apollo 11 crew .
+Buzz Aldrin was both a fighter pilot and member of the Apollo 11 f@@ l@@ i@@ g@@ h@@ t crew .
+Buzz Aldrin was a fighter pilot and crew member of Apollo 11 .
+11 Diagonal Street is in South Africa . One South African group is the C@@ o@@ l@@ o@@ u@@ red .
+The address , 11 Diagonal Street is located in South Africa which is home to s@@ o@@ m@@ e c@@ o@@ l@@ o@@ u@@ red people .
+There are 4@@ 5 floors at 200 Public Square in Cleveland .
+200 Public square , Cleveland , has a floor count of 4@@ 5 .
+20 Fenchurch Street is located in London , which is currently led by the European Parliament .
+20 Fenchurch Street is located in London , which is led v@@ i@@ a the European Parliament .
+20 Fenchurch Street is located in London which is lead v@@ i@@ a the European Parliament .
+250 Delaware Avenue is located in the United States , the leader of which was Barack Obama .
+250 Delaware Avenue is located in the United States - which is lead by Barack Obama .
+There are 6@@ 0 floors at 300 North LaSalle in Illinois .
+300 North LaSalle in Illinois has 6@@ 0 floors .
+H@@ O@@ K S@@ V@@ E was the architect of the 3Arena at North W@@ a@@ l@@ l , Dublin .
+3Arena is located at North W@@ a@@ l@@ l , Dublin , and was built by H@@ O@@ K S@@ V@@ E .
+The 3Arena is located at North W@@ a@@ l@@ l , Dublin and was designed by H@@ O@@ K S@@ V@@ E .
+3Arena at East L@@ i@@ n@@ k B@@ r@@ i@@ d@@ g@@ e is owned by L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t .
+3 A@@ r@@ e@@ n@@ a is located at East L@@ i@@ n@@ k B@@ r@@ i@@ d@@ g@@ e and is owned by L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t .
+3Arena , owned by L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t , is located in B@@ e@@ v@@ e@@ r@@ l@@ y H@@ i@@ l@@ l@@ s , California .
+L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t from B@@ e@@ v@@ e@@ r@@ l@@ y H@@ i@@ l@@ l@@ s , California , are the o@@ w@@ n@@ e@@ r@@ s of 3Arena .
+Marriott International is the tenant of AC Hotel Bella Sky Copenhagen and it has 23 floors .
+The tenant of the AC Hotel Bella Sky Copenhagen , which has 23 floors , is the Marriott International Hotel .
+Addis Ababa City Hall is 4@@ 2 m h@@ i@@ g@@ h and h@@ o@@ u@@ s@@ e@@ s the G@@ o@@ v@@ e@@ r@@ n@@ m@@ e@@ n@@ t of Addis Ababa .
+The " G@@ o@@ v@@ e@@ r@@ n@@ m@@ e@@ n@@ t of Addis Ababa " are the current tenants of Addis Ababa City Hall which is 4@@ 2 metres h@@ i@@ g@@ h .
+Addis Ababa City Hall is 4@@ 2 m h@@ i@@ g@@ h and is o@@ c@@ c@@ u@@ p@@ i@@ e@@ d by the G@@ o@@ v@@ e@@ r@@ n@@ m@@ e@@ n@@ t of Addis A@@ d@@ a@@ b@@ a .
+A@@ d@@ m@@ i@@ s@@ h@@ a@@ m Hall 's architectural style is T@@ u@@ d@@ or and J@@ a@@ c@@ a@@ b@@ i@@ an and the building is located in Haputale , Sri Lanka .
+Adisham Hall , Haputale , Sri Lanka , is T@@ u@@ d@@ or and J@@ a@@ c@@ a@@ b@@ i@@ an in style .
+Adisham Hall is located in Sri Lanka , where they speak the T@@ a@@ m@@ i@@ l language .
+Adisham Hall is located in the country of Sri Lanka where they speak T@@ a@@ m@@ i@@ l .
+The construction of Alan B Miller Hall , 1@@ 0@@ 1 U@@ k@@ r@@ o@@ p Way , b@@ e@@ g@@ an on 3@@ 0@@ t@@ h March 2@@ 0@@ 0@@ 7 .
+Alan B. Miller Hall 's building s@@ t@@ a@@ r@@ t date was in 3@@ 0@@ t@@ h March 2@@ 0@@ 0@@ 7 and is located at 1@@ 0@@ 1 U@@ k@@ r@@ o@@ p Way .
+Alan B. Miller Hall at 1@@ 0@@ 1 U@@ k@@ r@@ o@@ p Way o@@ p@@ e@@ n@@ e@@ d on March 3@@ 0 , 2@@ 0@@ 0@@ 7 .
+Alan B Miller Hall is owned by The College of William and Mary and located in W@@ i@@ l@@ l@@ i@@ a@@ m@@ s@@ b@@ u@@ r@@ g , Virginia .
+Alan B. Miller Hall in W@@ i@@ l@@ l@@ i@@ a@@ m@@ s@@ b@@ u@@ r@@ g , Virginia is owned by The College of William and Mary .
+The College of William and Mary is the owner of the Alan B. Miller Hall in W@@ i@@ l@@ l@@ i@@ a@@ m@@ s@@ b@@ u@@ r@@ g , Virginia .
+Robert A. M@@ . Stern is the architect of the Alan B. Miller Hall where the Mason School of Business is located .
+Robert A M Stern designed Alan B Miller Hall and the Mason School of Business is a tenant there .
+Mason School of Business is a tenant of the Alan B. Miller Hall , which was designed by Robert A@@ .@@ M@@ . Stern .
+Ampara Hospital is located in the Ampara D@@ i@@ s@@ t@@ r@@ i@@ c@@ t in Sri Lanka .
+Ampara Hospital is located in the Ampara D@@ i@@ s@@ t@@ r@@ i@@ c@@ t of Sri Lanka .
+Sri Jayawardenepura K@@ o@@ t@@ t@@ e is the capital of Sri Lanka , where Ampara Hospital is located .
+Ampara Hospital is located in Sri Lanka whose capital is Sri Jayawardenepura K@@ o@@ t@@ t@@ e .
+Ampara Hospital is located in Sri Lanka whose capital is Sri Jayawardenepura .
+The Asher and Mary Isabelle Richardson House is located on U.S. R@@ o@@ u@@ t@@ e 8@@ 3 and has the reference number 8@@ 8@@ 0@@ 0@@ 2@@ 5@@ 3@@ 9 in the National Register of Historic Places .
+The National Register of Historic Places has the Asher and Mary Isabelle Richardson House , located at U.S. R@@ o@@ u@@ t@@ e 8@@ 3 , r@@ e@@ f@@ e@@ r@@ e@@ n@@ c@@ e@@ d at 8@@ 8@@ 0@@ 0@@ 2@@ 5@@ 3@@ 9 .
+Asher and Mary Isabelle Richardson House has the reference number 8@@ 8@@ 0@@ 0@@ 2@@ 5@@ 3@@ 9 in the National Register of Historic Places , and is located at U.S. R@@ o@@ u@@ t@@ e 8@@ 3 .
+Asilomar Conference Grounds , Asilomar B@@ l@@ v@@ d@@ . , Pacific Grove , California has a reference number in the National Register of Historic Places of : 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 .
+Asilomar Conference Grounds is located at Asilomar B@@ l@@ v@@ d@@ . , Pacific Grove , California and it 's reference number is 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 in the National Register of Historic Places .
+" 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 " is Asilomar Conference Grounds ' reference number in the National Register of Historic Places , and it is located on Asilomar B@@ l@@ v@@ d , Pacific Grove , California .
+Asilomar Conference Grounds at Pacific Grove , California was added to the National Register of Historic Places on February the 2@@ 7@@ n@@ d 1@@ 9@@ 8@@ 7 .
+Asilomar Conference Grounds are located in Pacific Grove , California and was added to the National Register of Historic Places on February the 2@@ 7@@ n@@ d 1@@ 9@@ 8@@ 7 .
+Asilomar Conference Grounds , Pacific Grove , California was added to the National Register of Historic Places on February 27 , 1@@ 9@@ 8@@ 7 .
+Asser Levy Public Baths is located on 23rd Street , Manhattan , and was constructed in 1@@ 9@@ 0@@ 4 .
+Asser Levy Baths which was built in 1@@ 9@@ 0@@ 4 is located at 23rd Street in Manhattan .
+The Asser Levy Public Baths , constructed in 1@@ 9@@ 0@@ 4 , is located at 23rd Street ( Manhattan ) .
+A@@ n@@ a@@ n@@ d@@ i@@ b@@ e@@ n P@@ a@@ t@@ e@@ l was the leader of G@@ u@@ j@@ u@@ r@@ at where Amdavad ni Gufa is located .
+Amdavad Gufa is located in Gujarat and it 's leader is A@@ n@@ a@@ n@@ d@@ i@@ b@@ e@@ n P@@ a@@ t@@ e@@ l .
+Amdavad ni Gufa is located in Gujarat and it 's leader is A@@ n@@ a@@ n@@ d@@ i@@ b@@ e@@ n P@@ a@@ t@@ e@@ l .
+The comic s@@ t@@ r@@ i@@ p character A@@ s@@ t@@ e@@ r@@ i@@ x was created by A@@ l@@ b@@ e@@ r@@ t U@@ d@@ e@@ r@@ z@@ o and R@@ e@@ n@@ e G@@ o@@ s@@ c@@ i@@ n@@ n@@ y .
+The comic book character A@@ s@@ t@@ e@@ r@@ i@@ x was created by R@@ e@@ n@@ é G@@ o@@ s@@ c@@ i@@ n@@ n@@ y and A@@ l@@ b@@ e@@ r@@ t U@@ d@@ e@@ r@@ z@@ o .
+The character A@@ s@@ t@@ e@@ r@@ i@@ x was created by R@@ e@@ n@@ e@@ é G@@ o@@ s@@ c@@ i@@ n@@ n@@ y and A@@ l@@ b@@ e@@ r@@ t U@@ d@@ e@@ r@@ z@@ o .
+C@@ r@@ e@@ a@@ t@@ e@@ d by L@@ e@@ n W@@ e@@ in , A@@ u@@ r@@ a@@ k@@ l@@ e@@ s 's alternative name is also A@@ u@@ r@@ a@@ k@@ l@@ e@@ s .
+The character A@@ u@@ r@@ a@@ k@@ l@@ e@@ s , also known as A@@ u@@ r@@ a@@ k@@ l@@ e@@ s , was created by L@@ e@@ n W@@ e@@ in .
+D@@ o@@ u@@ g M@@ o@@ e@@ n@@ c@@ h was the creator of the comic character B@@ a@@ l@@ l@@ i@@ s@@ t@@ i@@ c , who has the alternative name K@@ e@@ l@@ v@@ in M@@ a@@ o .
+B@@ a@@ l@@ l@@ i@@ s@@ t@@ i@@ c , ( also known as K@@ e@@ l@@ v@@ in M@@ a@@ o ) , is a f@@ i@@ c@@ t@@ i@@ o@@ n@@ a@@ l comic s@@ u@@ p@@ e@@ r@@ h@@ e@@ r@@ o created by D@@ o@@ u@@ g M@@ o@@ e@@ n@@ c@@ h .
+D@@ o@@ u@@ g M@@ o@@ e@@ n@@ c@@ h created the character B@@ a@@ l@@ l@@ i@@ s@@ t@@ i@@ c , the f@@ i@@ c@@ t@@ i@@ o@@ n@@ a@@ l s@@ u@@ p@@ e@@ r@@ h@@ e@@ r@@ o whose a@@ l@@ t@@ e@@ r e@@ g@@ o is K@@ e@@ l@@ v@@ in M@@ a@@ o .
+S@@ t@@ a@@ r@@ r@@ i@@ n@@ g G@@ r@@ a@@ e@@ m@@ e G@@ a@@ r@@ den , Bananaman , the T@@ V s@@ e@@ r@@ i@@ e@@ s was s@@ h@@ own on the BBC .
+G@@ r@@ a@@ e@@ m@@ e G@@ a@@ r@@ den starred in the T@@ V s@@ e@@ r@@ i@@ e@@ s B@@ a@@ n@@ a@@ n@@ m@@ an , which was s@@ h@@ own on the BBC .
+Bananaman , which starred G@@ r@@ a@@ e@@ m@@ e G@@ a@@ r@@ den , was b@@ r@@ o@@ a@@ d@@ c@@ a@@ s@@ t@@ e@@ d by the BBC .
+Bill O@@ d@@ die , who stars in Bananaman , was born in L@@ a@@ n@@ c@@ a@@ s@@ h@@ i@@ r@@ e .
+Bananaman starred Bill O@@ d@@ die who was born in L@@ a@@ n@@ c@@ a@@ s@@ h@@ i@@ r@@ e .
+Bill O@@ d@@ die , who was born in L@@ a@@ n@@ c@@ a@@ s@@ h@@ i@@ r@@ e , starred in Bananaman .
+B@@ i@@ b@@ b@@ o B@@ i@@ b@@ b@@ o@@ w@@ s@@ k@@ i was created by American , J@@ e@@ r@@ r@@ y O@@ r@@ d@@ w@@ a@@ y .
+The creator of B@@ i@@ b@@ b@@ o B@@ i@@ b@@ b@@ o@@ w@@ s@@ k@@ i is J@@ e@@ r@@ r@@ y O@@ r@@ d@@ w@@ a@@ y , an American .
+J@@ e@@ r@@ r@@ y O@@ r@@ d@@ w@@ a@@ y , an American , is the creator of B@@ i@@ b@@ b@@ o B@@ i@@ b@@ b@@ o@@ w@@ s@@ k@@ i .
+B@@ l@@ a@@ c@@ k P@@ i@@ r@@ a@@ t@@ e , also known as J@@ on V@@ a@@ l@@ o@@ r , was created by S@@ h@@ e@@ l@@ d@@ on M@@ o@@ l@@ d@@ o@@ f@@ f .
+The B@@ l@@ a@@ c@@ k P@@ i@@ r@@ a@@ t@@ e ( J@@ on V@@ a@@ l@@ o@@ r ) , was created by S@@ h@@ e@@ l@@ d@@ on M@@ o@@ l@@ d@@ o@@ f@@ f .
+S@@ h@@ e@@ l@@ d@@ on M@@ o@@ l@@ d@@ o@@ f@@ f is the creator of B@@ l@@ a@@ c@@ k P@@ i@@ r@@ a@@ t@@ e , who is also known as J@@ on V@@ a@@ l@@ o@@ r .
+The comic character Blockbuster was created by R@@ o@@ g@@ e@@ r Stern and T@@ o@@ m L@@ y@@ l@@ e .
+Blockbuster is a comic book character which was created by both R@@ o@@ g@@ e@@ r Stern and T@@ o@@ m L@@ y@@ l@@ e .
+The comic book character Blockbuster was created by R@@ o@@ g@@ e@@ r Stern and T@@ o@@ m L@@ y@@ l@@ e .
+Paris C@@ u@@ l@@ i@@ n@@ s and G@@ a@@ r@@ y C@@ o@@ h@@ n are the creators of the c@@ o@@ m@@ i@@ c@@ s character Bolt .
+B@@ o@@ t@@ h Paris C@@ u@@ l@@ l@@ i@@ n@@ s and G@@ a@@ r@@ y C@@ o@@ h@@ n were the creator 's of the comic character Bolt .
+The comic character Bolt , was created by Paris C@@ u@@ l@@ l@@ i@@ n@@ s and G@@ a@@ r@@ y C@@ o@@ h@@ n .
+B@@ r@@ e@@ a@@ d is an ingredient of Ajoblanco which originates from Spain .
+One of the ingredients of Ajoblanco is b@@ r@@ e@@ a@@ d and it originates from Spain .
+B@@ r@@ e@@ a@@ d is an ingredient of Ajoblanco which comes from Spain .
+Ajoblanco , from Andalusia , has a@@ l@@ m@@ o@@ n@@ d as one of its ingredients .
+A@@ l@@ m@@ o@@ n@@ d is an ingredient in a@@ j@@ o@@ b@@ l@@ a@@ n@@ c@@ o , from Andalusia .
+Ajoblanco is from the Andalusia region and has a@@ l@@ m@@ o@@ n@@ d as one of its ingredients .
+T@@ o@@ m@@ a@@ t@@ o is an ingredient in Amatriciana sauce which comes from L@@ a@@ z@@ i@@ o .
+Amatriciana sauce is from the L@@ a@@ z@@ i@@ o region and t@@ o@@ m@@ a@@ t@@ o is one of the ingredients .
+T@@ o@@ m@@ a@@ t@@ o is an ingredient in Amatriciana sauce which comes from the region of L@@ a@@ z@@ i@@ o .
+Bandeja paisa comes from the Antioquia Department of C@@ o@@ l@@ o@@ m@@ b@@ i@@ a .
+Bandeja paisa is a dish found in the Antioquia Department of C@@ o@@ l@@ o@@ m@@ b@@ i@@ a .
+Arem-arem uses the ingredient banana leaf , it is a c@@ o@@ m@@ m@@ on dish in Indonesia .
+B@@ a@@ n@@ a@@ n@@ a leaf is an ingredient in a@@ r@@ e@@ m a@@ r@@ e@@ m , which comes from Indonesia .
+A@@ r@@ e@@ m a@@ r@@ e@@ m which includes banana leaf , comes from Indonesia .
+O@@ live oil is an ingredient used in the p@@ r@@ e@@ p@@ a@@ r@@ a@@ t@@ i@@ on of Arrabbiata sauce , found in Italy .
+O@@ live O@@ i@@ l is used to create Italian Arrabbiata sauce .
+O@@ live oil is an ingredient in Arrabbiata sauce , which can be found in Italy .
+Arrabbiata sauce is found in Italy where the capital city is Rome .
+Rome is the capital of Italy which is where Arrabbiata sauce comes from .
+Arrabbiata sauce is from Italy which has the capital city of Rome .
+T@@ o@@ m@@ a@@ t@@ o@@ e@@ s are found in Arrabbiata sauce which comes from Italy .
+T@@ o@@ m@@ a@@ t@@ o@@ e@@ s are an ingredient of Arrabbiata sauce from Italy .
+T@@ o@@ m@@ a@@ t@@ o@@ e@@ s are found in Arrabbiata sauce , which originated in Italy .
+Arròs negre is from Spain , it includes s@@ q@@ u@@ i@@ d .
+Arròs negre is a traditional dish from Spain , it includes s@@ q@@ u@@ i@@ d .
+C@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h is an ingredient in Arros negre which comes from the region of Valencian Community .
+An ingredient of a@@ r@@ r@@ o@@ s negre is c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h , the dish comes from the Valencian community region .
+Ayam penyet is a food found in Java and the main ingredients are " s@@ q@@ u@@ e@@ e@@ z@@ e@@ d " or " s@@ m@@ a@@ s@@ h@@ e@@ d " chicken served with s@@ a@@ m@@ b@@ a@@ l .
+Ayam penyet ( Javanese ) includes s@@ q@@ u@@ e@@ e@@ z@@ e@@ d@@ /@@ s@@ m@@ a@@ s@@ h@@ e@@ d fried chicken and is served with s@@ a@@ m@@ b@@ a@@ l .
+A sausage is used w@@ h@@ e@@ n m@@ a@@ k@@ i@@ n@@ g a Bacon Explosion which has The United s@@ t@@ a@@ t@@ e@@ s to t@@ h@@ a@@ n@@ k for i@@ n@@ v@@ e@@ n@@ t@@ i@@ n@@ g it .
+Bacon Explosion is a dish from the United States that contains sausage .
+Bacon Explosion comes from the United States and includes sausage among its ingredients .
+The United States , where John R@@ o@@ b@@ e@@ r@@ t@@ s is a leader , is the country of the Bacon Explosion .
+The Bacon Explosion comes from the United States where John R@@ o@@ b@@ e@@ r@@ t@@ s is a leader .
+The United States ( with a leader , John R@@ o@@ b@@ e@@ r@@ t@@ s ) b@@ o@@ a@@ s@@ t@@ s the Bacon Explosion .
+Bacon is an ingredient in the main course dish ' Bacon Explosion ' .
+Bacon is an ingredient in a main course called Bacon Explosion .
+Bacon Explosion is an e@@ n@@ t@@ r@@ e@@ e that includes bacon , the main ingredient .
+A bacon sandwich on b@@ r@@ e@@ a@@ d is also known as bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ a@@ s@@ h@@ e@@ r sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m , or bacon m@@ u@@ f@@ f@@ in .
+The bacon sandwich , which one of two i@@ n@@ g@@ e@@ d@@ i@@ e@@ n@@ t@@ s is b@@ r@@ e@@ a@@ d , has d@@ i@@ f@@ f@@ e@@ r@@ e@@ n@@ t names including : Bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ a@@ s@@ h@@ e@@ r sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m and bacon m@@ u@@ f@@ f@@ in .
+Baked Alaska is t@@ h@@ o@@ u@@ g@@ h@@ t to have originated in the United States , France or China , and contains C@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding as an ingredient .
+France , United States and China a@@ l@@ l c@@ l@@ a@@ i@@ m to have i@@ n@@ v@@ e@@ n@@ t@@ e@@ d Baked Alaska which can have C@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding as an ingredient .
+C@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding is an ingredient in Baked Alaska which is from France , the United States and China .
+Baked Alaska comes from China , where S@@ t@@ a@@ n@@ d@@ a@@ r@@ d Chinese is spoken .
+S@@ t@@ a@@ n@@ d@@ a@@ r@@ d Chinese is spoken in China where b@@ a@@ k@@ e@@ d Alaska is a dish .
+Baked Alaska and c@@ o@@ o@@ k@@ i@@ e@@ s are t@@ y@@ p@@ e@@ s of dessert .
+Baked Alaska and a c@@ o@@ o@@ k@@ i@@ e are both d@@ e@@ s@@ s@@ e@@ r@@ t@@ s .
+A Baked Alaska is a dessert along with c@@ o@@ o@@ k@@ i@@ e@@ s which y@@ o@@ u can also eat as a dessert .
+Bakewell pudding was created in 1@@ 8@@ 20 at the R@@ u@@ t@@ l@@ and A@@ r@@ m@@ s , Bakewell and has ground a@@ l@@ m@@ o@@ n@@ d , jam , butter and eggs as main ingredients .
+The main ingredients of Bakewell pudding , which was i@@ n@@ v@@ e@@ n@@ t@@ e@@ d in R@@ u@@ t@@ l@@ and A@@ r@@ m@@ s , Bakewell , in 1@@ 8@@ 20 , are ground a@@ l@@ m@@ o@@ n@@ d , jam , butter and eggs .
+Bakewell tart , made with s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y , is a variation of Bakewell pudding .
+A variant of b@@ a@@ k@@ e@@ well pudding is b@@ a@@ k@@ e@@ well tart , made with s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y .
+A variant of b@@ a@@ k@@ e@@ well pudding is b@@ a@@ k@@ e@@ well tart which uses s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y .
+L@@ e@@ m@@ on ( part of genus C@@ i@@ t@@ r@@ u@@ s ) is an ingredient in Bandeja paisa .
+L@@ e@@ m@@ on , from the genus c@@ i@@ t@@ r@@ u@@ s , is an ingredient in Bandeja paisa .
+L@@ e@@ m@@ on ( genus ; c@@ i@@ t@@ r@@ u@@ s ) is an ingredient found in Bandeja paisa .
+Batchoy is a food in the Philippines and one of its ingredient is s@@ h@@ r@@ i@@ m@@ p .
+The Philippines is the country of origin for the dish Batchoy , of which s@@ h@@ r@@ i@@ m@@ p is one of the main ingredients .
+The Philippines is the country that Batchoy , a dish c@@ o@@ n@@ t@@ a@@ i@@ n@@ i@@ n@@ g s@@ h@@ r@@ i@@ m@@ p , comes from .
+The Chinese F@@ i@@ l@@ i@@ p@@ i@@ n@@ o is an ethnic group in the Philippines , where b@@ a@@ t@@ c@@ h@@ o@@ y is a traditional dish .
+Chinese F@@ i@@ l@@ i@@ p@@ i@@ n@@ o are from the Philippines , where b@@ a@@ t@@ c@@ h@@ o@@ y is eaten .
+Batchoy is a food from the Philippines , the country where there is an ethnic group called the Chinese F@@ i@@ l@@ i@@ p@@ i@@ n@@ o .
+Beef kway teow originates from Singapore , where Chinese is spoken .
+S@@ t@@ a@@ n@@ d@@ a@@ r@@ d c@@ h@@ i@@ n@@ e@@ s@@ e speaking Singapore is the origin of beef kway teow .
+Beef kway teow is a dish of Singapore where Tony Tan is a leader .
+Tony Tan is the leader of Singapore , from where Beef kway teow originates .
+Beef kway teow originates from Singapore and it 's leader is Tony Tan .
+Bhajji originates from India and Sumitra Mahajan is it 's leader .
+Bhajji comes from India where the leader is Sumitra Mahajan .
+Bhajji originates from India where the leader is Sumitra Mahajan .
+Bhajji , which uses g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r , is a dish s@@ i@@ m@@ i@@ l@@ a@@ r to p@@ a@@ k@@ o@@ r@@ a and o@@ t@@ h@@ e@@ r f@@ r@@ i@@ t@@ t@@ e@@ r@@ s made from w@@ h@@ eat or c@@ o@@ r@@ n f@@ l@@ o@@ u@@ r .
+G@@ r@@ a@@ m f@@ l@@ o@@ u@@ r is an ingredient of a Bhajji , which is a s@@ i@@ m@@ i@@ l@@ a@@ r dish to p@@ a@@ k@@ o@@ r@@ a and o@@ t@@ h@@ e@@ r f@@ r@@ i@@ t@@ t@@ e@@ r@@ s made from w@@ h@@ eat or c@@ o@@ r@@ n f@@ l@@ o@@ u@@ r .
+An ingredient of Binignit is sweet potato , and one of the main ingredients is the banana .
+B@@ a@@ n@@ a@@ n@@ a is a main ingredient of Binignit and sweet potato is also an ingredient .
+The main ingredient of Binignit is banana , and also i@@ m@@ p@@ o@@ r@@ t@@ a@@ n@@ t is the i@@ n@@ c@@ l@@ u@@ s@@ i@@ on of sweet p@@ o@@ t@@ a@@ t@@ o@@ e@@ s .
+S@@ a@@ g@@ o is the main ingredient in binignit but sweet p@@ o@@ t@@ a@@ t@@ o@@ e@@ s are also used in it .
+Binignit has the ingredients sweet potato and s@@ a@@ g@@ o .
+S@@ w@@ e@@ e@@ t potato and s@@ a@@ g@@ o are main ingredients in Binignit .
+S@@ w@@ e@@ e@@ t p@@ o@@ t@@ a@@ t@@ o@@ e@@ s ( a k@@ i@@ n@@ d of flowering plant ) are used in binignit r@@ e@@ c@@ i@@ p@@ e@@ s .
+S@@ w@@ e@@ e@@ t potato belongs to flowering plants and is an ingredient of Binignit .
+S@@ w@@ e@@ e@@ t p@@ o@@ t@@ a@@ t@@ o@@ e@@ s are the main ingredient of binignit and the p@@ o@@ t@@ a@@ t@@ o@@ e@@ s are part of the order of Solanales .
+S@@ w@@ e@@ e@@ t p@@ o@@ t@@ a@@ t@@ o@@ e@@ s are members of the Solanales order of plants . They are the main ingredient of binignit .
+S@@ w@@ e@@ e@@ t potato is of the order Solanales and are a main ingredient of binignit .
+Bionico is a dessert and it r@@ e@@ q@@ u@@ i@@ r@@ e@@ s g@@ r@@ a@@ n@@ o@@ l@@ a as one of it 's ingredients .
+Bionico is a dessert , r@@ e@@ q@@ u@@ i@@ r@@ i@@ n@@ g g@@ r@@ a@@ n@@ o@@ l@@ a as one of its ingredients .
+Bionico is a dessert that includes the ingredient g@@ r@@ a@@ n@@ o@@ l@@ a .
+A popular dessert is Bionico and a variation of this dish can be h@@ o@@ n@@ e@@ y .
+H@@ o@@ n@@ e@@ y can be used as a v@@ a@@ r@@ i@@ a@@ t@@ on in Bionico which is a dessert .
+H@@ o@@ n@@ e@@ y can be added to b@@ i@@ o@@ n@@ i@@ c@@ o , a dessert dish .
+Bionico and i@@ c@@ e cream are both served as a dessert course .
+Bionico and i@@ c@@ e cream are t@@ y@@ p@@ e@@ s of dessert .
+Bionico and Ice C@@ r@@ e@@ a@@ m are served at the dessert course .
+Batagor and Siomay ( which has peanut sauce as an ingredient ) are variations of the same dish .
+P@@ e@@ a@@ n@@ u@@ t sauce is an ingredient in Siomay and Batagor is a variation of this dish .
+Batagor is a variation of the dish Siomay , of which peanut sauce is an ingredient .
+The i@@ n@@ a@@ u@@ g@@ u@@ r@@ a@@ t@@ i@@ on date for the Atatürk Monument ( İ@@ z@@ m@@ i@@ r , Turkey ) is 1@@ 9@@ 3@@ 2@@ -@@ 0@@ 7@@ -@@ 27 .
+The Ataturk Monument is in Izmir Turkey and was founded on July 27 , 1932 .
+The i@@ n@@ a@@ u@@ g@@ u@@ r@@ a@@ t@@ i@@ on date for the Atatürk Monument ( İ@@ z@@ m@@ i@@ r ) , which is in Turkey , is 1@@ 9@@ 3@@ 2@@ -@@ 0@@ 7@@ -@@ 27 .
+The Baku Turkish Martyrs Memorial has been dedicated to Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku and is made of red granite and white marble .
+The Baku Turkish Martyrs Memorial , created in red granite and white marble , is dedicated to the Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku .
+The native name of the Baku Turkish Martyrs ' Memorial is T@@ u@@ r@@ k S@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i A@@ n@@ i@@ t@@ i and is made of red granite and white marble .
+The Baku Turkish M@@ a@@ r@@ t@@ y@@ r 's Memorial is known in Turkish as T@@ u@@ r@@ k S@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i A@@ n@@ i@@ t@@ i and is created in red granite and white marble .
+Baku Turkish Martyrs ' Memorial is made from red granite and white marble and is called T@@ u@@ r@@ k S@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i A@@ n@@ i@@ t@@ i .
+The Dead Man 's Plack , which is made of r@@ o@@ c@@ k , is dedicated to Æ@@ t@@ h@@ e@@ l@@ w@@ a@@ l@@ d , E@@ a@@ l@@ d@@ o@@ r@@ m@@ an of East A@@ n@@ g@@ l@@ i@@ a .
+AC Cesena are in the Serie B league , the previous champions of which are C@@ a@@ r@@ p@@ i FC 1@@ 9@@ 0@@ 9 .
+A.C. C@@ e@@ s@@ a@@ n@@ a play in Serie B , in which C@@ a@@ r@@ p@@ i FC 1@@ 9@@ 0@@ 9 are the champions .
+AC Cesena are in the Serie B league , previously won by C@@ a@@ r@@ p@@ i F.C. 1@@ 9@@ 0@@ 9 .
+AC Chievo Verona play in the Serie A league and their home ground is Stadio M@@ a@@ r@@ c A@@ n@@ t@@ o@@ n@@ i@@ o B@@ e@@ n@@ t@@ e@@ g@@ o@@ di .
+The home ground of A.C. Chievo Verona is Stadio M@@ a@@ r@@ c ' A@@ n@@ t@@ o@@ n@@ i@@ o B@@ e@@ n@@ t@@ e@@ g@@ o@@ di and the club is in the league , Serie A.
+The home ground of A.C. Chievo Verona is Stadio M@@ a@@ r@@ c ' A@@ n@@ t@@ o@@ n@@ i@@ o B@@ e@@ n@@ t@@ e@@ g@@ o@@ di , he played in Serie A.
+A.C. Lumezzane 's ground is in Italy where the leader is Pietro Grasso .
+A.C. Lumezzane play in i@@ t@@ a@@ l@@ y where the leader is Pietro Grasso .
+A.C. Lumezzane play in Italy , where the leader is Pietro Grasso .
+Jorge H@@ u@@ m@@ b@@ e@@ r@@ to R@@ o@@ d@@ r@@ í@@ g@@ u@@ e@@ z manages the A.D. Isidro Metapan , he played for the C@@ .@@ D@@ . F@@ AS .
+Jorge H@@ u@@ m@@ b@@ e@@ r@@ to R@@ o@@ d@@ r@@ i@@ g@@ u@@ e@@ z manages A.D. Isidro Metapan . He is in the C@@ .@@ D@@ . F@@ AS .
+Jorge H@@ u@@ m@@ b@@ e@@ r@@ to R@@ o@@ d@@ r@@ í@@ g@@ u@@ e@@ z manages the A.D. Isidro Metapan and plays for C@@ .@@ D@@ . F@@ AS .
+A@@ .@@ E@@ . Dimitra E@@ f@@ e@@ i@@ n@@ o@@ u@@ p@@ o@@ l@@ is has 1@@ 5@@ 0@@ 0 members and is in the E@@ P@@ S@@ T@@ H 2@@ n@@ d G@@ R@@ O@@ U@@ P league .
+With 1@@ 5@@ 0@@ 0 members , A.E Dimitra Efxeinoupolis , play in the A E@@ P@@ S@@ T@@ H 2@@ n@@ d G@@ R@@ O@@ U@@ P .
+The manager of A.F.C. Blackpool is Stuart Parker ( footballer ) who plays for R@@ u@@ n@@ c@@ o@@ r@@ n F.C. H@@ a@@ l@@ t@@ on .
+AFC Blackpool have h@@ a@@ d Stuart Parker as their manager who was a football player for R@@ u@@ n@@ c@@ o@@ r@@ n FC H@@ a@@ l@@ t@@ on .
+The manager of A.F.C. Blackpool is Stuart Parker ( footballer ) , he played for R@@ u@@ n@@ c@@ o@@ r@@ n FC H@@ a@@ l@@ t@@ on .
+The manager of A.F.C. Blackpool is Stuart Parker ( footballer ) , who plays at the S@@ p@@ a@@ r@@ t@@ a R@@ o@@ t@@ t@@ e@@ r@@ d@@ a@@ m club .
+Stuart Parker , who plays at the S@@ p@@ a@@ r@@ t@@ a R@@ o@@ t@@ t@@ e@@ r@@ d@@ a@@ m Club , has also managed AFC Blackpool .
+AFC Blackpool have h@@ a@@ d the manager Stuart Parker who currently plays for S@@ p@@ a@@ r@@ t@@ a R@@ o@@ t@@ t@@ e@@ r@@ d@@ a@@ m .
+AFC Fylde has the home ground called The Fylde and has 3@@ 1@@ 8@@ 0 members .
+AFC Fylde has the home ground called The Fylde , which h@@ o@@ l@@ d@@ s 3@@ 1@@ 8@@ 0 f@@ a@@ n@@ s .
+The Fylde , ( c@@ a@@ p@@ a@@ c@@ i@@ t@@ y 3@@ 1@@ 8@@ 0 ) is the home ground of AFC Fylde .
+A.F.C. Fylde has 3@@ 1@@ 8@@ 0 members and are based at B@@ r@@ y@@ n@@ i@@ n@@ g L@@ a@@ n@@ e .
+AFC Fylde has 3@@ 1@@ 8@@ 0 members and are based at B@@ r@@ y@@ n@@ i@@ n@@ g L@@ a@@ n@@ e .
+A.F.C. Fylde are based at B@@ r@@ y@@ n@@ i@@ n@@ g L@@ a@@ n@@ e and they have 3@@ 1@@ 8@@ 0 members .
+A.S. Livorno Calcio is managed by C@@ h@@ r@@ i@@ s@@ t@@ i@@ an P@@ a@@ n@@ u@@ c@@ c@@ i who plays for the Italy national football team .
+A.S. Livorno Calcio are managed by C@@ h@@ r@@ i@@ s@@ t@@ i@@ an P@@ a@@ n@@ u@@ c@@ c@@ i who played for the Italy national football team .
+A.S. Livorno Calcio is managed by C@@ h@@ r@@ i@@ s@@ t@@ i@@ an P@@ a@@ n@@ u@@ c@@ c@@ i who previously played for the Italian national football team .
+Grounds being in Rome , Italy , A.S. Roma to play in Serie A.
+A.S. Roma play in the Serie A league and their ground is in Rome , Italy .
+A.S. Roma 's ground is in Rome , Italy and they play in Serie A.
+A@@ C@@ F F@@ i@@ o@@ r@@ e@@ n@@ t@@ i@@ n@@ a play in Serie A which is based in Italy .
+A@@ C@@ F F@@ i@@ o@@ r@@ e@@ n@@ t@@ i@@ n@@ a play in Serie A based in Italy .
+The manager of AFC Ajax is Frank de B@@ o@@ e@@ r who is in the Ajax Y@@ o@@ u@@ t@@ h Academy .
+AFC Ajax 's manager is Frank de B@@ o@@ e@@ r , who played for the Ajax Y@@ o@@ u@@ t@@ h Academy .
+Frank de B@@ o@@ e@@ r is in the Ajax Y@@ o@@ u@@ t@@ h Academy and manages AFC Ajax .
+AFC Ajax has 5@@ 3@@ 5@@ 0@@ 2 members and is the owner of AFC Ajax N@@ V .
+AFC Ajax has 5@@ 3@@ 5@@ 0@@ 2 members and is owned by AFC Ajax N@@ V .
+AFC Ajax has 5@@ 3@@ 5@@ 0@@ 2 members and is owned by AFC Ajax N@@ .@@ V@@ . .
+AFC Ajax is based in Amsterdam where the leader is E@@ b@@ e@@ r@@ h@@ a@@ r@@ d van d@@ e@@ r L@@ a@@ an .
+The ground of AFC Ajax ( amateurs ) can be found in Amsterdam where E@@ b@@ e@@ r@@ h@@ a@@ r@@ d van d@@ e@@ r L@@ a@@ an is a leader .
+AFC Ajax is based in Amsterdam where E@@ b@@ e@@ r@@ h@@ a@@ r@@ d van d@@ e@@ r L@@ a@@ an is a leader .
+AFC Ajax ( amateurs ) , who have 5@@ 0@@ 0@@ 0 members , played in the T@@ o@@ p@@ k@@ l@@ a@@ s@@ s@@ e in the 2@@ 0@@ 1@@ 4@@ -@@ 2@@ 0@@ 15 season .
+AFC Ajax ( amateurs ) have 5@@ 0@@ 0@@ 0 members and played in the T@@ o@@ p@@ k@@ l@@ a@@ s@@ s@@ e in the 2@@ 0@@ 1@@ 4@@ -@@ 2@@ 0@@ 15 season .
+AFC Ajax ( amateurs ) played in the 2014-15 T@@ o@@ p@@ k@@ l@@ a@@ s@@ s@@ e season and their home ground has a c@@ a@@ p@@ a@@ c@@ i@@ t@@ y for 5@@ 0@@ 0@@ 0 f@@ a@@ n@@ s .
+AZAL PFK play their home m@@ a@@ t@@ c@@ h@@ e@@ s at the AZAL A@@ r@@ e@@ n@@ a in S@@ h@@ u@@ v@@ u@@ l@@ an .
+The AZAL A@@ r@@ e@@ n@@ a is located in S@@ h@@ u@@ v@@ u@@ l@@ an and is the ground of AZAL PFK .
+The AZAL A@@ r@@ e@@ n@@ a in S@@ h@@ u@@ v@@ a@@ l@@ an is the ground of AZAL PFK .
+AZ Alkmaar 's fullname is Alkmaar Z@@ a@@ a@@ n@@ s@@ t@@ r@@ e@@ e@@ k , it has 1@@ 7@@ 0@@ 23 members .
+AZ Alkmaar has 1@@ 7@@ 0@@ 23 member and their full name is " Alkmaar Z@@ a@@ a@@ n@@ s@@ t@@ r@@ e@@ e@@ k " .
+Alkmaar Z@@ a@@ a@@ n@@ s@@ t@@ r@@ e@@ e@@ k is the full name of AZ Alkmaar which has 1@@ 7@@ 0@@ 23 members .
+A@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o Sportiva Arapiraquense 's ground is the E@@ s@@ t@@ a@@ d@@ i@@ o M@@ i@@ n@@ i@@ c@@ i@@ p@@ a@@ l C@@ o@@ a@@ r@@ a@@ c@@ y d@@ a M@@ a@@ t@@ a F@@ o@@ n@@ s@@ e@@ c@@ a , its located in Brazil .
+E@@ s@@ t@@ á@@ d@@ i@@ o M@@ u@@ n@@ i@@ c@@ i@@ p@@ a@@ l C@@ o@@ a@@ r@@ a@@ c@@ y d@@ a M@@ a@@ t@@ a F@@ o@@ n@@ s@@ e@@ c@@ a is located in Brazil and is the ground of Agremiação Sportiva Arapiraquense .
+E@@ s@@ t@@ á@@ d@@ i@@ o M@@ u@@ n@@ i@@ c@@ i@@ p@@ a@@ l C@@ o@@ a@@ r@@ a@@ c@@ y d@@ a M@@ a@@ t@@ a F@@ o@@ n@@ s@@ e@@ c@@ a is the name of the ground of Agremiação Sportiva Arapiraquense which is in Brazil .
+Agremiação Sportiva Arapiraquense ( which is his full name ) has a club with 17000 members .
+Agremiação Sportiva Arapiraquense 's full name is " Agremiação Sportiva Arapiraquense " and they have 17000 members .
+The team Akron Summit Assault are based in Akron , Ohio , USA .
+The Akron Summit Assault team is based in Akron , Ohio which is in the U.S.
+The Akron Summit Assault team is based in Akron , Ohio in the U.S.
+Massimo Drago 's club is the S@@ .@@ S@@ . C@@ h@@ i@@ e@@ t@@ i Calcio and he manages A.C. Cesena .
+Massimo Drago manages A.C. Cesena and plays for S@@ .@@ S@@ . C@@ h@@ i@@ e@@ t@@ i Calcio .
+Acharya Institute of Technology 's campus is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 and the director is Dr. G. P@@ . Prabhukumar .
+The director of the Acharya Institute of Technology is D@@ r G P Prabhukumar . The campus is located at In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 .
+The A@@ l@@ l India Council for Technical E@@ d@@ u@@ c@@ a@@ t@@ i@@ on g@@ a@@ v@@ e the Acharya Institute of Technology the status of " Technical Campus " . The official school c@@ o@@ l@@ o@@ u@@ r@@ s are b@@ l@@ u@@ e , white and o@@ r@@ a@@ n@@ g@@ e .
+The official school c@@ o@@ l@@ o@@ u@@ r@@ s for Acharya Institute of Technology are b@@ l@@ u@@ e , white and o@@ r@@ a@@ n@@ g@@ e and the school g@@ o@@ t its Technical Campus status from the A@@ l@@ l India Council .
+The Acharya Institute of Technology ( official c@@ o@@ l@@ o@@ u@@ r b@@ l@@ u@@ e , white and o@@ r@@ a@@ n@@ g@@ e ) has been g@@ i@@ v@@ e@@ n the ' Technical Campus ' status by A@@ l@@ l India Council for Technical E@@ d@@ u@@ c@@ a@@ t@@ i@@ on .
+The International T@@ e@@ n@@ n@@ is F@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on , which is the s@@ p@@ o@@ r@@ t 's governing body , has a@@ g@@ r@@ e@@ e@@ d to l@@ e@@ t Acharya Institute of Technology o@@ f@@ f@@ e@@ r t@@ e@@ n@@ n@@ is at the school .
+T@@ e@@ n@@ n@@ is , as governed by the International T@@ e@@ n@@ n@@ is F@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on , is a s@@ p@@ o@@ r@@ t o@@ f@@ f@@ e@@ r@@ e@@ d at the Acharya Institute of Technology .
+The School of Business and Social Sciences at the Aarhus University is affiliated to the European University Association which has its headquarters in Brussels .
+The School of Business and Social Sciences at Aarhus University is affiliated with the European University Association in Brussels .
+School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association and is located in Brussels .
+Acharya I@@ n@@ s@@ t@@ i@@ t@@ u@@ e of Technology is located in the state of Karnataka which has the A@@ r@@ a@@ b@@ i@@ an S@@ e@@ a to the west .
+Acharya Institute of Technology is in the state of Karnataka which has the A@@ r@@ a@@ b@@ i@@ an S@@ e@@ a to its west .
+Acharya Institute of Technology is located in the state of Karnataka , which has to its west the A@@ r@@ a@@ b@@ i@@ an S@@ e@@ a .
+1634 : The Bavarian Crisis is written by Virginia DeMarce and Eric Flint and was preceded by Grantville Gazette III .
+1634 : the Bavarian Crisis , a@@ u@@ t@@ h@@ o@@ red by Virginia DeMarce and Eric Flint , was preceded by Grantville Gazette III .
+Eric Flint is the author of ' 1634 : The Ram Rebellion ' which can be found as an E book .
+1634 : The Ram Rebellion available as an E@@ -@@ B@@ o@@ o@@ k is written by Eric Flint .
+1634 : The Ram Rebellion was written by Eric Flint and can be found in hardcover .
+The book t@@ i@@ t@@ led 1634 : The Ram Rebellion is a hardcover book by Eric Flint .
+1634 : The Ram Rebellion , available in hardcover was written by Eric Flint .
+ACM Transactions on Information Systems with the CODEN A@@ T@@ I@@ S@@ E@@ T is abbreviated as ACM T@@ r@@ a@@ n@@ s . I@@ n@@ f . S@@ y@@ s@@ t .
+ACM Transactions on Information Systems ( abbreviated to ACM T@@ r@@ a@@ n@@ s . I@@ n@@ f . S@@ y@@ s@@ t . ) has the CODEN code " A@@ T@@ I@@ S@@ E@@ T " .
+AIDS journal is from the United Kingdom whose leader is Elizabeth II .
+The AIDS journal was published in the United Kingdom whose leader is Elizabeth II .
+The AIDS journal was published in the United Kingdom , where the leader is Elizabeth II .
+A Fortress of Grey Ice was written by J@@ . V@@ . Jones and has the ISBN number 0@@ -@@ 7@@ 6@@ 5@@ 3@@ -@@ 0@@ 6@@ 3@@ 3@@ -@@ 6 .
+J@@ .@@ V@@ . Jones a@@ u@@ t@@ h@@ o@@ red A Fortress of Grey Ice , which has the ISBN number 0@@ -@@ 7@@ 6@@ 5@@ 3@@ -@@ 0@@ 6@@ 3@@ 3@@ -@@ 6 .
+J@@ . V@@ . Jones is the author of " A Fortress of Grey Ice , " ISBN number 0@@ -@@ 7@@ 6@@ 5@@ 3@@ -@@ 0@@ 6@@ 3@@ 3@@ -@@ 6 .
+A Glastonbury Romance has the ISBN number 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 and is in print .
+A Glastonbury Romance with ISBN 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 is available in print .
+The ISBN number of the currently in print book , " A Glastonbury Romance , " is 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 .
+A Glastonbury Romance i@@ d@@ e@@ n@@ t@@ i@@ f@@ i@@ e@@ d by ISBN 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 was published in hardcover .
+" A Glastonbury Romance " can be found in hardcover with the ISBN number 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 .
+A hardcover c@@ o@@ p@@ y of A Glastonbury Romance is available with the ISBN number 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 .
+A Glastonbury Romance has 1@@ 1@@ 7@@ 4 pages and is available in print .
+A Glastonbury Romance , currently in print , has 1@@ 1@@ 7@@ 4 pages .
+A Glastonbury Romance , 1@@ 1@@ 7@@ 4 pages , is available in print .
+The ISBN number of A Long Long Way is 0@@ -@@ 6@@ 7@@ 0@@ -@@ 0@@ 3@@ 3@@ 8@@ 0@@ -@@ 4 , and its OCLC number is 5@@ 7@@ 3@@ 9@@ 2@@ 2@@ 4@@ 6 .
+The OCLC number of A Long Long Way is 5@@ 7@@ 3@@ 9@@ 2@@ 2@@ 4@@ 6 and the The ISBN number is 0@@ -@@ 6@@ 7@@ 0@@ -@@ 0@@ 3@@ 3@@ 8@@ 0@@ -@@ 4 .
+The ISBN number of A Long Long Way is 0@@ -@@ 6@@ 7@@ 0@@ -@@ 0@@ 3@@ 3@@ 8@@ 0@@ -@@ 4 ; the OCLC number is 5@@ 7@@ 3@@ 9@@ 2@@ 2@@ 4@@ 6 .
+A Loyal Character Dancer is published in the United States where the Asian Americans are one of the ethnic groups .
+A Loyal Character Dancer is published in the United States , which includes among its ethnic groups Asian Americans .
+A Loyal Character Dancer is published in the United States , where many Asian Americans live , .
+A Loyal Character Dancer is published by Soho Press which is located in the United States .
+A Loyal Character Dancer was published by Soho Press , based in the United States .
+A Loyal Character Dancer was published by Soho Press in the United States .
+A Wizard of Mars was written by D@@ i@@ a@@ n@@ e D@@ u@@ a@@ n@@ e with on OCLC number 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 .
+D@@ i@@ a@@ n@@ e D@@ u@@ a@@ n@@ e wrote A Wizard of Mars which has the OCLC number of 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 .
+A Wizard of Mars is published in H@@ a@@ r@@ d@@ c@@ o@@ v@@ e@@ r and has the ISBN number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
+A Wizard of Mars was published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k and has the ISBN number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
+A Wizard of Mars has the ISBN number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 and was published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k .
+A Wizard of Mars is 5@@ 6@@ 0 pages long and has the ISBN number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
+A Wizard of Mars has 5@@ 6@@ 0 pages and the ISBN number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
+A Wizard of Mars with ISBN number " 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 contains 5@@ 6@@ 0 pages .
+Aenir and it 's sequel Above the Veil are e@@ x@@ a@@ m@@ p@@ l@@ e@@ s of A@@ u@@ s@@ t@@ r@@ l@@ i@@ an l@@ i@@ t@@ e@@ r@@ a@@ t@@ u@@ r@@ e .
+Above the Veil , preceded by Aenir , is from the country of A@@ u@@ s@@ t@@ r@@ a@@ l@@ i@@ a .
+Above the Veil followed the book Aenir and is written in English .
+The book Aenir was followed up by Above the Veil , which is written in English .
+The novel Aenir was followed by Above the Veil written in English .
+Above the Veil is the sequel to Aenir , which was written after Castle .
+Above the Veil is the sequel to Aenir , which was preceded by the novel Castle .
+Above the Veil was preceded by Aenir which was preceded by the novel Castle .
+Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a is the publisher of S@@ p@@ r@@ i@@ n@@ g@@ e@@ r Science + Business M@@ e@@ d@@ i@@ a , founded by J@@ u@@ l@@ i@@ u@@ s S@@ p@@ r@@ i@@ n@@ g@@ e@@ r .
+S@@ p@@ r@@ i@@ n@@ g@@ e@@ r Science and Business M@@ e@@ d@@ i@@ a , founded by J@@ u@@ l@@ i@@ u@@ s S@@ p@@ r@@ i@@ n@@ g@@ e@@ r , p@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ s Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a .
+S@@ p@@ r@@ i@@ n@@ g@@ e@@ r Science + Business M@@ e@@ d@@ i@@ a founded by J@@ u@@ l@@ i@@ u@@ s S@@ p@@ r@@ i@@ n@@ g@@ e@@ r is the publisher of Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a .
+The Administrative Science Quarterly has a C@@ o@@ den code of " A@@ S@@ C@@ Q@@ A@@ G " and the abbreviation of A@@ d@@ m@@ i@@ n@@ .@@ S@@ c@@ i@@ .@@ Q .
+Administrative Science Quarterly , abbreviated A@@ d@@ m@@ in . S@@ c@@ i . Q , has a C@@ o@@ den code of " A@@ S@@ C@@ Q@@ A@@ G " .
+The code for Administrative Science Quarterly ( abbreviated as A@@ d@@ m@@ in . S@@ c@@ i . Q ) is A@@ S@@ C@@ Q@@ A@@ G .
+Cornell University is affiliated with the Association of Public and L@@ and g@@ r@@ a@@ n@@ t Universities and published Administrative Science Quarterly .
+Cornell University , affiliated with the Association of Public and L@@ and g@@ r@@ a@@ n@@ t Universities , is publisher of Administrative Science Quarterly .
+Cornell University , affiliated with the Association of Public and L@@ and g@@ r@@ a@@ n@@ t Universities , is the publisher of the Administrative Science Quarterly .
+W@@ r@@ i@@ t@@ t@@ e@@ n by Garth Nix , Aenir , has the ISBN number of " 0@@ -@@ 4@@ 3@@ 9@@ -@@ 1@@ 7@@ 6@@ 8@@ 4@@ -@@ 0 .
+Aenir was written by Garth Nix and has the ISBN number of 0@@ -@@ 4@@ 3@@ 9@@ -@@ 1@@ 7@@ 6@@ 8@@ 4@@ -@@ 0 .
+Aenir was written by Garth Nix and has the ISBN number 0@@ -@@ 4@@ 3@@ 9@@ -@@ 1@@ 7@@ 6@@ 8@@ 4@@ -@@ 0 .
+Alcatraz Versus the Evil Librarians is published in H@@ a@@ r@@ d@@ c@@ o@@ v@@ e@@ r and has the ISBN number 0@@ -@@ 4@@ 3@@ 9@@ -@@ 9@@ 2@@ 5@@ 5@@ 0@@ -@@ 9 .
+The hardcover e@@ d@@ i@@ t@@ i@@ on of , " Alcatraz Versus the Evil Librarians " , has ISBN number 0@@ -@@ 4@@ 3@@ 9@@ -@@ 9@@ 2@@ 5@@ 5@@ 0@@ -@@ 9 .
+Alcatraz Versus the Evil L@@ i@@ b@@ r@@ a@@ r@@ i@@ an , which is i@@ d@@ e@@ n@@ t@@ i@@ f@@ i@@ e@@ d by ISBN 0@@ -@@ 4@@ 3@@ 9@@ -@@ 9@@ 2@@ 5@@ 5@@ 0@@ -@@ 9 , has 3@@ 20 pages .
+Alcatraz Versus the Evil Librarians has the ISBN number 0@@ -@@ 4@@ 3@@ 9@@ -@@ 9@@ 2@@ 5@@ 5@@ 0@@ -@@ 9 and is 3@@ 20 pages long .
+The ISBN number of the 3@@ 20 - p@@ a@@ g@@ e long Alcatraz Versus the Evil Librarians is 0@@ -@@ 4@@ 3@@ 9@@ -@@ 9@@ 2@@ 5@@ 5@@ 0@@ -@@ 9 .
+AIDS ( journal ) comes under the academic discipline H@@ I@@ V which belongs to the family O@@ r@@ t@@ h@@ o@@ r@@ e@@ t@@ r@@ o@@ v@@ i@@ r@@ i@@ n@@ a@@ e .
+The AIDS ( journal ) is the academic discipline of H@@ I@@ V , a d@@ i@@ s@@ e@@ a@@ s@@ e part of the O@@ r@@ t@@ h@@ o@@ r@@ e@@ t@@ r@@ o@@ v@@ i@@ r@@ i@@ n@@ a@@ e family .
+AIDS ( journal ) comes under the academic discipline H@@ I@@ V which is part of the family of o@@ r@@ t@@ h@@ o@@ r@@ e@@ t@@ r@@ o@@ v@@ i@@ r@@ i@@ n@@ a@@ e .
+A Fortress of Grey Ice is from the United States where the language is English .
+A Fortress of Grey Ice is from the United States , which has English as one of its languages .
+Abilene Regional Airport serves the city of Abilene which is part of T@@ a@@ y@@ l@@ o@@ r County , Texas , in the United States .
+Abilene Regional Airport serves the city of Abilene which is part of T@@ a@@ y@@ l@@ o@@ r County , Texas , in the United States .
+The Abilene r@@ e@@ g@@ i@@ o@@ n@@ a@@ l airport serves Abilene , Texas , which is a part of T@@ a@@ y@@ l@@ o@@ r County , Texas in the United States .
+Adirondack Regional Airport has a runway length of 1@@ 2@@ 1@@ 9@@ .@@ 0 and serves the c@@ i@@ t@@ i@@ e@@ s of Saranac Lake and Lake P@@ l@@ a@@ c@@ i@@ d , New York .
+Adirondack Regional Airport serves the city of Saranac Lake , New York and the r@@ e@@ s@@ i@@ d@@ e@@ n@@ t@@ s of Lake P@@ l@@ a@@ c@@ i@@ d and has a runway that 's 1@@ ,@@ 2@@ 1@@ 9 long .
+The 1@@ 4@@ L@@ /@@ 3@@ 2@@ R runway of the Adolfo Suarez Madrid - Barajas Airport in Madrid has a length of 4@@ 1@@ 0@@ 0@@ .@@ 0 .
+Adolfo Suarez Madrid-Barajas Airport is in Madrid ; its runway name is 1@@ 4@@ L@@ /@@ 3@@ 2@@ R and its runway length is 4@@ 100 .
+The Adolfo Suarez Madrid-Barajas Airport is in Madrid . Its runway , called 1@@ 4@@ L@@ /@@ 3@@ 2@@ R has length of 4@@ 100 .
+The Indian Air Force in India , operates Agra Airport which uses V@@ I@@ A@@ G as its ICAO location identifier .
+Agra Airport , located in India , is operated by the Indian Air Force , and has an ICAO identifier is V@@ I@@ A@@ G .
+O@@ p@@ e@@ r@@ a@@ t@@ e@@ d by the United States Air Force , Al Asad Airbase , in Iraq , has a runway length of 3@@ 0@@ 7@@ 8@@ .@@ 4@@ 8 metres .
+The U@@ S@@ A@@ F operated the Al Asad Airbase , located in i@@ r@@ a@@ q , with a length of 3@@ 0@@ 7@@ 8@@ .@@ 4@@ 8 .
+Al Asad airbase is operated by the United States Air Force which was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the I@@ n@@ v@@ a@@ s@@ i@@ on of G@@ r@@ e@@ n@@ a@@ d@@ a and the K@@ o@@ r@@ e@@ an w@@ a@@ r .
+Al Asad Airbase is operated by the United States Air Force which has the I@@ n@@ v@@ a@@ s@@ i@@ on of G@@ r@@ e@@ n@@ a@@ d@@ a as one of its n@@ o@@ t@@ e@@ d battles as well as The O@@ p@@ e@@ r@@ a@@ t@@ i@@ on E@@ n@@ d@@ u@@ r@@ i@@ n@@ g F@@ r@@ e@@ e@@ d@@ o@@ m .
+The U@@ S@@ A@@ F operates Al Asad Airbase . They f@@ o@@ u@@ g@@ h@@ t in the I@@ n@@ v@@ a@@ s@@ i@@ on of G@@ r@@ e@@ n@@ a@@ d@@ a and The O@@ p@@ e@@ r@@ a@@ t@@ i@@ on E@@ n@@ d@@ u@@ r@@ i@@ n@@ g F@@ r@@ e@@ e@@ d@@ o@@ m .
+The US Air Force is the operating organisation for Al Asad Airbase , used in battles s@@ u@@ c@@ h as I@@ n@@ v@@ a@@ s@@ i@@ on of G@@ r@@ e@@ n@@ a@@ d@@ a and the o@@ p@@ e@@ r@@ a@@ t@@ i@@ on e@@ n@@ d@@ u@@ r@@ i@@ n@@ g f@@ r@@ e@@ e@@ d@@ o@@ m .
+The United States Air Force who is the operating organisation for Al Asad airbase f@@ o@@ u@@ g@@ h@@ t battles in the K@@ o@@ r@@ e@@ an w@@ a@@ r and also in O@@ p@@ e@@ r@@ a@@ t@@ i@@ on E@@ n@@ d@@ u@@ r@@ i@@ n@@ g F@@ r@@ e@@ e@@ d@@ o@@ m .
+The US Air Force , v@@ e@@ t@@ e@@ r@@ an of the K@@ o@@ r@@ e@@ an w@@ a@@ r and O@@ p@@ e@@ r@@ a@@ t@@ i@@ on E@@ n@@ d@@ u@@ r@@ i@@ n@@ g F@@ r@@ e@@ e@@ d@@ o@@ m , operated Al Asad Airbase , .
+The 1st runway at Alderney Airport is made from Poaceae and has a length of 7@@ 3@@ 3@@ .@@ 0 .
+Located in W@@ i@@ l@@ s@@ on Township , Alpena County , Michigan , Alpena County Regional Airport has an elevation of 210 metres above sea level and a runway length of 1@@ ,@@ 5@@ 3@@ 3 metres .
+A@@ p@@ l@@ e@@ n@@ a County Regional Airport ; is elevated 210 metres above sea level , has a runway length of 1@@ ,@@ 5@@ 3@@ 3 metres and is located in W@@ i@@ l@@ s@@ on Township , Alpena County , Michigan .
+Alpena County Regional Airport is located in the W@@ i@@ l@@ s@@ on Township , Alpena County , Michigan . It is 210 m above sea level and its runway length is 1@@ 5@@ 3@@ 3 feet .
+Amsterdam airport , S@@ c@@ h@@ i@@ p@@ o@@ l which serves the city of Amsterdam is located at -@@ 3@@ .@@ 3@@ 5@@ 2@@ 8 metres above sea level and has a runway length of 3500 .
+Andrews County Airport is located in Texas ( United States ) , where H@@ o@@ u@@ s@@ t@@ on is the largest city .
+Andrews County Airport is in Texas , United States . H@@ o@@ u@@ s@@ t@@ on is the largest city in Texas .
+The United States Andrews County Airport is located in Texas , whose largest city is H@@ o@@ u@@ s@@ t@@ on .
+Angola International airport is located in I@@ c@@ o@@ l@@ o e Bengo Angola , it has a runway length of 4@@ 0@@ 0@@ 0@@ f@@ t .
+Angola International Airport is located at Í@@ c@@ o@@ l@@ o e Bengo , Angola and is 4@@ 0@@ 0@@ 0 in length .
+Angola International Airport , located in I@@ c@@ o@@ l@@ o e Bengo , Angola has a runway length of 4@@ 0@@ 0@@ 0 .
+Angola International Airport is located at Í@@ c@@ o@@ l@@ o e Bengo in Angola and the runway is named " south runway " .
+Angola International Airport is located at Í@@ c@@ o@@ l@@ o e Bengo , Angola and the runway is known as " South R@@ u@@ n@@ w@@ a@@ y " .
+Antwerp International Airport which has an elevation of 1@@ 2@@ .@@ 0 metres above sea level is owned and operated by the Flemish government .
+Antwerp International Airport which is 12 meters above sea level is owned by Flemish Region and operated by the Flemish government .
+The Flemish d@@ e@@ p@@ a@@ r@@ t@@ m@@ e@@ n@@ t of M@@ o@@ b@@ i@@ l@@ i@@ t@@ y and Public W@@ o@@ r@@ k@@ s is the operating organisation and owner of Antwerp International Airport that serves the city of Antwerp .
+Antwerp International Airport ; serves the city of Antwerp , is in the Flemish region and is operated by the Flemish d@@ e@@ p@@ a@@ r@@ t@@ m@@ e@@ n@@ t of m@@ o@@ b@@ i@@ l@@ i@@ t@@ y and p@@ u@@ b@@ l@@ i@@ c w@@ o@@ r@@ k@@ s .
+Antwerp International Airport serves Antwerp . It is owned by the Flemish Region and operated by the Flemish d@@ e@@ p@@ a@@ r@@ t@@ m@@ e@@ n@@ t of M@@ o@@ b@@ i@@ l@@ i@@ t@@ y and Public W@@ o@@ r@@ k@@ s .
+Appleton International airport serves the city of Appleton which is part of K@@ i@@ m@@ b@@ e@@ r@@ l@@ y , Wisconsin , as is L@@ i@@ t@@ t@@ l@@ e Chute .
+A@@ p@@ p@@ l@@ e@@ t@@ one International Airport served the city of Appleton , which is part of a l@@ i@@ t@@ t@@ l@@ e c@@ h@@ u@@ t@@ e in K@@ i@@ m@@ b@@ e@@ r@@ l@@ y , Wisconsin .
+The Appleton International Airport is in Greenville which is part of C@@ l@@ a@@ y@@ t@@ on W@@ i@@ n@@ n@@ e@@ b@@ a@@ g@@ o County , Wisconsin , in the United States .
+Appleton International Airport is located in Greenville , Wisconsin , USA , which is part of C@@ l@@ a@@ y@@ t@@ on , W@@ i@@ n@@ n@@ e@@ b@@ a@@ g@@ o county .
+The Appleton International Airport is in Greenville , C@@ l@@ a@@ y@@ t@@ on , W@@ i@@ n@@ n@@ e@@ b@@ a@@ g@@ o County , Wisconsin , United States .
+The 3rd runway at Ardmore Airport ( New Zealand ) is made of Poaceae which is of the order P@@ o@@ a@@ l@@ e@@ s and belongs to the division of flowering plants .
+The 3rd runway at Ardmore Airport ( New Zealand ) is made of Poaceae which is part of the P@@ o@@ a@@ l@@ e@@ s order and is in the division of flowering plants .
+Ashgabat International Airport ( located in Ashgabat ) is elevated 2@@ 11 metres above sea level and has a runway length of 3@@ 8@@ 0@@ 0 .
+Ashgabat is the location of Ashgabat International Airport which has a runway length of 3@@ 8@@ 0@@ 0@@ .@@ 0 and is 2@@ 11 metres above sea level .
+Ashgabat International airport is located in Ashgabat at 2@@ 11 metres above sea level and has a runway length of 3@@ 8@@ 0@@ 0@@ .@@ 0 .
+The Athens International Airport serves the city of Athens , in Greece where Alexis Tsipras is the leader .
+Athens International Airport serves the city of Athens in Greece where Alexis Tsipras is the leader .
+Athens International Airport serves the city of Athens in Greece , a country led by Alexis Tsipras .
+Atlantic City International Airport , which has a runway with the name is 4@@ /@@ 2@@ 2 , is located in Egg Harbor Township , in New Jersey , United States .
+Atlantic City International Airport is in Egg Harbor Township , New Jersey , United States and has the runway name 4@@ /@@ 2@@ 2 .
+Antwerp International Airport serves the city of Antwerp in Belgium where the leader is P@@ h@@ i@@ l@@ l@@ i@@ p@@ e of Belgium .
+Antwerp , Belgium , is led by P@@ h@@ i@@ l@@ i@@ p@@ p@@ e of Belgium and served by Antwerp International Airport .
+Poaceae is in the class M@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on and the order of C@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s . It is also the surface type of the s@@ e@@ c@@ o@@ n@@ d runway of Ardmore Airport , New Zealand .
+The 2@@ n@@ d runway at Ardmore Airport ( New Zealand ) is made of Poaceae which belongs to the order of C@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s and the class of M@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on .
+Alan Bean was under commander David Scott on N@@ a@@ s@@ a 's Apollo 12 mission .
+Alan Bean was a member of the NASA operated Apollo 12 crew c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ d by David Scott .
+David Scott was the commander of the NASA operated Apollo 12 f@@ l@@ i@@ g@@ h@@ t mission on which the crew i@@ n@@ c@@ l@@ u@@ d@@ e@@ d Alan Bean .
+D@@ i@@ a@@ n@@ n@@ e F@@ e@@ i@@ n@@ s@@ t@@ e@@ in is a s@@ e@@ n@@ a@@ t@@ or in California where Alan Shepard died on July 2@@ 1 1@@ 9@@ 9@@ 8 .
+Alan S@@ h@@ e@@ p@@ h@@ a@@ r@@ d died on the 2@@ 1st of July , 1@@ 9@@ 9@@ 8 in California ( whose S@@ e@@ n@@ a@@ t@@ or was D@@ i@@ a@@ n@@ n@@ e F@@ e@@ i@@ n@@ s@@ t@@ e@@ in ) .
+Buzz Aldrin , also called E@@ d@@ win E@@ . Aldrin J@@ r@@ . , graduated in 1963 from MIT with a S@@ c@@ .@@ D . and was a crew member on Apollo 11 .
+Buzz Aldrin , whose r@@ e@@ a@@ l name was E@@ d@@ win E@@ . Aldrin , J@@ r@@ . , graduated from M@@ a@@ s@@ s@@ a@@ c@@ h@@ u@@ s@@ e@@ t@@ t@@ s Institute of Technology in 1963 with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in Science and later became a crew member of Apollo 11 .
+Buzz Aldrin ( A@@ K@@ A E@@ d@@ win E Aldrin J@@ r ) graduated in 1963 from MIT with a S@@ c@@ .@@ D . was a crew member of Apollo 11 .
+Buzz Aldrin , whose r@@ e@@ a@@ l name is E@@ d@@ win E@@ . Aldrin J@@ r@@ . , was a member of Apollo 11 who in 1963 graduated with a S@@ c . D@@ . from MIT .
+Buzz Aldrin , who was a member of the Apollo 11 crew and spent 5@@ 2 minutes in space , was born in Glen Ridge New Jersey .
+B@@ o@@ r@@ n in Glen Ridge New Jersey , Apollo 11 c@@ r@@ e@@ w@@ m@@ an Buzz Aldrin spent 5@@ 2 minutes in space .
+B@@ o@@ r@@ n in Glen Ridge , N@@ J , Buzz Aldrin spent 5@@ 2 minutes in space as part of Apollo 11 's crew .
+Alan Shepard , who was awarded the US Navy Distinguished Service Medal died in California , i@@ n@@ c@@ i@@ d@@ e@@ n@@ t@@ a@@ l@@ l@@ y a S@@ m@@ i@@ l@@ o@@ d@@ on is a f@@ o@@ s@@ s@@ i@@ l from California .
+Alan S@@ h@@ e@@ p@@ h@@ a@@ r@@ d was awarded the Distinguished Service Medal by United States Navy and died in California ( where a S@@ m@@ i@@ l@@ o@@ d@@ on f@@ o@@ s@@ s@@ i@@ l was found ) .
+Alan Shepard , who was awarded the Distinguished Service Medal by the US Navy , died in California where the S@@ m@@ i@@ l@@ o@@ d@@ on f@@ o@@ s@@ s@@ i@@ l was found .
+Elliot See who was selected by NASA in 1962 died on 2@@ 8 February 1966 in St Louis .
+Elliot See , e@@ x NASA w@@ o@@ r@@ k@@ e@@ r s@@ i@@ n@@ c@@ e 1962 , died in St Louis on the 2@@ 8@@ t@@ h of February 1966 .
+Elliot See was selected by NASA in 1962 . He died in St. Louis on 1@@ 9@@ 6@@ 6@@ -@@ 0@@ 2@@ -@@ 2@@ 8 .
+Elliot See , born July 23 1927 in Dallas , has died .
+Elliot See is d@@ e@@ c@@ e@@ a@@ s@@ e@@ d , was born on 23rd July 1927 in Dallas .
+Elliot See ( d@@ e@@ c@@ e@@ a@@ s@@ e@@ d ) was born in Dallas 1@@ 9@@ 2@@ 7@@ -@@ 0@@ 7@@ -@@ 23 .
+Elliot See was born in Dallas on July 23 , 1927 . He is now d@@ e@@ c@@ e@@ a@@ s@@ e@@ d .
+B@@ o@@ r@@ n on October 1@@ 7@@ t@@ h , 1933 in British Hong Kong , William Anders w@@ o@@ u@@ l@@ d serve as a crew member on Apollo 8 .
+William Anders who was born on 1@@ 7 October 1933 in British Hong Kong later served as a crew member of Apollo 8 .
+William Anders , who was born in British Hong Kong on the 1@@ 7@@ t@@ h of October 1933 , c@@ r@@ e@@ w@@ e@@ d Apollo 8 .
+11 Diagonal Street is located in South Africa ( C@@ y@@ r@@ i@@ l R@@ a@@ m@@ a@@ p@@ h@@ o@@ s@@ a is one of the leaders ) , the capital of which is C@@ a@@ p@@ e T@@ own .
+South Africa is the location of 11 Diagonal Street . The capital is C@@ a@@ p@@ e T@@ own and the leader is C@@ y@@ r@@ i@@ l R@@ a@@ m@@ a@@ p@@ h@@ o@@ s@@ a .
+C@@ y@@ r@@ i@@ l R@@ a@@ m@@ a@@ p@@ h@@ o@@ s@@ a leads South Africa , whose capital , C@@ a@@ p@@ e T@@ own , h@@ o@@ u@@ s@@ e@@ s 11 Diagonal Street .
+11 Diagonal Street is located in South Africa , a country in which c@@ o@@ l@@ o@@ u@@ r@@ e@@ d@@ s are one of the ethnic groups and J@@ a@@ c@@ o@@ b Z@@ u@@ m@@ a is the leader .
+11 Diagonal Street is located in South Africa , p@@ o@@ p@@ u@@ l@@ a@@ t@@ e@@ d by C@@ o@@ l@@ o@@ u@@ red people and led by J@@ a@@ c@@ o@@ b Z@@ u@@ m@@ a .
+The address , 11 Diagonal Street is located in South Africa where J@@ a@@ c@@ o@@ b Z@@ u@@ m@@ a is a leader and s@@ o@@ m@@ e c@@ o@@ l@@ o@@ u@@ red people live .
+11 Diagonal Street is in South Africa where the leader is J@@ a@@ c@@ o@@ b Z@@ u@@ m@@ a . An ethnic group found there are white South A@@ f@@ r@@ i@@ c@@ a@@ n@@ s .
+The white South A@@ f@@ r@@ i@@ c@@ a@@ n@@ s are an ethnic group of the country where J@@ a@@ c@@ o@@ b Z@@ u@@ m@@ a is leader and where 11 Diagonal Street is located .
+Frank G J@@ a@@ c@@ k@@ s@@ on is the leader of Cleveland , United States where 200 Public Square is located .
+200 Public Square is located in Cleveland , United States , where one of the leaders is Frank G J@@ a@@ c@@ k@@ s@@ on .
+250 Delaware Avenue is located in B@@ u@@ f@@ f@@ a@@ l@@ o , E@@ r@@ i@@ e County , New York .
+250 Delaware a@@ v@@ e@@ n@@ u@@ e is in B@@ u@@ f@@ f@@ a@@ l@@ o , E@@ r@@ i@@ e County , New York .
+300 North LaSalle is located in Chicago ( the leader of which is R@@ a@@ h@@ m E@@ m@@ a@@ n@@ u@@ e@@ l ) , United States .
+R@@ a@@ h@@ m E@@ m@@ a@@ n@@ u@@ e@@ l is a leader in Chicago , US where 300 North LaSalle is located .
+300 North L@@ a@@ s@@ a@@ l@@ l@@ e is in Chicago , U.S. R@@ a@@ h@@ m E@@ m@@ a@@ n@@ u@@ e@@ l leads Chicago .
+Located in Dublin , the 3Arena whose architect was H@@ O@@ K S@@ V@@ E ) was completed in D@@ e@@ c@@ e@@ m@@ b@@ e@@ r 2@@ 0@@ 0@@ 8 .
+The a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t@@ s of the 3Arena in Dublin was H@@ O@@ K S@@ V@@ E and it was completed in D@@ e@@ c@@ e@@ m@@ b@@ e@@ r 2@@ 0@@ 0@@ 8 .
+3Arena , located in Dublin , was designed by H@@ O@@ K S@@ V@@ E and completed D@@ e@@ c@@ e@@ m@@ b@@ e@@ r 2@@ 0@@ 0@@ 8 .
+P@@ o@@ p@@ u@@ l@@ o@@ u@@ s was the architect of 3Arena in Dublin which was completed in D@@ e@@ c@@ e@@ m@@ b@@ e@@ r 2@@ 0@@ 0@@ 8 .
+The company P@@ o@@ p@@ u@@ l@@ o@@ u@@ s were the a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t@@ s who designed the 3Arena in Dublin which was completed in D@@ e@@ c@@ e@@ m@@ b@@ e@@ r 2@@ 0@@ 0@@ 8 .
+The 3Arena in Dublin was designed by a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t@@ s from the P@@ o@@ p@@ u@@ l@@ o@@ u@@ s company and completed in D@@ e@@ c@@ e@@ m@@ b@@ e@@ r 2@@ 0@@ 0@@ 8 .
+The owner of 3Arena is L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t which is located in Dublin , Ireland .
+3Arena is owned by L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t , and is located in Dublin , Republic of Ireland .
+3Arena in Dublin , Republic of Ireland is owned by L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t .
+Marriott International is the tenant of the AC Hotel Bella Sky Copenhagen , Denmark , which was designed by the a@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t@@ s of the 3@@ X@@ N f@@ i@@ r@@ m .
+AC Hotel Bella Sky is in Copenhagen , Denmark , Marriott International Hotel b@@ e@@ c@@ a@@ use 3@@ X@@ N was the architect .
+J@@ a@@ m@@ e@@ s P@@ a@@ in was the architect of Adare Manor which was completed in 1862 and is owned by J P M@@ c@@ M@@ a@@ n@@ u@@ s .
+J@@ a@@ m@@ e@@ s P@@ a@@ in was the architect of Adare Manor which was completed in 1862 and o@@ w@@ e@@ d by J P M@@ c@@ M@@ a@@ n@@ u@@ s .
+J@@ a@@ m@@ e@@ s P@@ a@@ in designed Adare Manor that was completed in 1862 . The owner is J@@ .@@ P@@ . M@@ c@@ M@@ a@@ n@@ u@@ s .
+The G@@ o@@ v@@ e@@ r@@ n@@ m@@ e@@ n@@ t of Addis Ababa is the current tenant of the Addis Ababa City Hall which is 4@@ 2 metres h@@ i@@ g@@ h and has a floor area of 1@@ 4@@ 0@@ 0@@ 0@@ 0@@ .@@ 0 ( square metres ) .
+The G@@ o@@ v@@ e@@ r@@ n@@ m@@ e@@ n@@ t of Addis Ababa is the current tenants of the Addis Ababa city h@@ a@@ l@@ l . which has a floor area of 1@@ 4@@ 0@@ 0@@ 0@@ 0@@ .@@ 0 square metres . It is 4@@ 2 m h@@ i@@ g@@ h .
+Addis Ababa City Hall , which h@@ o@@ u@@ s@@ e@@ s the G@@ o@@ v@@ e@@ r@@ n@@ m@@ e@@ n@@ t of Addis Ababa , is 4@@ 2 m h@@ i@@ g@@ h and has a floor area o@@ f@@ 1@@ 4@@ 0@@ 0@@ 0@@ 0 .@@ 0 square metres .
+The Adisham h@@ a@@ l@@ l , which is located in Sri Lanka , was completed in 1@@ 9@@ 3@@ 1 and architectural style is T@@ u@@ d@@ or R@@ e@@ v@@ i@@ v@@ a@@ l .
+A@@ i@@ d@@ s@@ h@@ a@@ m Hall , completed in 1@@ 9@@ 3@@ 1 and located in Sri Lanka , is in the T@@ u@@ d@@ or R@@ e@@ v@@ i@@ v@@ a@@ l architecture style .
+Adisham Hall , with its T@@ u@@ d@@ or R@@ e@@ v@@ i@@ v@@ a@@ l style of architecture , was built in 1@@ 9@@ 3@@ 1 in Sri Lanka .
+The Akita Museum of Art has a floor area of 3@@ 7@@ 4@@ 6@@ .@@ 6@@ 6 square metres o@@ v@@ e@@ r 3 floors and was inaugurated on 2@@ 8 September 2@@ 0@@ 1@@ 3 .
+The Akita Museum of Art , inaugurated September 2@@ 8 , 2@@ 0@@ 1@@ 3 has 3 floors and a floor area of 3@@ 7@@ 4@@ 6@@ .@@ 6@@ 6 square metres .
+The Akita Museum or a@@ r@@ t is located in Akita , within the Akita Prefecture , Japan .
+The College of William and Mary is the owner of the Alan B. Miller Hall in Virginia . The building was b@@ e@@ g@@ u@@ n on 3@@ 0 March 2@@ 0@@ 0@@ 7 .
+The College of William and Mary is the owner of the Alan B. Miller Hall in Virginia which b@@ e@@ g@@ an construction on 3@@ 0 March , 2@@ 0@@ 0@@ 7 .
+The College of William and Mary is the owner of the Alan B. Miller Hall , located in Virginia , and the s@@ t@@ a@@ r@@ t date of building was in 3@@ 0@@ t@@ h March 2@@ 0@@ 0@@ 7 .
+Robert G@@ a@@ t@@ e@@ s is the c@@ h@@ a@@ n@@ c@@ e@@ l@@ l@@ or of The College of William and Mary which is owned by Alan B Miller Hall and is located in Virginia .
+Alan B. Miller Hall , located in Virginia , is owned by The College of William and Mary ; whose c@@ h@@ a@@ n@@ c@@ e@@ l@@ l@@ or is Robert G@@ a@@ t@@ e@@ s .
+The Mason School of Business in the US are the current tenants of Alan B Miller Hall in Virginia .
+Alan B Miller Hall is in Virginia , U.S. and h@@ o@@ u@@ s@@ e@@ s The Mason School of Business .
+Alan B. Miller Hall , the building of which b@@ e@@ g@@ an 3@@ 0 March , 2@@ 0@@ 0@@ 7 , is located in W@@ i@@ l@@ l@@ i@@ a@@ m@@ s@@ b@@ u@@ r@@ g , Virginia and owned by the College of William and Mary .
+Alan B. Miller Hall 's building , s@@ t@@ a@@ r@@ t@@ e@@ d on 3@@ 0@@ t@@ h March 2@@ 0@@ 0@@ 7 , is located in W@@ i@@ l@@ l@@ i@@ a@@ m@@ s@@ b@@ u@@ r@@ g , Virginia , and owned by the College of William and Mary .
+The Alan B. Miller Hall , owned by The College of William and Mary , is in W@@ i@@ l@@ l@@ i@@ a@@ m@@ s@@ b@@ u@@ r@@ g , Virginia and was o@@ p@@ e@@ n@@ e@@ d on the 3@@ 0@@ t@@ h March 2@@ 0@@ 0@@ 7 .
+The 4@@ 7@@ 6 b@@ e@@ d Ampara Hospital is located in Ampara D@@ i@@ s@@ t@@ r@@ i@@ c@@ t , Sri Lanka .
+Ampara Hospital , which has 4@@ 7@@ 6 b@@ e@@ d@@ s , is located in the Ampara D@@ i@@ s@@ t@@ r@@ i@@ c@@ t of Sri Lanka .
+Ampara Hospital is in Eastern Province , Sri Lanka . Ranil Wickremesinghe is a leader there .
+Sri Lanka , led by Ranil Wickremesinghe , is home to Ampara Hospital in the Eastern Province state .
+The Asher and Mary Isabelle Richardson House located on US R@@ o@@ u@@ t@@ e 8@@ 3 and built in 1@@ 9@@ 11 was added to the National Register of Historic Places , on 2@@ 2@@ n@@ d November 1@@ 9@@ 8@@ 8 .
+The Asher and Mary Isabelle R@@ o@@ b@@ i@@ n@@ s@@ on House on U.S. R@@ o@@ u@@ t@@ e 8@@ 3 was constructed in 1@@ 9@@ 11 and added to the National Register of Historic Places on 2@@ 2 November 1@@ 9@@ 8@@ 8 .
+The Asher and Mary Isabelle Richardson House on U.S. R@@ o@@ u@@ t@@ e 8@@ 3 was constructed in 1@@ 9@@ 11 and added to the National Register of Historic Places on 2@@ 2 November 1@@ 9@@ 8@@ 8 .
+Asilomar Conference Grounds are located in Pacific Grove , California and was added to the National Register of Historic Places on February the 2@@ 7@@ n@@ d 1@@ 9@@ 8@@ 7 . Its reference number in the National Register of Historic Places is 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 , .
+The Asilomar Conference Grounds of Pacific Grove in California was added to the National Register of Historic Places on 2@@ 7@@ t@@ h of February in 1@@ 9@@ 8@@ 7 , where the reference number for the National r@@ e@@ g@@ i@@ s@@ t@@ e@@ r was 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 .
+Asilomar Conference Grounds , Pacific Grove , California , was added to the National Register of Historic Places on February the 2@@ 7@@ n@@ d 1@@ 9@@ 8@@ 7 with a reference number of 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 .
+The Asser Levy Public Baths are located in Asser Levy P@@ l@@ a@@ c@@ e , East 23rd Street and were added to the National Register of Historic Places on 1@@ 9@@ 8@@ 0@@ -@@ 0@@ 4@@ -@@ 23 , with the number 8@@ 0@@ 0@@ 0@@ 2@@ 7@@ 0@@ 9 .
+The Asser Levy Public Baths are located in Asser Levy P@@ l@@ a@@ c@@ e , East 23rd Street and were added to the National Register of Historic Places on 23rd April 1@@ 9@@ 8@@ 0 with the reference number 8@@ 0@@ 0@@ 0@@ 2@@ 7@@ 0@@ 9 .
+The Asser Levy Public Baths are located in New York City , U.S. Manhattan is a b@@ o@@ r@@ o@@ u@@ g@@ h in New York City .
+Asser Levy Public Baths are located in Manhattan , New York City , United States .
+The location of Asser Levy Public Baths is New York City , Manhattan in the U.S.
+T S Thakur and Sumitra Mahajan are leaders in India where Amdavad ni Gufa is located .
+Amdavad ni Gufa is located in India where T S Thakur and Sumitra Mahajan are leaders .
+The comic character A@@ u@@ r@@ on was created by W@@ a@@ l@@ t S@@ i@@ m@@ o@@ n@@ s@@ on and the American , K@@ a@@ r@@ l K@@ e@@ s@@ e@@ l .
+K@@ a@@ r@@ l K@@ e@@ s@@ e@@ l , an American along with W@@ a@@ l@@ t S@@ i@@ m@@ o@@ n@@ s@@ on created the comic book character A@@ u@@ r@@ on .
+The comic character , A@@ u@@ r@@ on , was created by W@@ a@@ l@@ t S@@ i@@ m@@ o@@ n@@ s@@ on and the American K@@ a@@ r@@ l K@@ e@@ s@@ e@@ l .
+Tony Hall , B@@ a@@ r@@ on Hall of B@@ i@@ r@@ k@@ e@@ n@@ h@@ e@@ a@@ d , is a key person at the BBC which is located in London and broadcast Bananaman .
+A key person at the BBC , which is located in London and broadcast Bananaman , is B@@ a@@ r@@ on Hall of B@@ i@@ r@@ k@@ e@@ n@@ h@@ e@@ a@@ d , Tony Hall .
+Bill O@@ d@@ die starred in Bananaman which first a@@ i@@ red on 3 October 1983 and was broadcast by S@@ T@@ V .
+Bill O@@ d@@ die starred in Bananaman which was first a@@ i@@ red on 3 October 1983 and broadcast by S@@ T@@ V .
+Bananaman which first a@@ i@@ red on October 3rd , 1983 stars B@@ i@@ l@@ l@@ i@@ e O@@ d@@ die and is b@@ r@@ o@@ a@@ d@@ c@@ a@@ s@@ t@@ e@@ d by S@@ T@@ V .
+Baymax first a@@ p@@ p@@ e@@ a@@ r@@ e@@ d in Big Hero 6 and was created by Duncan Rouleau and S@@ t@@ e@@ v@@ e@@ n T@@ . S@@ e@@ a@@ g@@ l@@ e .
+Baymax 's first film a@@ p@@ p@@ e@@ a@@ r@@ a@@ n@@ c@@ e was in Big Hero 6 . He was created by Duncan Rouleau and S@@ t@@ e@@ v@@ e@@ n T S@@ e@@ a@@ g@@ l@@ e .
+Duncan Rouleau and S@@ t@@ e@@ v@@ e@@ n T@@ . S@@ e@@ a@@ g@@ l@@ e created Baymax who h@@ a@@ d his first m@@ o@@ v@@ i@@ e a@@ p@@ p@@ e@@ a@@ r@@ a@@ n@@ c@@ e in Big Hero 6 .
+The creator of B@@ i@@ b@@ b@@ o B@@ i@@ b@@ b@@ o@@ w@@ s@@ k@@ i , who is o@@ f@@ t@@ e@@ n called B@@ i@@ b@@ b@@ o , are J@@ e@@ r@@ r@@ y O@@ r@@ d@@ w@@ a@@ y and M@@ a@@ r@@ v W@@ o@@ l@@ f@@ m@@ an .
+The comic character Blockbuster , also known as R@@ o@@ l@@ and D@@ e@@ s@@ m@@ o@@ n@@ d , was created by R@@ o@@ g@@ e@@ r Stern and T@@ o@@ m L@@ y@@ l@@ e .
+The comic book character Blockbuster 's a@@ l@@ t@@ e@@ r e@@ g@@ o is R@@ o@@ l@@ and D@@ e@@ s@@ m@@ o@@ n@@ d and he was created by R@@ o@@ g@@ e@@ r Stern and T@@ o@@ m L@@ y@@ l@@ e .
+The comic character Bolt has the alternative name of L@@ a@@ r@@ r@@ y B@@ o@@ l@@ a@@ t@@ i@@ n@@ s@@ k@@ y and was created by E@@ r@@ n@@ i@@ e C@@ o@@ l@@ on and D@@ an M@@ i@@ s@@ h@@ k@@ in .
+Bolt , a comic character A@@ K@@ A L@@ a@@ r@@ r@@ y B@@ o@@ l@@ a@@ t@@ i@@ n@@ s@@ k@@ y was created by D@@ an M@@ i@@ s@@ h@@ k@@ in .
+The comic character Bolt whose alternative name is L@@ a@@ r@@ r@@ y B@@ o@@ l@@ a@@ t@@ i@@ n@@ s@@ k@@ y was created by E@@ r@@ n@@ i@@ e C@@ o@@ l@@ on and D@@ an M@@ i@@ s@@ h@@ k@@ in .
+An alternative name for the comic character Bolt is L@@ a@@ r@@ r@@ y B@@ o@@ l@@ a@@ t@@ i@@ n@@ s@@ k@@ y and he was created by Paris C@@ u@@ l@@ l@@ i@@ n@@ s and D@@ an M@@ i@@ s@@ h@@ k@@ in .
+The comic character Bolt , a@@ k@@ a L@@ a@@ r@@ r@@ y B@@ o@@ l@@ a@@ t@@ i@@ n@@ s@@ k@@ y , was created by Paris C@@ u@@ l@@ l@@ i@@ n@@ s and D@@ an M@@ i@@ s@@ h@@ k@@ in .
+F@@ r@@ o@@ m Spain , Ajoblanco ( a@@ l@@ t@@ e@@ r@@ n@@ a@@ t@@ i@@ v@@ e@@ l@@ y known as A@@ j@@ o b@@ l@@ a@@ n@@ c@@ o ) has b@@ r@@ e@@ a@@ d as an ingredient .
+Ajoblanco , also known as " A@@ j@@ o b@@ l@@ a@@ n@@ c@@ o " , comes from Spain . B@@ r@@ e@@ a@@ d is one of the ingredients .
+B@@ r@@ e@@ a@@ d is an ingredient of Ajoblanco , which is from Spain and an alternative name to A@@ j@@ o b@@ l@@ a@@ n@@ c@@ o .
+Ajoblanco is from Andalusia , in Spain . Ajoblanco contains water .
+W@@ a@@ t@@ e@@ r is an ingredient in Ajoblanco , which is a food found in Andalusia , in Spain .
+A@@ r@@ e@@ m a@@ r@@ e@@ m originates from the country of Indonesia , where two of the leaders are , Joko Widodo and Jusuf Kalla .
+A@@ r@@ e@@ m a@@ r@@ e@@ m originates from Indonesia where two of the leaders are Joko Widodo and J@@ u@@ s@@ e@@ f Kalla .
+Arem-arem is a food found nationwide in Indonesia , but is m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c to Java . Jusuf Kalla is the leader of Indonesia .
+Jusuf Kalla is the leader of Indonesia , the country which serves Arem-arem . W@@ h@@ i@@ l@@ e Arem-arem is nationwide in Indonesia , it is m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c to Java .
+Jusuf Kalla is a leader in Indonesia , where the dish a@@ r@@ e@@ m@@ -@@ a@@ r@@ e@@ m is found nationwide , t@@ h@@ o@@ u@@ g@@ h it is m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c to Java .
+The leader of Italy is Sergio Mattarella , it is also where Italian is spoken and the a@@ r@@ r@@ a@@ b@@ b@@ i@@ a@@ t@@ a sauce is from .
+Sergio Mattarella is a leader of Italy where the Italian language is spoken and Arrabbiata sauce can be found .
+Arrabbiata sauce is from Italy , where the spoken language is Italian and a leader is Sergio Mattarella .
+Arrabbiata sauce , a traditional dish from Rome in Italy , has c@@ h@@ i@@ l@@ i p@@ e@@ p@@ p@@ e@@ r as one of its i@@ m@@ p@@ o@@ r@@ t@@ a@@ n@@ t ingredients .
+Arrabbiata sauce from Rome in Italy contains c@@ h@@ i@@ l@@ i p@@ e@@ p@@ p@@ e@@ r .
+Arrabbiata sauce is from the region of Rome in Italy and one of the main ingredients is c@@ h@@ i@@ l@@ i p@@ e@@ p@@ p@@ e@@ r .
+G@@ a@@ r@@ l@@ i@@ c is an ingredient in a@@ r@@ r@@ a@@ b@@ b@@ i@@ a@@ t@@ a sauce which originates from the region of Rome , in Italy .
+Arrabbiata sauce contains garlic and comes from the Rome region of i@@ t@@ a@@ l@@ y .
+G@@ a@@ r@@ l@@ i@@ c is an ingredient in a@@ r@@ r@@ a@@ b@@ b@@ i@@ a@@ t@@ a sauce , which is a traditional dish from Rome , Italy .
+Arros negre contains S@@ q@@ u@@ i@@ d and comes from the Catalonia region of Spain .
+S@@ q@@ u@@ i@@ d is an ingredient of a@@ r@@ r@@ o@@ s negre which is from the region of Catalonia in Spain .
+Arros negre is from the region of Catalonia , Spain , and one of its ingredients is S@@ q@@ u@@ i@@ d .
+C@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h is an ingredient in Arròs negre which comes from the region of the Valencian Community , in Spain .
+C@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h is an ingredient of the dish Arròs negre , which is a dish that comes from the Valencian community in Spain .
+C@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h is an ingredient in Arròs negre , which is a traditional dish from the Valencian community in Spain .
+The main ingredients of a@@ s@@ a@@ m pedas , a food from the Sumatra and Malay P@@ e@@ n@@ i@@ n@@ s@@ u@@ l@@ a r@@ e@@ g@@ i@@ o@@ n@@ s of Malaysia , c@@ o@@ n@@ s@@ i@@ s@@ t of f@@ i@@ s@@ h cooked in a sour and h@@ o@@ t sauce .
+Asam pedas is made from f@@ i@@ s@@ h cooked in a sour and h@@ o@@ t sauce and comes from the Sumatra and Malay P@@ e@@ n@@ i@@ n@@ s@@ u@@ l@@ a r@@ e@@ g@@ i@@ o@@ n@@ s in Malaysia .
+The dish Asam pedas comes from the region of Sumatra and the Malay P@@ e@@ n@@ i@@ n@@ s@@ u@@ l@@ a . Malaysia and the main ingredients are f@@ i@@ s@@ h cooked in sour and h@@ o@@ t sauce .
+Ayam penyet is made from s@@ q@@ u@@ e@@ e@@ z@@ e@@ d or s@@ q@@ u@@ a@@ s@@ h@@ e@@ d chicken served with s@@ a@@ m@@ b@@ l@@ a and is a popular dish in Java , Malaysia .
+Ayam penyet 's main ingredients are s@@ q@@ u@@ e@@ e@@ z@@ e@@ d or s@@ m@@ a@@ s@@ h@@ e@@ d fried chicken served with s@@ a@@ m@@ b@@ a@@ l . It is a popular dish in Malaysia and also found in Java .
+Ayam penyet originates from Malaysia and Java . The main ingredients are s@@ q@@ u@@ e@@ e@@ z@@ e@@ d or s@@ m@@ a@@ s@@ h@@ e@@ d fried chicken served with s@@ a@@ m@@ b@@ a@@ l .
+Bacon and sausage are the main ingredients in a Bacon Explosion , which comes from the United States .
+Bacon Explosion , whose name comes from the United States , has bacon and sausage .
+One of the ethnic groups in the United States are native Americans , the country is also the home of the dish bacon e@@ x@@ p@@ l@@ o@@ s@@ i@@ on and has W@@ a@@ s@@ i@@ n@@ g@@ t@@ on D.C. as it 's c@@ a@@ p@@ i@@ t@@ o@@ l city .
+Bacon Explosion originated in the United States , where the capital is Washington DC and Native Americans are an ethnic group .
+Bacon Explosion comes from the United States where Washington D.C. is the capital and Native Americans are an ethnic group .
+The United States is the country of Bacon Explosion . Barack Obama is the leader and Washington D.C. is the capital .
+The Bacon Explosion comes from the United States where Barack Obama is a leader and the capital city is Washington DC .
+The Bacon Explosion originates from the United States where the leader is Barack Obama and the capital is Washington DC .
+The Bacon Explosion originated in the United States , where African Americans are an ethnic group and John R@@ o@@ b@@ e@@ r@@ t@@ s is a leader .
+Bacon Explosion comes from the United States where African Americans are an ethnic group and John R@@ o@@ b@@ e@@ r@@ t@@ s is a leader .
+Bacon s@@ a@@ n@@ d@@ w@@ i@@ c@@ h@@ e@@ s are variations of BLT and come from the U@@ .@@ K@@ . C@@ o@@ n@@ d@@ i@@ m@@ e@@ n@@ t@@ s are found in t@@ h@@ e@@ s@@ e s@@ a@@ n@@ d@@ w@@ i@@ c@@ h@@ e@@ s .
+The UK dish , the bacon sandwich uses c@@ o@@ n@@ d@@ i@@ m@@ e@@ n@@ t@@ s as an ingredient and has the variation BLT .
+The bacon sandwich , a variation of the BLT , comes from the UK and contains c@@ o@@ n@@ d@@ i@@ m@@ e@@ n@@ t@@ s .
+M@@ e@@ r@@ i@@ n@@ g@@ u@@ e is an ingredient of a Baked Alaska , which is from the New York region and France .
+M@@ e@@ r@@ i@@ n@@ g@@ u@@ e is an ingredient of a Baked Alaska , which is r@@ e@@ p@@ u@@ t@@ e@@ d to come from both France and New York .
+An ingredient of b@@ a@@ k@@ e@@ d Alaska is m@@ e@@ r@@ i@@ n@@ g@@ u@@ e which originates in France and the New York r@@ e@@ g@@ i@@ o@@ n@@ s .
+S@@ p@@ o@@ n@@ g@@ e cake is one of the ingredients in Baked Alaska , a dish from the New York region and found in the United States .
+S@@ p@@ o@@ n@@ g@@ e cake is an ingredient of Baked Alaska , which comes from the region of New York and can be found in the U.S.
+An ingredient of b@@ a@@ k@@ e@@ d Alaska is s@@ p@@ o@@ n@@ g@@ e cake , the dish originates from New York , USA .
+C@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding is an ingredient in the dessert Baked Alaska . C@@ o@@ o@@ k@@ i@@ e is also a dessert .
+A c@@ o@@ o@@ k@@ i@@ e can be a dessert , as can b@@ a@@ k@@ e@@ d a@@ l@@ a@@ s@@ k@@ a which has c@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding as an ingredient .
+C@@ o@@ o@@ k@@ i@@ e@@ s are a dessert i@@ t@@ e@@ m , as is Baked Alaska that has C@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding as one of its ingredients .
+Sandesh ( c@@ o@@ n@@ f@@ e@@ c@@ t@@ i@@ o@@ n@@ e@@ r@@ y ) is a dish that can be served as a dessert . A@@ n@@ o@@ t@@ h@@ e@@ r dish that is a dessert is Baked Alaska which has C@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding as an ingredient .
+Sandesh and Baked Alaska are d@@ e@@ s@@ s@@ e@@ r@@ t@@ s . Baked Alaska uses C@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding as an ingredient .
+C@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding is an ingredient in Baked Alaska , which is a dessert , same as s@@ a@@ n@@ d@@ e@@ s@@ h .
+P@@ a@@ r@@ t of C@@ o@@ l@@ u@@ m@@ b@@ i@@ an cuisine , Bandeja paisa ( which has k@@ i@@ d@@ n@@ e@@ y beans as one of the ingredients ) , comes from Antioquia Department area .
+Bandeja paisa , which contains k@@ i@@ d@@ n@@ e@@ y beans , is a traditional dish found in the Antioquia Department of C@@ o@@ l@@ o@@ m@@ b@@ i@@ a .
+K@@ i@@ d@@ n@@ e@@ y beans are an ingredient of Bandeja paisa which is a Colombian dish from the Antioquia d@@ e@@ p@@ a@@ r@@ t@@ m@@ e@@ n@@ t .
+Barny C@@ a@@ k@@ e@@ s come from France where G@@ e@@ r@@ a@@ r@@ d Larcher and C@@ l@@ a@@ u@@ de B@@ a@@ r@@ t@@ o@@ l@@ one are leaders .
+Barny cakes are found in France where G@@ e@@ r@@ a@@ r@@ d Larcher and C@@ l@@ a@@ u@@ de B@@ a@@ r@@ t@@ o@@ l@@ one are leaders .
+Barny cakes are found in France where both G@@ e@@ r@@ a@@ r@@ d Larcher and C@@ l@@ a@@ u@@ de B@@ a@@ r@@ t@@ o@@ l@@ one are leaders .
+Barny cakes can be made with a@@ p@@ p@@ l@@ e and have 18 g@@ r@@ a@@ m@@ s of c@@ a@@ r@@ b@@ s and 1@@ .@@ 8 g of p@@ r@@ o@@ t@@ e@@ in .
+Barny cakes can be made with a@@ p@@ p@@ l@@ e and contain 1@@ .@@ 8 g p@@ r@@ o@@ t@@ e@@ in and 1@@ 8@@ g of c@@ a@@ r@@ b@@ s .
+Barny cakes m@@ a@@ y be made with a@@ p@@ p@@ l@@ e and have 1@@ .@@ 8 g of p@@ r@@ o@@ t@@ e@@ in and 1@@ 8@@ g of c@@ a@@ r@@ b@@ o@@ h@@ y@@ d@@ r@@ a@@ t@@ e@@ s .
+Beef kway teow is a dish from the country of Singapore , where the leader is Halimah Yacob and the currency is the Singapore d@@ o@@ l@@ l@@ a@@ r .
+Beef kway teow is a popular dish in Singapore , where the Singapore d@@ o@@ l@@ l@@ a@@ r is the currency and the leader is Halimah Yacob .
+A dish commonly found in Singapore and Indonesia is beef kway teow which has o@@ y@@ s@@ t@@ e@@ r sauce as a main ingredient .
+Beef kway teow contains o@@ y@@ s@@ t@@ e@@ r sauce and is found in Indonesia and Singapore .
+A popular food in Indonesia , Beef kway teow originates from Singapore . The country where Tony Tan is the leader .
+Tony Tan is a leader in Singapore where the dish Beef kway teow originates from . It is also found in Indonesia .
+Bhajji originates from India , it 's main ingredients are g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r and vegetables .
+The key ingredients of a Bhajji from India are g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r and vegetables .
+The main ingredients in Bhajji , which originates from I@@ n@@ d@@ i@@ a@@ m are g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r and vegetables .
+Bhajji originates from India , country of I@@ n@@ d@@ i@@ a@@ n@@ s where the leader is T@@ . S@@ . Thakur .
+Bhajji originates from India , where the leader is called T S Thakur and the people who live there are called I@@ n@@ d@@ i@@ a@@ n@@ s .
+Bhajji originate from India where T S Thakur leads the Indian people .
+Bhajji comes from the country of India , where two of the leaders are , T@@ . S@@ . Thakur and Narendra Modi .
+Bhajji originates from India , where two of the leaders are Narendra Modi and T@@ .@@ S@@ . Thakur .
+The dish b@@ h@@ a@@ j@@ j@@ i originates in India where T@@ .@@ S@@ . Thakur and Narendra Modi are leaders .
+Bhajji originates from the Karnataka region and the main ingredients are vegetables and g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r .
+The main ingredients in Bhajji are g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r and vegetables , this comes from the Karnataka region .
+Bhajji are found in the region of Karnataka , its main ingredients are g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r and vegetables .
+The binignit dish can be found in the Philippines . Two of the main ingredients in it are banana and sweet potato .
+The main ingredients of Binignit are banana and sweet p@@ o@@ t@@ a@@ t@@ o@@ e@@ s , and it can be found in the Philippines .
+Binignit is a dish from the Philippines made from banana and sweet potato .
+Bionico is a dessert c@@ o@@ n@@ t@@ a@@ i@@ n@@ i@@ n@@ g sour cream from Mexico .
+S@@ o@@ u@@ r cream is an ingredient of Bionico , that is a dessert course found in Mexico .
+S@@ o@@ u@@ r cream is used to serve Bionico , a dessert food found in Mexico .
+C@@ o@@ n@@ t@@ a@@ i@@ n@@ i@@ n@@ g raisins , Bionico is found in the region of J@@ a@@ l@@ i@@ s@@ c@@ o , in Mexico .
+R@@ a@@ i@@ s@@ i@@ n@@ s are found in b@@ i@@ o@@ n@@ i@@ c@@ o which comes from the region of J@@ a@@ l@@ i@@ s@@ c@@ o in Mexico .
+R@@ a@@ i@@ s@@ i@@ n@@ s are an ingredient of Bionico which is from the region J@@ a@@ l@@ i@@ s@@ c@@ o , Mexico .
+One ingredient in Bakso is c@@ e@@ l@@ e@@ r@@ y , which is a member of the genus A@@ p@@ i@@ u@@ m in the family A@@ p@@ i@@ a@@ c@@ e@@ a@@ e .
+C@@ e@@ l@@ e@@ r@@ y is from the genus a@@ p@@ i@@ u@@ m and the family A@@ p@@ i@@ a@@ c@@ e@@ a@@ e . It is an ingredient of Bakso .
+C@@ e@@ l@@ e@@ r@@ y is a member of the family A@@ p@@ i@@ a@@ c@@ e@@ a@@ e , it is from the genus a@@ p@@ i@@ u@@ m and is an ingredient of Bakso .
+Bionico is a dessert that r@@ e@@ q@@ u@@ i@@ r@@ e@@ s g@@ r@@ a@@ n@@ o@@ l@@ a as one of its ingredients ; it can be eaten as an alternative to cake .
+Bionico r@@ e@@ q@@ u@@ i@@ r@@ e@@ s g@@ r@@ a@@ n@@ o@@ l@@ a as one of its ingredients , it is served at the dessert course , l@@ i@@ k@@ e cake .
+Bakso is a dish from the country of Indonesia , where the capital is J@@ a@@ k@@ a@@ r@@ t@@ a and one of the leaders is Jusuf Kalla .
+The dish b@@ a@@ k@@ s@@ o comes from Indonesia where Jusuf Kalla is the leader and J@@ a@@ k@@ a@@ r@@ t@@ a is the c@@ a@@ p@@ i@@ t@@ o@@ l city .
+Bakso is a dish from the country of Indonesia , where the capital is J@@ a@@ k@@ a@@ r@@ t@@ a and the leader is Jusuf Kalla .
+F@@ r@@ o@@ m the Singapore region , Ayam penyet , is a food found in Java where an e@@ t@@ h@@ i@@ c group is the B@@ a@@ d@@ u@@ y .
+Ayam penyet is a dish from the region of Singapore and is also found in Java where the B@@ a@@ d@@ u@@ y are an ethnic group .
+Ayam penyet is from Singapore and also Java , where the B@@ a@@ d@@ u@@ y are an ethnic group .
+Ayam penyet originates from Java where the B@@ a@@ n@@ y@@ u@@ m@@ a@@ s@@ an are an ethnic group . It can be found nationwide and also in Singapore and Malaysia .
+The dish Ayam penyet originates from Java where the B@@ a@@ n@@ y@@ u@@ m@@ a@@ s@@ an people are an ethnic group . The dish can also be found in Malaysia and Singapore .
+The leader of Spain is Felipe VI and it is also where Spanish is spoken and the dish a@@ r@@ r@@ o@@ s negre is from .
+Arros N@@ e@@ g@@ r@@ e is a traditional dish from Spain where they speak Spanish and the leader is Felipe VI .
+Arros negre comes from Spain where Felipe VI is the leader and the Spanish language is spoken .
+Adams County , Pennsylvania is the location of the 11th Mississippi Infantry monument . Franklin County Pennsylvania is to the west and Frederick County to the south west .
+The 11th Mississippi Infantry Monument is located in Adams County Pennsylvania , b@@ e@@ t@@ w@@ e@@ e@@ n Franklin County to the west and Frederick County to the southwest .
+The Baku Turkish M@@ a@@ r@@ t@@ y@@ r 's memorial which is dedicated to the soldiers of the Ottoman a@@ r@@ m@@ y who were killed in the Battle of Baku is located in Azerbaijan . A@@ t p@@ r@@ e@@ s@@ e@@ n@@ t Artur Rasizade is the leader of the country .
+The Baku Turkish Martyrs Memorial in Azerbaijan was designed by H@@ ü@@ s@@ e@@ y@@ in B@@ ü@@ t@@ ü@@ n@@ e@@ r and Hilmi G@@ ü@@ n@@ e@@ r and is dedicated to Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku .
+The Baku Turkish Martyrs ' Memorial in Azerbaijan was designed by H@@ ü@@ s@@ e@@ y@@ in B@@ ü@@ t@@ ü@@ n@@ e@@ r and Hilmi G@@ ü@@ n@@ e@@ r and is dedicated to the Ottoman A@@ r@@ m@@ y S@@ o@@ l@@ d@@ i@@ e@@ r@@ s killed in the Battle of Baku .
+The Baku Turkish M@@ a@@ r@@ t@@ y@@ r 's Memorial in Azerbaijan , designed by H@@ ü@@ s@@ e@@ y@@ in B@@ ü@@ t@@ ü@@ n@@ e@@ r and Hilmi G@@ ü@@ n@@ e@@ r , is dedicated to the Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku .
+Azerbaijan , where the leader is Artur Rasizade , is the location of the Baku Turkish Martyrs Memorial . The memorial was designed by Huseyin Butuner and Hilmi Guner .
+The Baku Turkish Martyrs ' Memorial , designed by Huseyin Butuner and Hilmi Guner , is located in Azerbaijan , where the leader is Artur Rasizade .
+The Baku Turkish Martyrs ' Memorial was designed by Huseyin Butuner and Hilmi Guner , and is located in Azerbaijan , where it is called T@@ u@@ r@@ k S@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i A@@ n@@ i@@ t@@ i .
+A.C. Cesena , in the Serie B League , has 2@@ 3@@ 9@@ 0@@ 0 members and is located is Cesena .
+AC Cesena 's ground is in Cesena and they have 2@@ 3@@ 9@@ 0@@ 0 members . The club plays in Serie B.
+A.C. Cesena , with 2@@ 3@@ 9@@ 0@@ 0 members , is in the Serie B league and has a ground in Cesena .
+Massimo Drago played for the club S@@ S@@ D P@@ o@@ t@@ e@@ n@@ z@@ a Calcio and his own club was Calcio C@@ a@@ t@@ a@@ n@@ i@@ a . He is currently m@@ a@@ n@@ a@@ g@@ i@@ n@@ g AC Cesena .
+Massimo Drago manages A.C. Cesena and played for the club S@@ S@@ D P@@ o@@ t@@ e@@ n@@ z@@ a Calcio . He is also in club Calcio C@@ a@@ t@@ a@@ n@@ i@@ a .
+Massimo Drago played for S@@ .@@ S@@ .@@ D@@ . P@@ o@@ t@@ e@@ n@@ z@@ a Calcio and now plays for Calcio C@@ a@@ t@@ a@@ n@@ i@@ a while m@@ a@@ n@@ a@@ g@@ i@@ n@@ g A.C. Cesena .
+AC Lumezzane has 4@@ 1@@ 5@@ 0 members and is in the L@@ e@@ g@@ a P@@ r@@ o@@ /@@ A league where they played in the 2014 season .
+I a@@ m i@@ n@@ t@@ e@@ r@@ e@@ s@@ t@@ e@@ d in the 2014 A.C. Lumezzane season . It plays in L@@ e@@ g@@ a P@@ r@@ o@@ /@@ A . and has 4@@ 1@@ 5@@ 0 members .
+A@@ .@@ C Lumezzane , with 4@@ 1@@ 5@@ 0 members , play in the L@@ e@@ g@@ a P@@ r@@ o@@ /@@ A , p@@ a@@ r@@ t@@ i@@ c@@ i@@ p@@ a@@ t@@ i@@ n@@ g in the 2014 season .
+The A.E Dimitra Efxeinoupolis club is located in Greece , where there are leaders called Nikos Voutsis and Prokopis Pavlopoulos .
+There are two p@@ r@@ o@@ m@@ i@@ n@@ e@@ n@@ t leaders in Greece : Nikos Voutsis and Prokopis Pavlopoulos as well the A@@ .@@ E@@ . Dimitra Efxeinoupolis is located there .
+A.E Dimitra Efxeinoupolis is located in Greece , the leader of the country is Nikos Voutsis a@@ n@@ d@@ /@@ or Prokopis P@@ a@@ v@@ l@@ o@@ o@@ p@@ o@@ u@@ los .
+The manager of A.F.C. Blackpool is Stuart Parker who is with D@@ r@@ o@@ g@@ h@@ e@@ d@@ a United F@@ .@@ C and plays for R@@ u@@ n@@ c@@ o@@ r@@ n F.C. H@@ a@@ l@@ t@@ on .
+F@@ o@@ o@@ t@@ b@@ a@@ l@@ l@@ e@@ r Stuart Parker , the manager of AFC Blackpool , was at D@@ r@@ o@@ g@@ h@@ e@@ d@@ a United FC and plays for R@@ u@@ n@@ c@@ o@@ r@@ n F.C. H@@ a@@ l@@ t@@ on .
+Stuart Parker is a footballer with the D@@ r@@ o@@ g@@ h@@ e@@ d@@ a United F.C. , also plays for R@@ u@@ n@@ c@@ o@@ r@@ n F.C. H@@ a@@ l@@ t@@ on and has managed AFC Blackpool .
+The manager of A.F.C. Blackpool is Stuart Parker who was at D@@ r@@ o@@ g@@ h@@ e@@ d@@ a United FC and once played for S@@ t@@ o@@ c@@ k@@ p@@ o@@ r@@ t County FC .
+AFC Blackpool have h@@ a@@ d Stuart Parker as their manager . He plays for D@@ r@@ o@@ g@@ h@@ e@@ d@@ a United F.C. and S@@ t@@ o@@ c@@ k@@ p@@ o@@ r@@ t County F.C.
+Stuart Parker ( football player of D@@ r@@ o@@ g@@ h@@ e@@ d@@ a United F.C. ) managed AFC Blackpool . He was a member of S@@ t@@ o@@ c@@ k@@ p@@ o@@ r@@ t County F.C.
+Stuart Parker is a member of the I@@ r@@ i@@ a@@ m T@@ own F.C. as well as the manager of A.F.C. Blackpool and has also r@@ e@@ p@@ r@@ e@@ s@@ e@@ n@@ t@@ e@@ d the K@@ V M@@ e@@ c@@ h@@ e@@ l@@ e@@ n club .
+AFC Blackpool have h@@ a@@ d Stuart Parker as their manager . He has r@@ e@@ p@@ r@@ e@@ s@@ e@@ n@@ t@@ e@@ d the club K@@ V M@@ e@@ c@@ h@@ e@@ l@@ e@@ n and is a member of the I@@ r@@ l@@ a@@ m T@@ own F.C.
+AFC Blackpool have h@@ a@@ d Stuart Parker as their manager . He is attached to I@@ r@@ l@@ a@@ m T@@ own Football Club and is part of the K@@ V M@@ e@@ c@@ h@@ e@@ l@@ e@@ n club .
+AFC Fylde has the full name " Association Football Club Fylde , " they have 3@@ 1@@ 8@@ 0 members and their ground is located in W@@ a@@ r@@ t@@ on , Fylde .
+Association Football Club Fylde , abbreviated to A@@ .@@ F@@ .@@ C Fylde , has 3@@ 1@@ 8@@ 0 members and its ground is W@@ a@@ r@@ t@@ on Fylde .
+C@@ h@@ r@@ i@@ s@@ t@@ i@@ an P@@ a@@ n@@ u@@ c@@ c@@ i , who has been attached to the G@@ e@@ n@@ o@@ a C@@ FC and R@@ e@@ a@@ l Madrid C@@ F c@@ l@@ u@@ b@@ s , manages A.S. Livorno Calcio .
+A.S. Livorno Calcio is managed by C@@ h@@ r@@ i@@ s@@ t@@ i@@ an P@@ a@@ n@@ u@@ c@@ c@@ i . is was attached to the R@@ e@@ a@@ l Madrid C@@ F club . He is currently attached to the club G@@ e@@ n@@ o@@ a C@@ FC .
+C@@ h@@ r@@ i@@ s@@ t@@ i@@ an P@@ a@@ n@@ u@@ c@@ c@@ i was attached to the R@@ e@@ a@@ l Madrid C@@ F club , he managed A.S. Livorno Calcio and played football for G@@ e@@ n@@ o@@ a C@@ .@@ F.C.
+The " Associazione Sportiva Roma S@@ .@@ p@@ .@@ A. " is the n@@ o@@ n@@ -@@ abbreviated name of A.S. Roma which has 7@@ 0@@ 6@@ 34 members and a home ground in Rome , Italy .
+A@@ .@@ S@@ .@@ Roma have 7@@ 0@@ 6@@ 34 members , play their home g@@ a@@ m@@ e@@ s in Rome and their full title is Associazione Roma S@@ .@@ p@@ .@@ A.
+A.S. Roma , or Associazione Sportiva Roma S@@ .@@ p@@ .@@ A. , has 7@@ 0@@ 6@@ 34 members and its ground is in Rome , Italy .
+AEK Athens F.C. ground is in Athens , they have 6@@ 9@@ 6@@ 18 members and they compete in the Superleague Greece .
+AEK Athens F.C. , with 6@@ 9@@ 6@@ 18 members , play in the Superleague Greece . Their ground is in Athens .
+AEK Athens F.C. has 6@@ 9@@ 6@@ 18 members , their ground is in Athens and they play in the Superleague of Greece .
+AFC Ajax ( amateurs ) has 5@@ 0@@ 0@@ 0 members play in the H@@ o@@ o@@ f@@ d@@ k@@ l@@ a@@ s@@ s@@ e league and competed in the 2014 season .
+AFC Ajax ( A@@ m@@ a@@ t@@ e@@ u@@ r@@ s ) competed in the 2014 season , they play in the H@@ o@@ o@@ f@@ d@@ k@@ l@@ a@@ s@@ s@@ e league and the main team have 5@@ 0@@ 0@@ 0 members .
+AFC Ajax , who played in the 2014 season , have 5@@ 0@@ 0@@ 0 members and play in the H@@ o@@ o@@ f@@ d@@ k@@ l@@ a@@ s@@ s@@ e league .
+AZAL PFK play their home m@@ a@@ t@@ c@@ h@@ e@@ s at the AZAL A@@ r@@ e@@ n@@ a , and are in the Azerbaijan Premier League , who 's c@@ h@@ a@@ m@@ p@@ i@@ o@@ n@@ s@@ h@@ i@@ p@@ s name is the Q@@ a@@ r@@ a@@ b@@ a@@ g F@@ K .
+AZAL A@@ r@@ e@@ n@@ a is the ground of AZAL PFK and c@@ o@@ m@@ p@@ e@@ t@@ e@@ s in The Azerbaijan Premier League , which champions are Q@@ a@@ r@@ a@@ b@@ a@@ g F@@ K .
+Alkmaar Z@@ a@@ a@@ n@@ s@@ t@@ r@@ e@@ e@@ k is the full name of AZ Alkmaar who played in the 2014 season and has 1@@ 7@@ 0@@ 23 members .
+" Alkmaar Z@@ a@@ a@@ n@@ s@@ t@@ r@@ e@@ e@@ k " is the full name of AZ Alkmaar who played in the 2014 season and has 1@@ 7@@ 0@@ 23 members .
+Alkmaar Z@@ a@@ a@@ n@@ s@@ t@@ r@@ e@@ e@@ k ( AZ Alkmaar ) has 1@@ 7@@ 0@@ 7@@ 23 members and played in the 2014 season .
+John van den Brom manages the AZ A@@ l@@ k@@ m@@ a@@ air and plays for V@@ i@@ t@@ e@@ s@@ s@@ e A@@ r@@ n@@ h@@ e@@ m and De G@@ r@@ a@@ a@@ f@@ s@@ c@@ h@@ a@@ p .
+John van den Brom , the manager of AZ Alkmaar , is in V@@ i@@ t@@ e@@ s@@ s@@ e A@@ r@@ n@@ h@@ e@@ m and plays for De G@@ r@@ a@@ a@@ f@@ s@@ c@@ h@@ a@@ p .
+John van den Brom has been manager of AZ Alkmaar , he is in V@@ i@@ t@@ e@@ s@@ s@@ e A@@ r@@ n@@ h@@ e@@ m and plays for De G@@ r@@ a@@ a@@ f@@ s@@ c@@ h@@ a@@ p .
+Agremiação Sportiva Arapiraquense play at their ground E@@ s@@ t@@ a@@ d@@ i@@ o M@@ i@@ n@@ i@@ c@@ i@@ p@@ a@@ l C@@ o@@ a@@ r@@ a@@ c@@ y d@@ a M@@ a@@ t@@ a F@@ o@@ n@@ s@@ e@@ c@@ a in the Campeonato Brasileiro Série C league . The champions of this league are V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be .
+A@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o Sportiva Arapiraquense 's ground is the E@@ s@@ t@@ a@@ d@@ i@@ o M@@ i@@ n@@ i@@ c@@ i@@ p@@ a@@ l C@@ o@@ a@@ r@@ a@@ c@@ y d@@ a M@@ a@@ t@@ a F@@ o@@ n@@ s@@ e@@ c@@ a and they play in the Campeonato Brasileiro Série C league . The Serie C champions have been V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be .
+Agremiação Sportiva Arapiraquense plays at E@@ s@@ t@@ á@@ d@@ i@@ o M@@ u@@ n@@ i@@ c@@ i@@ p@@ a@@ l C@@ o@@ a@@ r@@ a@@ c@@ y d@@ a M@@ a@@ t@@ a F@@ o@@ n@@ s@@ e@@ c@@ a . The club play in the Campeonato Brasileiro Série C league and the champions of the league were the V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be .
+Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in Brazil . V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be are the champions of this league .
+Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in b@@ r@@ a@@ z@@ i@@ l . The V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be were champions at the Campeonato Brasileiro Série C@@ .
+Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league , that is based in Brazil . The champions are V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be .
+St Vincent-St Mary High School is the ground of Akron Summit Assault who play in the Premier D@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t League , of which K@@ -@@ W United FC have been champions .
+Akron Summit Assault who play in the Premier D@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t League , won by K@@ -@@ W United FC , have their home ground at St. Vincent-St . Mary High School .
+St Vincent-St Mary High School is the ground of Akron Summit Assault who play in the Premier D@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t League which K@@ -@@ W United FC have been champions of .
+K@@ -@@ W United FC were champions of the Premier D@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t League where Akron Summit Assault ( which has 3@@ 0@@ 0@@ 0 members ) also play .
+3@@ 0@@ 0@@ 0 member club Akron Summit Assault play in the Premier D@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t League a@@ l@@ o@@ n@@ g@@ s@@ i@@ de f@@ o@@ r@@ m@@ e@@ r champions K@@ -@@ W United FC .
+Akron Summit Assault has 3@@ 0@@ 0@@ 0 members and plays in the Premier D@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t League of which K@@ -@@ W United FC were champions .
+The ground of A.S. Gubbio 1910 is located in Italy where Sergio Mattarella is a leader of the Italian people .
+The ground of A.S. Gubbio 1910 is located in Italy which is lead by Sergio Mattarella and i@@ n@@ h@@ a@@ b@@ i@@ t@@ e@@ d by Italians .
+The ground of A.S. Gubbio 1910 is located in Italy , country of Italians where the leader is Sergio Mattarella .
+The ground for AEK Athens FC is the O@@ l@@ y@@ m@@ p@@ i@@ c Stadium ( Athens ) in Athens whose m@@ a@@ y@@ or is G@@ i@@ o@@ r@@ g@@ o@@ s K@@ a@@ m@@ i@@ n@@ is .
+H@@ o@@ m@@ e ground of AEK Athens FC , the O@@ l@@ y@@ m@@ p@@ i@@ c Stadium is located in Athens , who 's m@@ a@@ y@@ or is G@@ i@@ o@@ r@@ g@@ o@@ s K@@ a@@ m@@ i@@ n@@ is .
+The O@@ l@@ y@@ m@@ p@@ i@@ c Stadium in Athens is the home ground of AEK Athens FC . The m@@ a@@ y@@ or of Athens is G@@ i@@ o@@ r@@ g@@ o@@ s K@@ a@@ m@@ i@@ n@@ is .
+The Accademia di Architettura di Mendrisio is in Switzerland . Its dean is Mario Botta and it has 600 students .
+The Accademia di Architettura di Mendrisio of Switzerland has 600 students and the dean is called Mario Botta .
+The Acharya Institute of Technology is located in Bangalore , India and its motto is : " N@@ u@@ r@@ t@@ u@@ r@@ i@@ n@@ g E@@ x@@ c@@ e@@ l@@ l@@ e@@ n@@ c@@ e " .
+The Acharya Institute of Technology in Bangalore , India has the motto " N@@ u@@ r@@ t@@ u@@ r@@ i@@ n@@ g E@@ x@@ c@@ e@@ l@@ l@@ e@@ n@@ c@@ e " .
+Acharya Institute of Technology is in Bangalore , India and its motto is " N@@ u@@ r@@ t@@ u@@ r@@ i@@ n@@ g E@@ x@@ c@@ e@@ l@@ l@@ e@@ n@@ c@@ e " .
+B@@ .@@ M@@ . Reddy is the president of the Acharya Institute of Technology , which is located in Bangalore , India .
+The Acharya Institute of Technology is in Bangalore , India . Its president is B@@ .@@ M@@ . Reddy .
+The Acharya Institute of Technology ( Bangalore , India ) has B. M@@ . Reddy as its president .
+The Acharya I@@ n@@ s@@ i@@ t@@ u@@ t@@ e of Technology o@@ f@@ f@@ e@@ r@@ s t@@ e@@ n@@ n@@ is and it was established in 2000 . The t@@ e@@ n@@ n@@ is governing body is the International T@@ e@@ n@@ n@@ is F@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on .
+The International T@@ e@@ n@@ n@@ is F@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on is the governing body for the s@@ p@@ o@@ r@@ t which is o@@ f@@ f@@ e@@ r@@ e@@ d at the Acharya Institute of Technology which was established in 2000 .
+AWH Engineering College is in India . Mumbai is the largest city in India . The r@@ i@@ v@@ e@@ r G@@ a@@ n@@ g@@ e@@ s r@@ u@@ n@@ s t@@ h@@ r@@ o@@ u@@ g@@ h India .
+AWH Engineering College is located in the country of India , whose capital city is Mumbai . One of the r@@ i@@ v@@ e@@ r@@ s in India is called the G@@ a@@ n@@ g@@ e@@ s .
+The leader of Romania is Prime Minister Klaus L@@ o@@ h@@ a@@ n@@ n@@ is . The 1 Decembrie 1918 University is in Romania .
+The Prime Minister of Romania is Klaus Iohannis . The University of Romania was established on 1 Decembrie 1918 .
+1 Decembrie 1918 University is located in Romania . The country 's Prime Minister is Klaus J@@ o@@ h@@ a@@ n@@ n@@ is .
+1 Decembrie 1918 University is located in Romania . Its Latin name is " Universitas A@@ p@@ u@@ l@@ e@@ n@@ s@@ i@@ s " . The p@@ a@@ t@@ r@@ on s@@ a@@ i@@ n@@ t of Romania is A@@ n@@ d@@ r@@ e@@ w the A@@ p@@ o@@ s@@ t@@ l@@ e .
+Universitas A@@ p@@ u@@ l@@ e@@ n@@ s@@ i@@ s is the l@@ a@@ t@@ in name of the 1 Decembrie 1918 University in Romania . The p@@ a@@ t@@ r@@ on s@@ a@@ i@@ n@@ t of the country is A@@ n@@ d@@ r@@ e@@ w the A@@ p@@ o@@ s@@ t@@ l@@ e .
+The 1 Decembrie 1918 University has the Latin name , Universitas A@@ p@@ u@@ l@@ e@@ n@@ s@@ i@@ s . It is situated in Romania , which has the p@@ a@@ t@@ r@@ on S@@ a@@ i@@ n@@ t A@@ n@@ d@@ r@@ e@@ w the A@@ p@@ o@@ s@@ t@@ l@@ e .
+The School of Business and Social Sciences at the Aarhus University was established in 1928 . It has 737 academic staff and 1@@ 6@@ ,@@ 0@@ 0@@ 0 students .
+The School of Business and Social Sciences at Aarhus University was established in 1928 . It has 1@@ 6@@ 0@@ 0@@ 0 students and an academic staff of 737 .
+The School of Business and Social Sciences at the Aarhus University was established in 1928 and currently has a staff of 737 and a student population of 1@@ 6@@ 0@@ 0@@ 0 .
+1634 : The Bavarian Crisis can be located by it 's ISBN number " 9@@ 7@@ 8@@ -@@ 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 4@@ 2@@ 5@@ 3@@ -@@ 7 " . It is written by Virginia DeMarce and Eric Flint and was p@@ u@@ t in print .
+1634 : The Bavarian Crisis was a@@ u@@ t@@ h@@ o@@ red by Virginia DeMarce and Eric Flint and has a ISBN number of 9@@ 7@@ 8@@ -@@ 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 4@@ 2@@ 5@@ 3@@ -@@ 7 .
+The ISBN number of 1634 : The Bavarian Crisis is 9@@ 7@@ 8@@ -@@ 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 4@@ 2@@ 5@@ 3@@ -@@ 7 , it is written by Virginia DeMarce and Eric Flint and is available in print f@@ o@@ r@@ m .
+B@@ o@@ r@@ n in Burbank , California , Eric Flint wrote 1634 : The Bavarian Crisis which was preceded by 1634 : The B@@ a@@ l@@ t@@ i@@ c War .
+1634 : The Bavarian Crisis and it 's p@@ r@@ e@@ d@@ e@@ c@@ e@@ s@@ s@@ or , 1634 : The B@@ a@@ l@@ t@@ i@@ c War , was written by Eric Flint who was born in Burbank California .
+Eric Flint is the author of 1634 : The Ram Rebellion which has 5@@ 12 pages and is available as an E@@ -@@ B@@ o@@ o@@ k .
+D@@ u@@ r@@ i@@ n@@ g 1634 , Eric Flint wrote the R@@ A@@ M Rebellion which is 5@@ 12 pages long and is of the m@@ e@@ d@@ i@@ a type E book .
+The hardcover book 1634 : The Ram Rebellion was written by Eric Flint and has the ISBN number 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 2@@ 0@@ 6@@ 0@@ -@@ 0 .
+1634 : The Ram Rebellion , ISBN number 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 2@@ 0@@ 6@@ 0@@ -@@ 0 , was written by Eric Flint and is available in hardcover .
+Eric Flint wrote 1634 : The Ram Rebellion found in hardcover with an ISBN of 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 2@@ 0@@ 6@@ 0@@ -@@ 0 .
+1634 : The Ram Rebellion , written by Eric Flint , Virginia DeMarce . e@@ t a@@ l@@ . , is 5@@ 12 pages long and can be found as an E book .
+1634 : The Ram Rebellion was written by Eric Flint , Virginia DeMarce , e@@ t a@@ l . It has 5@@ 12 pages and is available as an E@@ -@@ B@@ o@@ o@@ k .
+1634 : The Ram Rebellion has 5@@ 12 pages and was written by Eric Flint , Virginia DeMarce , e@@ t a@@ l@@ . . It can be found as an E book .
+ACM Transactions on Information Systems , or ACM T@@ r@@ a@@ n@@ s . I@@ n@@ f . S@@ y@@ s@@ t@@ . , is part of the academic D@@ i@@ s@@ c@@ i@@ p@@ l@@ i@@ n@@ e of C@@ o@@ m@@ p@@ u@@ t@@ e@@ r Science and has an ISSN number of 1@@ 0@@ 4@@ 6@@ -@@ 8@@ 1@@ 8@@ 8 .
+ACM Transactions on Information Systems is part of the academic D@@ i@@ s@@ c@@ i@@ p@@ l@@ i@@ n@@ e of C@@ o@@ m@@ p@@ u@@ t@@ e@@ r Science and has the abbreviation of ACM T@@ r@@ a@@ n@@ s . I@@ n@@ f . S@@ y@@ s@@ t . it has the ISSN number 1@@ 0@@ 4@@ 6@@ -@@ 8@@ 1@@ 8@@ 8 .
+The abbreviation " ACM T@@ r@@ a@@ n@@ s . I@@ n@@ f . S@@ y@@ s@@ t . " is for ACM Transactions on Information Systems which is part of the academic D@@ i@@ s@@ c@@ i@@ p@@ l@@ i@@ n@@ e of C@@ o@@ m@@ p@@ u@@ t@@ e@@ r Science and has an ISSN number of 1@@ 0@@ 4@@ 6@@ -@@ 8@@ 1@@ 8@@ 8 .
+The ACM Transactions on Information Systems ISSN number is 1@@ 5@@ 5@@ 8@@ -@@ 2@@ 8@@ 6@@ 8 . It is part of the academic D@@ i@@ s@@ c@@ i@@ p@@ l@@ i@@ n@@ e of C@@ o@@ m@@ p@@ u@@ t@@ e@@ r Science and abbreviated to ACM T@@ r@@ a@@ n@@ s . I@@ n@@ f . S@@ y@@ s@@ t .
+ACM Transactions on Information Systems is part of the academic D@@ i@@ s@@ c@@ i@@ p@@ l@@ i@@ n@@ e of C@@ o@@ m@@ p@@ u@@ t@@ e@@ r Science and has the abbreviation " ACM T@@ r@@ a@@ n@@ s . I@@ n@@ f . S@@ y@@ s@@ t . " and the ISSN number 1@@ 5@@ 5@@ 8@@ -@@ 2@@ 8@@ 6@@ 8 .
+ACM Transactions on Information Systems , or ACM T@@ r@@ a@@ n@@ s . I@@ n@@ f . S@@ y@@ s@@ t@@ . , is part of the academic D@@ i@@ s@@ c@@ i@@ p@@ l@@ i@@ n@@ e of C@@ o@@ m@@ p@@ u@@ t@@ e@@ r Science and has a ISSN number of 1@@ 5@@ 5@@ 8@@ -@@ 2@@ 8@@ 6@@ 8 .
+The AIDS journal was published by Lippincott Williams & Wilkins in the United Kingdom where Elizabeth II is the leader .
+The AIDS journal is published by L@@ i@@ p@@ p@@ i@@ n@@ c@@ o@@ t Williams & Wilkins and comes from the United Kingdom where Elizabeth II is the leader .
+The AIDS journal , which c@@ a@@ m@@ e from the United Kingdom in the r@@ e@@ i@@ g@@ n of Elizabeth II , was published by Lippincott Williams and Wilkins .
+A.T. Charlie Johnson , who l@@ i@@ v@@ e@@ s in the US , is the editor of AIP Advances which is published by the American Institute of P@@ h@@ y@@ s@@ i@@ c@@ s .
+A T Charlie Johnson r@@ e@@ s@@ i@@ d@@ e@@ s in the United States and is the editor of AIP Advances which is published by the American Institute of P@@ h@@ y@@ s@@ i@@ c@@ s .
+A T Charlie Johnson l@@ i@@ v@@ e@@ s in the US and is the editor of AIP Advances which was published by the American Institute of P@@ h@@ y@@ s@@ i@@ c@@ s .
+AIP Advances , or AIP A@@ d@@ v@@ . , has a CODEN of A@@ A@@ I@@ D@@ B@@ I and is e@@ d@@ i@@ t@@ e@@ d by A. T@@ . Charlie Johnson .
+A T Charlie Johnson is the editor of AIP Advances which is abbreviated to AIP A@@ d@@ v and has a CODEN code of A@@ A@@ I@@ D@@ B@@ I .
+" AIP A@@ d@@ v@@ . " is the abbreviation of AIP Advances which is e@@ d@@ i@@ t@@ e@@ d by A T Charlie Johnson and has the CODEN code A@@ A@@ I@@ D@@ B@@ I .
+A Glastonbury Romance , which can be found in hardcover , has the ISBN number 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 as well as the OCLC number 7@@ 6@@ 7@@ 9@@ 8@@ 3@@ 1@@ 7 .
+A Glastonbury Romance is available in hardcover and has the OCLC number of 7@@ 6@@ 7@@ 9@@ 8@@ 3@@ 1@@ 7 . and the ISBN number of 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 .
+A Glastonbury Romance is available in hardcover and has the OCLC number 7@@ 6@@ 7@@ 9@@ 8@@ 3@@ 1@@ 7 and the ISBN number 0@@ -@@ 7@@ 1@@ 5@@ 6@@ -@@ 3@@ 6@@ 4@@ 8@@ -@@ 0 .
+A Long Long Way ( followed by the book The Secret Scripture ) is written in the English language , which is spoken in Great Britain .
+F@@ o@@ l@@ l@@ o@@ w@@ e@@ d by The Secret Scripture , the book A Long Long Way is written in English , the language spoken in Great Britain .
+A Loyal Character Dancer was published by Soho Press in the United States , which c@@ o@@ u@@ n@@ t@@ s African Americans among its ethnic groups .
+A Loyal Character Dancer was published in the United States by Soho Press . One of the ethnic groups in the US are African Americans .
+A Loyal Character Dancer is published by Soho Press in the United States where the African Americans are an ethnic group .
+A Loyal Character Dancer was published by Soho Press in the United States where Barack Obama is the leader .
+A Loyal Character Dancer is published by Soho Press in the United States where Barack Obama is the president .
+A Severed Wasp can be found in print with the OCLC number 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 and the L@@ i@@ b@@ r@@ a@@ r@@ y of C@@ o@@ n@@ g@@ r@@ e@@ s@@ s C@@ l@@ a@@ s@@ s@@ i@@ f@@ i@@ c@@ a@@ t@@ i@@ on of P@@ S@@ 3@@ 5@@ 2@@ 3@@ .@@ E@@ 5@@ 5 S@@ 4 1@@ 9@@ 8@@ 2 .
+A s@@ e@@ v@@ e@@ r@@ e@@ d w@@ a@@ s@@ p can be found in print and has the OCLC number 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 and the L@@ i@@ b@@ r@@ a@@ r@@ y of C@@ o@@ n@@ g@@ r@@ e@@ s@@ s C@@ l@@ a@@ s@@ s@@ i@@ f@@ i@@ c@@ a@@ t@@ i@@ on is P@@ S@@ 3@@ 5@@ 2@@ 3@@ .@@ E@@ 5@@ 5 S@@ 4 1@@ 9@@ 8@@ 2 .
+A Severed Wasp has an ISBN number of " 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 " , 3@@ 8@@ 8 pages and can be found in print .
+" A Severed Wasp " is in print , has 3@@ 8@@ 8 pages and has an ISBN number of " 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 " .
+A Severed Wasp ( ISBN number 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 ) has 3@@ 8@@ 8 pages a@@ l@@ t@@ o@@ g@@ e@@ t@@ h@@ e@@ r and is available in print .
+D@@ i@@ a@@ n@@ e D@@ u@@ a@@ n@@ e wrote A Wizard of Mars which was published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k and has the OCLC number 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 .
+A Wizard of Mars was written by D@@ i@@ a@@ n@@ e D@@ u@@ a@@ n@@ e and is published in H@@ a@@ r@@ d@@ c@@ o@@ v@@ e@@ r . The OCLC number of A Wizard of Mars is 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 .
+A Wizard of Mars , written by D@@ i@@ a@@ n@@ e D@@ u@@ a@@ n@@ e , has a OCLC number of 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 .
+D@@ i@@ a@@ n@@ e D@@ u@@ a@@ n@@ e wrote A Wizard of Mars which is published in hardcover and has the ISBN number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
+The hardcover book . A w@@ i@@ z@@ a@@ r@@ d of Mars , was written by D@@ i@@ a@@ n@@ e D@@ u@@ a@@ n@@ e and has the ISBN number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
+A Wizard of Mars by D@@ i@@ a@@ n@@ e D@@ u@@ a@@ n@@ e is published in H@@ a@@ r@@ d@@ c@@ o@@ v@@ e@@ r ISBN 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 .
+Above the Veil , from A@@ u@@ s@@ t@@ r@@ a@@ l@@ i@@ a , is the t@@ h@@ i@@ r@@ d book in a s@@ e@@ r@@ i@@ e@@ s after Aenir and Castle .
+Above the Veil , from A@@ u@@ s@@ t@@ r@@ a@@ l@@ i@@ a , is the sequel to Aenir , which followed the novel Castle .
+Above the Veil is from A@@ u@@ s@@ t@@ r@@ a@@ l@@ i@@ a and was preceded by Aenir and Castle .
+Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a , or Acta Math . H@@ u@@ n@@ g@@ a@@ r@@ . , has a LCCN number of 8@@ 3@@ 6@@ 4@@ 6@@ 3@@ 15 and a ISSN number of 1@@ 5@@ 8@@ 8@@ -@@ 2@@ 6@@ 3@@ 2 .
+Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a ( abbreviated to Acta Math . H@@ u@@ n@@ g@@ a@@ r . ) has the LCCN number 8@@ 3@@ 6@@ 4@@ 6@@ 3@@ 15 and ISSN number 1@@ 5@@ 8@@ 8@@ -@@ 2@@ 6@@ 3@@ 2 .
+Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a , abbreviated to Acta M@@ a@@ t@@ h@@ .@@ H@@ u@@ n@@ g@@ a@@ r , has LCCN N@@ o@@ . 8@@ 3@@ 6@@ 4@@ 6@@ 3@@ 15 and ISSN N@@ o@@ . 1@@ 5@@ 8@@ 8@@ -@@ 2@@ 6@@ 3@@ 2 .
+The Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a ISSN number is " 0@@ 2@@ 3@@ 6@@ -@@ 5@@ 2@@ 9@@ 4 " and the abbreviation is Acta Math . H@@ u@@ n@@ g@@ a@@ r . It comes under the academic discipline of Math .
+The Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a has the ISSN number 0@@ 2@@ 3@@ 6@@ -@@ 5@@ 2@@ 9@@ 4 . It is also known as Acta Math . H@@ u@@ n@@ g@@ a@@ r and it c@@ o@@ v@@ e@@ r@@ s the academic discipline of Mathematics .
+Acta M@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ a H@@ u@@ n@@ g@@ a@@ r@@ i@@ c@@ a ( also known as Acta Math . H@@ u@@ n@@ g@@ a@@ r ) , c@@ o@@ v@@ e@@ r@@ s the academic discipline of Mathematics and has the ISSN number 0@@ 2@@ 3@@ 6@@ -@@ 5@@ 2@@ 9@@ 4 .
+Acta Palaeontologica Polonica has the ISSN number 1@@ 7@@ 3@@ 2@@ -@@ 2@@ 4@@ 2@@ 1 and an LCCN number of 6@@ 0@@ 0@@ 4@@ 0@@ 7@@ 14 . The abbreviated name is Acta Palaeontol . P@@ o@@ l .
+Acta Palaeontologica Polonica ( abbreviated to Acta Palaeontol . P@@ o@@ l ) has the ISSN number 1@@ 7@@ 3@@ 2@@ -@@ 2@@ 4@@ 2@@ 1 and the LCCN number 6@@ 0@@ 0@@ 4@@ 0@@ 7@@ 14 .
+Addiction is the abbreviated v@@ e@@ r@@ s@@ i@@ on of the " Addiction Journal " which has the ISSN number 0@@ 9@@ 6@@ 5@@ -@@ 2@@ 1@@ 4@@ 0 .
+Addiction journal ( abbreviated to Addiction ) is a@@ b@@ o@@ u@@ t a@@ d@@ d@@ i@@ c@@ t@@ i@@ on . It has the ISSN number 0@@ 9@@ 6@@ 5@@ -@@ 2@@ 1@@ 4@@ 0 .
+Aenir , written by Garth Nix , was p@@ r@@ o@@ d@@ u@@ c@@ e@@ d in print and has the OCLC number 4@@ 5@@ 6@@ 4@@ 4@@ 8@@ 11 .
+Aenir was written by Garth Nix and p@@ r@@ o@@ d@@ u@@ c@@ e@@ d in print . It has an OCLC number of 4@@ 5@@ 6@@ 4@@ 4@@ 8@@ 11 .
+Aenir , OCLC number 4@@ 5@@ 6@@ 4@@ 4@@ 8@@ 11 , by author Garth Nix is available in print .
+Aenir has the ISBN number of " 0@@ -@@ 4@@ 3@@ 9@@ -@@ 1@@ 7@@ 6@@ 8@@ 4@@ -@@ 0 " , it was written by Garth Nix and was p@@ r@@ o@@ d@@ u@@ c@@ e@@ d in print .
+Garth Nix is the author of Aenir . It can be found by ISBN number 0@@ -@@ 4@@ 3@@ 9@@ -@@ 1@@ 7@@ 6@@ 8@@ 4@@ -@@ 0 .
+Aenir was written by Garth Nix and has a ISBN number of 0@@ -@@ 4@@ 3@@ 9@@ -@@ 1@@ 7@@ 6@@ 8@@ 4@@ -@@ 0 .
+The American Journal of Mathematics , abbreviated to A@@ m@@ .@@ J@@ .@@ Math , whose academic discipline is Mathematics has ISSN N@@ o@@ . 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
+A@@ m . J@@ . Math is the abbreviation for the American Journal of Mathematics with the ISSN number of 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 in the discipline of Math .
+The American Journal of Mathematics ( discipline Mathematics ) is also known by the abbreviated title of A@@ m . J@@ . Math and has the ISSN number 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
+The American Journal of Mathematics was first published in 1@@ 8@@ 7@@ 8 and is also known by the abbreviated title of A@@ m . J@@ . Math . It has an ISSN number of 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
+The American Journal of Mathematics was first published in 1@@ 8@@ 7@@ 8 and has the abbreviation A@@ m . J@@ . Math . . The ISSN number for the journal is 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
+A@@ l@@ s@@ o known by the abbreviated title of A@@ m . J@@ . Math , the American Journal of Mathematics was first published in 1@@ 8@@ 7@@ 8 and has the ISSN number 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
+Administrative Science Quarterly ( A@@ d@@ m@@ in . S@@ c@@ i . Q ) is published by S@@ A@@ G@@ E P@@ u@@ b@@ l@@ i@@ c@@ a@@ t@@ i@@ o@@ n@@ s which was founded by S@@ a@@ r@@ a Miller M@@ c@@ C@@ u@@ n@@ e .
+Administrative Science Quarterly ( A@@ d@@ m@@ in . S@@ c@@ i . Q , ) is published by S@@ A@@ G@@ E P@@ u@@ b@@ l@@ i@@ c@@ a@@ t@@ i@@ o@@ n@@ s who 's f@@ o@@ under is S@@ a@@ r@@ a Miller M@@ c@@ C@@ u@@ n@@ e .
+S@@ a@@ r@@ a Miller M@@ c@@ C@@ u@@ n@@ e is the f@@ o@@ under of S@@ A@@ G@@ E p@@ u@@ b@@ l@@ i@@ c@@ a@@ t@@ i@@ o@@ n@@ s which p@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ s the Administrative Science Quarterly . The abbreviation for the Administrative Science Quarterly is A@@ d@@ m@@ in . S@@ c@@ i . Q@@ .
+The AIDS ( journal ) , is published by Lippincott Williams & Wilkins who are based in the United Kingdom which is where David C@@ a@@ m@@ e@@ r@@ on is the leader .
+The AIDS journal was published by Lippincott , Williams & Wilkins in the UK . David C@@ a@@ m@@ e@@ r@@ on is the leader .
+The AIDS ( journal ) is published by Lippincott Williams & Wilkins . It was published in the United Kingdom , which leader is David C@@ a@@ m@@ e@@ r@@ on .
+A Fortress of Grey Ice is from the United States where Barack Obama is the leader and the African Americans are one of the ethnic groups .
+Barack Obama is both president of the US and African American , which is an ethnic group of the United States . A Fortress of Grey Ice originates from the US .
+In the United States , one of the ethnic groups is African American , Barack Obama is President and it is where A Fortress of Grey Ice originates .
+In the United States , English is the language , Asian Americans are an ethnic group and the book Alcatraz v@@ e@@ r@@ s@@ u@@ s the Evil Librarians was written .
+Alcatraz Versus the Evil Librarians is from The United States where English is spoken and the Asian Americans are an ethnic group .
+The book Alcatraz Versus the Evil Librarians comes from the United States where English is the p@@ r@@ i@@ m@@ a@@ r@@ y language . A@@ d@@ d@@ i@@ t@@ i@@ o@@ n@@ a@@ l@@ l@@ y , Asian Americans is one of the ethnic groups in the United States .
+With a runway length of 1@@ ,@@ 1@@ 2@@ 1 metres , Abilene r@@ e@@ g@@ i@@ o@@ n@@ a@@ l airport serves Abilene , Texas , in the United States .
+Abilene , Texas is served by the Abilene r@@ e@@ g@@ i@@ o@@ n@@ a@@ l airport in the U.S. Its runway is 1@@ 1@@ 2@@ 1 long .
+Abilene , Texas , United States , is served by Abilene Regional Airport , which has a runway length of 1@@ 1@@ 2@@ 1@@ .@@ 0 .
+Adolfo Suarez Madrid Barajas Airport is located in Alcobendas , Spain , and operated by the Madrid - based ENAIRE .
+Adolfo Suarez Madrid-Barajas Airport is located in Alcobendas , Spain . The airport is operated by ENAIRE .
+Adolfo Suárez Madrid – Barajas Airport , operated by Madrid 's ENAIRE , is located in Alcobendas , Spain .
+Adolfo Suarez Madrid-Barajas airport is located at Madrid , Paracuellos de Jarama , San S@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los Reyes and Alcobendas and is operated by ENAIRE . The runway name is 1@@ 8@@ R@@ /@@ 2@@ 6@@ L and is 3@@ ,@@ 5@@ 0@@ 0 in length .
+Adolfo Suárez Madrid – Barajas Airport can be found in Madrid , Paracuellos de Jarama , San S@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los Reyes and Alcobendas . ENAIRE operates this Airport . 1@@ 8@@ R@@ /@@ 3@@ 6@@ L is the runway name and its length is 3500 .
+Adolfo Suarez Madrid-Barajas airport is located at Madrid , Paracuellos de Jarama , San S@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los Reyes and Alcobendas and run by ENAIRE . Its runway name is 1@@ 8@@ R@@ /@@ 3@@ 6@@ L and it is 3500 m long , .
+Agra airport is in Uttar Pradesh , which is part of A@@ w@@ a@@ d@@ h and B@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and , is located 1@@ 6@@ 7@@ .@@ 9@@ 4 metres above sea level .
+Agra Airport is 1@@ 6@@ 7@@ .@@ 9@@ 4 metres above sea level and located in Uttar Pradesh , part of A@@ w@@ a@@ d@@ h and B@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and .
+Agra airport is located in Uttar Pradesh ( lead by Ram N@@ a@@ i@@ k ) which is part of A@@ w@@ a@@ d@@ h and B@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and .
+Ram N@@ a@@ i@@ k is the leader in Uttar Pradesh where Agra airport is located and is part of A@@ w@@ a@@ d@@ h and B@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and .
+Agra airport is located in Uttar Pradesh which is part of A@@ w@@ a@@ d@@ h and also B@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and , and lead by Ram N@@ a@@ i@@ k .
+Al Asad airbase is operated b@@ t the United States Air Force which c@@ a@@ r@@ r@@ i@@ e@@ d o@@ u@@ t the 1@@ 9@@ 8@@ 6 United States b@@ o@@ m@@ b@@ i@@ n@@ g of L@@ i@@ b@@ y@@ a . Its aircraft fighter is G@@ e@@ n@@ e@@ r@@ a@@ l D@@ y@@ n@@ a@@ m@@ i@@ c@@ s F@@ -@@ 1@@ 6 F@@ i@@ g@@ h@@ t@@ i@@ n@@ g F@@ a@@ l@@ c@@ on and the Lockheed AC-130 can be found on U@@ S@@ A@@ F aircraft carriers .
+Al Asad airbase is operated by the United States air f@@ o@@ r@@ c@@ e who were i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the 1@@ 9@@ 8@@ 6 b@@ o@@ m@@ b@@ i@@ n@@ g of L@@ i@@ b@@ y@@ a , and deploy the aircraft fighter G@@ e@@ n@@ e@@ r@@ a@@ l D@@ y@@ n@@ a@@ m@@ i@@ c@@ s F@@ -@@ 1@@ 6 F@@ i@@ g@@ h@@ t@@ i@@ n@@ g F@@ a@@ l@@ c@@ on and have the Lockheed A@@ C@@ 1@@ 3@@ 0 on their aircraft carriers .
+Al Asad airbase is operated by the United States Air Force who p@@ a@@ r@@ t@@ i@@ c@@ i@@ p@@ a@@ t@@ e@@ d in the battles d@@ u@@ r@@ i@@ n@@ g O@@ p@@ e@@ r@@ a@@ t@@ i@@ on E@@ n@@ d@@ u@@ r@@ i@@ n@@ g F@@ r@@ e@@ e@@ d@@ o@@ m . They deploy the Lockheed AC-130 on their aircraft carriers and also make use of the aircraft fighter G@@ e@@ n@@ e@@ r@@ a@@ l D@@ y@@ n@@ a@@ m@@ i@@ c@@ s F@@ -@@ 1@@ 6 F@@ i@@ g@@ h@@ t@@ i@@ n@@ g F@@ a@@ l@@ c@@ on .
+The United States Air Force is the operating organisation for Al Asad airbase and has the L@@ o@@ c@@ k@@ h@@ e@@ a@@ d AC-130 and G@@ e@@ n@@ e@@ r@@ a@@ l D@@ y@@ n@@ a@@ m@@ i@@ c@@ s F@@ -@@ 1@@ 6 F@@ i@@ g@@ h@@ t@@ i@@ n@@ g F@@ a@@ l@@ c@@ on as aircraft . One of their battles was O@@ p@@ e@@ r@@ a@@ t@@ i@@ on E@@ n@@ d@@ u@@ r@@ i@@ n@@ g F@@ r@@ e@@ e@@ d@@ o@@ m . .
+Al Asad Airbase is operated by the United States Air Force which uses Lockheed AC-130 aircraft carriers . The G@@ e@@ n@@ e@@ r@@ a@@ l D@@ y@@ n@@ a@@ m@@ i@@ c@@ s F@@ -@@ 1@@ 6 F@@ i@@ g@@ h@@ t@@ i@@ n@@ g F@@ a@@ l@@ c@@ on is an aircraft used by the U@@ S@@ A@@ F and they were i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the O@@ p@@ e@@ r@@ a@@ t@@ i@@ on E@@ n@@ d@@ u@@ r@@ i@@ n@@ g F@@ r@@ e@@ e@@ d@@ o@@ m .
+Al Asad Airbase is operated by the United States Air Force who deploy the Lockheed AC-130 as an attack aircraft and the M@@ c@@ D@@ o@@ n@@ n@@ e@@ l@@ l D@@ o@@ u@@ g@@ l@@ as F@@ -@@ 1@@ 5 E@@ a@@ g@@ l@@ e as a fighter aircraft . They also f@@ o@@ u@@ g@@ h@@ t in the battles of O@@ p@@ e@@ r@@ a@@ t@@ i@@ on E@@ n@@ d@@ u@@ r@@ i@@ n@@ g F@@ r@@ e@@ e@@ d@@ o@@ m .
+O@@ p@@ e@@ r@@ a@@ t@@ i@@ on E@@ n@@ d@@ u@@ r@@ i@@ n@@ g F@@ r@@ e@@ e@@ d@@ o@@ m was a b@@ a@@ t@@ t@@ l@@ e i@@ n@@ v@@ o@@ l@@ v@@ i@@ n@@ g the United States Air Force who operate Al Asad Airbase . They deploy the Lockheed AC-130 on their aircraft carriers and the M@@ c@@ D@@ o@@ n@@ n@@ e@@ l@@ l D@@ o@@ u@@ g@@ l@@ as F@@ -@@ 1@@ 5 E@@ a@@ g@@ l@@ e as a fighter aircraft .
+Al Asad airbase is operated by the United States Air Force which was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in O@@ p@@ e@@ r@@ a@@ t@@ i@@ on E@@ n@@ d@@ u@@ r@@ i@@ n@@ g F@@ r@@ e@@ e@@ d@@ o@@ m . The Lockheed AC-130 and M@@ c@@ D@@ o@@ n@@ n@@ e@@ l@@ l D@@ o@@ u@@ g@@ l@@ as F@@ -@@ 1@@ 5 E@@ a@@ g@@ l@@ e are two of their a@@ i@@ r@@ c@@ r@@ a@@ f@@ t@@ s .
+Al Asad airbase is operated by the United States Air Force who t@@ o@@ o@@ k part in the n@@ o@@ t@@ e@@ d battles at the i@@ n@@ v@@ a@@ s@@ i@@ on of G@@ r@@ e@@ n@@ a@@ d@@ a . They deploy the Lockheed AC-130 attack aircraft and the G@@ e@@ n@@ e@@ r@@ a@@ l D@@ y@@ n@@ a@@ m@@ i@@ c@@ s F@@ -@@ 1@@ 6 F@@ i@@ g@@ h@@ t@@ i@@ n@@ g F@@ a@@ l@@ c@@ on as an aircraft fighter .
+The United States Air Force , which is the operating organisation for Al Asad airbase was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in battles at the I@@ n@@ v@@ a@@ s@@ i@@ on of G@@ r@@ e@@ n@@ a@@ d@@ a . They deploy the Lockheed AC-130 attack aircraft and the G@@ e@@ n@@ e@@ r@@ a@@ l D@@ y@@ n@@ a@@ m@@ i@@ c@@ s F@@ -@@ 1@@ 6 F@@ i@@ g@@ h@@ t@@ i@@ n@@ g F@@ a@@ l@@ c@@ on .
+The United States Air Force , who f@@ o@@ u@@ g@@ h@@ t in the I@@ n@@ v@@ a@@ s@@ i@@ on of G@@ r@@ e@@ n@@ a@@ d@@ a operates the Al Asad Airbase . The U@@ S@@ A@@ F f@@ l@@ y Lockheed AC-130 aircraft from aircraft carriers , in a@@ d@@ d@@ i@@ t@@ i@@ on to the G@@ e@@ n@@ e@@ r@@ a@@ l D@@ y@@ n@@ a@@ m@@ i@@ c@@ s F@@ -@@ 1@@ 6 F@@ i@@ g@@ h@@ t@@ i@@ n@@ g F@@ a@@ l@@ c@@ on .
+The Pakistan Civil Aviation Authority has headquarters at J@@ i@@ n@@ n@@ a@@ h International airport and g@@ o@@ v@@ e@@ r@@ n@@ s the Allama Iqbal International Airport in Punjab , Pakistan which is lead by the P@@ r@@ o@@ v@@ i@@ n@@ c@@ i@@ a@@ l Assembly of the Punjab .
+The Allama Iqbal International Airport is located in Punjab , Pakistan which is led by the P@@ r@@ o@@ v@@ i@@ n@@ c@@ i@@ a@@ l Assembly of the Punjab . The airport is governed by the Pakistan Civil Aviation Authority h@@ e@@ a@@ d@@ q@@ u@@ a@@ r@@ t@@ e@@ r@@ e@@ d in J@@ i@@ n@@ n@@ a@@ h International Airport .
+Allama Iqbal International Airport is located in Punjab , Pakistan which is led by the P@@ r@@ o@@ v@@ i@@ n@@ c@@ i@@ a@@ l Assembly of Punjab . The airport is operated by the Pakistan Civil Aviation Authority whose headquarters is in the J@@ i@@ n@@ n@@ a@@ h International Airport .
+Alpena County Regional Airport serves Alpena , Michigan and is located at M@@ a@@ p@@ l@@ e Ridge Township , Alpena County , Michigan . It has a runway length of 1@@ 5@@ 3@@ 3@@ .@@ 0 and is 210 metres above sea level .
+Alpena County Regional Airport is located in M@@ a@@ p@@ l@@ e Ridge Township , Alpena County and serves the city of Alpena , Michigan . It is located 210 metres above sea level and has a runway length of 1@@ 5@@ 3@@ 3@@ .@@ 0 .
+Alpena , Michigan , is served by the Alpena County Regional Airport in M@@ a@@ p@@ l@@ e Ridge Township . The runway length is 1@@ 5@@ 3@@ 3@@ .@@ 0 and the elevation is 210 metres above sea level .
+The city of Amsterdam is served by Amsterdam Airport Schiphol which is -@@ 3@@ .@@ 3@@ 5@@ 2@@ 8 metres above sea level . It has a runway length of 2@@ 0@@ 1@@ 4@@ .@@ 0 meters and 0@@ 6@@ /@@ 2@@ 4 , K@@ a@@ a@@ g@@ b@@ a@@ an , is the runway name .
+S@@ e@@ r@@ v@@ i@@ n@@ g the city of Amsterdam , Amsterdam airport S@@ c@@ h@@ i@@ p@@ o@@ l is -@@ 3@@ .@@ 3@@ 5@@ 2@@ 8 above sea level . Amsterdam Airport Schiphol 's runway length is 2@@ 0@@ 1@@ 4@@ .@@ 0 and it has the runway name , 0@@ 6@@ /@@ 2@@ 4 K@@ a@@ a@@ g@@ b@@ a@@ an .
+The demonym for the people of Texas is T@@ e@@ j@@ a@@ n@@ o and the spoken language is English . The state is the location of Andrews County airport and has the capital city of Austin .
+Andrews County airport is in Texas where the capital city is Austin , the local people are known as T@@ e@@ j@@ a@@ n@@ o and the spoken language is English .
+Andrews County Airport is located in Texas whose capital city is Austin . T@@ e@@ j@@ a@@ n@@ o are the inhabitants of the state and English language is spoken there .
+Andrews County Airport , Texas is in the United States . The inhabitants of Texas , T@@ e@@ x@@ a@@ n@@ s , speak English .
+Andrews County Airport is located in Texas within the United States , the people of Texas are r@@ e@@ f@@ e@@ r@@ red to as T@@ e@@ x@@ a@@ n@@ s and the local language is English .
+Texas is the location of Andrews County airport and is in the United States . The inhabitants are known as T@@ e@@ x@@ a@@ n@@ s and they speak the English language .
+Andrews County airport is in Texas , United States , where the people are known as T@@ e@@ x@@ a@@ n@@ s and Spanish is spoken .
+T@@ e@@ x@@ a@@ n@@ s are the people from Texas in the United States where Spanish is spoken and Andrews County airport is located .
+Andrews County Airport is located in T@@ e@@ x@@ t@@ s , United States . The people of Texas are called T@@ e@@ x@@ a@@ n@@ s and Spanish language is spoken there .
+Andrews County Airport is located in Texas in the United States . In Texas , the capital city is Austin and the largest city is H@@ o@@ u@@ s@@ t@@ on .
+Andrews County airport in the US is located in Texas where the capital is Austin and the largest city is H@@ o@@ u@@ s@@ t@@ on .
+Andrews County airport is located in Texas , United States , where H@@ o@@ u@@ s@@ t@@ on is the largest city and Austin is the capital .
+A@@ t 1@@ 5@@ 9 meters above sea level , Angola International Airport is located at Í@@ c@@ o@@ l@@ o e Bengo , part of Luanda Province , in Angola .
+Angola International airport , situated 1@@ 5@@ 9 metres above sea level , is located at Í@@ c@@ o@@ l@@ o e Bengo , part of Luanda Province in Angola .
+Angola International Airport is located in Í@@ c@@ o@@ l@@ o e Bengo in Luanda Province , Angola . It is 1@@ 5@@ 9 metres above sea level . .
+The Flemish G@@ o@@ v@@ e@@ r@@ n@@ m@@ e@@ n@@ t r@@ u@@ n@@ s the f@@ l@@ e@@ m@@ i@@ s@@ h region in Belgium where Antwerp is served by Antwerp International airport .
+Antwerp International Airport serves the city of Antwerp . The Flemish region is in the country of Belgium and is under the j@@ u@@ r@@ i@@ s@@ d@@ i@@ c@@ t@@ i@@ on of the Flemish government .
+The Flemish region , which is led by the Flemish government , is part of Belgium . Antwerp International airport serves Antwerp .
+Appleton International Airport ( in Greenville , Wisconsin ) has an elevation of 2@@ 8@@ 0 metres above sea level , serves the city of Appleton , and has a runway length of 2@@ ,@@ 4@@ 3@@ 9 .
+Appleton International Airport is located in Greenville , Wisconsin and serves the n@@ e@@ a@@ r@@ by city of Appleton . The airport is 2@@ 8@@ 0 metres above sea level and has a runway which is 2@@ 4@@ 3@@ 9 metres long .
+Appleton International Airport can be found in Greenville , Wisconsin it serves Appleton , it 's runway length is 2@@ 4@@ 3@@ 9 u@@ n@@ its and it is 2@@ 8@@ 0 metres above sea level .
+Appleton International airport , which serves Appleton , Wisconsin , is located in Greenville , Wisconsin which is part of both M@@ e@@ n@@ a@@ s@@ h@@ a and D@@ a@@ l@@ e .
+A@@ p@@ p@@ l@@ e@@ t@@ one International airport serves the city of Appleton in Greenville , Wisconsin . B@@ o@@ t@@ h M@@ e@@ n@@ a@@ s@@ h@@ a and D@@ a@@ l@@ e are p@@ a@@ r@@ t@@ s of Greenville .
+Appleton International airport serves Appleton in Greenville , Wisconsin . B@@ o@@ t@@ h M@@ e@@ n@@ a@@ s@@ h@@ a ( town ) and D@@ a@@ l@@ e are p@@ a@@ r@@ t@@ s of Greenville .
+Poaceae is of the order p@@ o@@ a@@ l@@ e@@ s , the class of M@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on and belongs to the order of C@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s . It c@@ o@@ n@@ s@@ t@@ i@@ t@@ u@@ t@@ e@@ s the surface of the 3rd runway at Ardmore Airport in New Zealand .
+Ardmore Airport ( New Zealand ) 's 3rd runway surface type is Poaceae which is a member of the order of P@@ o@@ a@@ l@@ e@@ s , the class is M@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on , and belongs to the order of C@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s .
+Ardmore Airport ( New Zealand ) 's 3rd runway is s@@ u@@ r@@ f@@ a@@ c@@ e@@ d with Poaceae . Poaceae belongs to the P@@ o@@ a@@ l@@ e@@ s and C@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s order and c@@ l@@ a@@ s@@ s@@ i@@ f@@ i@@ e@@ d as M@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on .
+The Ardmore Airport in New Zealand is 34 meters above sea level and has a runway length of 5@@ 9@@ 7@@ .@@ 0 . It has the runway name 0@@ 3@@ R@@ /@@ 2@@ 1@@ L and the 3rd runway is made of Poaceae .
+Ardmore airport in New Zealand is 34 metres above sea level and has a runway length of 5@@ 9@@ 7@@ .@@ 0 . The 3rd runway is made of poaceae and one of the r@@ u@@ n@@ w@@ a@@ y@@ s is called 0@@ 3@@ R@@ /@@ 2@@ 1@@ L .
+Ardmore airport in New Zealand has a 3rd runway made of poaceae and is 34 meters above sea level . It has a runway name of 0@@ 3@@ R@@ /@@ 2@@ 1@@ L with a length of 5@@ 9@@ 7@@ .@@ 0 .
+With a runway length of 1@@ ,@@ 8@@ 7@@ 3 , Atlantic City International Airport is located in Egg Harbor Township , New J@@ e@@ r@@ s@@ e y ( part of Atlantic County ) in the United States .
+Egg Harbor Township , is a t@@ o@@ w@@ n@@ s@@ h@@ i@@ p in Atlantic County , New Jersey , United States . With a runway length of 1@@ 8@@ 7@@ 3 metres , Atlantic City International Airport is located in Egg Harbor Township .
+Adolfo Suarez Madrid-Barajas Airport is operated by ENAIRE , which is located in the city of Madrid , Spain . The Adolfo Suarez Madrid-Barajas Airport is located in Madrid , Paracuellos de Jarama , San S@@ e@@ b@@ a@@ s@@ t@@ i@@ an de los Reyes and Alcobendas .
+Adolfo Suárez Madrid – Barajas Airport can be found in Madrid , Paracuellos de Jarama , San S@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los Reyes and Alcobendas and is operated by ENAIRE from the city of Madrid , Spain .
+Adolfo Suárez Madrid – Barajas Airport , operated by ENAIRE ( Madrid ) , is found in Madrid , Paracuellos de Jarama , San S@@ e@@ b@@ a@@ s@@ t@@ i@@ á@@ n de los Reyes and Alcobendas ; Spain .
+Egg Harbor Township is in New Jersey , in the United States and is where Atlantic City International Airport is located . This airport has a runway length of 3@@ 0@@ 4@@ 8@@ .@@ 0 .
+Egg Harbor Township , New Jersey is part of New Jersey in the United States . It is where Atlantic City International Airport ( with a runway length of 3@@ 0@@ 4@@ 8@@ .@@ 0 ) is located .
+Atlantic City Airport , ( runway length 3@@ 0@@ 4@@ 8@@ .@@ 0 ) is located in Egg Harbor Township , which is part of New Jersey in the United States .
+Poaceae , of the class M@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on and the order of c@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s belongs to the division of flowering plants and is used as the surface of the s@@ e@@ c@@ o@@ n@@ d runway of Ardmore airport , New Zealand .
+The surface type of the s@@ e@@ c@@ o@@ n@@ d runway of Ardmore Airport , New Zealand is Poaceae . Poaceae is a flowering plant of the order of C@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s and the class of M@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on .
+The 2@@ n@@ d runway at Ardmore Airport ( New Zealand ) is made of Poaceae . Poaceae is a flowering plant in the class of M@@ o@@ n@@ o@@ c@@ o@@ t@@ y@@ l@@ e@@ d@@ on in the order of C@@ o@@ m@@ m@@ e@@ l@@ i@@ n@@ i@@ d@@ s .
+Alan Bean ( of the United States ) was a crew member of NASA 's Apollo 12 under the commander David Scott .
+United States national Alan Bean was a crew member of NASA 's Apollo 12 mission under commander David S c@@ o@@ t@@ t .
+Alan Shepard , who was born in New Hampshire on November 1@@ 8@@ t@@ h , 1923 , graduated with a M.A. from NWC in 1957 and retired on A@@ u@@ g@@ u@@ s@@ t 1st , 1@@ 9@@ 7@@ 4 .
+Alan Shepard was born 1@@ 9@@ 2@@ 3@@ -@@ 1@@ 1@@ -@@ 1@@ 8 in New Hampshire . He o@@ b@@ t@@ a@@ i@@ n@@ e@@ d a M@@ A in 1957 from " NWC " he retired 1@@ 9@@ 7@@ 4@@ -@@ 0@@ 8@@ -@@ 0@@ 1 .
+American test pilot Alan Shepard died in California and was born in New Hampshire .
+Alan Shepard was born in New Hampshire and became a test pilot . He died in California .
+Alan Shepard was born in New Hampshire and died in California . He served as a test pilot .
+Alan Shepard was a test pilot born in New Hampshire who NASA p@@ i@@ c@@ k@@ e@@ d as a member of Apollo 14 .
+Alan Shepard , originally from New Hampshire joined NASA as a test pilot and also became a member of Apollo 14 .
+Alan Shepard , who was born in New Hampshire and served as a test pilot , was a crew member of the NASA operated Apollo 14 mission .
+The backup pilot to Apollo 12 was Alfred W@@ o@@ r@@ d@@ e@@ n and also part of Apollo 12 were Alan Bean and commander David Scott who were a@@ l@@ l chosen by NASA .
+Alan Bean was a crew member on the NASA Apollo 12 mission along with backup pilot Alfred W@@ o@@ r@@ d@@ e@@ n and commander David Scott .
+Buzz Aldrin is a national of the United States whose leader is Joe Biden . He was born in Glen Ridge , E@@ s@@ s@@ e@@ x County , New Jersey .
+Elliot See , a graduate of University of Texas at Austin , was born in Dallas on July 23 , 1927 , and died in St. Louis .
+Elliot See attended the University of Texas in Austin . He became a test pilot . He died in St. Louis on 1@@ 9@@ 6@@ 6@@ -@@ 0@@ 2@@ -@@ 2@@ 8 .
+E@@ l@@ l@@ i@@ or See attended the University of Texas at Austin . He was a pilot and died in St. Louis , 2@@ 8@@ t@@ h February 1966 .
+Elliot See attended the University of Texas in Austin which is affiliated to the University of Texas system . He died in St Louis which is part of the Kingdom of France .
+Elliot See died in St Louis which is part of the k@@ i@@ n@@ g@@ d@@ o@@ m of France , his alma mater was the University of Texas at Austin which is affiliated with the University of Texas system .
+Elliot See was born on July 23rd , 1927 in Dallas , and died in St. Louis on February 2@@ 8@@ t@@ h , 1966 .
+E@@ l@@ l@@ i@@ or See was born 23rd July 1927 in Dallas and died in St. Louis on 2@@ 8@@ t@@ h February 1966 .
+The members of Apollo 8 were Buzz Aldrin who was backup pilot , commander Frank Borman and William Anders who retired on September 1st , 1969 .
+William Anders served as a crew member of Apollo 8 under C@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r Frank B@@ o@@ r@@ r@@ m@@ an and backup pilot Buzz Aldrin . He retired 1@@ 9@@ 6@@ 9@@ .@@ 0@@ 9@@ .@@ 0@@ 1 .
+C@@ y@@ r@@ i@@ l R@@ a@@ m@@ a@@ p@@ h@@ o@@ s@@ a is one of the leaders of South Africa , which capital is C@@ a@@ p@@ e T@@ own . The address , 11 Diagonal Street is located in that country and one of the the ethnic groups is Asian South A@@ f@@ r@@ i@@ c@@ a@@ n@@ s .
+L@@ e@@ a@@ d by C@@ y@@ r@@ i@@ l R@@ a@@ m@@ a@@ p@@ h@@ o@@ s@@ a , South Africa is location of 11 Diagonal Street , has the capital of C@@ a@@ p@@ e T@@ own and has an ethnic group of Asian South A@@ f@@ r@@ i@@ c@@ a@@ n@@ s .
+With the capital of C@@ a@@ p@@ e T@@ own , South Africa is the location of 11 Diagonal Street , has the ethnic group of Asian South African and one of its leaders is C@@ y@@ r@@ i@@ l R@@ a@@ m@@ a@@ p@@ h@@ o@@ s@@ a .
+With the capital of C@@ a@@ p@@ e T@@ own , South Africa is the location of 11 Diagonal Street and has the ethnic groups of Asian South A@@ f@@ r@@ i@@ c@@ a@@ n@@ s and white South A@@ f@@ r@@ i@@ c@@ a@@ n@@ s .
+11 Diagonal Street is located in South Africa , of which C@@ a@@ p@@ e T@@ own is the capital . Two ethnic groups within South Africa are the Asian South A@@ f@@ r@@ i@@ c@@ a@@ n@@ s , and white South A@@ f@@ r@@ i@@ c@@ a@@ n@@ s .
+11 Diagonal Street is located in South Africa , where the capital is C@@ a@@ p@@ e T@@ own . White South A@@ f@@ r@@ i@@ c@@ a@@ n@@ s and Asian South A@@ f@@ r@@ i@@ c@@ a@@ n@@ s are ethnic groups in South Africa .
+200 Public Square is located in Cleveland , C@@ u@@ y@@ a@@ h@@ o@@ g@@ a County , Ohio which is governed by Cleveland City Council .
+200 Public Square is located in Cleveland , C@@ u@@ y@@ a@@ h@@ o@@ g@@ a County , Ohio which is governed by the Cleveland City Council .
+200 Public Square is located in Cleveland , C@@ u@@ y@@ a@@ h@@ o@@ g@@ a County , Ohio , and is governed by Cleveland City Council .
+C@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on b@@ e@@ g@@ i@@ n@@ n@@ i@@ n@@ g in January 2014 , P@@ o@@ s@@ t@@ m@@ o@@ d@@ e@@ r@@ n a@@ r@@ t 250 Delaware Avenue has 12 floors with a total area of 3@@ 0@@ 8@@ 4@@ 3@@ .@@ 8 square meters .
+C@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on of the 12 floor P@@ o@@ s@@ t@@ m@@ o@@ d@@ e@@ r@@ n style building , 250 Delaware Avenue , which has a floor area of 3@@ 0@@ 8@@ 4@@ 3@@ .@@ 8 square metres b@@ e@@ g@@ an in January 2014 .
+F@@ i@@ r@@ s@@ t b@@ e@@ g@@ u@@ n to be built in January 2014 , the p@@ o@@ s@@ t@@ m@@ o@@ d@@ e@@ r@@ n@@ i@@ s@@ t a@@ r@@ t 250 Delaware Avenue has 12 floors and a total floor area of 3@@ 0@@ 8@@ 4@@ 3@@ .@@ 8 square metres .
+300 North LaSalle is located in Chicago , D@@ u P@@ a@@ g@@ e County , Illinois , United States where the leader is Susana M@@ e@@ n@@ d@@ o@@ z@@ a .
+300 North L@@ a@@ s@@ a@@ l@@ l@@ e is located in Chicago , D@@ u@@ P@@ a@@ g@@ e County , Illinois . The leader or Chicago is Susana M@@ e@@ n@@ d@@ o@@ z@@ a .
+300 North LaSalle is situated in Chicago which is part of the D@@ u@@ p@@ a@@ g@@ e County in Illinois located in the U.S. Susana M@@ e@@ n@@ d@@ o@@ z@@ a is currently the leader of Chicago .
+3 A@@ r@@ e@@ n@@ a is located in Dublin , the Republic of Ireland , where C@@ r@@ í@@ o@@ n@@ a N@@ í D@@ h@@ á@@ l@@ a@@ i@@ g@@ h was L@@ o@@ r@@ d M@@ a@@ y@@ or . The owner of 3Arena is L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t .
+The L@@ o@@ r@@ d M@@ a@@ y@@ or of Dublin ( Republic of Ireland ) is C@@ r@@ i@@ o@@ n@@ a N@@ i D@@ h@@ a@@ l@@ a@@ i@@ g@@ h . B@@ a@@ s@@ e@@ d in Dublin is 3Arena which is owned by L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ r@@ e@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t .
+the 3Arena , Dublin , Republic of Ireland is owned by L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t . C@@ r@@ í@@ o@@ n@@ a N@@ í D@@ h@@ á@@ l@@ a@@ i@@ g@@ h was L@@ o@@ r@@ d M@@ a@@ y@@ or of Dublin .
+L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t o@@ w@@ n@@ s 3Arena , located in Dublin , Republic of Ireland . The L@@ o@@ r@@ d M@@ a@@ y@@ or of Dublin is C@@ r@@ í@@ o@@ n@@ a N@@ í D@@ h@@ á@@ l@@ a@@ i@@ g@@ h .
+O@@ w@@ n@@ e@@ d by L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t , 3Arena can be found in Dublin in the Republic of Ireland , a Republic run by L@@ o@@ r@@ d M@@ a@@ y@@ or C@@ r@@ í@@ o@@ n@@ a N@@ í D@@ h@@ á@@ l@@ a@@ i@@ g@@ h .
+AC Hotel Bella Sky is located in Copenhagen , Denmark and the tenant from the h@@ o@@ t@@ e@@ l is Marriott International . It is own by Bella C@@ e@@ n@@ t@@ e@@ r and there is 23 floors in that h@@ o@@ t@@ e@@ l .
+There are 23 floors in the AC Hotel Bella Sky Copenhagen , Denmark . The tenant is the Marriott International Hotel and the owner is Bella C@@ e@@ n@@ t@@ e@@ r .
+Located in Denmark and with tenant Marriott International , AC Hotel Bella Sky Copenhagen is owned by Bella C@@ e@@ n@@ t@@ e@@ r and has 23 floors .
+The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International . The h@@ o@@ t@@ e@@ l has 23 floors , was designed by the company 3@@ X@@ N and is owned by the Bella C@@ e@@ n@@ t@@ e@@ r .
+3@@ X@@ N was the architect of the AC Hotel Bella Sky Copenhagen which has 23 floors and is owned by the Bella C@@ e@@ n@@ t@@ e@@ r and currently t@@ e@@ n@@ a@@ n@@ t@@ e@@ d by Marriott International .
+Bella C@@ e@@ n@@ t@@ e@@ r o@@ w@@ n@@ s AC Hotel Bella Sky Copenhagen and Marriott International is a tenant . The h@@ o@@ t@@ e@@ l has 23 floors and was designed by 3@@ X@@ N .
+C@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on b@@ e@@ g@@ an in 1927 and f@@ i@@ n@@ i@@ s@@ h@@ e@@ d in 1@@ 9@@ 3@@ 1 of Adisham Hall in Sri Lanka and was in the T@@ u@@ d@@ or and J@@ a@@ c@@ o@@ b@@ e@@ an style .
+The T@@ u@@ d@@ or and J@@ a@@ c@@ o@@ b@@ e@@ an s@@ t@@ y@@ l@@ e@@ d Adisham Hall was built in Sri Lanka b@@ e@@ t@@ w@@ e@@ e@@ n 1927 and 1@@ 9@@ 3@@ 1 .
+Adisham Hall b@@ e@@ g@@ an in 1927 and completed in 1@@ 9@@ 3@@ 1 . It has a T@@ u@@ d@@ or and J@@ a@@ c@@ a@@ b@@ i@@ an style and is located in Sri Lanka .
+Adisham Hall is located in Haputale , Sri Lanka which has the capital city of Sri Jayawardenepura K@@ o@@ t@@ t@@ e . T@@ a@@ m@@ i@@ l is the language of the country .
+Adisham Hall can be found in Haputale , Sri Lanka , a country with the capital Sri Jayawardenepura K@@ o@@ t@@ t@@ e and language of the T@@ a@@ m@@ i@@ l language .
+Adisham Hall can be found in Haputale , Sri Lanka , where Sri Lanka 's capital is Sri Jayawardenepura K@@ o@@ t@@ t@@ e and the language is the T@@ a@@ m@@ i@@ l L@@ a@@ n@@ g@@ u@@ a@@ g@@ e .
+C@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on of Adisham Hall in Sri Lanka b@@ e@@ g@@ an in 1927 and e@@ n@@ d@@ e@@ d in 1@@ 9@@ 3@@ 1 . It was built in the T@@ u@@ d@@ or R@@ e@@ v@@ i@@ v@@ a@@ l architectural style .
+Adisham Hall , Sri Lanka , was s@@ t@@ a@@ r@@ t@@ e@@ d in 1927 and completed in 1@@ 9@@ 3@@ 1 . It has the T@@ u@@ d@@ or R@@ e@@ v@@ i@@ v@@ a@@ l style .
+The architectural s@@ t@@ y@@ l@@ e@@ d " T@@ u@@ d@@ or R@@ e@@ v@@ i@@ v@@ a@@ l " Adisham Hall is located in Sri Lanka and was built in 1927 and completed in 1@@ 9@@ 3@@ 1 .
+The Akita Museum of Art is located in Akita Prefecture , Akita , Japan . One of the ethnic groups of Japan is the F@@ i@@ l@@ i@@ p@@ i@@ n@@ o@@ s .
+Akita Museum of Art is located in Akita , Akita , Akita Prefecture , Japan , where one of the ethnic groups is the F@@ i@@ l@@ i@@ p@@ i@@ n@@ o@@ s .
+The Akita Prefecture , where the Akita Museum of Art is located , is part of the country of Japan a country where one of the ethnic groups is F@@ i@@ l@@ i@@ p@@ i@@ n@@ o@@ s .
+The Mason School of Business is located in the US and they are the current tenants of Alan B Miller Hall . Robert A@@ .@@ M@@ . Stern is the architect for Alan B. Miller Hall , which is situated in Virginia .
+The US based Mason School of Business are the current tenants of Alan B Miller Hall in Virginia which was designed by the architect Robert A M Stern .
+The Mason School of Business are the current tenants of Alan B Miller Hall , which is located in Virginia , United States and was designed by the architect Robert A M Stern .
+S@@ i@@ t@@ u@@ a@@ t@@ e@@ d in Virginia , United States , , Alan B. Miller Hall was completed on 1st June 2009 . The current tenants are the Mason School of Business .
+Located in Virginia , United States and with the current tenants of the Mason School of Business , the Alan B. Miller Hall was completed in June 1st , 2009 .
+Narendra Modi and Sumitra Mahajan are leaders in India where Amdavad ni Gufa is located in Ahmedabad .
+Amdavad ni Gufa is located in Ahmedabad , India . Narendra Modi is the Prime Minister of India w@@ h@@ i@@ l@@ s@@ t Sumitra Mahajan is a@@ n@@ o@@ t@@ h@@ e@@ r leader of India .
+Amdavad ni Gufa can be found in Ahmedabad , India , a country lead by Narendra Modi and Sumitra Mahajan .
+The address for Amdavad ni Gufa is L@@ a@@ l@@ b@@ h@@ a@@ i D@@ a@@ l@@ p@@ a@@ t@@ b@@ h@@ a@@ i Campus , n@@ e@@ a@@ r C@@ E@@ P@@ T University , o@@ p@@ p . Gujarat University , University Road , Gujarat , Ahmedabad , India .
+The address of Amdavad ni Gufa is L@@ a@@ l@@ b@@ h@@ a@@ i D@@ a@@ l@@ p@@ a@@ t@@ b@@ h@@ a@@ i Campus , n@@ e@@ a@@ r C@@ E@@ P@@ T University , o@@ p@@ p . Gujarat University , University Road , Ahmedabad , Gujarat , India .
+Amdavad ni Gufa is located in Ahmedabad , Gujarat , India . T S Thakur was an Indian leader .
+Amdavad ni Gufa is located in Ahmedabad , G@@ u@@ j@@ u@@ r@@ at , India . T S Thakur is a leader in India .
+Amdavad ni Gufa is located in Gujarat , Ahmedabad , India , where the leader was T@@ . S@@ . Thakur .
+Ampara Hospital is located in the Eastern Province of Sri Lanka , where the currency is the S@@ k@@ i L@@ a@@ n@@ k@@ an rupee . One of the leaders of Sri Lanka is Ranil Wickremesinghe .
+Ampara Hospital is located in Eastern Province , Sri Lanka . The currency of Sri Lanka is the Sri L@@ a@@ n@@ k@@ an rupee and the leader of the country is Ranil Wickremesinghe .
+Ampara Hospital is in the Eastern Province , Sri Lanka . The leader of Sri Lanka is Ranil Wickremesinghe and its currency is the Sri L@@ a@@ n@@ k@@ an rupee .
+San F@@ r@@ a@@ n@@ c@@ i@@ s@@ c@@ o born architect Julia Morgan designed many significant buildings including the Asilomar Conference Grounds , the L@@ o@@ s A@@ n@@ g@@ e@@ l@@ e@@ s H@@ e@@ r@@ a@@ l@@ d E@@ x@@ a@@ m@@ i@@ n@@ e@@ r B@@ u@@ i@@ l@@ d@@ i@@ n@@ g and the Asilomar State B@@ e@@ a@@ c@@ h .
+Julia Morgan , born in San F@@ r@@ a@@ n@@ c@@ i@@ s@@ c@@ o and d@@ e@@ s@@ i@@ g@@ n@@ e@@ r of many significant buildings , including the L@@ o@@ s A@@ n@@ g@@ e@@ l@@ e@@ s H@@ e@@ r@@ a@@ l@@ d E@@ x@@ a@@ m@@ i@@ n@@ e@@ r building and the Asilomar State B@@ e@@ a@@ c@@ h , was also the architect of the grounds of Asilomar Conference .
+Julia Morgan was born in San F@@ r@@ a@@ n@@ s@@ i@@ s@@ c@@ o . S@@ he designed the Asilomar Conference Grounds , the Asilomar State B@@ e@@ a@@ c@@ h and the L@@ o@@ s A@@ n@@ g@@ e@@ l@@ e@@ s H@@ e@@ r@@ a@@ l@@ d e@@ x@@ a@@ m@@ i@@ n@@ e@@ r , a l@@ a@@ n@@ d@@ m@@ a@@ r@@ k in California .
+B@@ o@@ r@@ n in California , Julia Morgan has designed buildings s@@ u@@ c@@ h as L@@ o@@ s A@@ n@@ g@@ e@@ l@@ e@@ s H@@ e@@ r@@ a@@ l@@ d E@@ x@@ a@@ m@@ i@@ n@@ e@@ r building and The R@@ i@@ v@@ e@@ r@@ s@@ i@@ de Art Museum , and was also the architect of the grounds of Asilomar Conference .
+Julia Morgan from California , designed many i@@ m@@ p@@ o@@ r@@ t@@ a@@ n@@ t buildings including the L@@ o@@ s A@@ n@@ g@@ e@@ l@@ e@@ s H@@ e@@ r@@ a@@ l@@ d building and the A@@ s@@ i@@ l@@ o@@ m@@ e@@ r Conference Grounds .
+Asser Levy Public Baths are in New York City , U.S. which is part of Manhattan . New York City was part of New N@@ e@@ t@@ h@@ e@@ r@@ l@@ and .
+Asser Levy Public Baths are located in New York City , Manhattan , New N@@ e@@ t@@ h@@ e@@ r@@ l@@ and in the United States .
+Asser Levy Public Baths is located in New York City , on Manhattan I@@ s@@ l@@ and , New York , in the United States . New York City was part of w@@ h@@ at was New N@@ e@@ t@@ h@@ e@@ r@@ l@@ and .
+The architect John Madin was the d@@ e@@ s@@ i@@ g@@ n@@ e@@ r of 103 Colmore Row , which is located in his home city of Birmingham . L@@ a@@ b@@ o@@ u@@ r p@@ o@@ l@@ i@@ t@@ i@@ c@@ i@@ an , John C@@ l@@ a@@ n@@ c@@ y is the leader of Birmingham and the city has the p@@ o@@ s@@ t@@ a@@ l code ' B ' .
+103 Colmore Row was designed by the architect , John Madin , Birmingham native . Birmingham has the p@@ o@@ s@@ t@@ code area ' B ' and is lead by L@@ a@@ b@@ o@@ u@@ r p@@ o@@ l@@ i@@ t@@ i@@ c@@ i@@ an , John C@@ l@@ a@@ n@@ c@@ y .
+L@@ a@@ b@@ o@@ u@@ r p@@ o@@ l@@ i@@ t@@ i@@ c@@ i@@ an , John C@@ l@@ a@@ n@@ c@@ y is the leader of Birmingham which has the p@@ o@@ s@@ t@@ code area ' B ' and is home town of John Madin the architect who designed 103 Colmore Row .
+Addis Ababa , Ethiopia is home to Addis Ababa Stadium and the Addis Ababa City Hall . The name of the leader in Ethiopia is M@@ a@@ l@@ a@@ t@@ u T@@ e@@ s@@ home .
+M@@ u@@ l@@ a@@ t@@ u T@@ e@@ s@@ home is a leader in Ethiopia , a country where Addis Ababa is located and within which is Addis Ababa City Hall and Addis Ababa Stadium .
+M@@ u@@ l@@ a@@ t@@ a T@@ e@@ s@@ home is an E@@ t@@ h@@ i@@ o@@ p@@ i@@ an leader . Addis Ababa City Hall is located in Addis Ababa , E@@ t@@ h@@ o@@ p@@ i@@ a . Addis Ababa Stadium is part of A@@ d@@ d@@ i@@ d Ababa .
+The leader of the US is known as the President and the capital city is Washington DC . One of the country 's leaders i@@ f Paul Ryan and it is the location of 250 Delaware Avenue .
+Paul Ryan is president of the United States and both 250 Delaware Avenue and Washington DC ( the capital ) are located there .
+Paul Ryan is the leader , or President of the United States , of which Washington D.C. is the capital . 250 Delaware Avenue is part of the United States .
+T@@ i@@ m B@@ r@@ o@@ o@@ k@@ e@@ -@@ T@@ a@@ y@@ l@@ o@@ r was the star of Bananaman , an S@@ T@@ V s@@ e@@ r@@ i@@ e@@ s first a@@ i@@ red on 1@@ 0@@ /@@ 0@@ 3@@ /@@ 1983 and created by S@@ t@@ e@@ v@@ e B@@ r@@ i@@ g@@ h@@ t .
+Bananaman was created by S@@ t@@ e@@ v@@ e B@@ r@@ i@@ g@@ h@@ t and starred T@@ i@@ m B@@ r@@ o@@ o@@ k@@ e@@ -@@ T@@ a@@ y@@ l@@ o@@ r . The s@@ h@@ o@@ w was first a@@ i@@ red on 3rd October 1983 by S@@ T@@ V .
+T@@ i@@ m B@@ r@@ o@@ o@@ k@@ e@@ -@@ T@@ a@@ y@@ l@@ o@@ r starred in Bananaman that was created by S@@ t@@ e@@ v@@ e B@@ r@@ i@@ g@@ h@@ t . It was broadcast by S@@ T@@ V and first a@@ i@@ red on 3 October 1983 .
+D@@ an M@@ i@@ s@@ h@@ k@@ in and the P@@ u@@ e@@ r@@ to R@@ i@@ c@@ an national , E@@ r@@ n@@ i@@ e C@@ o@@ l@@ on created the comic character of Bolt who has the alternative name of L@@ a@@ r@@ r@@ y B@@ o@@ l@@ a@@ t@@ i@@ n@@ s@@ k@@ y .
+D@@ an M@@ i@@ s@@ h@@ k@@ in and E@@ r@@ n@@ i@@ e C@@ o@@ l@@ ó@@ n ( P@@ u@@ e@@ r@@ to R@@ i@@ c@@ an ) created the comic character Bolt , the alternative name of which is L@@ a@@ r@@ r@@ y B@@ o@@ l@@ a@@ t@@ i@@ n@@ s@@ k@@ y .
+The comic book character of Bolt has the alternative name of L@@ a@@ r@@ r@@ y B@@ o@@ l@@ a@@ t@@ i@@ n@@ s@@ k@@ y . It was created by D@@ an M@@ i@@ s@@ h@@ k@@ in and the P@@ u@@ e@@ r@@ to R@@ i@@ c@@ an national , E@@ r@@ n@@ i@@ e C@@ o@@ l@@ on .
+Baymax is a character in Big Hero 6 that stars D@@ a@@ m@@ on W@@ a@@ y@@ a@@ n@@ s J@@ r . The character was created by the American , Duncan Rouleau .
+D@@ a@@ m@@ on W@@ a@@ y@@ a@@ n@@ s J@@ r starred in the film Big Hero 6 which also i@@ n@@ c@@ l@@ u@@ d@@ e@@ d the character of Baymax who was created by the American , Duncan Rouleau .
+Baymax is a character in the film Big Hero 6 which starred D@@ a@@ m@@ on W@@ a@@ y@@ a@@ n@@ s , J@@ r . The character was created by the American national Duncan Rouleau .
+Baymax , a character in Big Hero 6 , s@@ t@@ a@@ r@@ r@@ i@@ n@@ g J@@ a@@ m@@ i@@ e C@@ h@@ u@@ n@@ g , was created by Duncan Rouleau , an American .
+J@@ a@@ m@@ i@@ e C@@ h@@ u@@ n@@ g starred in the film Big Hero 6 in which the character of Baymax a@@ p@@ p@@ e@@ a@@ r@@ e@@ d . Baymax was created by the American national , Duncan Rouleau .
+Duncan Rouleau , who is American , created the character Baymax , which a@@ p@@ p@@ e@@ a@@ r@@ e@@ d in the m@@ o@@ v@@ i@@ e Big Hero 6 s@@ t@@ a@@ r@@ r@@ i@@ n@@ g J@@ a@@ m@@ i@@ e C@@ h@@ u@@ n@@ g .
+Big Hero 6 starred M@@ a@@ y R@@ u@@ d@@ o@@ l@@ p@@ h and the character of Baymax who was created by the American , Duncan Rouleau .
+Baymax is a character in the film Big Hero 6 which starred M@@ a@@ y@@ a R@@ u@@ d@@ o@@ l@@ p@@ h . The creator of this character was American born Duncan Rouleau .
+M@@ a@@ y@@ a R@@ u@@ d@@ o@@ l@@ p@@ h stars in Big Hero 6 in which the character Baymax also a@@ p@@ p@@ e@@ a@@ r@@ s . Baymax was created by the American , Duncan Rouleau .
+B@@ r@@ e@@ a@@ d , almonds , garlic , water , and olive oil are the main ingredients in Ajoblanco , a food which originates from Andalusia , in Spain .
+Ajoblanco is from Andalusia Spain and ingredients include b@@ r@@ e@@ a@@ d , almonds , garlic , water , and olive oil .
+Ajoblanco , a dish from the Andalusia region of Spain , has the main ingredients b@@ r@@ e@@ a@@ d , almonds , garlic , water and olive oil .
+W@@ a@@ t@@ e@@ r is an ingredient in Ajoblanco , also known as A@@ j@@ o b@@ l@@ a@@ n@@ c@@ o , a dish that comes from Andalusia Spain .
+Ajoblanco is a food originates from the A@@ n@@ d@@ a@@ l@@ u@@ s@@ i@@ an region of Spain and contains water . An o@@ t@@ h@@ e@@ r alternative name of the dish is A@@ j@@ o b@@ l@@ a@@ n@@ c@@ o .
+L@@ e@@ m@@ p@@ e@@ r , a dish variation of A@@ r@@ e@@ m@@ -@@ A@@ r@@ e@@ m contains B@@ a@@ n@@ a@@ n@@ a leaf in which is cooked c@@ o@@ m@@ p@@ r@@ e@@ s@@ s@@ e@@ d rice with vegetables or m@@ i@@ n@@ c@@ e@@ d meat f@@ i@@ l@@ l@@ i@@ n@@ g@@ s and is a f@@ o@@ r@@ m of Javanese cuisine .
+The main ingredients of Arem-arem are c@@ o@@ m@@ p@@ r@@ e@@ s@@ s@@ e@@ d rice cooked in banana leaf with vegetables or m@@ i@@ n@@ c@@ e@@ d meat f@@ i@@ l@@ l@@ i@@ n@@ g@@ s . The dish is of Javanese cuisine and has a variation known as L@@ e@@ m@@ p@@ e@@ r .
+Arem-arem is a food that is found nationwide in Indonesia , but m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c to Java , it can be served as a main course and has a banana leaf in it . It 's main ingredients are c@@ o@@ m@@ p@@ r@@ e@@ s@@ s@@ e@@ d rice cooked in banana leaf with vegetables or m@@ i@@ n@@ c@@ e@@ d meat f@@ i@@ l@@ l@@ i@@ n@@ g@@ s .
+The main ingredients of Arem-arem are c@@ o@@ m@@ p@@ r@@ e@@ s@@ s@@ e@@ d rice cooked in banana leaf with vegetables or m@@ i@@ n@@ c@@ e@@ d meat f@@ i@@ l@@ l@@ i@@ n@@ g@@ s . It is served as a main course and is found nationwide in Indonesia and m@@ o@@ r@@ e s@@ p@@ e@@ c@@ i@@ f@@ i@@ c@@ a@@ l@@ l@@ y in Java .
+Arrabbiata sauce originates from the region of Rome in Italy . It is made with t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , red c@@ h@@ i@@ l@@ i , garlic and olive oil .
+Arrabbiata sauce is a traditional dish from Rome , Italy . The main ingredients of it are t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , red c@@ h@@ i@@ l@@ i p@@ e@@ p@@ p@@ e@@ r , garlic and olive oil .
+Arrabbiata sauce is a traditional dish from Rome in Italy . An i@@ m@@ p@@ o@@ r@@ t@@ a@@ n@@ t ingredient is c@@ h@@ i@@ l@@ i p@@ e@@ p@@ p@@ e@@ r and it also contains t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , red c@@ h@@ i@@ l@@ i , garlic and olive oil .
+Arros N@@ e@@ g@@ r@@ e is a traditional dish from the Catalonia region of Spain . The main ingredients of Arros negre are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k , and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s .
+Arros negre is from the region of Catalonia in Spain . The main ingredients of Arros negre are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k , and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s .
+Arros negre , from the Catalonia region of Spain , includes C@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k , white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h@@ /@@ s@@ q@@ u@@ i@@ d and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s .
+The main ingredients of Arròs negre , which is from Spain , are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k , c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s . Arròs negre is from the Catalonia region .
+The main ingredients in a@@ r@@ r@@ ò@@ s negre are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s . It is a traditional dish from the Catalonia region of Spain .
+The main ingredients in a@@ r@@ r@@ ò@@ s negre are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s . It is a traditional Spanish dish from the Catalonia region .
+Arros negre is a t@@ r@@ a@@ d@@ i@@ t@@ o@@ n@@ a@@ l dish from the Valencian Community , Spain . It has the main ingredients of white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k and c@@ u@@ b@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s .
+Arros negre comes from the region of the Valencian Community , Spain . The main ingredients are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k and c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s .
+Arros negre comes from the region of the Valencian Community in Spain . The main ingredients are white rice , c@@ u@@ t@@ t@@ l@@ e@@ f@@ i@@ s@@ h or s@@ q@@ u@@ i@@ d , c@@ e@@ p@@ h@@ a@@ l@@ o@@ p@@ o@@ d i@@ n@@ k , c@@ u@@ b@@ a@@ n@@ e@@ l@@ l@@ e p@@ e@@ p@@ p@@ e@@ r@@ s .
+Asam pedas is found in the region of Sumatra and Malay p@@ e@@ n@@ i@@ n@@ s@@ u@@ l@@ a in Malaysia . It can also be called Asam p@@ a@@ d@@ e@@ h and it 's ingredients are f@@ i@@ s@@ h cooked in sour and h@@ o@@ t sauce .
+Asam pedas ( a@@ k@@ a a@@ s@@ a@@ m p@@ a@@ d@@ e@@ h ) is from the Sumatra and Malay P@@ e@@ n@@ i@@ n@@ s@@ u@@ l@@ a r@@ e@@ g@@ i@@ o@@ n@@ s of Malaysia . The main ingredients are f@@ i@@ s@@ h cooked in sour and h@@ o@@ t sauce .
+Asam p@@ a@@ d@@ e@@ h is also known as a@@ s@@ a@@ m pedas and is a food found in Malaysia o@@ r@@ i@@ g@@ i@@ n@@ a@@ t@@ i@@ n@@ g from the S@@ u@@ n@@ a@@ t@@ r@@ a and Malay P@@ e@@ n@@ i@@ n@@ s@@ u@@ l@@ a r@@ e@@ g@@ i@@ o@@ n@@ s . The main ingredients is f@@ i@@ s@@ h cooked in a sour and h@@ o@@ t sauce .
+Asam pedas is a food found in Malaysia and Sumatra . Malaysian Malay is an ethnic group in Malaysia and Sumatra has an ethnic group called the M@@ i@@ n@@ a@@ n@@ g@@ k@@ a@@ b@@ a@@ u people .
+Asam pedas is a food found in Malaysia and Sumatra . Malay is the ethnic group of Malaysia and the M@@ i@@ n@@ a@@ n@@ g@@ k@@ a@@ b@@ a@@ u people are an ethnic group of Sumatra .
+Asam pedas is found in Malaysia , o@@ r@@ i@@ g@@ i@@ n@@ a@@ t@@ i@@ n@@ g from Sumatra . Sumatra is home to the M@@ i@@ n@@ a@@ n@@ g@@ k@@ a@@ b@@ a@@ u people and Malaysia , the Malay people .
+The Bacon Explosion comes from the K@@ a@@ n@@ s@@ as city m@@ e@@ t@@ r@@ o area in the U@@ .@@ S . The main ingredient in it is bacon and also includes sausage .
+Bacon Explosion comes from the K@@ a@@ n@@ s@@ as City m@@ e@@ t@@ r@@ o@@ p@@ o@@ l@@ i@@ t@@ an area of the United States and includes the main ingredient of sausage and bacon .
+Bacon Explosion is from the K@@ a@@ n@@ s@@ as City m@@ e@@ t@@ r@@ o@@ p@@ o@@ l@@ i@@ t@@ an area of the United States . The main ingredient is bacon along with sausage .
+Bacon Explosion comes from the United States , where one of the leaders is Paul Ryan . It is also where Asian Americans are one of the ethnic groups and Washington , D.C. is the capital .
+The United States is the country of the Bacon Explosion and the leader is Paul Ryan . Asian Americans are an ethnic group in the United States and the capital is Washington , D.C.
+The Bacon Explosion originates from the United States . The U.S. b@@ o@@ a@@ s@@ t@@ s leader Paul Ryan , is home to Asian Americans and has its capital in Washington D.C.
+Bacon s@@ a@@ n@@ d@@ w@@ i@@ c@@ h@@ e@@ s are popular in the UK , have a variant called a BLT , include the ingredient bacon and s@@ o@@ m@@ e@@ t@@ i@@ m@@ e@@ s go by the name of : bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ a@@ s@@ h@@ e@@ r sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m and bacon m@@ u@@ f@@ f@@ in .
+The bacon sandwich , of which an ingredient is bacon , has a variation called the BLT and has d@@ i@@ f@@ f@@ e@@ r@@ e@@ n@@ t names including : bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ a@@ s@@ h@@ e@@ r sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m and bacon m@@ u@@ f@@ f@@ in .
+A bacon sandwich , which is a variation of the BLT , can also be known as a bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ a@@ s@@ h@@ e@@ r sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m , or bacon m@@ u@@ f@@ f@@ in . It is a dish c@@ o@@ n@@ t@@ a@@ i@@ n@@ i@@ n@@ g bacon and comes from the United Kingdom .
+Bacon sandwich is a dish from the United Kingdom and a variation is the BLT . An ingredient used is b@@ r@@ o@@ w@@ n sauce and it 's d@@ i@@ f@@ f@@ e@@ r@@ e@@ n@@ t names include Bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ a@@ s@@ h@@ e@@ r sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m and bacon m@@ u@@ f@@ f@@ in .
+The country that bacon sandwich comes from is the United Kingdom , it is also known as a bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ a@@ s@@ h@@ e@@ r sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m , or bacon m@@ u@@ f@@ f@@ in . B@@ r@@ o@@ w@@ n sauce can be served with it and a variation is the BLT .
+Bacon s@@ a@@ n@@ d@@ w@@ i@@ c@@ h@@ e@@ s are popular in the UK and can contain the ingredient b@@ r@@ o@@ w@@ n sauce . A variation of the sandwich is a BLT and it can also be known as a bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ a@@ s@@ h@@ e@@ r sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m , or bacon m@@ u@@ f@@ f@@ in .
+F@@ r@@ o@@ m the United Kingdom , the bacon sandwich 's main ingredients are b@@ r@@ e@@ a@@ d and bacon and a c@@ o@@ n@@ d@@ i@@ m@@ e@@ n@@ t , o@@ f@@ t@@ e@@ n k@@ e@@ t@@ c@@ h@@ up or b@@ r@@ o@@ w@@ n sauce . It can also be known as a bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ a@@ s@@ h@@ e@@ r sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m , or bacon m@@ u@@ f@@ f@@ in .
+Bacon sandwich originates from the United Kingdom and its main ingredients are b@@ r@@ e@@ a@@ d , bacon with k@@ e@@ t@@ c@@ h@@ up or b@@ r@@ o@@ w@@ n sauce . It has d@@ i@@ f@@ f@@ e@@ r@@ e@@ n@@ t names including : Bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ a@@ s@@ h@@ e@@ r sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m and bacon m@@ u@@ f@@ f@@ in .
+The main ingredients of a bacon sandwich , ( popular in the UK ) , are b@@ r@@ e@@ a@@ d , bacon and k@@ e@@ t@@ c@@ h@@ up or b@@ r@@ o@@ w@@ n sauce as a c@@ o@@ n@@ d@@ i@@ m@@ e@@ n@@ t . The bacon sandwich has s@@ e@@ v@@ e@@ r@@ a@@ l alternative names including : bacon b@@ u@@ t@@ t@@ y , bacon s@@ a@@ r@@ n@@ i@@ e , r@@ a@@ s@@ h@@ e@@ r sandwich , bacon s@@ a@@ n@@ g@@ e@@ r , p@@ i@@ e@@ c@@ e '@@ n bacon , bacon c@@ o@@ b , bacon b@@ a@@ r@@ m and bacon m@@ u@@ f@@ f@@ in .
+Baked Alaska has the main ingredients of m@@ e@@ r@@ i@@ n@@ g@@ u@@ e , i@@ c@@ e cream and s@@ p@@ o@@ n@@ g@@ e cake ( or C@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding ) . It is found in France , the US , China , Hong Kong , New York and Paris .
+Baked Alaska contains : i@@ c@@ e cream , s@@ p@@ o@@ n@@ g@@ e cake ( C@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding ) and m@@ e@@ r@@ i@@ n@@ g@@ u@@ e . It is found in Hong Kong , New York and Paris . The o@@ r@@ i@@ g@@ i@@ n@@ s are e@@ i@@ t@@ h@@ e@@ r France , C@@ a@@ n@@ a@@ d@@ a or the United States .
+Baked Alaska comes from e@@ i@@ t@@ h@@ e@@ r Paris , New York USA or Hong Kong . M@@ e@@ r@@ i@@ n@@ g@@ u@@ e , i@@ c@@ e cream , s@@ p@@ o@@ n@@ g@@ e cake or C@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding are main ingredients in b@@ a@@ k@@ e@@ d Alaska .
+Baked Alaska is found in Hong Kong , New York and Paris . M@@ e@@ r@@ i@@ n@@ g@@ u@@ e , i@@ c@@ e cream , s@@ p@@ o@@ n@@ g@@ e cake or C@@ h@@ r@@ i@@ s@@ t@@ m@@ as pudding are its main ingredients .
+The b@@ a@@ k@@ e@@ well tart is popular in the Derbyshire Dales area which is part of Derbyshire . It 's a variant of b@@ a@@ k@@ e@@ well pudding and uses f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e .
+Bakewell tart , a variation of Bakewell pudding , includes the ingredient f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e and originates from the Derbyshire Dales region of Derbyshire .
+Bakewell tart is a variant of b@@ a@@ k@@ e@@ well pudding and comes from the Derbyshire Dales . It contains f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e .
+Bakewell tart is a variation of Bakewell pudding that originates from the Derbyshire Dales . It is a dessert that has the main ingredients of ground a@@ l@@ m@@ o@@ n@@ d , jam , butter and eggs .
+Bakewell tart is a variation of Bakewell pudding which is a dessert that comes from the Derbyshire Dales area and has the main ingredients ground almonds , jam , butter and eggs .
+Bakewell pudding is a dessert from the Derbyshire Dales region and contains the ingredients ground almonds , jam , butter and eggs . It has a variation called Bakewell tart .
+F@@ r@@ o@@ m the Derbyshire Dales region ( in Derbyshire ) , is Bakewell pudding . A variation of which , is Bakewell tart , its main ingredient is s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y .
+Bakewell tart is a variation of Bakewell pudding which uses s@@ h@@ o@@ r@@ t@@ c@@ u@@ t p@@ a@@ s@@ t@@ r@@ y and comes from the Derbyshire Dales in Derbyshire .
+Bakewell tart is a variant of b@@ a@@ k@@ e@@ well pudding from the Derbyshire Dales in Derbyshire . The main ingredient is s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y .
+Bandeja paisa is a Colombian dish from the Paisa region . Its main ingredients include red beans , pork b@@ e@@ l@@ l@@ y , white rice , ground meat , c@@ h@@ i@@ c@@ h@@ a@@ r@@ on , fried e@@ g@@ g , p@@ l@@ a@@ n@@ t@@ a@@ in ( p@@ a@@ t@@ a@@ c@@ o@@ n@@ e@@ s ) , c@@ h@@ o@@ r@@ i@@ z@@ o , a@@ r@@ e@@ p@@ a , h@@ o@@ g@@ a@@ o sauce , black pudding ( m@@ o@@ r@@ c@@ i@@ l@@ l@@ a ) , a@@ v@@ o@@ c@@ a@@ d@@ o and lemon .
+Bandeja paisa originates from the Paisa region , C@@ o@@ l@@ u@@ m@@ b@@ i@@ a . The main ingredients are : red beans , pork b@@ e@@ l@@ l@@ y , white rice , ground meat , c@@ h@@ i@@ c@@ h@@ a@@ r@@ on , fried e@@ g@@ g , p@@ l@@ a@@ n@@ t@@ a@@ in ( p@@ a@@ t@@ a@@ c@@ o@@ n@@ e@@ s ) , c@@ h@@ o@@ r@@ i@@ z@@ o , a@@ r@@ e@@ p@@ a , h@@ o@@ g@@ a@@ o sauce , black pudding ( m@@ o@@ r@@ c@@ i@@ l@@ l@@ a ) , a@@ v@@ o@@ c@@ a@@ d@@ o and lemon .
+Bandeja paisa is a typical Colombian dish from the Paisa region and contains the ingredients : red beans , pork b@@ e@@ l@@ l@@ y , white rice , ground meat , c@@ h@@ i@@ c@@ h@@ a@@ r@@ on , fried e@@ g@@ g , p@@ l@@ a@@ n@@ t@@ a@@ in ( p@@ a@@ t@@ a@@ c@@ o@@ n@@ e@@ s ) , c@@ h@@ o@@ r@@ i@@ z@@ o , a@@ r@@ e@@ p@@ a , h@@ o@@ g@@ a@@ o sauce , black pudding ( m@@ o@@ r@@ c@@ i@@ l@@ l@@ a ) , a@@ v@@ o@@ c@@ a@@ d@@ o and lemon .
+Batagor is an Indonesian food and a variation of the Siomay dish . It contains a fried f@@ i@@ s@@ h d@@ u@@ m@@ p@@ l@@ i@@ n@@ g with t@@ o@@ f@@ u and vegetables in peanut s@@ u@@ a@@ c@@ e .
+Batagor , ( a variation of Siomay ) , is a dish found in Indonesia and its main ingredients are fried f@@ i@@ s@@ h d@@ u@@ m@@ p@@ l@@ i@@ n@@ g with t@@ o@@ f@@ u and vegetables in peanut sauce .
+Batagor , from Indonesia , is a dish c@@ o@@ n@@ s@@ i@@ s@@ t@@ i@@ n@@ g of fried f@@ i@@ s@@ h d@@ u@@ m@@ p@@ l@@ i@@ n@@ g@@ s , t@@ o@@ f@@ u and vegetables in peanut sauce . Siomay is a variation of b@@ a@@ t@@ a@@ g@@ or .
+Batagor is found in the country of Indonesia . It is a variation on Siomay or Shumai , the l@@ a@@ t@@ t@@ e@@ r of which includes S@@ h@@ i@@ i@@ t@@ a@@ k@@ e .
+Shumai , which has s@@ h@@ i@@ i@@ t@@ a@@ k@@ e as a c@@ o@@ m@@ p@@ o@@ n@@ e@@ n@@ t and is s@@ i@@ m@@ i@@ l@@ a@@ r to Siomay , is a variation of the Indonesian dish b@@ a@@ t@@ a@@ g@@ or .
+Beef kway teow is a dish from the country of Singapore , where Halimah Yacob is leader and S@@ t@@ a@@ n@@ d@@ a@@ r@@ d Chinese is spoken . The dish originated from the region of Indonesia .
+Beef kway teow comes from the region of Indonesia and also Singapore . The leader of Singapore , where S@@ t@@ a@@ n@@ d@@ a@@ r@@ d Chinese is the spoken language , is Halimah Yacob .
+Beef kway teow is a dish found in Singapore and Indonesia . K@@ w@@ a@@ y teow , beef t@@ e@@ n@@ d@@ e@@ r l@@ o@@ in , g@@ u@@ l@@ a M@@ e@@ l@@ a@@ k@@ a , s@@ l@@ i@@ c@@ e@@ d , d@@ r@@ i@@ e@@ d black beans , garlic , d@@ a@@ r@@ k s@@ o@@ y sauce , l@@ e@@ n@@ g@@ k@@ u@@ as , o@@ y@@ s@@ t@@ e@@ r sauce , s@@ o@@ y@@ a sauce , c@@ h@@ i@@ l@@ l@@ i and s@@ e@@ same oil are main ingredients in beef kway teow .
+Beef kway teow is served in the region of Indonesia and is also found in Singapore . The main ingredients are K@@ w@@ a@@ y teow , beef t@@ e@@ n@@ d@@ e@@ r l@@ o@@ in , g@@ u@@ l@@ a M@@ e@@ l@@ a@@ k@@ a , s@@ l@@ i@@ c@@ e@@ d , d@@ r@@ i@@ e@@ d black beans , garlic , d@@ a@@ r@@ k s@@ o@@ y sauce , l@@ e@@ n@@ g@@ k@@ u@@ as , o@@ y@@ s@@ t@@ e@@ r sauce , s@@ o@@ y@@ a sauce , c@@ h@@ i@@ l@@ l@@ i and s@@ e@@ same oil .
+B@@ e@@ e@@ k kway t@@ e@@ o@@ s includes : kway teow , beef t@@ e@@ n@@ d@@ e@@ r@@ l@@ o@@ in , g@@ u@@ l@@ a M@@ e@@ l@@ a@@ k@@ a , black beans , garlic , o@@ y@@ s@@ t@@ e@@ r , s@@ o@@ y@@ a and s@@ o@@ y sauce , l@@ e@@ n@@ g@@ k@@ u@@ as , c@@ h@@ i@@ l@@ i and s@@ e@@ same oil . It is found in Singapore .
+Beef kway teow is known to come from the Singapore region and also Indonesia . It 's main ingredients are K@@ w@@ a@@ y teow , beef t@@ e@@ n@@ d@@ e@@ r l@@ o@@ in , g@@ u@@ l@@ a M@@ e@@ l@@ a@@ k@@ a , s@@ l@@ i@@ c@@ e@@ d , d@@ r@@ i@@ e@@ d black beans , garlic , d@@ a@@ r@@ k s@@ o@@ y sauce , l@@ e@@ n@@ g@@ k@@ u@@ as , o@@ y@@ s@@ t@@ e@@ r sauce , s@@ o@@ y@@ a sauce , c@@ h@@ i@@ l@@ l@@ i and s@@ e@@ same oil .
+Beef kway teow , o@@ r@@ i@@ g@@ i@@ n@@ a@@ t@@ i@@ n@@ g in Indonesia , is a dish found in Singapore . Its main ingredients are K@@ w@@ a@@ y teow , beef t@@ e@@ n@@ d@@ e@@ r l@@ o@@ in , g@@ u@@ l@@ a M@@ e@@ l@@ a@@ k@@ a , s@@ l@@ i@@ c@@ e@@ d , d@@ r@@ i@@ e@@ d black beans , garlic , d@@ a@@ r@@ k s@@ o@@ y sauce , l@@ e@@ n@@ g@@ k@@ u@@ as , o@@ y@@ s@@ t@@ e@@ r sauce , s@@ o@@ y@@ a sauce , c@@ h@@ i@@ l@@ l@@ i and s@@ e@@ same oil .
+K@@ w@@ a@@ y teow , beef t@@ e@@ n@@ d@@ e@@ r l@@ o@@ in , g@@ u@@ l@@ a M@@ e@@ l@@ a@@ k@@ a , s@@ l@@ i@@ c@@ e@@ d , d@@ r@@ i@@ e@@ d black beans , garlic , d@@ a@@ r@@ k s@@ o@@ y sauce , l@@ e@@ n@@ g@@ k@@ u@@ as , o@@ y@@ s@@ t@@ e@@ r sauce , s@@ o@@ y@@ a sauce , c@@ h@@ i@@ l@@ l@@ i and s@@ e@@ same oil are the main ingredients of Beef kway teow . The dish originated in Singapore and is found in Indonesia .
+Beef kway teow comes from the Singapore region where The English language is spoken . The dish is found in the countries of Indonesia and Singapore . The leader of Singapore is Tony Tan .
+Beef kway teow is a dish of Singapore where Tony Tan is the leader and English is spoken . The dish is also popular in Indonesia .
+Singapore 's leader is Tony Tan and one of the country 's spoken language is English . Beef kway teow is made there and Indonesia t@@ o@@ o .
+Bhajji comes from the country India , where two of the leaders are T@@ .@@ S@@ . Thakur and Narendra Modi . It is also where the Indian rupee is the currency .
+Bhajji comes from the country India , where the currency is the rupee . The leader of India is e@@ i@@ t@@ h@@ e@@ r T@@ . S@@ . Thakur a@@ n@@ d@@ /@@ or Narendra Modi .
+Bhajji comes from the country India , where the currency is the rupee and the leader is e@@ i@@ t@@ h@@ e@@ r T@@ . S@@ . Thakur a@@ n@@ d@@ /@@ or Narendra Modi .
+Bhajji originate from India where the Indian people come from . The leaders of the country are T S Thakur and Sumitra Mahajan .
+Bhajji originate from India where the Indian people are lead by T S Thakur and Sumitra Mahajan .
+Bhajji come from the Karnataka region of India . Narendra Modi is the name of the leader of India , a@@ n@@ o@@ t@@ h@@ e@@ r leader is Sumitra Mahajan .
+Bhajji originates from the Karnataka region of India . The country 's leaders are Narendra Modi and Sumitra Mahajan .
+Bhajji originate from the Karnataka region in India . The country 's leaders are Narendra Modi and Sumitra Mahajan .
+Bhajji comes from Karnataka , India . One leader in India is T@@ .@@ S@@ . Thakur and a@@ n@@ o@@ t@@ h@@ e@@ r V@@ a@@ j@@ u@@ b@@ h@@ a@@ i V@@ a@@ l@@ a .
+Bhajji are found in the region of Karnataka , India . The leader of India is called T@@ . S@@ . Thakur and V@@ a@@ j@@ u@@ b@@ h@@ a@@ i V@@ a@@ l@@ a is the leader of Karnataka .
+Bhajji comes from the Karnataka region or India . V@@ a@@ j@@ u@@ b@@ h@@ a@@ i V@@ a@@ l@@ a is a leader of K@@ a@@ r@@ n@@ a@@ t@@ k@@ a and T@@ .@@ S@@ . Thakur is the leader of India .
+C@@ o@@ o@@ k@@ i@@ e@@ s and binignit are t@@ y@@ p@@ e@@ s of dessert . One of the i@@ n@@ g@@ r@@ e@@ d@@ i@@ e@@ n@@ s in binignit is sweet potato which belongs to the order Solanales .
+S@@ o@@ u@@ r cream , c@@ h@@ o@@ p@@ p@@ e@@ d f@@ r@@ u@@ its , c@@ o@@ n@@ d@@ e@@ n@@ s@@ e@@ d milk . g@@ r@@ a@@ n@@ o@@ l@@ a , raisins and s@@ h@@ r@@ e@@ d@@ d@@ e@@ d coconut are the main ingredients in Bionico , a food found in G@@ u@@ a@@ d@@ a@@ l@@ a@@ j@@ a@@ r@@ a , in Mexico .
+Bionico has the ingredients c@@ h@@ o@@ p@@ p@@ e@@ d f@@ r@@ u@@ its , sour cream , c@@ o@@ n@@ d@@ e@@ n@@ s@@ e@@ d milk , g@@ r@@ a@@ n@@ o@@ l@@ a , s@@ h@@ r@@ e@@ d@@ d@@ e@@ d coconut and raisins and can be found in G@@ u@@ a@@ d@@ a@@ l@@ a@@ j@@ a@@ r@@ a , Mexico .
+The main ingredients of Bionico , a dish from the G@@ u@@ a@@ d@@ a@@ l@@ a@@ r@@ a@@ j@@ a region of Mexico , are c@@ h@@ o@@ p@@ p@@ e@@ d f@@ r@@ u@@ its , sour cream , c@@ o@@ n@@ d@@ e@@ n@@ s@@ e@@ d milk , g@@ r@@ a@@ n@@ o@@ l@@ a , s@@ h@@ r@@ e@@ d@@ d@@ e@@ d coconut and raisins .
+Bionico is a food found in the J@@ a@@ l@@ i@@ s@@ c@@ o region of Mexico ; its ingredients contain the f@@ o@@ l@@ l@@ o@@ w@@ i@@ n@@ g : sour cream , c@@ h@@ o@@ p@@ p@@ e@@ d f@@ r@@ u@@ its , c@@ o@@ n@@ d@@ e@@ n@@ s@@ e@@ d milk . g@@ r@@ a@@ n@@ o@@ l@@ a , raisins and s@@ h@@ r@@ e@@ d@@ d@@ e@@ d coconut .
+Bionico comes from the J@@ a@@ l@@ i@@ s@@ c@@ o region of Mexico . The main ingredients of the food are : c@@ h@@ o@@ p@@ p@@ e@@ d F@@ r@@ u@@ its , sour cream , c@@ o@@ n@@ d@@ e@@ n@@ s@@ e@@ d milk , g@@ r@@ a@@ n@@ o@@ l@@ a , s@@ h@@ r@@ e@@ d@@ d@@ e@@ d coconut and raisins .
+Bionico is found in the region of J@@ a@@ l@@ i@@ s@@ c@@ o , Mexico and c@@ o@@ n@@ s@@ i@@ s@@ t@@ s of sour cream , c@@ h@@ o@@ p@@ p@@ e@@ d f@@ r@@ u@@ its , c@@ o@@ n@@ d@@ e@@ n@@ s@@ e@@ d milk . g@@ r@@ a@@ n@@ o@@ l@@ a , raisins and s@@ h@@ r@@ e@@ d@@ d@@ e@@ d coconut .
+Bakso is a Chinese dish found in Indonesia , the leader of which is Jusuf Kalla . J@@ a@@ k@@ a@@ r@@ t@@ a is the capital of Indonesia .
+Bakso is from the Chinese cuisine and is found in Indonesia where the capital city is J@@ a@@ k@@ a@@ r@@ t@@ a and Jusuf Kalla is a leader .
+Bakso comes from Indonesia , and c@@ e@@ l@@ e@@ r@@ y is a main ingredient . J@@ a@@ s@@ u@@ f Kalla is a leader in Indonesia .
+C@@ e@@ l@@ e@@ r@@ y is an ingredient of Bakso , a dish from the country of Indonesia , where Jusuf Kalla is a leader .
+Bakso ( which contains c@@ e@@ l@@ e@@ r@@ y ) is a dish found in Indonesia where it originated . One of the country 's leaders is Jusuf Kalla .
+Two leaders of Italy , where Amatriciana sauce is found , are M@@ a@@ t@@ t@@ e@@ o R@@ e@@ n@@ z@@ i and Sergio Mattarella . Its capital is Rome .
+Italy is the country Amatriciana sauce comes from . The capital is Rome and p@@ o@@ l@@ i@@ t@@ i@@ c@@ a@@ l leaders include M@@ a@@ t@@ t@@ e@@ o R@@ e@@ n@@ z@@ i and Sergio Mattarella .
+Rome is the capital of Italy , where Sergio M@@ a@@ t@@ t@@ a@@ r@@ e@@ l@@ l and M@@ a@@ t@@ t@@ e@@ o R@@ e@@ n@@ z@@ i are leaders and where a@@ m@@ a@@ t@@ r@@ i@@ c@@ i@@ a@@ n@@ a sauce is a traditional dish .
+Ayam penyet comes from the S@@ i@@ n@@ g@@ a@@ p@@ o@@ r@@ e@@ an region and Halimah Yacob is the country 's leader . It can be found in Java as well where B@@ a@@ d@@ u@@ y people is an ethnic group .
+Ayam penyet is a dish from the region of Singapore which is lead by Halimah Yacob . It is also found in Java where the B@@ a@@ d@@ u@@ y are an ethnic group .
+A@@ y@@ e@@ m penyet is a dish from Java where the B@@ a@@ d@@ u@@ y are an ethnic group . It also originates from the region of Singapore where the leader is Halimah Yacob .
+Ayam penyet is a dish from Java and Singapore . The leader of the l@@ a@@ t@@ t@@ e@@ r is Tony Tan and the B@@ a@@ n@@ y@@ u@@ m@@ a@@ s@@ an people are an ethnic group from Java .
+Ayam penyet is a dish from Singapore and Java . B@@ a@@ n@@ y@@ u@@ m@@ a@@ s@@ an people is one of the ethnic groups in Java and Tony Tan is a leader in Singapore .
+The B@@ a@@ n@@ y@@ u@@ m@@ a@@ s@@ an people are an ethnic group in Java , where the dish a@@ y@@ a@@ m penyet is found . The dish originates in Singapore , where Tony Tan is the leader .
+The language spoken in the Philippines is Philippine Spanish and b@@ a@@ t@@ c@@ h@@ o@@ y is eaten there . E@@ t@@ h@@ n@@ i@@ c groups include the l@@ l@@ o@@ c@@ a@@ n@@ o people and the M@@ o@@ r@@ o people .
+Batchoy is eaten in the Philippines where P@@ h@@ i@@ l@@ l@@ i@@ p@@ p@@ i@@ n@@ e Spanish is spoken and ethnic groups include the I@@ l@@ o@@ c@@ a@@ n@@ o and M@@ o@@ r@@ o .
+The M@@ o@@ r@@ o and the I@@ l@@ o@@ c@@ a@@ n@@ o people are ethnic groups within the Philippines where b@@ a@@ t@@ c@@ h@@ o@@ y is eaten and the language used is Philippine Spanish .
+Arròs negre is a traditional dish from Spain whose leader is Felipe VI and E@@ u@@ r@@ o is its currency . Spaniards are the ethnic group of Spain .
+The E@@ u@@ r@@ o is the currency in Spain , where the leader is Felipe VI and Spaniards are an ethnic group . Spain is also the home of the traditional dish Arròs negre .
+Arròs negre is a dish from Spain where the leader is Felipe VI . Spaniards are an ethnic group of Spain and the currency used is the e@@ u@@ r@@ o .
+Adams County , Pennsylvania has Carrol County , Maryland to its southeast and Pennsylvania 's Cumberland County is to the north of the Adams County . The 11th Mississippi Infantry Monument is in Adams County of the municipality of Gettysburg Pennsylvania . .
+The 11th Mississippi Infantry Monument is located at Gettysburg , Adams County , Pennsylvania , which has Cumberland County , Pennsylvania to its north and Carrol County , Maryland to its southeast .
+The municipality of Gettysburg , Adams County , Pennsylvania is the location of the 11th Mississippi Infantry monument . Adams County is south of Cumberland County and to the northwest of C@@ a@@ r@@ r@@ o@@ l@@ l County , Maryland .
+The 11th Mississippi Infantry Monument is a Contributing P@@ r@@ o@@ p@@ e@@ r@@ t@@ y located in Adams County , Pennsylvania , with Franklin County to its west and Carrol County , Maryland to its southeast .
+Pennsylvania 's Franklin County is found to the west of Adams County while Carrol County Maryland is southeast of Adams County Pennsylvania . The location of the 11th Mississippi Infantry Monument is Adams County , Pennsylvania and f@@ a@@ l@@ l@@ s under the category of Contributing property .
+Baku , the capital of Azerbaijan is the location of the Turkish Martyrs memorial dedicated to the soldiers of the Ottoman a@@ r@@ m@@ y killed in the Battle of Baku . The memorial was designed by Huseyin Butuner and Hilmi Guner .
+The Baku Turkish Martyrs Memorial has been dedicated to Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku and is located in Azerbaijan 's capital Baku . The Memorial was designed by H@@ ü@@ s@@ e@@ y@@ in B@@ ü@@ t@@ ü@@ n@@ e@@ r and Hilmi G@@ ü@@ n@@ e@@ r .
+Baku is the capital of Azerbaijan and the location of the Turkish Martyrs memorial dedicated to the soldiers of the Ottoman a@@ r@@ m@@ y who died in the b@@ a@@ t@@ t@@ l@@ e of Baku . The memorial was designed by Huseyin Butuner and Hilmi Guner .
+Baku is the capital of Azerbaijan and the leader of the legislature ( the National Assembly ) is Artur Rasizade . Azerbaijan is the location of the Baku Turkish Martyrs memorial .
+The National Assembly is the l@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ i@@ v@@ e b@@ r@@ a@@ n@@ c@@ h of government in Azerbaijan where the leader is Artur Rasizade . The Turkish m@@ a@@ r@@ t@@ y@@ r@@ s memorial is located in the capital , Baku .
+The Baku Turkish Martyrs ' Memorial is located in Baku , the capital of Azerbaijan , where leader is Artur Rasizade and the legislature is known as the National Assembly .
+The red granite and white marble Baku Turkish Martyrs ' Memorial is dedicated to the Ottoman A@@ r@@ m@@ y S@@ o@@ l@@ d@@ i@@ e@@ r@@ s killed in the Battle of Baku , and is located in Baku , Azerbaijan , where the leader is Artur Rasizade .
+Artur Rasizade was an Azerbaijan leader . Baku Turkish Martyrs ' Memorial is made of red granite and white marble , is dedicated to the Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku and located in Azerbaijan .
+Artur Rasizade is an Azerbaijan leader . The Baku Turkish Martyrs ' Memorial located in Baku , Azerbaijan is made with red granite and white marble and has been dedicated to Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku .
+The Baku Turkish Martyrs ' Memorial , which is dedicated to the Ottoman A@@ r@@ m@@ y S@@ o@@ l@@ d@@ i@@ e@@ r@@ s killed in the Battle of Baku , is located in Azerbaijan , where the official leader ( Prime Minister of Azerbaijan ) is called Artur Rasizade .
+The Baku Turkish M@@ a@@ r@@ t@@ y@@ r 's Memorial is dedicated to the Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku , and is located in Azerbaijan , which is led by the Prime Minister of Azerbaijan , Artur Rasizade .
+Artur Rasizade is the Prime Minister of Azerbaijan . Azerbaijan is the location of the Baku Turkish Martyrs memorial which is dedicated to the soldiers of the Ottoman a@@ r@@ m@@ y killed in the Battle of Baku .
+The full name of A.C. Chievo Verona is Associazione Calcio C@@ h@@ i@@ e@@ v@@ o@@ Verona S@@ .@@ r@@ .@@ l@@ . and their home ground in Verona , Italy h@@ o@@ l@@ d@@ s 3@@ 9@@ 3@@ 7@@ 1 f@@ a@@ n@@ s . The club played the 2014-15 season in Serie A.
+A.C. Chievo Verona played the 2014-15 season in Serie A and has 3@@ 9@@ 3@@ 7@@ 1 members . Their full name is " Associazione Calcio C@@ h@@ i@@ e@@ v@@ o@@ Verona S@@ .@@ r@@ .@@ l@@ . " and their home ground is in Verona , Italy .
+Italian born Rolando Maran manages Associazione Calcio Chievo Verona . He is also in the U@@ n@@ i@@ one T@@ r@@ i@@ e@@ s@@ t@@ i@@ n@@ a 2@@ 0@@ 12 S@@ .@@ S@@ .@@ D@@ . club as well as p@@ l@@ a@@ y@@ i@@ n@@ g for C@@ a@@ r@@ r@@ a@@ r@@ e@@ s@@ e Calcio .
+Italian born Rolando Maran plays at the C@@ a@@ r@@ r@@ a@@ r@@ e@@ s@@ e Calcio and is in the U@@ n@@ i@@ one T@@ r@@ i@@ e@@ s@@ t@@ i@@ n@@ a 2@@ 0@@ 12 S@@ .@@ S@@ .@@ D@@ . club . He is currently the manager of AC Chievo Verona .
+B@@ o@@ r@@ n in Italy , Rolando Maran is the manager of AC Chievo Verona . He also plays for C@@ a@@ r@@ r@@ a@@ r@@ e@@ s@@ e Calcio and is in the U@@ n@@ i@@ one T@@ r@@ i@@ e@@ s@@ t@@ i@@ n@@ a 2@@ 0@@ 12 S@@ .@@ S@@ .@@ D@@ . club .
+Michele Marcolini , manager of A.C. Lumezzane , was born in Italy , o@@ w@@ n@@ s T@@ o@@ r@@ i@@ n@@ o F.C. A@@ n@@ d has been a@@ s@@ s@@ o@@ c@@ i@@ a@@ t@@ e@@ d with F.C. B@@ a@@ r@@ i 1@@ 9@@ 0@@ 8 .
+Italian born Michele Marcolini , previously at FC B@@ a@@ r@@ i 1@@ 9@@ 0@@ 8 and manager of AC Lumezzane , is the owner of T@@ o@@ r@@ i@@ n@@ o F.C.
+Italian born Michele Marcolini , previously of FC B@@ a@@ r@@ i 1@@ 9@@ 0@@ 8 , is now the manager of A.C. Lumezzane , w@@ h@@ i@@ s@@ t also the owner of T@@ o@@ r@@ i@@ n@@ o F.C.
+Greece , led by Alexis Tsipras and Nikos Voutsis is the location of A@@ .@@ E@@ . Dimitra Efxeinoupolis , where the language is g@@ r@@ e@@ e@@ k .
+Greece is the location of the A.E Dimitra Efxeinoupolis club . The language of the country is G@@ r@@ e@@ e@@ k and two of the leaders are Alexis Tsipras and Nikos Voutsis .
+The A.E Dimitra Efxeinoupolis club is located in Greece where Alexis Tsipras h@@ e@@ a@@ d@@ s Greece and Nikos Voutsis is the leader .
+The full name of the Italian club AS Gubbio 1910 is " Associazione Sportiva Gubbio 1910 S@@ r@@ l " . They played in the 2014 season and they have 5@@ 300 members .
+The full name of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 S@@ r@@ l . The club has 5@@ 300 members and has a ground in Italy . It competed in the 2014 season .
+Associazione Sportiva Gubbio 1910 S@@ r@@ l ( abbreviated to A@@ .@@ S@@ .@@ Gubbio 1910 ) has 5@@ 300 members , has its grounds in Italy and played in the 2014 season .
+The fullname of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 S@@ r@@ l and they competed in the 2014 season . Their ground is called the Stadio Pietro B@@ a@@ r@@ b@@ e@@ t@@ t@@ i and they have 5@@ 300 members .
+Associazione S@@ p@@ o@@ r@@ t@@ i@@ v@@ e Gubbio 1910 S@@ r@@ l ( abbreviated to AS Gubbio 1910 ) has 5@@ 300 members , played in the 2014 season and its ground is Stadio Pietro B@@ a@@ r@@ b@@ e@@ t@@ t@@ i .
+The full name of AS Gubbio 1910 is " Associazione Sportiva Gubbio 1910 S@@ r@@ l " . Its ground is called Stadio Pietro B@@ a@@ r@@ b@@ e@@ t@@ t@@ i , it competed in the 2014 season and has 5@@ 300 members .
+The fullname of A.S. Livorno Calcio is Livorno Calcio S@@ .@@ p@@ .@@ A. and their home ground is the Stadio A@@ r@@ m@@ a@@ n@@ d@@ o P@@ i@@ c@@ c@@ h@@ i . They competed in Serie B d@@ u@@ r@@ i@@ n@@ g the 2014-15 season and has 1@@ 9@@ 2@@ 3@@ 8 members .
+1@@ 9@@ 2@@ 3@@ 8 members s@@ t@@ r@@ o@@ n@@ g Livorno Calcio S@@ .@@ p@@ .@@ A. , A@@ K@@ A A.S. Livorno Calcio , played season 2014-15 in Serie B from their home s@@ t@@ a@@ d@@ i@@ u@@ m Stadio A@@ r@@ m@@ a@@ n@@ d@@ o P@@ i@@ c@@ c@@ h@@ i .
+Stadio A@@ r@@ m@@ a@@ n@@ d@@ o P@@ i@@ c@@ c@@ h@@ i 's is home to A S Livorno Calcio ( Livorno Calcio S@@ .@@ p@@ .@@ A. ) . They have 1@@ 9@@ 2@@ 3@@ 8 members and played the 2014-15 Serie B season .
+A.S. Roma 's fullname is Associazione Sportiva Roma S@@ .@@ p@@ .@@ A. and they have 7@@ 0@@ 6@@ 34 members . Their ground is in Rome and the club played in Serie A in 2014-15 .
+The fullname of A.S. Roma is Associazione Sportiva Roma S@@ .@@ p@@ .@@ A. and they have 7@@ 0@@ 6@@ 34 members . The club have a ground in Rome and competed in Serie A in 2014-15 .
+A@@ .@@ S Roma were in Serie A in 2014-15 . They have a ground in Rome and have 7@@ 0@@ 6@@ 34 members , there full name is Associazione Sportiva Roma S@@ .@@ p@@ .@@ A.
+AZAL PFK play their home m@@ a@@ t@@ c@@ h@@ e@@ s at the AZAL A@@ r@@ e@@ n@@ a in Azerbaijan and they compete in the Azerbaijan Premier League where Q@@ a@@ r@@ a@@ b@@ a@@ g F@@ K are champions .
+AZAL PFK plays at AZAL A@@ r@@ e@@ n@@ a in Azerbaijan and c@@ o@@ m@@ p@@ e@@ t@@ e@@ s in their Premier League . The champions of the league are Q@@ a@@ r@@ a@@ b@@ a@@ g F@@ K .
+AZAL PFK play in the Azerbaijan Premier League , which champions are Q@@ a@@ r@@ a@@ b@@ a@@ g F@@ K , its ground is AZAL A@@ r@@ e@@ n@@ a , that is located in Azerbaijan .
+AZAL P@@ R@@ K , known as the Q@@ a@@ r@@ a@@ b@@ a@@ g F@@ K in the Azerbaijan Premier League is located in AZAL A@@ r@@ e@@ n@@ a and has 3500 members .
+The AZAL PFK , with 3500 members , c@@ o@@ m@@ p@@ e@@ t@@ e@@ s in The Azerbaijan Premier League , with c@@ h@@ a@@ m@@ p@@ i@@ o@@ n@@ s@@ h@@ i@@ p team being Q@@ a@@ r@@ a@@ b@@ a@@ g F@@ K . AZAL A@@ r@@ e@@ n@@ a is the ground of AZAL PFK .
+John van den Brom plays for AFC Ajax and I@@ s@@ t@@ a@@ n@@ b@@ u@@ l@@ s@@ p@@ o@@ r A@@ .@@ S . He manages AZ A@@ l@@ k@@ m@@ a@@ air which is owned by Robert E@@ e@@ n@@ h@@ o@@ o@@ r@@ n .
+Agremiação Sportiva Arapiraquense , which has the nickname A@@ s@@ a G@@ i@@ g@@ a@@ n@@ t@@ e , play in the Campeonato Brasileiro Série C league from Brazil . The league was previously won by V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be .
+Agremiação Sportiva Arapiraquense , n@@ i@@ c@@ k@@ named A@@ s@@ a G@@ i@@ g@@ a@@ n@@ t@@ e , play in the Campeonato Brasileiro Série C league in Brazil . V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be are the champions of Campeonato Brasileiro Serie C@@ .
+Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league based in Brazil . Their nickname is A@@ s@@ a G@@ i@@ g@@ a@@ n@@ t@@ e . The champions of the league are V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be .
+B@@ r@@ a@@ z@@ i@@ l@@ i@@ an football team Agremiação Sportiva Arapiraquense play their football in the Campeonato Brasileiro Série C league . Campeonato Brasileiro Serie C is a B@@ r@@ a@@ z@@ i@@ l@@ i@@ an league . Agremiação Sportiva Arapiraquense competed in the 2@@ 0@@ 15 Campeonato Brasileiro Série C . The V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be were the w@@ i@@ n@@ n@@ e@@ r@@ s at the Campeonato Brasileiro Série C@@ .
+A@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o Sportiva Arapiraquense play in the Campeonato Brasileiro Serie C League , as they d@@ i@@ d in 2@@ 0@@ 15 , which is based in Brazil . The current champions of this league are V@@ i@@ l@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be .
+Agremiação Sportiva Arapiraquense play in Brazil 's Campeonato Brasileiro Série C league and competed in the 2@@ 0@@ 15 e@@ v@@ e@@ n@@ t . V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be have been champions of Série C@@ .
+3@@ 0@@ 0@@ 0 member s@@ t@@ r@@ o@@ n@@ g Akron Summit Assault , fullname " Akron M@@ e@@ t@@ r@@ o F@@ u@@ t@@ b@@ o@@ l Club Summit Assault " , play in the 2@@ 0@@ 11 P@@ D@@ L season . D@@ e@@ n@@ z@@ i@@ l A@@ n@@ t@@ o@@ n@@ i@@ o was previously their manager .
+The Akron Summit Assault team is based in Akron , Ohio , United States . They play in the Premier D@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t League , which has been won by K@@ -@@ W United FC .
+The Akron Summit Assault team is based in Akron , Ohio , USA . They play in the Premier D@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t League which was previously won by K@@ -@@ W United FC .
+The Akron Summit Assault team of Akron , Ohio , U@@ .@@ S currently play in the Premier D@@ e@@ v@@ e@@ l@@ o@@ p@@ m@@ e@@ n@@ t League , of which K@@ -@@ W United FC have previously been champions .
+The ground of A.S. Gubbio 1910 is located in Italy , where the capital is Rome , the leader is Sergio Mattarella and the language spoken is Italian .
+Italian is spoken in Italy where the capital city is Rome . The country , which is lead by Sergio Mattarella is the location of the AS Gubbio 1910 's ground .
+The capital of Italy is Rome and the leader is Pietro Grasso . The Italian language is spoken in the country which is the location of the home ground of AS Gubbio 1910 .
+The ground of A.S. Gubbio 1910 is located in Italy where the capital is Rome , Italian is the official language and Pietro Grasso is the leader .
+The " Associazione Sportiva Roma S@@ .@@ p@@ .@@ A. " is the n@@ o@@ n@@ -@@ abbreviated name of A.S. Roma with their ground in Stadio O@@ l@@ i@@ m@@ p@@ i@@ c@@ o . A.S. Roma play in Serie A whose current champions are Juventus F.C. .
+The " Associazione Sportiva Roma S@@ .@@ p@@ .@@ A. " is the full name name of A.S. Roma who have their home ground at Stadio O@@ l@@ i@@ m@@ p@@ i@@ c@@ o . The club plays in Serie A a@@ l@@ o@@ n@@ g@@ s@@ i@@ de Juventus FC who have been previous champions .
+A.S. Roma play in Serie A where Juventus F@@ .@@ C are among there f@@ o@@ r@@ m@@ e@@ r champions . There full name is Associazione Sportiva Roma S@@ .@@ p@@ .@@ A. and they play at the Stadio O@@ l@@ i@@ m@@ p@@ i@@ c@@ o .
+The Accademia di Architettura di Mendrisio in Switzerland has a staff of 100 , the dean is named Mario Botta .
+The Accademia di Architettura di Mendrisio is located in Mendrisio , Switzerland . It has 100 academic staff and its dean is Mario Botta .
+The Accademia di Architettura di Mendrisio is located in Mendrisio in Switzerland . It 's dean is Mario Botta with its staff s@@ i@@ z@@ e being 100 .
+The Accademia di Architettura di Mendrisio was established in Switzerland in 1996 . It has 600 students . The leader of Switzerland is the Federal Chancellor .
+Accademia di Architettura di Mendrisio was established in 1996 in Switzerland and has 600 a@@ t@@ t@@ e@@ n@@ d@@ i@@ n@@ g students . It 's leader is the Federal Chancellor of Switzerland .
+The Accademia di Architettura di Mendrisio of Switzerland was established in 1996 and has 600 students . The leader of the country has the title Federal Chancellor of Switzerland .
+The Accademia di Architettura di Mendrisio ( Dean - Mario Botta ) was established in 1996 , has an academic staff of 100 and is located in the city of Mendrisio .
+Accademia di Architettura di Mendrisio in the city of Mendrisio was established in 1996 and has an academic staff s@@ i@@ z@@ e of 100 people . Its dean is Mario Botta .
+The Accademia di Architettura di Mendrisio was established in 1996 in Mendrisio . It has an academic staff s@@ i@@ z@@ e of 100 and the dean is Mario Botta .
+Acharya Institute of Technology has an a@@ f@@ f@@ i@@ l@@ i@@ a@@ t@@ i@@ on with Visvesvaraya Technological University ( Belgaum ) and was g@@ i@@ v@@ e@@ n the ' Technical Campus ' status by the A@@ l@@ l India Council for Technical E@@ d@@ u@@ c@@ a@@ t@@ i@@ on , which is located in Mumbai .
+Acharya Institute of Technology , an a@@ f@@ f@@ i@@ l@@ i@@ a@@ t@@ i@@ on of Belgaum 's Visvesvaraya Technological University was r@@ e@@ c@@ o@@ g@@ n@@ i@@ z@@ e@@ d as the Technical Campus by the A@@ l@@ l India Council for Technical E@@ d@@ u@@ c@@ a@@ t@@ i@@ on of Mumbai .
+The Acharya Institute of Technology is located in Soldevanahalli , Acharya Dr. Sarvapalli R@@ a@@ d@@ h@@ a@@ r@@ k@@ r@@ i@@ s@@ h@@ n@@ an Road , Hessarghatta Main Road , Bangalore - 560090 , India . It has 700 postgraduate students .
+Acharya I@@ n@@ s@@ t@@ i@@ t@@ u@@ e of Technology campus which has 700 postgraduate students is located in India at In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
+Acharya Institute of Technological in B@@ a@@ n@@ g@@ a@@ l@@ o@@ r , India has 700 p@@ o@@ s@@ t@@ -@@ graduate students and is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
+The Acharya Institute of Technology ( D@@ i@@ r@@ e@@ c@@ t@@ or - Dr. G. P@@ . Prabhukumar ) , is located in India , was established in 2000 and is affiliated with Visvesvaraya Technological University .
+Acharya Institute of Technology in India was established in 2000 . Its director is Dr. G. P@@ . P@@ r@@ a@@ b@@ h@@ u@@ k@@ u@@ m@@ a and the school is affiliated with Visvesvaraya Technological University .
+An affiliate of Visvesvaraya Technological University and established in 2000 in India , Acharya Institute of Technology is led by director Dr. G. P@@ . Prabhukumar .
+The 1 Decembrie 1918 University is located in Romania ( capital Bucharest ) . The leader of Romania is Klaus l@@ o@@ h@@ a@@ n@@ n@@ is and the ethnic group is G@@ e@@ r@@ m@@ a@@ n@@ s of Romania .
+The leader of Romania is Klaus Iohannis . The country is home to d@@ i@@ f@@ f@@ e@@ r@@ e@@ n@@ t ethnic groups , one of which are the G@@ e@@ r@@ m@@ a@@ n@@ s of Romania . The capital city is Bucharest and the country is the location of the 1 Decembrie 1918 University .
+The School of Business and Social Sciences at the Aarhus University is located in Denmark and affiliated to the European University Association . It was established in 1928 and it has 737 academic staff .
+The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928 . It is affiliated with the European University Association and has 737 academic staff .
+Denmark 's School of Business and Social Sciences at the Aarhus University was established in 1928 . It currently has 737 staff and is affiliated with the European University Association .
+The School of Business and Social Sciences at the Aarhus University was established in 1928 in Denmark . It has an academic staff of 737 and a student body of 1@@ 6@@ 0@@ 0@@ 0 .
+The School of Business and Social Sciences at the Aarhus University , Denmark ( established 1928 ) has an academic staff of 737 and a student r@@ o@@ l@@ l of 1@@ 6@@ 0@@ 0@@ 0 .
+1634 : The Bavarian Crisis was preceded by 1634 : The B@@ a@@ l@@ t@@ i@@ c War ( author : David W@@ e@@ b@@ e@@ r ) and followed by R@@ i@@ n@@ g of F@@ i@@ r@@ e II which is written in English .
+1634 : The B@@ a@@ l@@ t@@ i@@ c War , written by David W@@ e@@ b@@ e@@ r , has two s@@ e@@ q@@ u@@ e@@ l@@ s , 1634 : The Bavarian Crisis and R@@ i@@ n@@ g of F@@ i@@ r@@ e II ( written in English ) .
+1634 : The Ram Rebellion was written by Virginia DeMarce and has 5@@ 12 pages . It can be found as an e@@ book and has the ISBN number of 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 2@@ 0@@ 6@@ 0@@ -@@ 0 .
+The author of the novel 1634 The Ram R@@ e@@ b@@ e@@ l@@ l@@ i@@ o@@ n@@ s author is Virginia DeMarce , it is 5@@ 12 pages long ( also can be found as an e@@ -@@ book ) and has an ISBN number 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 2@@ 0@@ 6@@ 0@@ -@@ 0 .
+Virginia DeMarce is the author of 1634 : The Ram Rebellion , which has 5@@ 12 pages , the ISBN number 1@@ -@@ 4@@ 1@@ 6@@ 5@@ -@@ 2@@ 0@@ 6@@ 0@@ -@@ 0 and is available as an e book .
+The AIDS journal is published by Lippincott , Williams & Wilkins in the United Kingdom . The capital of the country is London and it 's leader is Elizabeth II .
+The AIDS journal was published in the United Kingdom , London , by Lippincott , Williams & Wilkins .
+P@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ d by Lippincott Williams & Wilkins , the AIDS journal was published in the United Kingdom , t@@ h@@ a capital of the UK is London and the h@@ e@@ a@@ d of state is Elizabeth II .
+A Fortress of Grey Ice was written by J@@ . V@@ . Jones and is available in print . T@@ h book which has the ISBN number 0@@ -@@ 7@@ 6@@ 5@@ 3@@ -@@ 0@@ 6@@ 3@@ 3@@ -@@ 6 . It also has the OCLC number 5@@ 1@@ 9@@ 6@@ 9@@ 1@@ 7@@ 3 .
+The author of A Fortress of Grey Ice , available in print , is J@@ .@@ V@@ . Jones and has an OCLC number of 5@@ 1@@ 9@@ 6@@ 9@@ 1@@ 7@@ 3 and the ISBN number is 0@@ -@@ 7@@ 6@@ 5@@ 3@@ -@@ 0@@ 6@@ 3@@ 3@@ -@@ 6 .
+J@@ .@@ V@@ . Jones a@@ u@@ t@@ h@@ o@@ red A Fortress of Grey Ice , made available in print it 's OCLC and ISBN n@@ u@@ m@@ b@@ e@@ r@@ s are 5@@ 1@@ 9@@ 6@@ 9@@ 1@@ 7@@ 3 and 0@@ -@@ 7@@ 6@@ 5@@ 3@@ -@@ 0@@ 6@@ 3@@ 3@@ -@@ 6 r@@ e@@ s@@ p@@ e@@ c@@ t@@ i@@ v@@ e@@ l@@ y .
+P@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ d by Viking Press , the I@@ r@@ i@@ s@@ h novel A Long Long Way was preceded by A@@ n@@ n@@ i@@ e D@@ u@@ n@@ n@@ e and followed by The Secret Scripture .
+A Long Long Way , written in Ireland and published by Viking Press , was preceded by A@@ n@@ n@@ i@@ e D@@ u@@ n@@ n@@ e , and followed by The Secret Scripture .
+A Long Long Way was written in Ireland and published by Viking Press . It was preceded by A@@ n@@ n@@ i@@ e D@@ u@@ n@@ n and followed by The Secret Scripture .
+A Severed Wasp is available in print , with The L@@ i@@ b@@ r@@ a@@ r@@ y of C@@ o@@ n@@ g@@ r@@ e@@ s@@ s C@@ l@@ a@@ s@@ s@@ i@@ f@@ i@@ c@@ a@@ t@@ i@@ on P@@ S@@ 3@@ 5@@ 2@@ 3@@ .@@ E@@ 5@@ 5 S@@ 4 1@@ 9@@ 8@@ 2 . Its ISBN number is 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 , and its OCLC number is 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 .
+The B@@ o@@ o@@ k A Severed Wasp ( ISBN number 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 ) is available in print and has the OCLC number 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 . It has the L@@ i@@ b@@ r@@ a@@ r@@ y of C@@ o@@ n@@ g@@ r@@ e@@ s@@ s C@@ l@@ a@@ s@@ s@@ i@@ f@@ i@@ c@@ a@@ t@@ i@@ on P@@ S@@ 3@@ 5@@ 2@@ 3@@ .@@ E@@ 5@@ 5 S@@ 4 1@@ 9@@ 8@@ 2 .
+A Severed Wasp is in print and has the OCLC number of 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 and the ISBN number 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 . The L@@ i@@ b@@ r@@ a@@ r@@ y of C@@ o@@ n@@ g@@ r@@ e@@ s@@ s C@@ l@@ a@@ s@@ s@@ i@@ f@@ i@@ c@@ a@@ t@@ i@@ on is P@@ S@@ 3@@ 5@@ 2@@ 3@@ .@@ E@@ 5@@ 5 S@@ 4 1@@ 9@@ 8@@ 2 .
+English is spoken in Great Britain and is the language used in A Severed Wasp . The book originates from the United States where the African Americans are an ethnic group , .
+A Severed Wasp was written in English ( the language originated in Great B@@ r@@ i@@ t@@ i@@ an ) in the United States . The US has many ethnic groups , including African American .
+A Severed Wasp was published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k and has 3@@ 8@@ 8 pages . The OCLC number of A Severed Wasp is 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 and the ISBN number of " 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 " .
+A Severed Wasp , published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k , has 3@@ 8@@ 8 pages . Its OCLC number is 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 , and ISBN number is 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 .
+A Severed Wasp is a hardcover book with 3@@ 8@@ 8 pages . It 's OCLC number is 8@@ 8@@ 0@@ 5@@ 7@@ 3@@ 5 and the ISBN number is 0@@ -@@ 3@@ 7@@ 4@@ -@@ 2@@ 6@@ 1@@ 3@@ 1@@ -@@ 8 .
+A Wizard of Mars , written by D@@ i@@ a@@ n@@ e D@@ u@@ a@@ n@@ e , is available in hardcover , has the ISBN number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 and the OCLC number 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 .
+A Wizard of Mars , OCLC number 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 , ISBN number 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 , was written by D@@ i@@ a@@ n@@ e D@@ u@@ a@@ n@@ e and published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k .
+A Wizard of Mars , ISBN number is " 9@@ 7@@ 8@@ -@@ 0@@ -@@ 1@@ 5@@ -@@ 2@@ 0@@ 4@@ 7@@ 7@@ 0@@ -@@ 2 " , OCLC number 3@@ 1@@ 8@@ 8@@ 7@@ 5@@ 3@@ 1@@ 3 , was written by D@@ i@@ a@@ n@@ e D@@ u@@ a@@ n@@ e and published in h@@ a@@ r@@ d@@ b@@ a@@ c@@ k .
+The Addiction journal c@@ o@@ n@@ c@@ e@@ r@@ n@@ s the t@@ o@@ p@@ i@@ c of Addiction and has the LCCN number 9@@ 3@@ 6@@ 4@@ 5@@ 9@@ 7@@ 8 . The abbreviated name is " Addiction " and the ISSN number is 1@@ 3@@ 6@@ 0@@ -@@ 0@@ 4@@ 4@@ 3 .
+Addiction is the abbreviated v@@ e@@ r@@ s@@ i@@ on of the Addiction journal and is a@@ b@@ o@@ u@@ t Addiction . The LCCN number is 9@@ 3@@ 6@@ 4@@ 5@@ 9@@ 7@@ 8 and the ISSN number is 1@@ 3@@ 6@@ 0@@ -@@ 0@@ 4@@ 4@@ 3 .
+The ISSN number of Addiction ( journal ) , which is a@@ b@@ o@@ u@@ t a@@ d@@ d@@ i@@ c@@ t@@ i@@ on , is 1@@ 3@@ 6@@ 0@@ -@@ 0@@ 4@@ 4@@ 3 . Addiction ( journal ) has the abbreviation of Addiction and the LCCN number 9@@ 3@@ 6@@ 4@@ 5@@ 9@@ 7@@ 8 .
+Cornell University in I@@ t@@ h@@ a@@ c@@ a , New York is the publisher of Administrative Science Quarterly . The University is affiliated with the Association of American Universities .
+Cornell University is located in I@@ t@@ h@@ a@@ c@@ a , New York state . It is affiliated with the Association of American Universities and p@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ s the Administrative Science Quarterly .
+Cornell University is located in the city of I@@ t@@ h@@ a@@ c@@ a , New York , it 's affiliated with the Association of American Universities and p@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ s the Administrative Science Quarterly .
+The book Alcatraz Versus the Evil Librarians was written in English and comes from the United States where the capital city is Washington DC and the African Americans are an ethnic group .
+Alcatraz Versus the Evil Librarians is an English book written in the USA where African Americans are an ethnic group and the c@@ a@@ p@@ i@@ t@@ o@@ l city is Washington .
+The American Journal of Mathematics is abbreviated to A@@ m . J@@ . Math . and comes under the discipline of Math . It is published b@@ i@@ m@@ o@@ n@@ t@@ h@@ l@@ y and has the ISSN number 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
+The American Journal of Mathematics s@@ t@@ u@@ d@@ i@@ e@@ s m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ s and is abbreviated to A@@ m . J@@ . Math . It is published b@@ i@@ m@@ o@@ n@@ t@@ h@@ l@@ y and has the ISSN number 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
+The American Journal of Mathematics , a@@ k@@ a A@@ m . J@@ . M@@ a@@ t@@ h@@ . , is a b@@ i@@ -@@ m@@ o@@ n@@ t@@ h@@ l@@ y journal a@@ b@@ o@@ u@@ t Mathematics , ISBN number 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
+The academic discipline of the American Journal of Mathematics is Mathematics , published in 1@@ 8@@ 7@@ 8 .
+The American Journal of Mathematics , a@@ b@@ b@@ r@@ e@@ i@@ v@@ a@@ t@@ e@@ d to A@@ m . J@@ . Math , s@@ t@@ u@@ d@@ i@@ e@@ s m@@ a@@ t@@ h@@ e@@ m@@ a@@ t@@ i@@ c@@ s . It was first published in 1@@ 8@@ 7@@ 8 and has an ISSN number of 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 .
+The American Journal of Mathematics was first published in 1@@ 8@@ 7@@ 8 and has the ISSN number 1@@ 0@@ 8@@ 0@@ -@@ 6@@ 3@@ 7@@ 7 . It f@@ a@@ l@@ l@@ s under the academic discipline of Math and the abbreviated title is A@@ m . J@@ . Math . .
+English is the language in Great Britain and the United States . A Loyal Character Dancer was published by Soho Press in the United States .
+English is spoken in Great Britain and the United States . A Loyal Character Dancer was published by Soho Press which are based in the United States .
+A Loyal Character Dancer is published by Soho Press which is based in the United States . The language spoken in the U.S. , and in Great Britain , is English .
+The language of the United States and Great Britain is English . The United States has an ethnic group called Asian Americans and is where A s@@ e@@ v@@ e@@ r@@ e@@ d Wasp originates from .
+English is the language of Great Britain and the United States . The country is the origin of A Severed Wasp and includes many Asian Americans .
+A Severed Wasp is from the English speaking ( also spoken in Great Britain ) United States . The United States is home to the Asian American ethnic group .
+Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups are the Native Americans . The English language is spoken in the US as well as Great Britain .
+The B@@ o@@ o@@ k Alcatraz Versus the Evil Librarians originated in the U.S. where Native Americans make up many of the countries ethnic groups . English is the national language of both Great Britain and the United States .
+English is spoken in Great Britain and is also the language of the United States , of which Native Americans are one of its ethnic groups and from where Alcatraz Versus the Evil Librarians has come .
+In the United Kingdom , the Prime Minister is David C@@ a@@ m@@ e@@ r@@ on and the q@@ u@@ e@@ e@@ n is Elizabeth II . The AIDS journal was published in the United Kingdom by Lippincott , Williams & Wilkins .
+AIDS Journal , published by Lippincott Williams and Wilkins , is from the United Kingdom . The leader of the UK was David C@@ a@@ m@@ e@@ r@@ on and Elizabeth II is the Q@@ u@@ e@@ e@@ n .
+The AIDS ( journal ) is published by Lippincott Williams & Wilkins in the United Kingdom , the two leaders of this country are David C@@ a@@ m@@ e@@ r@@ on and Elizabeth II .
+A Fortress of Grey Ice is from the United s@@ t@@ a@@ t@@ e@@ s where African American is an ethnic group and English is spoken l@@ i@@ k@@ e in Great Britain .
+English is spoken in Great Britain and the United States . A Fortress of Grey Ice is from the United States where one of the ethnic groups are African Americans .
+A Fortress of Grey Ice is from the United States where the African Americans are an ethnic group . English is spoken in the United States and also in Great Britain .
+A Fortress of Grey Ice is from the United States . T@@ h@@ a@@ t country has an ethnic group called Asian Americans and they speak English , same as in Great Britain .
+In Great Britain English is the language spoken . The same is t@@ r@@ u@@ e for the United States where there are many Asian Americans . It is also where A Fortress of Grey Ice is from .
+Asian Americans are one of the ethnic groups in the United States of which A Fortress of Grey Ice is also , the English language is spoken in both the United States and in Great Britain .
+A s@@ e@@ v@@ e@@ r@@ e@@ d Wasp originates from the United States where the leader is Barack Obama . The English language is spoken in the US where one of the ethnic groups is African American .
+The President of the United States is Barack Obama who is African American , which m@@ a@@ k@@ e@@ s up one of the many ethnic groups in the United States . The national language spoken in the U.S. is English . The book A Severed Wasp originated in the U.S.
+With a runway length of 2@@ 1@@ 9@@ 4@@ .@@ 0 , Abilene r@@ e@@ g@@ i@@ o@@ n@@ a@@ l airport serves A@@ b@@ i@@ l@@ i@@ e@@ n@@ e , part of Jones County , Texas , in the United States .
+Abilene Regional Airport has a runway length of 2@@ 1@@ 9@@ 4@@ .@@ 0 and serves Abilene , Jones County , Texas in the United States .
+Abilene , Texas is served by Abilene r@@ e@@ g@@ i@@ o@@ n@@ a@@ l airport which is 5@@ 4@@ 6 metres above sea level and has the ICAO location identifier of K@@ A@@ B@@ I . It has the runway name of 1@@ 7@@ L@@ /@@ 3@@ 5@@ R with a length of 2@@ 1@@ 9@@ 4@@ .@@ 0 .
+Abilene Regional airport , w@@ h@@ i@@ c@@ h@@ is 5@@ 4@@ 6 metres above sea level , has the ICAO location identifier of K@@ A@@ B@@ I and serves the city of Abilene , Texas . It has the runway named 1@@ 7@@ L@@ /@@ 3@@ 5@@ R which is 2@@ 1@@ 9@@ 4@@ .@@ 0 in length .
+R@@ u@@ n@@ w@@ a@@ y 1@@ 7@@ L@@ /@@ 3@@ 5@@ R at Abilene Regional Airport in Texas has a length of 2@@ 1@@ 9@@ 4 and is 5@@ 4@@ 6@@ m above sea level . It has the identifier of K@@ A@@ B@@ I .
+S@@ e@@ r@@ v@@ i@@ n@@ g the city of Abilene in Texas , is Abilene Regional Airport . It has the ICAO location identifier K@@ A@@ B@@ I and the runway name 1@@ 7@@ R@@ /@@ 3@@ 5@@ L . The airport is 5@@ 4@@ 6 metres above sea level and has a runway length of 2@@ 1@@ 9@@ 4@@ .@@ 0 .
+Abilene , Texas is served by Abilene Regional Airport which has the ICAO location identifier of K@@ A@@ B@@ I . It is located 5@@ 4@@ 6 metres above sea level and has a runway 2@@ 1@@ 9@@ 4 metres long with the name of 1@@ 7@@ R@@ /@@ 3@@ 5@@ L .
+Abilene Regional Airport serves the city of Abilene in Texas , it 's ICAO identifier is K@@ A@@ B@@ I , it 's runway length is 2@@ 1@@ 9@@ 4@@ .@@ 0 and is 5@@ 4@@ 6 metres above sea level , the name of the runway is 1@@ 7@@ R@@ /@@ 3@@ 5@@ L .
+The Adolfo Suárez Madrid – Barajas Airport is operated by ENAIRE and can be found in M@@ a@@ d@@ r@@ i@@ d@@ .@@ The airport is situated 6@@ 1@@ 0@@ .@@ 0 meters above sea level and has a 4@@ ,@@ 3@@ 4@@ 9 k@@ i@@ l@@ o@@ meters long runway whose name is 1@@ 4@@ L@@ /@@ 3@@ 2@@ R .
+A@@ d@@ o@@ f@@ o Suárez Madrid-Barajas Airport , which lies 6@@ 1@@ 0 metres above sea level , is located in Madrid and operated by ENAIRE . The airport 's runway , named 1@@ 4@@ L@@ /@@ 3@@ 2@@ R , has a length of 4@@ 3@@ 4@@ 9@@ .@@ 0 .
+Agra Airport is in Uttar Pradesh B@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and , it 's ICAO location identifier is V@@ I@@ A@@ G . the leader of U@@ t@@ t@@ e@@ r@@ a@@ r Pradesh is Ram N@@ a@@ i@@ k .
+Agra Airport is located in Uttar Pradesh . Uttar Pradesh is part of both A@@ w@@ a@@ d@@ h a@@ d B@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and . The Airport 's ICAO location identifier is " V@@ I@@ A@@ G " . The leader of Uttar Pradesh is called Ram N@@ a@@ i@@ k .
+Ram N@@ a@@ i@@ k is the leader of Uttar Pradesh which is part of A@@ w@@ a@@ d@@ h and B@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and . It is the location of Agra airport which has the native name of K@@ h@@ e@@ r@@ i@@ a Air Force S@@ t@@ a@@ t@@ i@@ on .
+Agra Airport , which has the native name of K@@ h@@ e@@ r@@ i@@ a Air Force S@@ t@@ a@@ t@@ i@@ on , is in Uttar Pradesh , part of A@@ w@@ a@@ d@@ h and B@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and , where Ram N@@ a@@ i@@ k is the leader .
+Agra Airport is located in Uttar Pradesh which is part of A@@ w@@ a@@ d@@ h and B@@ u@@ n@@ d@@ e@@ l@@ k@@ h@@ and . K@@ h@@ e@@ r@@ i@@ a Air Force S@@ t@@ a@@ t@@ i@@ on is its native name . Ram N@@ a@@ i@@ k is the leader in Uttar Pradesh .
+Al Asad airbase is operated by the United States Air Force . S@@ o@@ m@@ e of its aircraft include the Boeing C-17 Globemaster III ( transport aircraft ) , G@@ e@@ n@@ e@@ r@@ a@@ l D@@ y@@ n@@ a@@ m@@ i@@ c@@ s F@@ -@@ 1@@ 6 F@@ i@@ g@@ h@@ t@@ i@@ n@@ g F@@ a@@ l@@ c@@ on ( aircraft fighter ) , and the Lockheed AC-130 which can be found on U@@ S@@ A@@ F aircraft carriers . The U@@ S@@ A@@ F was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the I@@ n@@ v@@ a@@ s@@ i@@ on of P@@ a@@ n@@ a@@ m@@ a .
+Al Asad airbase is operated by the United States Air Force which was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in battles at the i@@ n@@ v@@ a@@ s@@ i@@ on of P@@ a@@ n@@ a@@ m@@ a . They deploy the Lockheed AC-130 on their aircraft carriers , the Boeing C-17 Globemaster III as transport aircraft and the G@@ e@@ n@@ e@@ r@@ a@@ l D@@ y@@ n@@ a@@ m@@ i@@ c@@ s F@@ -@@ 1@@ 6 F@@ i@@ g@@ h@@ t@@ i@@ n@@ g F@@ a@@ l@@ c@@ on as fighter aircraft .
+The United States Air Force , which was i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the I@@ n@@ v@@ a@@ s@@ i@@ on of P@@ a@@ n@@ a@@ m@@ a , are the o@@ p@@ e@@ r@@ a@@ t@@ o@@ r@@ s of Al Asad airbase . The U@@ S@@ A@@ F have aircraft including : the Lockheed AC-130 attack aircraft , the Boeing C-17 Globemaster III t@@ r@@ a@@ n@@ s@@ p@@ o@@ r@@ t@@ e@@ r and the G@@ e@@ n@@ e@@ r@@ a@@ l D@@ y@@ n@@ a@@ m@@ i@@ c@@ s F@@ -@@ 1@@ 6 F@@ i@@ g@@ h@@ t@@ i@@ n@@ g F@@ a@@ l@@ c@@ on fighter p@@ l@@ a@@ n@@ e .
+The United States Air Force has f@@ o@@ u@@ g@@ h@@ t in the K@@ o@@ r@@ e@@ an War . It is the operating organisation for Al Asad airbase . It has a Boeing C-17 Globemaster III transport aircraft and a@@ d@@ d@@ i@@ t@@ i@@ o@@ n@@ a@@ l@@ l@@ y , the Lockheed AC-130 can be found on U@@ S@@ A@@ F aircraft carriers . M@@ c@@ D@@ o@@ n@@ n@@ e@@ l@@ l D@@ o@@ u@@ g@@ l@@ as F - E@@ a@@ g@@ l@@ e was a F@@ i@@ g@@ h@@ t@@ e@@ r A@@ i@@ r@@ c@@ r@@ a@@ f@@ t of the United States Air Force .
+The United States Air Force , which f@@ o@@ u@@ g@@ h@@ t battles in the K@@ o@@ r@@ e@@ an w@@ a@@ r , is the operating organisation for Al Asad airbase . The US A@@ i@@ r@@ f@@ o@@ r@@ c@@ e has a Boeing C-17 Globemaster III transport aircraft , an aircraft fighter called the M@@ c@@ D@@ o@@ n@@ n@@ e@@ l@@ l D@@ o@@ u@@ g@@ l@@ as F@@ -@@ 1@@ 5 E@@ a@@ g@@ l@@ e and an attack aircraft named The Lockheed AC-130 .
+The transport aircraft for the United States Air Force is the Lockheed C@@ -@@ 1@@ 3@@ 0 H@@ e@@ r@@ c@@ u@@ l@@ e@@ s . A@@ n@@ d Lockheed AC-130 can be found on U@@ S@@ A@@ F aircraft carriers . B@@ o@@ t@@ h the K@@ o@@ r@@ e@@ an War and the I@@ n@@ v@@ a@@ s@@ i@@ on of G@@ r@@ e@@ n@@ d@@ a i@@ n@@ v@@ o@@ l@@ v@@ e@@ d the United States Air Force which currently operates the Al Asad Airbase .
+The U@@ S@@ A@@ F which f@@ o@@ u@@ g@@ h@@ t in the K@@ o@@ r@@ e@@ an War and i@@ n@@ v@@ a@@ d@@ e@@ d G@@ r@@ e@@ n@@ a@@ d@@ a , operates the Al Asad airbase . A@@ m@@ o@@ n@@ g the aircraft found on U@@ S@@ A@@ F carriers is the Lockheed AC-130 H@@ e@@ r@@ c@@ u@@ l@@ e@@ s which is a transport p@@ l@@ a@@ n@@ e .
+Al Asad Airbase is operated by the United States Air Force and uses Lockheed AC-130 attack air c@@ r@@ a@@ f@@ t@@ s and Lockheed C@@ -@@ 1@@ 3@@ 0 H@@ e@@ r@@ c@@ u@@ l@@ e@@ s transport a@@ i@@ r@@ c@@ r@@ a@@ f@@ t@@ s . The U@@ S@@ A@@ F p@@ a@@ r@@ t@@ i@@ c@@ i@@ p@@ a@@ t@@ e@@ d in the K@@ o@@ r@@ e@@ an War and the I@@ n@@ v@@ a@@ s@@ i@@ on of G@@ r@@ e@@ n@@ a@@ d@@ a .
+The I@@ n@@ v@@ a@@ s@@ i@@ o@@ n@@ s of G@@ r@@ e@@ n@@ a@@ d@@ a and P@@ a@@ n@@ a@@ m@@ a in i@@ n@@ v@@ o@@ l@@ v@@ e@@ d the United States Air Force which now operates the Al Asad airbase . The Air Force has s@@ e@@ v@@ e@@ r@@ a@@ l t@@ y@@ p@@ e@@ s of aircraft s@@ u@@ c@@ h as the Boeing C-17 Globemaster III transport aircraft and the Lockheed AC-130 which can be found on U@@ S@@ A@@ F aircraft carriers .
+Al Asad airbase is operated by The United States Air Force . The U@@ S@@ A@@ F is e@@ q@@ u@@ i@@ p@@ p@@ e@@ d with the attack aircraft , Lockheed AC-130 and Boeing C-17 Globemaster III transport aircraft . The U@@ S@@ A@@ F has been i@@ n@@ v@@ o@@ l@@ v@@ e@@ d in the I@@ n@@ v@@ a@@ s@@ i@@ on of G@@ r@@ e@@ n@@ a@@ d@@ a and i@@ n@@ v@@ a@@ s@@ i@@ on of P@@ a@@ n@@ a@@ m@@ a .
+Allama Iqbal International airport is located in Punjab Pakistan and serves Lahore , Pakistan . The Pakistan Civil Aviation Authority g@@ o@@ v@@ e@@ r@@ n@@ s the Allama Iqbal International Airport . The country is lead by A@@ n@@ w@@ a@@ r Z@@ a@@ h@@ e@@ e@@ r J@@ a@@ m@@ a@@ l@@ i .
+Allama Iqbal International Airport , which serves the city of Lahore , is located in Punjab , Pakistan and is operated by the Pakistan Civil Aviation Authority . Pakistan is led by A@@ n@@ w@@ a@@ r Z@@ a@@ h@@ e@@ e@@ r J@@ a@@ m@@ a@@ l@@ i .
+In the city of Lahore , Punjab , Pakistan , there is an airport called Allama Iqbal International Airport . It is operated by the Pakistan Civil Aviation Authority , in Punjab Pakistan , which is led by A@@ n@@ w@@ a@@ r Z@@ a@@ h@@ e@@ e@@ r J@@ a@@ m@@ a@@ l@@ i .
+The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport . The airport serves the city of Lahore , in Pakistan where S@@ h@@ e@@ h@@ b@@ a@@ z S@@ h@@ a@@ r@@ i@@ f is the leader , It is also where the Allama Iqbal International Airport is found , in Punjab , Pakistan .
+The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport located in Punjab , Pakistan , which is lead by S@@ h@@ e@@ h@@ b@@ a@@ z S@@ h@@ a@@ r@@ i@@ f . The airport serves Lahore in Pakistan .
+Located in Texas , and s@@ e@@ r@@ v@@ i@@ n@@ g Andrews , is Andrews County Airport . The airport is 9@@ 7@@ 3@@ .@@ 0 b@@ e@@ l@@ o@@ w sea level , has a runway length of 8@@ 9@@ 6 , and a runway with the name 1@@ 1@@ /@@ 2@@ 9 .
+Andrews County Airport in Texas has a runway length of 8@@ 9@@ 6 and serves the city of Andrews . It is located 9@@ 7@@ 3 metres b@@ e@@ l@@ o@@ w sea level and has the runway name 1@@ 1@@ /@@ 2@@ 9 .
+Andrews County Airport is located in Texas . It serves the city of Andrews and is 9@@ 7@@ 3 metres above sea level . Its runway length is named 1@@ 1@@ /@@ 2@@ 9 and is 8@@ 9@@ 6 long .
+Andrews County Airport is in Texas in the U@@ .@@ S@@ .@@ A. where Spanish is one of the languages spoken . H@@ o@@ u@@ s@@ t@@ on is the largest city in the state and its capital is Austin .
+Andrews County Airport is located in Texas , United States . The largest city in Texas is H@@ o@@ u@@ s@@ t@@ on , the state capital is Austin and Spanish is one of the languages spoken there .
+H@@ o@@ u@@ s@@ t@@ on is the largest city in Texas , where Austin is the C@@ a@@ p@@ i@@ t@@ a@@ l city . Andrews County Airport is located in Texas and S@@ o@@ m@@ e t@@ e@@ x@@ a@@ n@@ s can speak Spanish .
+Andrews County Airport is located in Texas , a state where Spanish is spoken and the people are called T@@ e@@ x@@ a@@ n@@ s . H@@ o@@ u@@ s@@ t@@ on is the largest city in Texas and Austin is the state 's capital .
+Andrews County Airport is located in Texas where the Spanish language is spoken and the people are known as T@@ e@@ x@@ a@@ n@@ s . The capital city is Austin but the largest city is H@@ o@@ u@@ s@@ t@@ on .
+The Angola International Airport is in Í@@ c@@ o@@ l@@ o e Bengo , ( Luanda Province ) , The airport serves Luanda , and is 1@@ 5@@ 9 metres above sea level .
+Angola International Airport is located at Í@@ c@@ o@@ l@@ o e Bengo in Luanda p@@ r@@ o@@ v@@ i@@ n@@ c@@ e , A@@ n@@ g@@ o@@ l@@ a@@ .@@ The Airport is situated 1@@ 5@@ 9 meters above sea level and serves the city of Luanda .
+Angola International Airport , which is located in Í@@ c@@ o@@ l@@ o e Bengo in the Luanda Province in Angola , serves Luanda . The airport lies 1@@ 5@@ 9 metres above sea level .
+Angola International Airport is located in Í@@ c@@ o@@ l@@ o e Bengo , Luanda , Angola . The runway is 4@@ 0@@ 0@@ 0@@ f@@ t long and is 1@@ 5@@ 9@@ m a@@ .@@ s@@ .@@ l@@ .
+Angola International airport is located in I@@ c@@ o@@ l@@ o e Bengo , which is a part of Luanda Province , located in Angola . The airport is 1@@ 5@@ 9 meters above sea level and its runway has a l@@ e@@ n@@ g@@ h@@ t of 4@@ 0@@ 0@@ 0@@ .@@ 0 .
+Angola International Airport is located in I@@ c@@ o@@ l@@ o e Bengo , which is located in the Luanda Province , Angola . The airport is situated 1@@ 5@@ 9 meters above sea level and it has a runway that m@@ e@@ a@@ s@@ u@@ r@@ e@@ s a length of 4@@ 0@@ 0@@ 0@@ .@@ 0 .
+The Flemish d@@ e@@ p@@ a@@ r@@ t@@ m@@ e@@ n@@ t of M@@ o@@ b@@ i@@ l@@ i@@ t@@ y and Public W@@ o@@ r@@ k@@ s is the operating organisation of Antwerp International Airport which is owned by the Flemish Region . The airport serves the city of Antwerp , is 1@@ 2@@ .@@ 0 metres above sea level , and has a runway length of 6@@ 0@@ 0@@ .@@ 0 .
+The Flemish Region o@@ w@@ n@@ s Antwerp International Airport which is operated by the Flemish Department of M@@ o@@ b@@ i@@ l@@ i@@ t@@ y and Public W@@ o@@ r@@ k@@ s and serves the city of Antwerp . The runway length is 6@@ 0@@ 0@@ .@@ 0 and the airport is 12 metres above sea level .
+Antwerp International Airport is owned by the Flemish Region and located in the city of Antwerp . The airport has a runway length of 6@@ 0@@ 0@@ .@@ 0 , elevation of 1@@ 2@@ .@@ 0 metres above sea level and the Flemish d@@ e@@ p@@ a@@ r@@ t@@ m@@ e@@ n@@ t of M@@ o@@ b@@ i@@ l@@ i@@ t@@ y and Public W@@ o@@ r@@ k@@ s is the operating organisation .
+The city of Appleton is served by Appleton International Airport located 2@@ 8@@ 0 metres above sea level in Greenville , Wisconsin . The runway at the airport is 3@@ /@@ 2@@ 1 and is 2@@ 4@@ 3@@ 9 in length .
+Appleton International Airport can be found in Greenville , Wisconsin and serves the city of A@@ p@@ p@@ l@@ e@@ t@@ o@@ n@@ .@@ It is situated 2@@ 8@@ 0 meters above sea level and has a 2@@ ,@@ 4@@ 3@@ 9 k@@ i@@ l@@ o@@ meters long runway called 3@@ /@@ 2@@ 1 .
+Appleton International Airport , which serves the city of Appleton is located in Greenville , Wisconsin . It is elevated 2@@ 8@@ 0@@ 1 meters above sea level . The airport 's runway , which is named 3@@ /@@ 2@@ 1 m@@ e@@ a@@ s@@ u@@ r@@ e@@ s a l@@ e@@ n@@ g@@ h@@ t of 2@@ 4@@ 3@@ 9 u@@ n@@ its .
+The city of Appleton is served by Appleton International Airport in Greenville ( part of M@@ e@@ n@@ a@@ s@@ h@@ a ) , C@@ l@@ a@@ y@@ t@@ on W@@ i@@ n@@ n@@ e@@ b@@ a@@ g@@ o County , Wisconsin , United States .
+Appleton , Wisconsin is served by Appleton International Airport which is located in Greenville ( part of M@@ e@@ n@@ a@@ s@@ h@@ a town ) , C@@ l@@ a@@ y@@ t@@ on W@@ i@@ n@@ n@@ e@@ b@@ a@@ g@@ o County , Wisconsin , USA .
+Ardmore Airport in New Zealand is operated by the Civil Aviation Authority and is 34 metres above sea level . It has a runway named 0@@ 3@@ R@@ /@@ 2@@ 1@@ L which is 1@@ ,@@ 4@@ 11 long and its t@@ h@@ i@@ r@@ d runway has a poaceae surface .
+Ardmore Airport ( New Zealand ) is operated by the Civil Aviation Authority of New Zealand . Its 3rd runway is made of Poaceae and its name is 0@@ 3@@ R@@ /@@ 2@@ 1@@ L . It is 1@@ 4@@ 11 m long and the airport is 34 m above sea level .
+The Civil Aviation Authority of New Zealand is the operating organisation for Ardmore Airport , New Zealand and is situated 34 meters above sea l@@ e@@ v@@ e@@ l@@ .@@ The airport 's 3rd runway is s@@ u@@ r@@ f@@ a@@ c@@ e@@ d with Poaceae and has a 1@@ ,@@ 4@@ 11 m@@ e@@ t@@ e@@ r long runway called " 0@@ 3@@ R@@ /@@ 2@@ 1@@ L " .
+Turkmenistan Airlines operates Ashgabat International Airport in Ashgabat . The airport is 2@@ 11 metres above sea level , has the runway length of 2@@ 9@@ 8@@ 9@@ .@@ 0 and 1@@ 2@@ R@@ /@@ 3@@ 0@@ L is the runway name .
+Ashgabat International Airport is operated by Turkmenistan Airlines . The runway 1@@ 2@@ R@@ /@@ 3@@ 0@@ L is 2@@ 9@@ 8@@ 9@@ m long and is 2@@ 1@@ 1@@ m a@@ .@@ s@@ .@@ l@@ .
+Ashgabat International Airport is located in Ashgabat and is operated b@@ y@@ Turkmenistan Airlines . It is 2@@ 11 metres above sea level and has a runway length of 2@@ 9@@ 8@@ 9@@ .@@ 0 . It has a runway named 1@@ 2@@ R@@ /@@ 3@@ 0@@ L .
+Atlantic City International Airport has a runway length of 1@@ ,@@ 8@@ 7@@ 3 and is operated by the Port Authority of New York and New Jersey . It is situated 23 metres above sea level , has the runway name of 4@@ /@@ 2@@ 2 and is known by the ICAO location identifier K@@ A@@ C@@ Y .
+R@@ u@@ n@@ w@@ a@@ y 4@@ /@@ 2@@ 2 at Atlantic City International Airport has an elevation of 2@@ 3@@ m above sea level and its length is 1@@ 8@@ 7@@ 3 . It is operated by Port Authority of New York and New Jersey under the location Identifier of K@@ A@@ C@@ Y .
+The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport , which lies 2@@ 3@@ .@@ 0 meters above sea level . The airport 's ICAO Location Identifier is K@@ A@@ C@@ Y . The 4@@ /@@ 2@@ 2 is the name of the runway in Atlantic City International Airport and it m@@ e@@ a@@ s@@ u@@ r@@ e@@ s 1@@ 8@@ 7@@ 3 .
+The Flemish G@@ o@@ v@@ e@@ r@@ n@@ m@@ e@@ n@@ t have j@@ u@@ r@@ i@@ s@@ d@@ i@@ c@@ t@@ i@@ on o@@ v@@ e@@ r the Flemish Region of Belgium . The leader of the country is C@@ h@@ a@@ r@@ l@@ e@@ s M@@ i@@ c@@ h@@ e@@ l and the city of Antwerp is served by Antwerp International Airport .
+Antwerp International Airport serves the city of Antwerp in Belgium , the country where the leader is C@@ h@@ a@@ r@@ l@@ e@@ s M@@ i@@ c@@ h@@ e@@ l . The Flemish Region can be found in Belgium and it is led by the Flemish G@@ o@@ v@@ e@@ r@@ n@@ m@@ e@@ n@@ t who has j@@ u@@ r@@ i@@ s@@ d@@ i@@ c@@ t@@ i@@ on o@@ v@@ e@@ r it .
+Antwerp International Airport serves Antwerp . The Flemish region is in the country of Belgium and it is led by the Flemish G@@ o@@ v@@ e@@ r@@ n@@ m@@ e@@ n@@ t . The j@@ u@@ r@@ i@@ s@@ d@@ i@@ c@@ t@@ i@@ on of the Flemish G@@ o@@ v@@ e@@ r@@ n@@ m@@ e@@ n@@ t is in the Flemish Region and the leader of Belgium is C@@ h@@ a@@ r@@ l@@ e@@ s M@@ i@@ c@@ h@@ e@@ l .
+Adirondack Regional Airport serves the city of Lake P@@ l@@ a@@ c@@ i@@ d and Saranac Lake in New York . Saranac Lake is part of Harrietstown and E@@ s@@ s@@ e@@ x County in New York in the U.S.
+Adirondack Regional Airport serves the c@@ i@@ t@@ i@@ e@@ s of Lake P@@ l@@ a@@ c@@ i@@ d and Saranac Lake , New York , United S@@ t@@ a@@ t@@ e@@ s@@ .@@ Saranac Lake , New York is part of Harrietstown , E@@ s@@ s@@ e@@ x County , New York .
+Adirondack Regional Airport serves the c@@ i@@ t@@ i@@ e@@ s of Lake P@@ l@@ a@@ c@@ i@@ d and Saranac Lake in New York state , United States . Saranac Lake , New York is part of Harrietstown in E@@ s@@ s@@ e@@ x County , New York .
+Alan Bean was an American born in Wheeler , Texas . He served as a test pilot and became a crew member of Apollo 12 , which was operated by NASA .
+Apollo 12 was operated by NASA and its crew members i@@ n@@ c@@ l@@ u@@ d@@ e@@ d American national Alan Bean . He was born in Wheeler , Texas and served as a test pilot .
+Alan Bean , a US national , was born in Wheeler , Texas . He served as a test pilot before b@@ e@@ c@@ o@@ m@@ i@@ n@@ g part of the NASA operated Apollo 12 mission as a crew member .
+Alan Shepard , born in New Hampshire on November 18 , 1923 , graduated from NWC in 1957 with a M@@ .@@ A . He died in California on July 2@@ 1 , 1@@ 9@@ 9@@ 8 .
+Alan Shepard was born in New Hampshire on the 1@@ 8@@ t@@ h of November , 1923 . He graduated from NWC in 1957 with a M.A. O@@ n the 2@@ 1st of July , 1@@ 9@@ 9@@ 8 , he p@@ a@@ s@@ s@@ e@@ d away in California .
+Alan Shepard was born on the 1@@ 8@@ t@@ h of November , 1923 in New Hampshire and p@@ a@@ s@@ s@@ e@@ d away on the 2@@ 1st of July , 1@@ 9@@ 9@@ 8 in California . He graduated with a M.A. from NWC in 1957 .
+Alan Shepard , born in New Hampshire , has died in California . A@@ f@@ t@@ e@@ r g@@ r@@ a@@ d@@ u@@ a@@ t@@ i@@ n@@ g from NWC , M@@ A in 1957 he served as a test pilot .
+Alan Shepard has died in California . He was born in New Hampshire and went to school at NWC , g@@ r@@ a@@ d@@ u@@ a@@ t@@ i@@ n@@ g with an M@@ A in 1957 , He served as a test pilot .
+Alan Shepard has died in California . He was born in New Hampshire and graduated from NWC M@@ A in 1957 . He served as a test pilot .
+The l@@ a@@ t@@ e Alan Shepard was born in New Hampshire , and chosen by NASA in 1959 a a crew member of Apollo 14 .
+The l@@ a@@ t@@ e Alan Shepard was born in New Hampshire . He was selected by NASA in 1959 and served as a crew member of NASA operated Apollo 14 .
+Alan Shepard was originally from New Hampshire and joined NASA in 1959 where he became a member of the Apollo 14 crew . M@@ r Shepard p@@ a@@ s@@ s@@ e@@ d away .
+Alan Bean ( born in Wheeler , Texas ) was a crew member of Apollo 12 operated by NASA and was in space 1@@ 0@@ 0@@ 3@@ 0@@ 5 minutes . Apollo 12 was c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ d by David Scott and Alfred W@@ o@@ r@@ d@@ e@@ n was a backup pilot .
+Alfred W@@ o@@ r@@ d@@ e@@ n was a backup pilot on the NASA operated Apollo 12 on which David Scott the commander and Alan Bean , who spent a total of 1@@ 0@@ 0@@ 3@@ 0@@ 5 minutes in space , was a c@@ r@@ e@@ w@@ m@@ an .
+Alan Shepard ( born November 1@@ 8@@ t@@ h , 1923 , New Hampshire ) was awarded the United States Navy Distinguished Service Medal which is higher than the d@@ e@@ p@@ a@@ r@@ t@@ m@@ e@@ n@@ t of c@@ o@@ m@@ m@@ e@@ r@@ c@@ e g@@ o@@ l@@ d m@@ e@@ d@@ a@@ l has died in California .
+Alan Shepard was born on 18 November 1923 in New Hampshire . He was awarded the Distinguished Service Medal , which is higher than the Department of Commerce G@@ o@@ l@@ d Medal , by the US Navy . He died in California .
+Alan Shepard was born in New Hampshire on 18 November 1923 . B@@ e@@ f@@ o@@ r@@ e his d@@ e@@ a@@ t@@ h in California he h@@ a@@ d been awarded the Distinguished Service Medal by the US Navy an award higher than the Department of Commerce G@@ o@@ l@@ d Medal .
+Elliot See was born in Dallas and later attended the University of Texas at Austin . The University of Texas at Austin is affiliated with University of Texas S@@ y@@ s@@ t@@ e@@ m and is c@@ o@@ m@@ p@@ e@@ t@@ i@@ n@@ g in the Big 12 Conference . N@@ o@@ w@@ a@@ d@@ a@@ y@@ s , G@@ r@@ e@@ g@@ o@@ r@@ y L@@ . F@@ e@@ n@@ v@@ e@@ s is the President of the University .
+Elliot See was born in Dallas and attended the University of Texas at Austin which is affiliated with the University of Texas S@@ y@@ s@@ t@@ e@@ m and competed in the Big 12 Conference in Austin . G@@ r@@ e@@ g@@ o@@ r@@ y L@@ . F@@ e@@ n@@ v@@ e@@ s is the a@@ p@@ p@@ o@@ i@@ n@@ t@@ e@@ d president of the University of Texas at Austin .
+Elliot See was born in Dallas and was a student at University of Texas at Austin . This University , whose president is G@@ r@@ e@@ g@@ o@@ r@@ y L@@ . F@@ e@@ n@@ v@@ e@@ s , is affiliated with the University of Texas S@@ y@@ s@@ t@@ e@@ m . The University of Texas at Austin c@@ o@@ m@@ p@@ e@@ t@@ e@@ s in the Big 12 Conference .
+Elliot See , a graduate of the University of Texas at Austin , p@@ a@@ s@@ s@@ e@@ d away on 2@@ 8@@ t@@ h February 1966 in St. Louis . He was born in Dallas .
+Elliot See was born in Dallas and attended the University of Texas at Austin . He died in St Louis on 2@@ 8 February 1966 .
+Elliot See , who was born on the 2@@ 8@@ t@@ h February 1966 in Dallas , has died in St Louis . He will be r@@ e@@ m@@ e@@ m@@ b@@ e@@ r@@ e@@ d as a g@@ r@@ e@@ at student at University of Texas at Austin .
+Elliot See was born in Dallas , which is a county in Texas . He attended the University of Texas at Austin , which is affiliated to the University of Texas system . The University of Texas at Austin will be part of the Big 12 Conference c@@ o@@ m@@ p@@ e@@ t@@ i@@ t@@ i@@ on .
+Elliot See was born in Dallas , Texas and attended the University of Texas ( affiliated to the University of Texas system ) which competed in the Big 12 c@@ o@@ n@@ f@@ e@@ r@@ e@@ n@@ c@@ e .
+Elliot See , who was born in Dallas , Texas , attended the University of Texas at Austin ( affiliated to the University of Texas system ) which will compete in the b@@ i@@ g 12 c@@ o@@ n@@ f@@ e@@ r@@ e@@ n@@ c@@ e .
+Elliot See was born in Dallas and s@@ t@@ u@@ died at the University of Texas in Austin ( which is affiliated to the university of Texas system ) . He died in St. Louis .
+Elliot See was born in Dallas and s@@ t@@ u@@ died at Austin University ( part of the university of Texas system ) . He died in St. Louis .
+Elliot See , who was born in Dallas , has died in St Louis . He graduated from the University of Texas at Austin which is affiliated to the University of Texas system .
+William Anders was a member of the Apollo 8 crew ( operated by NASA ) and he retired on September 1st , 1969 . Frank Borman was the commander of Apollo 8 and Buzz Aldrin was a b@@ a@@ c@@ k up pilot .
+William Anders , who retired on September 1st , 1969 , was a crew member on Apollo 8 and served under commander Frank Borman . Apollo 8 was operated by NASA with Buzz Aldrin as backup pilot .
+William Anders joined NASA and was a member of Apollo 8 along with Frank Borman as C@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ r and Buzz Aldrin as b@@ a@@ c@@ k up pilot . William Anders retired on September 1st 1969 .
+20 Fenchurch Street is located within the United Kingdom , where London is the capital , and the currency is p@@ o@@ u@@ n@@ d@@ s s@@ t@@ e@@ r@@ l@@ i@@ n@@ g . B@@ o@@ r@@ is Johnson is the leader in London , and one of the leaders of the United Kingdom is Elizabeth II .
+The United Kingdom uses the currency of the p@@ o@@ u@@ n@@ d s@@ t@@ e@@ r@@ l@@ i@@ n@@ g and is lead by Elizabeth II along with B@@ o@@ r@@ is Johnson . The capital city is London and the country is also the location of 20 Fenchurch Street .
+250 Delaware Avenue was built in B@@ u@@ f@@ f@@ a@@ l@@ o New York at a cost of 1@@ 1@@ 0 m@@ i@@ l@@ l@@ i@@ on d@@ o@@ l@@ l@@ a@@ r@@ s . C@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on b@@ e@@ g@@ an in January 2014 and the building has 12 floors with an area of 3@@ 0@@ 8@@ 4@@ 3@@ .@@ 8 square metres .
+There are 12 floors at 250 Delaware Avenue in B@@ u@@ f@@ f@@ a@@ l@@ o , New York . C@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on , which b@@ e@@ g@@ an in January 2014 cost 1@@ 1@@ 0 m@@ i@@ l@@ l@@ i@@ on d@@ o@@ l@@ l@@ a@@ r@@ s for a floor area of 3@@ 0@@ 8@@ 4@@ 3@@ .@@ 8 square metres .
+R@@ a@@ h@@ m E@@ m@@ a@@ n@@ u@@ e@@ l is the leader of Chicago , D@@ u@@ P@@ a@@ g@@ e County , Illinois , United States which is the location of the building at 300 North LaSalle which has 6@@ 0 floors .
+300 North LaSalle has 6@@ 0 floors and is located in Chicago , D@@ u@@ P@@ a@@ g@@ e County , Illinois , United States . The leader of Chicago is R@@ a@@ h@@ m E@@ m@@ a@@ n@@ u@@ e@@ l .
+300 North LaSalle , which has 6@@ 0 floors , is located in Chicago which is part of D@@ u@@ P@@ a@@ g@@ e County in Illinois , United States . The leader of Chicago is R@@ a@@ h@@ m E@@ m@@ a@@ n@@ u@@ e@@ l .
+3Arena ( owned by L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t ) is located in Dublin , Republic of Ireland . D@@ á@@ i@@ l É@@ i@@ r@@ e@@ a@@ n@@ n is a leader in Dublin , which is part of L@@ e@@ i@@ n@@ s@@ t@@ e@@ r .
+3Arena , owned by L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t , is located in Dublin , which is part of L@@ e@@ i@@ n@@ s@@ t@@ e@@ r in the Republic of Ireland . D@@ á@@ i@@ l É@@ i@@ r@@ e@@ a@@ n@@ n is a leader in Dublin .
+Located in Dublin , L@@ e@@ i@@ n@@ s@@ t@@ e@@ r , 3Arena is owned by L@@ i@@ v@@ e N@@ a@@ t@@ i@@ on E@@ n@@ t@@ e@@ r@@ t@@ a@@ i@@ n@@ m@@ e@@ n@@ t . Dublin is also part of the Republic of Ireland and is lead by D@@ á@@ i@@ l É@@ i@@ r@@ e@@ a@@ n@@ n .
+Adisham Hall in Sri Lanka was constructed b@@ e@@ t@@ w@@ e@@ e@@ n 1927 and 1@@ 9@@ 3@@ 1 at St B@@ e@@ n@@ e@@ d@@ i@@ c@@ t@@ s M@@ o@@ n@@ a@@ s@@ t@@ e@@ r@@ y , Adisham , H@@ a@@ p@@ u@@ t@@ h@@ a@@ l@@ e , Sri Lanka in the T@@ u@@ d@@ or and J@@ a@@ c@@ o@@ b@@ e@@ an style of architecture .
+C@@ o@@ n@@ s@@ t@@ r@@ u@@ c@@ t@@ i@@ on of Adisham Hall t@@ o@@ o@@ k place b@@ e@@ t@@ w@@ e@@ e@@ n 1927 and 1@@ 9@@ 3@@ 1 in the architectural style of T@@ u@@ d@@ or and J@@ a@@ c@@ o@@ b@@ e@@ an . It is located at St B@@ e@@ n@@ e@@ d@@ i@@ c@@ t 's M@@ o@@ n@@ a@@ s@@ t@@ e@@ r@@ y , Adisham , H@@ a@@ p@@ u@@ t@@ h@@ a@@ l@@ e , Sri Lanka .
+Adisham Hall is located in Haputale , Sri Lanka . The capital of Sri Lanka is Sri Jayawardenepura K@@ o@@ t@@ t@@ e , the language used in the country is T@@ a@@ m@@ i@@ l and the currency is the Sri L@@ a@@ n@@ k@@ an R@@ u@@ p@@ e@@ e .
+Adisham Hall is in Haputale , Sri Lanka . The capital of Sri Lanka is Sri Jayawardenepura K@@ o@@ t@@ t@@ e , the language spoken there is T@@ a@@ m@@ i@@ l and the currency is the Sri L@@ a@@ n@@ k@@ an R@@ u@@ p@@ e@@ e .
+A@@ d@@ m@@ i@@ s@@ h@@ a@@ m Hall is located at Haputale , Sri Lanka . Sri Jayawardenepura K@@ o@@ t@@ t@@ e is the capital of Sri Lanka , where the currency is the Sri L@@ a@@ n@@ k@@ an R@@ u@@ p@@ e@@ e and the language used is T@@ a@@ m@@ i@@ l .
+Ranil Wickremesinghe is the leader of Sri Lanka where the capital city is Sri Jayawardenepura K@@ o@@ t@@ t@@ e and the currency is the Sri L@@ a@@ n@@ k@@ an rupee . Adisham Hall is located in the country at Haputale .
+Adisham Hall is located in Haputale , Sri Lanka . The capital of Sri Lanka is Sri Jayawardenepura K@@ o@@ t@@ t@@ e with Ranil Wickremesinghe as its leader and the R@@ u@@ p@@ e@@ e as its currency .
+Adisham Hall is located in Haputale , Sri Lanka , where the capital is called Sri Jayawardenepura K@@ o@@ t@@ t@@ e . Ranil Wickremesinghe is a leader of Sri Lanka , and the currency is the Sri L@@ a@@ n@@ k@@ an rupee .
+The main ethnic group in Japan are the J@@ a@@ p@@ a@@ n@@ e@@ s@@ e and the leader is T@@ a@@ r@@ ō A@@ s@@ ō . Akita Museum of Art is in Akita , Akita which is part of Japan and the Akita Prefecture .
+" The Akita Museum of Art is located in Akita , Akita which is located in Japan . The leader of Japan is T@@ a@@ r@@ o A@@ s@@ o and the main ethnic group in Japan is the J@@ a@@ p@@ a@@ n@@ e@@ s@@ e . Akita , Akita is part of Akita Prefecture . " .
+Akita Museum of Art is in the city of Akita , Japan . The main ethnic group in Japan are the J@@ a@@ p@@ a@@ n@@ e@@ s@@ e , the leader is T@@ a@@ r@@ o A@@ s@@ o and Akita , Akita is part of Akita Prefecture .
+Amdavad ni Gufa is located in Gujarat , Ahmedabad , India . Gujarat 's leader is known as the Gujarat L@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ i@@ v@@ e Assembly , and the leader of India is Narendra Modi .
+Amdavad ni Gufa is located in Gujarat , Ahmedabad which is in India . The leader of India is Narendra Modi but the leader of Gujarat is the Gujarat L@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ i@@ v@@ e Assembly .
+Amdavad ni Gufa is in Gujarat , Ahmedabad which is in India . Gujarat 's leader is the Gujarat L@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ i@@ v@@ e Assembly and Narendra Modi is the p@@ r@@ i@@ m@@ e m@@ i@@ n@@ i@@ s@@ t@@ e@@ r of India .
+Amdavad ni Gufa is located in Ahmedabad , Gujarat , India ; led by the Gujarat L@@ e@@ g@@ i@@ s@@ l@@ a@@ t@@ i@@ v@@ e Assembly , including leader T S Thakur .
+The 4@@ 7@@ 6 b@@ e@@ d Ampara Hospital is situated in the Eastern Province state of Sri Lanka where Austin F@@ e@@ r@@ n@@ a@@ n@@ d@@ o is the leader . The country 's leader is Ranil Wickremesinghe .
+Ampara Hospital , which has 4@@ 7@@ 6 b@@ e@@ d@@ s , is located in the Eastern Province of Sri Lanka lead by Austin F@@ e@@ r@@ n@@ a@@ n@@ d@@ o . The leader of Sri Lanka is Ranil Wickremesinghe .
+There are 4@@ 7@@ 6 b@@ e@@ d@@ s at Ampara Hospital in the Eastern Province of Sri Lanka where Austin F@@ e@@ r@@ n@@ a@@ n@@ d@@ o is the leader . A@@ n@@ o@@ t@@ h@@ e@@ r leader within the country is Ranil Wickremesinghe .
+Julia Morgan , who was born in California , designed the Asilomar Conference Grounds , the L@@ o@@ s A@@ n@@ g@@ e@@ l@@ e@@ s H@@ e@@ r@@ a@@ l@@ d e@@ x@@ a@@ m@@ i@@ n@@ e@@ r building , The R@@ i@@ v@@ e@@ r@@ s@@ i@@ de Art M@@ u@@ s@@ u@@ e@@ m and H@@ e@@ a@@ r@@ s@@ t Castle .
+Julia Morgan was an architect born in California . S@@ he designed Asilomar Conference Grounds , The R@@ i@@ v@@ e@@ r@@ s@@ i@@ de Art Museum , H@@ e@@ a@@ r@@ s@@ t Castle and the L@@ o@@ s A@@ n@@ g@@ e@@ l@@ e@@ s H@@ e@@ r@@ a@@ l@@ d E@@ x@@ a@@ m@@ i@@ n@@ e@@ r building .
+Asilomar Conference Grounds were designed by Julia Morgan ( born in California ) , who is known for a number of buildings , including H@@ e@@ a@@ r@@ s@@ t Castle and The R@@ i@@ v@@ e@@ r@@ s@@ i@@ de Art Museum , and h@@ e@@ r work in San F@@ r@@ a@@ n@@ c@@ i@@ s@@ c@@ o 's C@@ h@@ i@@ n@@ a@@ t@@ own .
+Julia Morgan , the architect , was born in California and s@@ o@@ m@@ e of h@@ e@@ r significant p@@ r@@ o@@ j@@ e@@ c@@ t@@ s include : the Asilomar Conference Grounds , The R@@ i@@ v@@ e@@ r@@ s@@ i@@ de Art Museum , H@@ e@@ a@@ r@@ s@@ t Castle and s@@ o@@ m@@ e buildings in C@@ h@@ i@@ n@@ a@@ t@@ own , San F@@ r@@ a@@ n@@ c@@ i@@ s@@ c@@ o .
+Julia Morgan , born in California , was the architect b@@ e@@ h@@ i@@ n@@ d the grounds of Asilomar Conference , the R@@ i@@ v@@ e@@ r@@ s@@ i@@ de Art Museum , H@@ e@@ a@@ r@@ s@@ t Castle and C@@ h@@ i@@ n@@ a@@ t@@ own in San F@@ r@@ a@@ n@@ c@@ i@@ s@@ c@@ o .
+The Asilomar Conference Grounds were constructed in 1@@ 9@@ 1@@ 3 . They are located in Pacific Grove , California and they were added to the National Register of Historic Places on February 2@@ 7@@ t@@ h 1@@ 9@@ 8@@ 7 ( with reference number 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 ) . The grounds are in the architectural style of the A@@ r@@ t@@ s and C@@ r@@ a@@ f@@ t@@ s M@@ o@@ v@@ e@@ m@@ e@@ n@@ t .
+Asilomar Conference Grounds are located in Pacific Grove , California . They were constructed in 1@@ 9@@ 1@@ 3 with the architectural style of the A@@ r@@ t@@ s and C@@ r@@ a@@ f@@ t@@ s M@@ o@@ v@@ e@@ m@@ e@@ n@@ t . They were added to the National Register of Historic Places on 27 February 1@@ 9@@ 8@@ 7 with reference number " 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 " .
+The Asilomar Conference Grounds were constructed in 1@@ 9@@ 1@@ 3 and are in Pacific Grove , California . They have an A@@ r@@ t@@ s and C@@ r@@ a@@ f@@ t@@ s m@@ o@@ v@@ e@@ m@@ e@@ n@@ t style architecture and were added to the National Register of Historic Places on 27 February 1@@ 9@@ 8@@ 7 with the reference number 8@@ 7@@ 0@@ 0@@ 0@@ 8@@ 23 .
+Asser Levy Public Baths , built in 1@@ 9@@ 0@@ 4 in a R@@ o@@ m@@ a@@ n@@ e@@ s@@ q@@ u@@ e R@@ e@@ v@@ i@@ v@@ a@@ l style , is located at 23rd Street ( Manhattan ) . The s@@ i@@ t@@ e was added to the National Register of Historic Places on 1@@ 9@@ 8@@ 0@@ -@@ 0@@ 4@@ -@@ 23 , with R@@ e@@ f@@ e@@ r@@ e@@ n@@ c@@ e N@@ u@@ m@@ b@@ e@@ r 8@@ 0@@ 0@@ 0@@ 2@@ 7@@ 0@@ 9 .
+The Asser Levy b@@ a@@ t@@ h@@ s are located on 23rd Street in Manhattan and have the R@@ o@@ m@@ a@@ n@@ e@@ s@@ q@@ u@@ e R@@ e@@ v@@ i@@ v@@ a@@ l style of architecture . They were built in 1@@ 9@@ 0@@ 4 and added to the National Register of Historic Places with the reference number 8@@ 0@@ 0@@ 0@@ 2@@ 7@@ 0@@ 9 on 23 April 1@@ 9@@ 8@@ 0 .
+The Asser Levy Public Baths was built in 1@@ 9@@ 0@@ 4 in the architectural style of R@@ o@@ m@@ a@@ n@@ e@@ s@@ q@@ u@@ e R@@ e@@ v@@ i@@ v@@ a@@ l , and is located on 23rd Street , Manhattan . The s@@ i@@ t@@ e was added to the National Register of Historic Places on " 1@@ 9@@ 8@@ 0@@ -@@ 0@@ 4@@ -@@ 23 " , with reference number 8@@ 0@@ 0@@ 0@@ 2@@ 7@@ 0@@ 9 .
+The Asser Levy Public Baths are found in New York City , New York , United States . A@@ n@@ o@@ t@@ h@@ e@@ r part of New York City is Manhattan where G@@ a@@ l@@ e B@@ r@@ e@@ w@@ e@@ r is the leader .
+G@@ a@@ l@@ e B@@ r@@ e@@ w@@ e@@ r is the leader of Manhattan which is part of New York City , New York , United States . New York City is the location of Asser Levy Public Baths .
+The location of Asser Levy Public Baths are New York City , US . New York City and Manhattan are part of New York . The leader of Manhattan is G@@ a@@ l@@ e B@@ r@@ e@@ w@@ e@@ r .
+103 Colmore Row was designed by the architect John Madin , who was born in Birmingham , where the p@@ o@@ s@@ t@@ a@@ l code is ' B ' . A@@ n@@ d@@ r@@ e@@ w M@@ i@@ t@@ c@@ h@@ e@@ l@@ l is the leader of the city and Birmingham City Council is the governing body .
+The City Council is the governing body for Birmingham where A@@ n@@ d@@ r@@ e@@ w M@@ i@@ t@@ c@@ h@@ e@@ l@@ l is a leader . The city has the B p@@ o@@ s@@ t@@ code and is the b@@ i@@ r@@ t@@ h@@ place of the A@@ r@@ c@@ h@@ i@@ t@@ e@@ c@@ t John Madin who designed 103 Colmore Row .
+Birmingham is lead by A@@ n@@ d@@ r@@ e@@ w M@@ i@@ t@@ c@@ h@@ e@@ l@@ l and the Birmingham City Council . The town , which has the B p@@ o@@ s@@ t@@ code , is the b@@ i@@ r@@ t@@ h@@ place of architect John Madin who designed 103 Colmore Row .
+H@@ a@@ i@@ l@@ e@@ m@@ a@@ r@@ i@@ a@@ m D@@ e@@ s@@ a@@ l@@ e@@ g@@ n and M@@ u@@ l@@ a@@ t@@ u T@@ e@@ s@@ home are leaders within Ethiopia . The Addis Ababa Stadium and the Addis Ababa City Hall are both located within the country in Addis Ababa .
+Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa , Ethiopia . The country is lead by M@@ a@@ l@@ a@@ t@@ u T@@ e@@ s@@ home and H@@ a@@ i@@ l@@ e@@ m@@ a@@ r@@ i@@ a@@ m D@@ e@@ s@@ a@@ l@@ e@@ g@@ n , .
+Addis Ababa Stadium and Addis Ababa City Hall are both located in Addis Ababa , Ethiopia . M@@ a@@ l@@ a@@ t@@ u T@@ e@@ s@@ home and H@@ a@@ i@@ l@@ e@@ m@@ a@@ r@@ i@@ a@@ m D@@ e@@ s@@ a@@ l@@ e@@ g@@ n are leaders in the country .
+The President is the p@@ r@@ i@@ m@@ a@@ r@@ y leader of English language speaking United States , ( includes leader John R@@ o@@ b@@ e@@ r@@ t@@ s ) , has the ethnic African American group and is home to 250 Delaware Avenue .
+250 Delaware Avenue is located in the United States , where the leader is known as the President of the United States , s@@ u@@ p@@ p@@ o@@ r@@ t@@ e@@ d by the United States of A@@ m@@ e@@ r@@ i@@ c@@ a ` s Chief J@@ u@@ s@@ t@@ i@@ c@@ e , John R@@ o@@ b@@ e@@ r@@ t@@ s . The main language is English , and one of the ethnic groups is the African Americans .
+Joe Biden is a leader of the United States which is lead by a President . The White Americans are one of the ethnic groups of the country which uses the English language and is where 250 Delaware Avenue is located .
+250 Delaware Avenue is located in the United States , where English is spoken . The President of the United States is the main leader , a@@ l@@ o@@ n@@ g@@ s@@ i@@ de Joe Biden , and an ethnic group in the country is White Americans .
+Bananaman was s@@ h@@ own on the BBC , first a@@ i@@ r@@ i@@ n@@ g on 3 October 1983 and the f@@ i@@ n@@ a@@ l broadcast being 15 April 1@@ 9@@ 8@@ 6 . It was created by John G@@ e@@ e@@ r@@ i@@ n@@ g and starred T@@ i@@ m B@@ r@@ o@@ o@@ k@@ e T@@ a@@ y@@ l@@ o@@ r .
+The BBC b@@ e@@ g@@ an a@@ i@@ r@@ i@@ n@@ g Bananaman October 3rd , 1983 and the l@@ a@@ s@@ t e@@ p@@ i@@ s@@ o@@ de was broadcast on April 15th , 1@@ 9@@ 8@@ 6 . John G@@ e@@ e@@ r@@ i@@ n@@ g is one of the creators of Bananaman which also starred T@@ i@@ m B@@ r@@ o@@ o@@ k@@ e@@ -@@ T@@ a@@ y@@ l@@ o@@ r .
+The T@@ V character Bananaman was created by John G@@ e@@ e@@ r@@ i@@ n@@ g . The p@@ r@@ o@@ g@@ r@@ a@@ m@@ m@@ e was broadcast by the BBC and starred T@@ i@@ m B@@ r@@ o@@ o@@ k@@ e@@ -@@ T@@ a@@ y@@ l@@ o@@ r . It first a@@ i@@ red on the 1@@ 0@@ t@@ h March 1983 and was l@@ a@@ s@@ t s@@ h@@ own on April 15th 1@@ 9@@ 8@@ 6 .
+Baymax is a character from the film Big Hero 6 s@@ t@@ a@@ r@@ r@@ i@@ n@@ g Scott A@@ d@@ s@@ i@@ t . He was created by S@@ t@@ e@@ v@@ e@@ n T S@@ e@@ a@@ g@@ l@@ e and the American , Duncan Rouleau .
+American Duncan Rouleau and S@@ t@@ e@@ v@@ e T@@ . S@@ e@@ a@@ g@@ l@@ e created Baymax . Baymax is a character in Big Hero 6 which starred Scott A@@ d@@ s@@ i@@ t .
+Baymax was created by American Duncan Rouleau and S@@ t@@ e@@ v@@ e@@ n T@@ . S@@ e@@ a@@ g@@ l@@ e . Baymax is a character in Big Hero 6 which stars Scott A@@ d@@ s@@ i@@ t .
+F@@ r@@ o@@ m Andalusia , Spain , Ajoblanco is made with b@@ r@@ e@@ a@@ d , almonds , garlic , water and olive oil . A@@ j@@ o b@@ l@@ a@@ n@@ c@@ o is an alternative name to Ajoblanco .
+Ajoblanco , also known as A@@ j@@ o b@@ l@@ a@@ n@@ c@@ o is a dish from the A@@ n@@ d@@ a@@ l@@ u@@ s@@ i@@ an region of Spain and includes the main ingredients of b@@ r@@ e@@ a@@ d , almonds , garlic , water and olive oil .
+A dish found in the A@@ n@@ d@@ a@@ l@@ u@@ s@@ i@@ an region of Spain is called Ajoblanco ( or A@@ j@@ o b@@ l@@ a@@ n@@ c@@ o ) . It contains b@@ r@@ e@@ a@@ d , almonds , garlic , water and olive oil .
+T@@ o@@ m@@ a@@ t@@ o@@ e@@ s , g@@ u@@ a@@ n@@ c@@ i@@ a@@ l@@ e , cheese , and olive oil are main ingredients in the traditional Amatriciana sauce , which comes from the region of L@@ a@@ z@@ i@@ o and can be found in an Italian m@@ e@@ a@@ l .
+Amatriciana is a traditional sauce from L@@ a@@ z@@ i@@ o , Italy . It includes cheese along with t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , g@@ u@@ a@@ n@@ c@@ i@@ a@@ l@@ e and olive oil .
+Amatriciana sauce can be found in Italian food and comes from the country 's L@@ a@@ z@@ i@@ o r@@ e@@ g@@ i@@ o@@ n@@ .@@ The main ingredients of the sauce are g@@ u@@ a@@ n@@ c@@ i@@ a@@ l@@ e , t@@ o@@ m@@ a@@ t@@ o@@ e@@ s , cheese , and olive oil .
+Arem-arem , a Javanese dish , is commonly served in Indonesia where the leader is Joko Widodo . It is also where the currency is the Indonesian r@@ u@@ p@@ i@@ a@@ h and where Indonesian language is the language spoken .
+Sergio Mattarella is a leader in Italy , a country where Rome is the capital , and both the people and the language spoken are Italian . Arrabbiata sauce can be found in Italy .
+Arrabbiata sauce is from Italy where the capital is Rome , Italian is the language spoken and Sergio Mattarella is a leader .
+X@@ i@@ m@@ o P@@ u@@ i@@ g is a leader of the Valencian Community which is where Arros negre comes from . It is a a traditional dish from Spain , where the people are called Spaniards and the leader is Felipe VI of Spain .
+Arros negre is from the Valencian Community of Spain , home to the Spaniards , led by Felipe VI and X@@ i@@ m@@ o P@@ u@@ i@@ g .
+Asam pedas is a food found in the Malay P@@ e@@ n@@ i@@ n@@ s@@ u@@ l@@ a of Malaysia , whose capital is K@@ u@@ a@@ l@@ a L@@ u@@ m@@ p@@ u@@ r , and includes the Malaysian Chinese and Malaysian I@@ n@@ d@@ i@@ a@@ n@@ s .
+Asam pedas is a food found in the Malay P@@ e@@ n@@ i@@ n@@ s@@ u@@ l@@ a in Malaysia , whose capital is K@@ u@@ a@@ l@@ a L@@ u@@ m@@ p@@ u@@ r , where Malaysian I@@ n@@ d@@ i@@ a@@ n@@ s and Malaysian Chinese are ethnic groups .
+Malaysia and the Malay P@@ e@@ n@@ i@@ n@@ s@@ u@@ l@@ a are home to the dish Asam pedas . The capital of Malaysian Chinese and Indian i@@ n@@ h@@ a@@ b@@ i@@ t@@ e@@ d Malaysia is K@@ u@@ a@@ l@@ a L@@ u@@ m@@ p@@ u@@ r .
+Malaysian Indian and Malaysian c@@ h@@ i@@ n@@ e@@ s@@ e are two of the ethnic groups in Malaysia where A@@ r@@ i@@ f@@ in Z@@ a@@ k@@ a@@ r@@ i@@ a is the leader . Asam pedas is found in Malaysia and is from the Malay P@@ e@@ n@@ i@@ n@@ s@@ u@@ l@@ a region .
+Asam pedas is a food found in the Malay P@@ e@@ n@@ i@@ n@@ s@@ u@@ l@@ a region , Malaysia , where ethnic groups include Malaysian Indian and Chinese . A@@ r@@ i@@ f@@ in Z@@ a@@ k@@ a@@ r@@ i@@ a is the country 's leader .
+Malaysia , led by A@@ r@@ i@@ f@@ in Z@@ a@@ k@@ a@@ r@@ i@@ a , is home to the Malaysian Indian and Chinese , as well as the a@@ s@@ a@@ m pedas of the Malay P@@ e@@ n@@ i@@ n@@ s@@ u@@ l@@ a region .
+Ayam penyet is a Javanese dish made nationwide , and can also be found in Malaysia and Singapore . It s@@ h@@ o@@ u@@ l@@ d be served h@@ o@@ t and contains the main ingredients of s@@ q@@ u@@ e@@ e@@ z@@ e@@ d or s@@ m@@ a@@ s@@ h@@ e@@ d fried chicken served with s@@ a@@ m@@ b@@ a@@ l .
+Ayam penyet is a h@@ o@@ t food dish found in Java , Malaysia and Singapore and c@@ o@@ n@@ s@@ i@@ s@@ t@@ s of fried chicken and s@@ a@@ m@@ b@@ a@@ l sauce .
+Ayam penyet is a food made in Java r@@ e@@ g@@ i@@ o@@ n@@ s of Malaysia and Singapore . It contains fried chicken that is s@@ m@@ a@@ s@@ h@@ e@@ d and served h@@ o@@ t with s@@ a@@ m@@ b@@ a@@ l .
+Bacon Explosion is a dish that originates in the United States , where English is the language spoken and the capital is Washington DC . Barack Obama is leader of the US and Native Americans are one of the ethnic groups of the country .
+Barack Obama is leader of United States , the home of the dish Bacon Explosion . Native Americans are one of the ethnic groups of the country , where Washington DC is the capital and English is the language spoken .
+Bacon Explosion comes from the United States whose leader is Barack Obama . The capital of the United States is Washington , D.C. , the spoken language is English and Native Americans are one of the ethnic groups of the country .
+Baked Alaska originates from France where the national language is French and one of the leader is G@@ e@@ r@@ a@@ r@@ d Larcher . The dessert is served in Hong Kong as well where the leader is C@@ a@@ r@@ r@@ i@@ e L@@ a@@ m .
+Baked Alaska comes from France where the spoken language is French , and the country 's leader is G@@ e@@ r@@ a@@ r@@ d Larcher . This dessert is also served in Hong Kong .
+Baked Alaska , served in Hong Kong , who 's p@@ o@@ l@@ i@@ t@@ i@@ c@@ a@@ l leader is C@@ a@@ r@@ r@@ i@@ e L@@ a@@ m , but is a@@ c@@ t@@ u@@ a@@ l@@ l@@ y from France where the national language is French and the leader is G@@ e@@ r@@ a@@ r@@ d Larcher .
+Bakewell T@@ a@@ r@@ t ( or pudding ) is from the Derbyshire Dales area of Derbyshire where P@@ a@@ t@@ r@@ i@@ c@@ k M@@ c@@ L@@ o@@ u@@ g@@ h@@ l@@ in is a leader . The tart is made with s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y .
+The s@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y@@ -@@ based dessert Bakewell T@@ a@@ r@@ t ( or pudding ) h@@ a@@ i@@ l@@ s from the Derbyshire Dales area of Derbyshire where P@@ a@@ t@@ r@@ i@@ c@@ k M@@ c@@ L@@ o@@ u@@ g@@ h@@ l@@ in is a leader .
+A variant of b@@ a@@ k@@ e@@ well pudding is b@@ a@@ k@@ e@@ well tart , which key ingredient is S@@ h@@ o@@ r@@ t@@ c@@ r@@ u@@ s@@ t p@@ a@@ s@@ t@@ r@@ y . Bakewell pudding originates from the Derbyshire Dales , which leader is P@@ a@@ t@@ r@@ i@@ c@@ k M@@ c@@ L@@ o@@ u@@ g@@ h@@ l@@ in .
+Bandeja paisa is a dish from Colombian cuisine and originates from the Paisa region . One of the ingredients in Bandeja paisa is lemon which is a member of the family R@@ u@@ t@@ a@@ c@@ e@@ a@@ e and is from the genus c@@ i@@ t@@ r@@ u@@ s .
+Bandeja paisa is a traditional dish from the Paisa region , C@@ o@@ l@@ o@@ m@@ b@@ i@@ a . L@@ e@@ m@@ on is one of its ingredients and is a member of the family R@@ u@@ t@@ a@@ c@@ e@@ a@@ e and is from the genus c@@ i@@ t@@ r@@ u@@ s .
+Bandeja paisa is typical Colombian cuisine that originates from the Paisa region and contains lemon . The lemon belongs to the r@@ u@@ t@@ a@@ c@@ e@@ a@@ e family and the order of R@@ o@@ s@@ i@@ d@@ s .
+Barny C@@ a@@ k@@ e@@ s , which are made from s@@ p@@ o@@ n@@ g@@ e cake , are from France , where G@@ e@@ r@@ a@@ r@@ d Larcher and C@@ l@@ a@@ u@@ de B@@ a@@ r@@ t@@ o@@ l@@ one are leaders and French is the language spoken .
+Barny cakes , made with s@@ p@@ o@@ n@@ g@@ e cake , are found in France , where French is spoken and whose leaders are C@@ l@@ a@@ u@@ de B@@ a@@ r@@ t@@ o@@ l@@ one and G@@ e@@ r@@ a@@ r@@ d Larcher .
+C@@ r@@ e@@ a@@ t@@ e@@ d by M@@ o@@ n@@ d@@ e@@ l@@ e@@ z International ( founded in Chicago ) , Barny C@@ a@@ k@@ e@@ s come from France where G@@ e@@ r@@ a@@ r@@ d Larcher is leader and they speak French .
+Barny cakes is created by M@@ o@@ n@@ d@@ e@@ l@@ e@@ z International , which was founded in Chicago . It comes from France , which leader is G@@ é@@ r@@ a@@ r@@ d Larcher and the language is French .
+English speaking Singapore , led by Tony Tan and Halimah Yacob , o@@ f@@ f@@ e@@ r@@ s the dish Beef kway teow , also found in Indonesia .
+Bhajji is also known as B@@ h@@ a@@ j@@ i or b@@ a@@ j@@ j , originates from the Karnataka region of India . It is u@@ s@@ u@@ a@@ l@@ l@@ y made up of vegetables and g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r .
+Bhajji , also known as B@@ h@@ a@@ j@@ i or b@@ a@@ j@@ j@@ i , originates from India in the Karnataka region and the main ingredients are g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r and vegetables .
+Bhajji ( B@@ h@@ a@@ j@@ i ) , or b@@ a@@ j@@ j@@ i , contains vegetables and g@@ r@@ a@@ m f@@ l@@ o@@ u@@ r ; it originates from the Karnataka region of India .
+I@@ n@@ d@@ i@@ a@@ n@@ s is the name g@@ i@@ v@@ e@@ n to people from India and the leaders are Sumitra Mahajan and V@@ a@@ j@@ u@@ b@@ h@@ a@@ i V@@ a@@ l@@ a . Bhajji is from the Karnataka region of India .
+Bhajji is from the K@@ a@@ r@@ a@@ n@@ t@@ a@@ k@@ e region of India . India is led by V@@ a@@ j@@ u@@ b@@ h@@ a@@ i V@@ a@@ l@@ a and home to the Indian people .
+Bhajji originates from the Karnataka region ( led by V@@ a@@ j@@ u@@ b@@ h@@ a@@ i V@@ a@@ l@@ a ) of India . The I@@ n@@ d@@ i@@ a@@ n@@ s of India are led by Sumitra Mahajan .
+Bionico is a dessert from J@@ a@@ l@@ i@@ s@@ c@@ o , M@@ e@@ x@@ i@@ o . The leader in J@@ a@@ l@@ i@@ s@@ c@@ o is J@@ e@@ s@@ u@@ s C@@ a@@ s@@ i@@ l@@ l@@ as R@@ o@@ m@@ e@@ r@@ o . A@@ n@@ o@@ t@@ h@@ e@@ r dessert is a cake .
+Bionico is a dessert found in the J@@ a@@ l@@ i@@ s@@ c@@ o region of Mexico . The name of the leader in J@@ a@@ l@@ i@@ s@@ c@@ o is J@@ e@@ s@@ u@@ s C@@ a@@ s@@ i@@ l@@ l@@ as R@@ o@@ m@@ e@@ r@@ o . A@@ n@@ o@@ t@@ h@@ e@@ r dessert is a cake .
+A type of dessert is a cake . H@@ o@@ w@@ e@@ v@@ e@@ r , b@@ i@@ o@@ n@@ i@@ c@@ o is n@@ o@@ t a cake , and i@@ n@@ s@@ t@@ e@@ a@@ d a dessert from the G@@ u@@ a@@ d@@ a@@ l@@ a@@ j@@ a@@ r@@ a region , in Mexico . Mexico is where E@@ n@@ r@@ i@@ q@@ u@@ e Pena N@@ i@@ e@@ t@@ o is the leader .
+Bionico is a dessert from G@@ u@@ a@@ d@@ a@@ l@@ a@@ j@@ a@@ r@@ a , Mexico where the leader is E@@ n@@ r@@ i@@ q@@ u@@ e Pena N@@ i@@ e@@ t@@ o . A@@ n@@ o@@ t@@ h@@ e@@ r dessert is a cake .
+P@@ a@@ t@@ r@@ i@@ c@@ k M@@ c@@ L@@ o@@ u@@ g@@ h@@ l@@ in is the leader of Derbyshire Dales which is in the County of Derbyshire . Bakewell tart , a variation of Bakewell pudding , comes from the Derbyshire Dales and contains f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e .
+P@@ a@@ t@@ r@@ i@@ c@@ k M@@ c@@ L@@ o@@ u@@ g@@ h@@ l@@ in is a leader in the Derbyshire Dales ( in the county of Derbyshire ) where the Bakewell tart is a popular dish . This dish contains f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e and has a variant called Bakewell pudding .
+P@@ a@@ t@@ r@@ i@@ c@@ k M@@ c@@ L@@ o@@ u@@ g@@ h@@ l@@ in is a leader in Derbyshire Dales in the County of Derbyshire The f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e Bakewell tart , a variation of Bakewell pudding , is popular in the Derbyshire Dales area .
+P@@ a@@ t@@ r@@ i@@ c@@ k M@@ c@@ L@@ o@@ u@@ g@@ h@@ l@@ in is the leader of Derbyshire Dales which is part of Derbyshire . C@@ o@@ m@@ i@@ n@@ g from the Derbyshire Dales region is Bakewell tart ( a variation of Bakewell pudding ) which has F@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e as an ingredient .
+The Derbyshire Dales , whose leader is P@@ a@@ t@@ r@@ i@@ c@@ k M@@ c@@ L@@ o@@ u@@ g@@ h@@ l@@ in , is part of Derbyshire and is where Bakewell t@@ a@@ r@@ t@@ s come from . Bakewell tart is a variation of Bakewell pudding and one of the ingredients is f@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e .
+The F@@ r@@ a@@ n@@ g@@ i@@ p@@ a@@ n@@ e - based dessert Bakewell T@@ a@@ r@@ t ( or pudding ) is popular in the Derbyshire Dales area of Derbyshire where P@@ a@@ t@@ r@@ i@@ c@@ k M@@ c@@ L@@ o@@ u@@ g@@ h@@ l@@ in is a leader .
+J@@ a@@ k@@ a@@ r@@ t@@ a is the capital of Indonesia where the leader is Jusuf Kalla , they speak Indonesian and eat b@@ a@@ k@@ s@@ o .
+Bakso is a dish from the country of Indonesia , which leader is Jusuf Kalla , the capital is J@@ a@@ k@@ a@@ r@@ t@@ a and the language is Indonesian .
+Bakso is a food and a dish found in Indonesia , where the capital is J@@ a@@ k@@ a@@ r@@ t@@ a , the language is Indonesia and Jusuf Kalla is the leader .
+Italy is the country Amatriciana sauce comes from and people there are called Italians . The capital is Rome and the leaders are M@@ a@@ t@@ t@@ e@@ o R@@ e@@ n@@ z@@ i and Sergio Mattarella .
+Rome is the capital of Italy where the leaders are M@@ a@@ t@@ t@@ e@@ o R@@ e@@ n@@ z@@ i and Sergio Mattarella . Amatriciana sauce can be found there and people are called Italians .
+Amatriciana sauce is from Italy , where Rome is the capital and where Italians live . L@@ e@@ a@@ d@@ e@@ r@@ s of the country include Sergio Mattarella and M@@ a@@ t@@ t@@ e@@ o R@@ e@@ n@@ z@@ i .
+Halimah Yacob is the leader in Singapore where English is spoken and the dish Ayam penyet is from . It is also from Java , a country where one of the ethnic groups are the B@@ a@@ d@@ u@@ y .
+The B@@ a@@ d@@ u@@ y is an ethnic group in Java where Ayam penyet is from . This dish is also from Singapore where English is spoken and Halimah Yacob is the leader .
+Ayam penyet originates from Java where B@@ a@@ d@@ u@@ y people are one of the ethnic g@@ r@@ o@@ u@@ p@@ s@@ .@@ The food can also be found in Singapore where English is m@@ a@@ i@@ n@@ l@@ y spoken and Halimah Yacob is the president .
+Philippines is the country the dish Batchoy comes from . The l@@ l@@ o@@ c@@ a@@ n@@ o and I@@ g@@ o@@ r@@ o@@ t p@@ e@@ o@@ p@@ l@@ e@@ s are ethnic groups from the Philippines , where languages spoken include Arabic and P@@ h@@ i@@ l@@ l@@ i@@ p@@ p@@ i@@ n@@ e English .
+Batchoy is eaten in the Philippines , languages spoken there include English ( official language ) and also Arabic . E@@ t@@ h@@ n@@ i@@ c groups there include the I@@ l@@ o@@ c@@ a@@ n@@ o and I@@ g@@ o@@ r@@ o@@ t p@@ e@@ o@@ p@@ l@@ e@@ s .
+A@@ v@@ a@@ i@@ l@@ a@@ b@@ l@@ e nationwide in Indonesia and Singapore , Beef kway teow is a dish which comes from Singapore , where English is spoken . It is also where two of the leaders are Halimah Yacob and Tony Tan .
+J@@ u@@ s@@ t l@@ i@@ k@@ e in Indonesia , Beef kway teow is popular nationwide is Singapore ( where it comes from ) . In this country , English is spoken and two of the leaders are Halimah Yacob and Tony Tan .
+Beef kway teow is a popular dish in Singapore and Indonesia . Tony Tan and Halimah Yacob are leaders in Singapore where English is spoken .
+Ajoblanco is a dish from Spain , where the currency is the e@@ u@@ r@@ o , the leader is Felipe VI , the language spoken is Spanish and the people that live there are called Spaniards .
+Ajoblanco is a food found in Spanish speaking and Felipe VI led Spain . It is also home to the Spaniards and can be p@@ u@@ r@@ c@@ h@@ a@@ s@@ e@@ d with the E@@ u@@ r@@ o .
+The 11th Mississippi Infantry monument is located in the municipality of Gettysburg , Adams County , Pennsylvania . Adams County is east of Franklin County and south of Cumberland County . Maryland 's Carrol county is located to the southeast .
+The 11th Mississippi Infantry Monument is p@@ l@@ a@@ c@@ e@@ d in the municipality of Gettysburg , Adams County , Pennsylvania . To the west of Adams County lies Franklin County and to the north , Cumberland County , both of t@@ h@@ e@@ s@@ e are in Pennsylvania . Carrol County Maryland is southeast of Adams County .
+The 11th Mississippi Infantry monument is located in Gettysburg , Adams County , Pennsylvania . Adams County is located east of Franklin County and south of Cumberland County . Maryland 's Carrol County is located to the southeast .
+The capital of Azerbaijan is Baku and the leader and Prime Minister of Azerbaijan is called Artur Rasizade . The Baku Turkish M@@ a@@ r@@ t@@ y@@ r 's Memorial is located in Azerbaijan and the legislature is known as the National Assembly .
+Prime Minister of Azerbaijan ( capital Baku ) is the official title of the leader whose name is Artur Rasizade . Baku Turkish Martyrs ' Memorial is located in Azerbaijan and the legislature of the country is the National Assembly .
+The Baku Turkish Martyrs ' Memorial in Azerbaijan is dedicated to the Ottoman A@@ r@@ m@@ y S@@ o@@ l@@ d@@ i@@ e@@ r@@ s killed in the Battle of Baku and was designed by Huseyin Butuner and Hilmi Guner . The monument is also known by the native name T@@ ü@@ r@@ k Ş@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i A@@ n@@ ı@@ t@@ ı . Azerbaijan 's leader is Artur Rasizade .
+The Baku Turkish Martyrs ' Memorial ( native name : " T@@ ü@@ r@@ k S@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i A@@ n@@ i@@ t@@ i " ) in Azerbaijan has been dedicated to Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku and it was designed by H@@ ü@@ s@@ e@@ y@@ in B@@ ü@@ t@@ ü@@ n@@ e@@ r and Hilmi G@@ ü@@ n@@ e@@ r@@ .@@ Artur Rasizade is the leader of Azerbaijan .
+The Baku Turkish M@@ a@@ r@@ t@@ y@@ r 's Memorial in Azerbaijan is dedicated to the Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku . The native name of the memorial is " T@@ ü@@ r@@ k S@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i A@@ n@@ i@@ t@@ i " and was designed by H@@ ü@@ s@@ e@@ y@@ in B@@ ü@@ t@@ ü@@ n@@ e@@ r and Hilmi G@@ ü@@ n@@ e@@ r . The leader of Turkey is Artur Rasizade .
+Huseyin Butuner and Hilmi Guner designed the red granite and white marble Baku Turkish Martyrs memorial in Azerbaijan . It is also known as T@@ u@@ r@@ k S@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i A@@ n@@ i@@ t@@ i and is dedicated to the soldiers of the Ottoman a@@ r@@ m@@ y killed in the Battle of Baku .
+The Baku Turkish Martyrs ' Memorial is located in Azerbaijan , where it is known as " T@@ ü@@ r@@ k S@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i A@@ n@@ i@@ t@@ i " . The memorial is dedicated to Ottoman A@@ r@@ m@@ y soldiers who were killed in the Battle of Baku . It was designed by H@@ ü@@ s@@ e@@ y@@ in B@@ ü@@ t@@ ü@@ n@@ e@@ r and Hilmi G@@ ü@@ n@@ e@@ r , and constructed o@@ u@@ t of red granite and white marble .
+Baku Turkish Martyrs ' Memorial , made of red granite and white marble , is dedicated to the Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku and was designed by Huseyin Butuner and Hilmi Guner . The memorial is known in Turkish as T@@ u@@ r@@ k S@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i A@@ n@@ i@@ t@@ i and can be found in Azerbaijan .
+The Baku Turkish Martyrs ' Memorial , designed by Huseyin Butuner and Hilmi Guner and made of granite and white marble , is dedicated to the Ottoman A@@ r@@ m@@ y S@@ o@@ l@@ d@@ i@@ e@@ r@@ s killed in the Battle of Baku . The memorial is found in Azerbaijan whose leader is the Prime Minister .
+The Baku Turkish Martyrs ' Memorial in Azerbaijan is dedicated to the Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku . It was designed by H@@ ü@@ s@@ e@@ y@@ in B@@ ü@@ t@@ ü@@ n@@ e@@ r and Hilmi G@@ ü@@ n@@ e@@ r and is built u@@ s@@ i@@ n@@ g R@@ e@@ d granite and white marble . Azerbaijan 's leader is the Prime Minister of Azerbaijan .
+The Baku Turkish M@@ a@@ r@@ t@@ y@@ r 's Memorial , designed by H@@ ü@@ s@@ e@@ y@@ in B@@ ü@@ t@@ ü@@ n@@ e@@ r and Hilmi G@@ ü@@ n@@ e@@ r , was constructed u@@ s@@ i@@ n@@ g red granite and white marble . It is located in Baku , Azerbaijan , which is led by a Prime Minister . This Memorial is dedicated to the Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku .
+G@@ o@@ r@@ d@@ on M@@ a@@ r@@ s@@ den is the leader of Blackpool where AFC Blackpool are located . Their manager is Stuart Parker who is a member of C@@ h@@ e@@ s@@ t@@ e@@ r@@ f@@ i@@ e@@ l@@ d FC and plays for K@@ V M@@ e@@ c@@ h@@ e@@ l@@ e@@ n .
+G@@ o@@ r@@ d@@ on M@@ a@@ r@@ s@@ den is the leader of Blackpool where AFC Blackpool is located . The club is managed by Stuart Parker who is part of the K@@ V M@@ e@@ c@@ h@@ e@@ l@@ e@@ n club and a member of C@@ h@@ e@@ s@@ t@@ e@@ r@@ f@@ i@@ e@@ l@@ d FC .
+O@@ l@@ y@@ m@@ p@@ i@@ a@@ c@@ o@@ s F.C. were p@@ a@@ s@@ t champions in the Greece Superleague , the league AEK Athens FC compete in . Their manager is G@@ u@@ s P@@ o@@ y@@ e@@ t , whose club is R@@ e@@ a@@ l Z@@ a@@ r@@ a@@ g@@ o@@ z@@ a e@@ v@@ e@@ n t@@ h@@ o@@ u@@ g@@ h he played for C@@ h@@ e@@ l@@ sea F.C.
+G@@ u@@ s P@@ o@@ y@@ e@@ t is the manager of AEK Athens F.C. who play in the Superleague of Greece ( which has O@@ l@@ y@@ m@@ p@@ i@@ a@@ c@@ o@@ s FC as previous champions ) . P@@ o@@ y@@ e@@ t previously played for C@@ h@@ e@@ l@@ sea FC and is in the R@@ e@@ a@@ l Z@@ a@@ r@@ a@@ g@@ o@@ z@@ a club .
+P@@ r@@ e@@ v@@ i@@ o@@ u@@ s champions of the Superleague Greece are O@@ l@@ y@@ m@@ p@@ i@@ a@@ c@@ o@@ s FC . AEK Athens FC also compete in the league and they are managed by G@@ u@@ s P@@ o@@ y@@ e@@ t who previously played for C@@ h@@ e@@ l@@ sea FC and whose club is R@@ e@@ a@@ l Z@@ a@@ r@@ a@@ g@@ o@@ z@@ a .
+E@@ s@@ t@@ á@@ d@@ i@@ o M@@ u@@ n@@ i@@ c@@ i@@ p@@ a@@ l C@@ o@@ a@@ r@@ a@@ c@@ y d@@ a M@@ a@@ t@@ a F@@ o@@ n@@ s@@ e@@ c@@ a is the name of the ground of Agremiação Sportiva Arapiraquense . It is located in A@@ l@@ a@@ g@@ o@@ as . Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league from Brazil . The V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be were champions at the Série C@@ .
+V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be have been champions of Campeonato Brasileiro Série C@@ . from Brazil in which Agremiação Sportiva Arapiraquense also play . This l@@ a@@ t@@ t@@ e@@ r team have their ground at E@@ s@@ t@@ á@@ d@@ i@@ o M@@ u@@ n@@ i@@ c@@ i@@ p@@ a@@ l C@@ o@@ a@@ r@@ a@@ c@@ y d@@ a M@@ a@@ t@@ a F@@ o@@ n@@ s@@ e@@ c@@ a which is located in A@@ l@@ a@@ g@@ o@@ as .
+L@@ located in A@@ l@@ a@@ g@@ o@@ as , E@@ s@@ t@@ á@@ d@@ i@@ o M@@ u@@ n@@ i@@ c@@ i@@ p@@ a@@ l C@@ o@@ a@@ r@@ a@@ c@@ y d@@ a M@@ a@@ t@@ a F@@ o@@ n@@ s@@ e@@ c@@ a is the name of the ground of Agremiação Sportiva Arapiraquense . They play in the Campeonato Brasileiro Série C league , which is from Brazil , and the champions of which have been V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be .
+V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be have been champions of Campeonato Brasileiro Série C@@ . league in Brazil . Agremiação Sportiva Arapiraquense also play in the league and have their home ground at E@@ s@@ t@@ á@@ d@@ i@@ o M@@ u@@ n@@ i@@ c@@ i@@ p@@ a@@ l C@@ o@@ a@@ r@@ a@@ c@@ y d@@ a M@@ a@@ t@@ a F@@ o@@ n@@ s@@ e@@ c@@ a in A@@ r@@ a@@ p@@ i@@ r@@ a@@ c@@ a .
+Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league ( in Brazil ) , which has been won by V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be . A@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o Sportiva Arapiraquense 's ground is the E@@ s@@ t@@ a@@ d@@ i@@ o M@@ i@@ n@@ i@@ c@@ i@@ p@@ a@@ l C@@ o@@ a@@ r@@ a@@ c@@ y d@@ a M@@ a@@ t@@ a F@@ o@@ n@@ s@@ e@@ c@@ a , which is located in A@@ r@@ a@@ p@@ i@@ r@@ a@@ c@@ a .
+Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in Brazil . V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be are the champions of Serie C@@ . E@@ s@@ t@@ á@@ d@@ i@@ o M@@ u@@ n@@ i@@ c@@ i@@ p@@ a@@ l C@@ o@@ a@@ r@@ a@@ c@@ y d@@ a M@@ a@@ t@@ a F@@ o@@ n@@ s@@ e@@ c@@ a ( A@@ r@@ a@@ p@@ i@@ r@@ a@@ c@@ a ) is the name of the ground of Agremiação Sportiva Arapiraquense .
+The V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be were champions at the Campeonato Brasileiro Série C@@ . in Brazil . Agremiação Sportiva Arapiraquense who also play in the league have 17000 members and are managed by V@@ i@@ c@@ a .
+Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in Brazil , which has been won by V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be . A@@ g@@ r@@ e@@ m@@ i@@ a@@ c@@ a@@ o Sportiva Arapiraquense 's ground can h@@ o@@ l@@ d 17000 f@@ a@@ n@@ s and the team is managed by V@@ i@@ c@@ a .
+V@@ i@@ l@@ a N@@ o@@ v@@ a F@@ u@@ t@@ e@@ b@@ o@@ l C@@ l@@ u@@ be have been champions of Campeonato Brasileiro Série C , which is from Brazil . It is in this league that Agremiação Sportiva Arapiraquense play in . They are managed by V@@ i@@ c@@ a , and h@@ a@@ v@@ e@@ 17000 members .
+The Accademia di Architettura di Mendrisio in Mendrisio , Switzerland h@@ a@@ d 100 academic staff and 600 students . Its dean is Mario Botta .
+The Dean of the Accademia di Architettura di Mendrisio in the city of Mendrisio , Switzerland is Mario Botta . There are 600 students and 100 academic staff at the Accademia .
+The Accademia di Architettura di Mendrisio in Switzerland has a staff of 100 and a student population of 600 . The dean is Mario Botta .
+The Accademia di Architettura di Mendrisio is located in T@@ i@@ c@@ i@@ n@@ o , Switzerland . It was established in 1996 and it has 600 students . The leader of Switzerland is Johann Schneider-Ammann .
+The leader of Switzerland is Johann Schneider-Ammann . The country is the location of the Accademia di Architettura di Mendrisio in T@@ i@@ c@@ i@@ n@@ o which was established in 1996 and has 600 students .
+The Accademia di Architettura di Mendrisio , which has 600 students , was founded in 1996 in T@@ i@@ c@@ i@@ n@@ o , Switzerland . The leader of Switzerland is Johann S@@ c@@ h@@ n@@ e@@ i@@ d@@ e@@ r - A@@ m@@ m@@ an .
+The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University and is located in Bangalore , Karnataka . To its northeast is T@@ e@@ l@@ a@@ n@@ g@@ a@@ n@@ a and to its west is the A@@ r@@ a@@ b@@ i@@ an S@@ e@@ a .
+The Acharya Institute of Technology in B@@ a@@ l@@ g@@ a@@ l@@ o@@ r@@ e , Karnataka is east of the A@@ r@@ a@@ b@@ i@@ an S@@ e@@ a and southwest of T@@ e@@ l@@ a@@ n@@ g@@ a@@ n@@ a . It is affiliated with the Visvesvaraya Technological University .
+Karnataka state which has the A@@ r@@ a@@ b@@ i@@ an S@@ e@@ a to it 's west and T@@ e@@ l@@ a@@ n@@ g@@ a@@ n@@ a to it ' s northwest is also home to the Acharya Institute of Technology . The Institute is located in the city of Bangalore and is affiliated with the Visvesvaraya Technological University .
+The Acharya Institute of Technology is located at In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 , India . The School was established in 2000 and has 700 P@@ o@@ s@@ t@@ graduate S@@ t@@ u@@ d@@ e@@ n@@ t@@ s .
+The Acharya Institute of Technology was established in 2000 and is based in the city of Bangalore in India . It currently has 700 P@@ o@@ s@@ t@@ graduate S@@ t@@ u@@ d@@ e@@ n@@ t@@ s and it 's e@@ x@@ a@@ c@@ t location is ' In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 .
+Acharya Institute of Technology was founded by K@@ e@@ m@@ p@@ e G@@ o@@ w@@ d@@ a I in Bangalore in the state of Karnataka . It has the A@@ r@@ a@@ b@@ i@@ an S@@ e@@ a to its west and is affiliated with Visvesvaraya Technological University .
+Acharya Institute of Technology is located in Bangalore , Karnataka , east of the A@@ r@@ a@@ b@@ i@@ an S@@ e@@ a . The Institute is affiliated with Visvesvaraya Technological University . Bangalore was founded by K@@ e@@ m@@ p@@ e G@@ o@@ w@@ d@@ a .
+The 1 Decembrie 1918 University is in Alba I@@ u@@ l@@ i@@ a , Romania . The country 's capital is Bucharest and the p@@ r@@ i@@ m@@ e m@@ i@@ n@@ i@@ s@@ t@@ e@@ r is Klaus Iohannis .
+1 Decembrie 1918 University is in Alba I@@ u@@ l@@ i@@ a , Romania . Bucharest is the capital of Romania and Klaus Iohannis is the country 's Prime Minister .
+1 Decembrie 1918 University is located in the city of Alba l@@ u@@ l@@ i@@ a in Romania . The capital of Romania is Bucharest and the Prime Minister is Klaus l@@ o@@ h@@ a@@ n@@ n@@ is .
+The School of Business and Social Sciences at Aarhus University in Denmark is affiliated with the European University Association . It has 1@@ 6@@ ,@@ 0@@ 0@@ 0 students , 737 e@@ m@@ p@@ l@@ o@@ y@@ e@@ e@@ s . and was established in 1928 .
+The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928 . It is affiliated with the European University Association and has a staff c@@ o@@ m@@ p@@ l@@ i@@ m@@ e@@ n@@ t of 737 . 1@@ 6@@ 0@@ 0@@ 0 students attend the university currently .
+The School of Business and Social Sciences at the Aarhus University was established in Denmark in 1928 . The School is affiliated with the European University Association and has 1@@ 6@@ ,@@ 0@@ 0@@ 0 students and 737 academic staff .
+F@@ a@@ b@@ e@@ r and F@@ a@@ b@@ e@@ r are the p@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ r@@ s of The Secret Scripture , a sequel to A Long Long Way . T@@ h@@ a@@ t book comes from Ireland which is located in E@@ u@@ r@@ o@@ p@@ e and where there is an ethnic group of white people .
+Ireland , where the white people are an ethnic group , is situated within E@@ u@@ r@@ o@@ p@@ e . The book A Long Long Way was written in Ireland and published by F@@ a@@ b@@ e@@ r and F@@ a@@ b@@ e@@ r . The sequel to the book is known as The Secret Scripture .
+Ireland is a country within E@@ u@@ r@@ o@@ p@@ e and the ethnic group are white people . The novel A Long Long Way was written in Ireland and was followed by The Secret Scripture which was published by F@@ a@@ b@@ e@@ r and F@@ a@@ b@@ e@@ r .
+The ethnic group of Ireland is White people and is where A Long Long Way comes from . It was preceded by A@@ n@@ n@@ i@@ e D@@ u@@ n@@ n@@ e and followed by The Secret Scripture which is published by F@@ a@@ b@@ e@@ r and F@@ a@@ b@@ e@@ r .
+An ethnic group of Ireland is white people where A Long Long Way comes from . It was preceded by A@@ n@@ n@@ i@@ e D@@ u@@ n@@ n@@ e preceded and followed by The Secret Scripture which is published by F@@ a@@ b@@ e@@ r and F@@ a@@ b@@ e@@ r .
+Above the Veil is an A@@ u@@ s@@ t@@ r@@ a@@ l@@ i@@ an novel and the sequel to Aenir and Castle . It was later followed by I@@ n@@ to Battle and The V@@ i@@ o@@ l@@ e@@ t K@@ e@@ y@@ s@@ t@@ one .
+Above the V@@ i@@ e@@ l is an A@@ u@@ s@@ t@@ r@@ l@@ i@@ an novel and the sequel to Aenir and Castle . It was followed by I@@ n@@ to Battle and The V@@ i@@ o@@ l@@ e@@ t K@@ e@@ y@@ s@@ t@@ one .
+Above the Veil is an A@@ u@@ s@@ t@@ r@@ l@@ i@@ an novel and the sequel to Aenir and Castle . It was followed by I@@ n@@ to the Battle and The V@@ i@@ o@@ l@@ e@@ t K@@ e@@ y@@ s@@ t@@ one .
+Cornell University is in I@@ t@@ h@@ a@@ c@@ a , New York and is n@@ i@@ c@@ k@@ named Cornell Big R@@ e@@ d . They are the publisher of Administrative Science Quarterly and are affiliated with the Association of American Universities .
+Cornell University is in I@@ t@@ h@@ a@@ c@@ a , New York and their nickname is Cornell Big R@@ e@@ d . They are the publisher of Administrative Science Quarterly and are affiliated with the Association of American Universities .
+Cornell U@@ n@@ v@@ e@@ r@@ s@@ i@@ t@@ y is in I@@ t@@ h@@ a@@ c@@ a , New York and their nickname is Cornell Big R@@ e@@ d . They are the publisher of the Administrative Science Quarterly and are affiliated with the Association of American Universities .
+The Administrative Science Quarterly is published by Cornell University , I@@ t@@ h@@ a@@ c@@ a , in the state of New York . Cornell University ( n@@ i@@ c@@ k@@ named ' Cornell Big R@@ e@@ d ' ) is affiliated with the Association of Public and L@@ and G@@ r@@ a@@ n@@ t Universities .
+Cornell Big R@@ e@@ d is the nickname of Cornell University which is affiliated with the Association of Public and L@@ and g@@ r@@ a@@ n@@ t Universities . The University is in the city of I@@ t@@ h@@ a@@ c@@ a , New York , New York State and p@@ u@@ b@@ l@@ i@@ s@@ h@@ e@@ s the Administrative Science Quarterly .
+Cornell University , of I@@ t@@ h@@ a@@ c@@ a , New York , is the publisher of the Administrative Science Quarterly . The University , which has the nickname Cornell Big R@@ e@@ d , is affiliated with the Association of Public and L@@ and g@@ r@@ a@@ n@@ t Universities .
+The United States is home to the ethnic group of African Americans and is lead by Barack Obama . The country is the origin of the book Alcatraz Versus the Evil Librarians . This book was written in English , as spoken in Great Britain .
+Alcatraz Versus the Evil Librarians is from the United States and is written in English which is also spoken in Great Britain . The leader of the US is Barack Obama and African Americans are one of the ethnic groups .
+A Severed Wasp is from the United States which l@@ i@@ k@@ e Great Britain s@@ p@@ e@@ a@@ k@@ s English . The capital of the US is Washington D@@ .@@ C and one ethnic group is the African Americans .
+A Severed Wasp originates in the United States where l@@ i@@ k@@ e in Great Britain , English is also spoken . Washington DC is the capital of the US and one ethnic group is the African Americans .
+A s@@ e@@ v@@ e@@ r@@ e@@ d Wasp is a novel from the United States where English is l@@ a@@ r@@ g@@ e@@ l@@ y spoken ( as in Great Britain ) . The capital of the US is Washington D.C. and African Americans are an ethnic group there .
+English is spoken in Great Britain and the United States where Joe Biden is leader , African Americans are an ethnic group and Alcatraz Versus the Evil Librarians is from there .
+Alcatraz Versus the Evil Librarians is a book from The United States . In that country the m@@ a@@ j@@ o@@ r@@ i@@ t@@ y language is English ( as in Great Britain ) . A l@@ e@@ a@@ d@@ i@@ n@@ g p@@ o@@ l@@ i@@ t@@ i@@ c@@ i@@ an of the US is Joe Biden and African Americans are an ethnic group there .
+Alcatraz Versus the Evil Librarians is from The United States . English is spoken there ( as in Great Britain ) and Joe Biden is a l@@ e@@ a@@ d@@ i@@ n@@ g p@@ o@@ l@@ i@@ t@@ i@@ c@@ i@@ an there . African Americans are an ethnic group in the US .
+David C@@ a@@ m@@ e@@ r@@ on and Elizabeth II are leaders in the United Kingdom . The country , which uses the English language has the capital city of London and is where the AIDS journal originates .
+The AIDS journal was published in the United Kingdom , where English is spoken . The leader of the UK is Elizabeth II , and a@@ n@@ o@@ t@@ h@@ e@@ r leader is David C@@ a@@ m@@ e@@ r@@ on . English is spoken in the United Kingdom , where the capital is London .
+AIDS journal is from the United Kingdom , which capital is London and the language is English . The leaders of that country are David C@@ a@@ m@@ e@@ r@@ on and Elizabeth II .
+The leaders of the United Kingdom are Elizabeth II and David C@@ a@@ m@@ e@@ r@@ on . The AIDS journal is published in the United Kingdom by Lippincott , Williams & Wilkins , whose parent company is W@@ o@@ l@@ t@@ e@@ r@@ s K@@ l@@ u@@ w@@ e@@ r .
+The AIDS journal was published in the United Kingdom where Elizabeth II and David C@@ a@@ m@@ e@@ r@@ on are leaders . The journal was published by Lippincott Williams & Wilkins whose parent company is W@@ o@@ l@@ t@@ e@@ r@@ s K@@ l@@ u@@ w@@ e@@ r .
+The English language is spoken in Great Britain and A Severed Wasp was written in it e@@ v@@ e@@ n t@@ h@@ o@@ u@@ g@@ h it comes from the United States . Barack Obama is the leader of the United States where Native Americans are an ethnic group .
+A Severed Wasp is written in English , the language spoken in Great Britain . H@@ o@@ w@@ e@@ v@@ e@@ r , it originates from the United States where the President is Barack Obama and the Native Americans are an ethnic group .
+A Severed Wasp is from the United States , where Barack Obama is the president . English is the main language of the U.S. , and is also spoken in Great Britain . Native Americans are one of the national ethnic groups .
+A Severed Wasp is from the United States , where English is spoken ( as in Great Britain ) , and Barack Obama is President . Native Americans are one of the ethnic groups in the U.S.
+American Alan Bean was a member of NASA 's Apollo 12 which was c@@ o@@ m@@ m@@ a@@ n@@ d@@ e@@ d by David Scott . Bean , who was born in Wheeler , Texas , is now retired .
+American Alan Bean was born in Wheeler , Texas and is retired . He was on the crew of Apollo 12 , whose o@@ p@@ e@@ r@@ a@@ t@@ or was NASA and David Scott was the commander of Apollo 12 .
+Alan Bean is originally from Wheeler , Texas and joined NASA where he became a crew member of Apollo 12 . David Scott was his commander and M@@ r Bean is now retired .
+The American Alan Shepard was born on November 18 , 1923 , in New Hampshire . He graduated with an M.A. from NWC in 1957 , and was h@@ i@@ red by NASA in 1959 . Shepard died in California .
+Alan Shepard was an American who went to school at NWC and graduated with an M@@ A in 1957 . He was selected by NASA in 1959 . He was born in New Hampshire on November 18 , 1923 and died in California .
+Alan Shepard was born on the 1@@ 8@@ t@@ h of November , 1923 in New Hampshire . He graduated from NWC with a M.A. in 1957 and was selected by NASA in 1959 . H@@ is d@@ e@@ a@@ t@@ h place was California .
+Alan Shepard was born November 1@@ 8@@ t@@ h , 1923 in New Hampshire . He graduated from NWC with a M.A. in 1957 and was selected by NASA in 1959 . He p@@ a@@ s@@ s@@ e@@ d away in California .
+Alan Shepard was born on November 18 , 1923 , in New Hampshire . He served as a crew member on NASA 's Apollo 14 mission before r@@ e@@ t@@ i@@ r@@ i@@ n@@ g on A@@ u@@ g@@ u@@ s@@ t 1 , 1@@ 9@@ 7@@ 4 . Shepard p@@ a@@ s@@ s@@ e@@ d away in California .
+Alan Shepard was part of NASA 's Apollo 14 crew . He was born in New Hampshire on November 1@@ 8@@ t@@ h , 1923 , he retired A@@ u@@ g@@ u@@ s@@ t 1st , 1@@ 9@@ 7@@ 4 and died in California .
+Alan Shepard was born in 1923 in New Hampshire . He w@@ o@@ r@@ k@@ e@@ d for NASA and became a crew member for Apollo 14 before he retired in A@@ u@@ g@@ u@@ s@@ t 1@@ 9@@ 7@@ 4 . He later died in California .
+Alan S@@ h@@ e@@ p@@ h@@ a@@ r@@ d was born in New Hampshire . He was won the American D@@ e@@ f@@ e@@ n@@ c@@ e Service R@@ i@@ b@@ b@@ on . The United States Navy also awarded h@@ i@@ m the Distinguished Service Medal , which is higher than the Department of Commerce G@@ o@@ l@@ d Medal . He died on July 2@@ 1st , 1@@ 9@@ 9@@ 8 .
+Alan Shepard ( who died on the 2@@ 1st of July , 1@@ 9@@ 9@@ 8 in California ) was born in New Hampshire . He was awarded American D@@ e@@ f@@ e@@ n@@ s@@ e Service r@@ i@@ b@@ b@@ on , as well as the Distinguished Service Medal by the United States Navy . The Distinguished Service Medal of the United States Navy is r@@ a@@ n@@ k@@ e@@ d higher than the Department of Commerce G@@ o@@ l@@ d Medal .
+The U@@ .@@ S Navy awarded Alan Shepard the Distinguished Service Medal , an award that r@@ a@@ n@@ k@@ s higher than the Department of Commerce G@@ o@@ l@@ d Medal . Shepard who was born in New Hampshire and died July 2@@ 1st , 1@@ 9@@ 9@@ 8 in California , was also the r@@ e@@ c@@ i@@ p@@ i@@ e@@ n@@ t of the American D@@ e@@ f@@ e@@ n@@ s@@ e Service R@@ i@@ b@@ b@@ on .
+Buzz Aldrin was a fighter pilot who was born in Glen Ridge , New Jersey o@@ m January 2@@ 0@@ t@@ h , 1930 . H@@ is r@@ e@@ a@@ l name is E@@ d@@ win E@@ . Aldrin J@@ r@@ . and after g@@ r@@ a@@ d@@ u@@ a@@ t@@ i@@ n@@ g from MIT with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in Science in 1963 , he became a member of Apollo 11 .
+Buzz Aldrin was born in Glen Ridge , N@@ J on January 2@@ 0@@ t@@ h 1930 . H@@ is r@@ e@@ a@@ l name was E@@ d@@ win E@@ . Aldrin , J@@ r . He graduated from MIT with a S@@ c@@ .@@ D in 1963 . He was a fighter pilot and crew member of Apollo 11 .
+E@@ d@@ win E Aldrin J@@ r , m@@ o@@ r@@ e commonly known as Buzz Aldrin was born in Glen Ridge New Jersey in 1930 and graduated from MIT with a D@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in Science in 1963 . He was a fighter pilot and a crew member of Apollo 11 .
+Buzz Aldrin was born in Glen Ridge New Jersey in 1930 . He graduated from MIT in 1963 and was h@@ i@@ red by NASA in the same year . He was a member of the Apollo 11 crew and is now retired .
+R@@ e@@ t@@ i@@ red Apollo 11 crew member Buzz Aldrin was born January 20 1930 in Glen Ridge , New Jersey . He was selected by NASA in 1963 w@@ h@@ e@@ n he graduated from MIT with a S@@ c . D@@ .
+Buzz Aldrin was originally from Glen Ridge , New Jersey and graduated in 1963 from M@@ a@@ s@@ s@@ a@@ c@@ h@@ u@@ s@@ e@@ t@@ t@@ s Institute of Technology . He then went on to join NASA in 1963 and became a member of the Apollo 11 crew before he retired .
+Buzz Aldrin graduated from M@@ a@@ s@@ s@@ a@@ c@@ h@@ u@@ s@@ e@@ t@@ t@@ s Institute of Technology with a S@@ c@@ .@@ D in 1963 and became a fighter pilot . He was selected to work for NASA in 1963 , and was chosen as a crew member ( s@@ e@@ r@@ v@@ i@@ n@@ g as backup pilot ) of the NASA operated Apollo 11 mission .
+Buzz Aldrin was a fighter pilot . In 1963 , he graduated from M@@ a@@ s@@ s@@ a@@ c@@ h@@ u@@ s@@ e@@ t@@ t@@ s Institute of Technology with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in Science and was selected to be part of NASA 's Apollo 11 crew . William Anders was the backup pilot on Apollo 11 .
+Elliot See was born in Dallas as US national and graduated from the University of Texas at Austin . Elliot See has died on the 2@@ 8@@ t@@ h of February 1966 in St Louis .
+United States national Elliot See was born in Dallas , and s@@ t@@ u@@ died at University of Texas at Austin . O@@ n the 2@@ 8@@ t@@ h of February , 1996 he p@@ a@@ s@@ s@@ e@@ d away in St. Louis .
+Elliot See was born on 0@@ 7@@ /@@ 2@@ 3@@ /@@ 1927 in Dallas and died in St. Louis . He attended the University of Texas at Austin which is a part of the university of Texas system .
+Elliot See was born on 0@@ 7@@ /@@ 2@@ 3@@ /@@ 1927 in Dallas has graduated from the University of Texas which affiliated to the university of Texas S@@ y@@ s@@ t@@ e@@ m has died and d@@ e@@ c@@ e@@ a@@ s@@ e@@ d in St Louis .
+Elliot See was born in Dallas on July 23rd 1927 . He graduated from the University of Texas at Austin which is affiliated to the university of t@@ e@@ x@@ as system . Elliot See died in S@@ t@@ .@@ Louis .
+William Anders was born on October 1@@ 7 , 1933 , in British Hong Kong . He graduated from AFIT in 1962 with an M.S. , and w@@ o@@ u@@ l@@ d go on to serve as a fighter pilot , and as a crew member on Apollo 8 . Anders retired on September 1 , 1969 .
+William Anders was born on the 1@@ 7@@ t@@ h of October 1933 in British Hong Kong . He graduated in 1962 from AFIT with a M.S. and went on to become a fighter pilot and a crew member on Apollo 8 before he retired in 1969 .
+William Anders was born in 1933 in British Hong Kong and graduated in 1962 from AFIT with a M@@ .@@ S . He then went on to become a test pilot and joined the Apollo 8 crew before he retired in 1969 .
+Ankara is the Turkish capital and the country 's leader 's name is Ahmet Davutoglu . The Atatürk Monument ( İ@@ z@@ m@@ i@@ r ) can be found in Turkey . Pietro Canonica designed the Monument and it is made of bronze . The Ataturk Monument was inaugurated on 2@@ 7@@ t@@ h July , 1932 .
+The Ataturk Monument in Izmir was inaugurated on the 2@@ 7@@ t@@ h July , 1932 . It is made of bronze and it was designed by Pietro Canonica . Turkey 's leader is called Ahmet Davutoglu and its capital is Ankara .
+The capital city of Turkey is Ankara and the country 's leader is Ahmet Davutoglu . The country is the location of Izmir where the bronze Ataturk Monument designed by Pietro Canonica was inaugurated on 27 July 1932 .
+The Baku Turkish Martyrs ' Memorial was designed by Huseyin Butuner and Hilmi Guner and is located in Azerbaijan . It is dedicated to the Ottoman A@@ r@@ m@@ y S@@ o@@ l@@ d@@ i@@ e@@ r@@ s killed in the Battle of Baku . The leader , the Prime Minister of Azerbaijan is Artur Rasizade .
+The Baku Turkish Martyrs ' Memorial is located in Azerbaijan and the country 's leader is Prime Minister Artur Rasizade . The Memorial is dedicated to the Ottoman A@@ r@@ m@@ y soldiers killed in the Battle of Baku and its d@@ e@@ s@@ i@@ g@@ n@@ e@@ r@@ s are Huseyin Butuner and Hilmi Guner . The native name for the Baku Turkish Martyrs ' Memorial is T@@ ü@@ r@@ k Ş@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i A@@ n@@ ı@@ t@@ ı .
+Huseyin Butuner and Hilmi Guner are the d@@ e@@ s@@ i@@ g@@ n@@ e@@ r@@ s of the Baku Turkish Martyrs memorial , also known as T@@ u@@ r@@ k S@@ e@@ h@@ i@@ t@@ l@@ e@@ r@@ i A@@ n@@ i@@ t@@ i . The memorial is located in Azerbaijan and dedicated to the Ottoman a@@ r@@ m@@ y soldiers who died in the b@@ a@@ t@@ t@@ l@@ e of Baku . Prime Minister Artur Rasizade is the leader of the country .
+The 14th New Jersey Volunteer Infantry Monument is located at the Monocacy National Battlefield n@@ e@@ a@@ r Frederick , Maryland . The monument was established 1@@ 9@@ 0@@ 7@@ -@@ 0@@ 7@@ -@@ 11 and belongs to the category of Historic d@@ i@@ s@@ t@@ r@@ i@@ c@@ t@@ s in the United States . The monument has been p@@ r@@ o@@ v@@ i@@ d@@ e@@ d by the National P@@ a@@ r@@ k Service .
+The 14th New Jersey Volunteer Infantry Monument was established on July 11 , 1@@ 9@@ 0@@ 7 , in the Monocacy National Battlefield , in Frederick County , Maryland . The monument is c@@ a@@ t@@ e@@ g@@ o@@ r@@ i@@ z@@ e@@ d as a United States h@@ i@@ s@@ t@@ o@@ r@@ i@@ c district and is under the r@@ e@@ s@@ p@@ o@@ n@@ s@@ i@@ b@@ i@@ l@@ i@@ t@@ y of the National P@@ a@@ r@@ k Service . The c@@ l@@ o@@ s@@ e@@ s@@ t city to the b@@ a@@ t@@ t@@ l@@ e@@ f@@ i@@ e@@ l@@ d is Frederick , Maryland .
+The 14th New Jersey Volunteer Infantry Monument ( established on 11th July 1@@ 9@@ 0@@ 7 ) belongs to the category of Historic d@@ i@@ s@@ t@@ r@@ i@@ c@@ t@@ s in the United States and is located on Monocacy National Battlefield . The n@@ e@@ a@@ r@@ e@@ s@@ t city is Frederick , Frederick County , Maryland . The 14th New Jersey Volunteer Infantry Monument is owned by the National P@@ a@@ r@@ k Service .
+The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield , in Frederick County , Maryland , United States . The monument was established on July 11th , 1@@ 9@@ 0@@ 7 . It is now c@@ a@@ t@@ e@@ g@@ o@@ r@@ i@@ z@@ e@@ d as a United States h@@ i@@ s@@ t@@ o@@ r@@ i@@ c district and is owned by the National P@@ a@@ r@@ k Service .
+The 14th New Jersey Volunteer Infantry Monument was established on 11 July 1@@ 9@@ 0@@ 7 in the district of the Monocacy National Battlefield , Frederick County , Maryland , United States . It belongs to the category of h@@ i@@ s@@ t@@ o@@ r@@ i@@ c US d@@ i@@ s@@ t@@ r@@ i@@ c@@ t@@ s and is owned by the National P@@ a@@ r@@ k s@@ e@@ r@@ v@@ i@@ c@@ e .
+The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield , in Frederick County , Maryland , USA . E@@ s@@ t@@ a@@ b@@ l@@ i@@ s@@ h@@ e@@ d on July 11 , 1@@ 9@@ 0@@ 7 , the monument is c@@ a@@ t@@ e@@ g@@ o@@ r@@ i@@ z@@ e@@ d as a h@@ i@@ s@@ t@@ o@@ r@@ i@@ c district and is owned by the National P@@ a@@ r@@ k Service .
+The Accademia di Architettura di Mendrisio located in T@@ i@@ c@@ i@@ n@@ o , Switzerland was established in 1996 . It has 600 students . Switzerland 's leader is Federal Chancellor Johann Schneider-Ammann .
+Federal Chancellor Johann Schneider-Ammann is the current leader of Switzerland where the Accademia di Architettura di Mendrisio is located in T@@ i@@ c@@ i@@ n@@ o . It was established in 1996 and has 600 students .
+Accademia di Architettura di Mendrisio in T@@ i@@ c@@ i@@ n@@ o , Switzerland was established in 1996 and currently has 600 students . The Federal Chancellor of Switzerland is named Johann Schneider-Ammann .
+Acharya Institute of Technology is in Bangalore , India in the state of Karnataka . The school was established in 2000 and its director is Dr. G. P@@ . Prabhukumar . The full address of the school is In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
+E@@ s@@ t@@ a@@ b@@ l@@ i@@ s@@ h@@ e@@ d in 2000 , the Acharya Institute of Technology is in Bangalore , Karnataka India . The i@@ n@@ s@@ t@@ i@@ t@@ u@@ t@@ e 's director is Dr. G. P@@ . Prabhukumar and the campus is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
+The Acharya Institute of Technology campus is located at Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 , Karnataka , India . The Institute was established in the year 2000 and the director there is Dr. G. P@@ . Prabhukumar .
+The Acharya Institute of Technology in Bangalore , India was established in 2000 . It is affiliated with the Visvesvaraya Technological University . Its president is B@@ .@@ M@@ . Reddy and its d@@ i@@ r@@ e@@ c@@ t@@ o@@ r@@ e is Dr. G@@ .@@ P@@ . Prabhukumar .
+The Acharya Institute of Technology in Bangalore , India was established in 2000 and is affiliated to the Visvesvaraya Technological University . It was established in 2000 and has B M Reddy as President and D@@ r g P Prabhukumar as D@@ i@@ r@@ e@@ c@@ t@@ or .
+Acharya Institute of Technology is located in Bangalore , India . Its president is B@@ .@@ M@@ . Reddy and the director is Dr. G. P@@ . Prabhukumar . It was established in 2000 and its a@@ f@@ f@@ i@@ l@@ i@@ a@@ t@@ i@@ on is Visvesvaraya Technological University .
+The Acharya Institute of Technology in Mumbai , Karnataka was g@@ i@@ v@@ e@@ n the " Technological Campus " status by the A@@ l@@ l India Council for Technical E@@ d@@ u@@ c@@ a@@ t@@ i@@ on ( located in Mumbai ) . The Acharya Institute o@@ f@@ f@@ e@@ r@@ s t@@ e@@ n@@ n@@ is and the s@@ p@@ o@@ r@@ t@@ s governing body is the International T@@ e@@ n@@ n@@ is F@@ o@@ u@@ n@@ d@@ a@@ t@@ i@@ on . Karnataka has the A@@ r@@ a@@ b@@ i@@ an S@@ e@@ a to its west .
+T@@ e@@ n@@ n@@ is , which has the International T@@ e@@ n@@ n@@ is F@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on as its governing body , is o@@ f@@ f@@ e@@ r@@ e@@ d as a s@@ p@@ o@@ r@@ t at the Acharya Institute of Technology . The Institute was g@@ i@@ v@@ e@@ n Technical Campus status by the A@@ l@@ l India Council for Technical E@@ d@@ u@@ c@@ a@@ t@@ i@@ on based in Mumbai and is situated in the state of Karnataka which has the A@@ r@@ a@@ b@@ i@@ an S@@ e@@ a to the west .
+G@@ o@@ v@@ e@@ r@@ n@@ e@@ d by the International T@@ e@@ n@@ n@@ is F@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on , the Acharya Institute of Technology in Karnataka o@@ f@@ f@@ e@@ r@@ s t@@ e@@ n@@ n@@ is c@@ o@@ u@@ r@@ s@@ e@@ s and was g@@ i@@ v@@ e@@ n the ' Technical Campus ' status by the A@@ l@@ l India Council for Technical E@@ d@@ u@@ c@@ a@@ t@@ i@@ on in Mumbai . Karnataka is east of the A@@ r@@ a@@ b@@ i@@ an S@@ e@@ a .
+Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in Belgium . The i@@ n@@ s@@ t@@ i@@ t@@ u@@ t@@ e was g@@ i@@ v@@ e@@ n Technical Campus ' status by the A@@ l@@ l India Council for Technical E@@ d@@ u@@ c@@ a@@ t@@ i@@ on in Mumbai . The i@@ n@@ s@@ t@@ i@@ t@@ u@@ t@@ e o@@ f@@ f@@ e@@ r@@ s t@@ e@@ n@@ n@@ is which is governed by the International T@@ e@@ n@@ n@@ is F@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on .
+G@@ o@@ v@@ e@@ r@@ n@@ e@@ d by the International T@@ e@@ n@@ n@@ is F@@ e@@ d@@ e@@ r@@ a@@ t@@ i@@ on , the Acharya Institute of Technology o@@ f@@ f@@ e@@ r@@ s t@@ e@@ n@@ n@@ is c@@ o@@ u@@ r@@ s@@ e@@ s and was g@@ i@@ v@@ e@@ n the ' Technical Campus ' status by the A@@ l@@ l India Council for Technical E@@ d@@ u@@ c@@ a@@ t@@ i@@ on in Mumbai . It is also affiliated with the Visvesvaraya Technological University in Belgaum .
+Bucharest is the capital of Romania where one of the country 's ethnic groups are the G@@ e@@ r@@ m@@ a@@ n@@ s of Romania . The country 's leader is Prime Minister Klaus Iohannis . The p@@ a@@ t@@ r@@ on s@@ a@@ i@@ n@@ t of the country is A@@ n@@ d@@ r@@ e@@ w the A@@ p@@ o@@ s@@ t@@ l@@ e and the country is the location of the 1 Decembrie 1918 University .
+Romania is governed by a Prime Minister who is Klaus Iohannis . The country is also known for it 's p@@ a@@ t@@ r@@ on s@@ a@@ i@@ n@@ t A@@ n@@ d@@ r@@ e@@ w the A@@ p@@ o@@ s@@ t@@ l@@ e , the ethnic group the G@@ e@@ r@@ m@@ a@@ n@@ s of Romania and the capital Bucharest . Romania is also home to the 1 Decembrie 1918 University .
+The leader of Romania , the Prime Minister , is Klaus Iohannis . The capital is Bucharest , their ethnic group is G@@ e@@ r@@ m@@ a@@ n@@ s of Romania and its p@@ a@@ t@@ r@@ on S@@ a@@ i@@ n@@ t is A@@ n@@ d@@ r@@ e@@ w the A@@ p@@ o@@ t@@ l@@ e . In Romania w@@ e can found 1 Decembrie 1918 University .
+The School of Business and Social Sciences at the Aarhus University is located in Aarhus , Denmark was established in 1928 . Its academic staff n@@ u@@ m@@ b@@ e@@ r@@ s 737 and it is affiliated to the European University Association . Denmark 's leader is Lars Lokke Rasmussen .
+The city of Aarhus is the location of the School of Business and Social Sciences at the Aarhus University which is affiliated with the European University Association . The School , which has 737 academic staff , was established in 1928 in Denmark where the leader is Lars Lokke Rasmussen .
+E@@ s@@ t@@ a@@ b@@ l@@ i@@ s@@ h@@ e@@ d in 1928 and with a current staff of 737 , the School of Business and Social Sciences at the Aarhus University in A@@ a@@ r@@ u@@ s , Denmark is affiliated with the European University Association . The country 's leader is named Lars L@@ ø@@ k@@ k@@ e Rasmussen .
+The School of Business and Social Sciences at the Aarhus University at Aarhus , Denmark was established in 1928 . It has 737 academic staff and 1@@ 6@@ ,@@ 0@@ 0@@ 0 students . It is affiliated to the European University Association .
+The School of Business and Social Sciences at the Aarhus University is based in the city of Aarhus , Denmark . It was established in 1928 and is affiliated to the European University Association . There are 1@@ 6@@ 0@@ 0@@ 0 students and an academic staff of 7@@ 27 .
+School of Business and Social Sciences at the Aarhus University is located in Aarhus , Denmark . It was established in 1928 and its a@@ f@@ f@@ i@@ l@@ i@@ a@@ t@@ i@@ on is European University Association . The number of students is 1@@ 6@@ 0@@ 0@@ 0 and academic staff is 737 .
+Alan Bean was born on March 15 , 1932 in Wheeler , Texas and is American . He w@@ o@@ r@@ k@@ e@@ d as a test pilot and was a member of Apollo 12 , which was run by NASA . Bean is retired .
+Alan Bean is an American , who was born in Wheeler , Texas on 15th March 1@@ 8@@ 3@@ 2 . He was a test pilot and crew member on the NASA operated Apollo 12 f@@ l@@ i@@ g@@ h@@ t mission . He is now retired .
+Alan Bean is a US national who was on the crew of Apollo 12 . H@@ is b@@ i@@ r@@ t@@ h@@ place is Wheeler , Texas . He was born on March 15 , 1932 and he is retired . He p@@ e@@ r@@ f@@ o@@ r@@ m@@ e@@ d as a test pilot on The Apollo 12 mission that was operated by NASA .
+Alan Bean was born in Wheeler , Texas and attended UT Austin where he graduated in 1955 with a B@@ S . P@@ r@@ i@@ or to his r@@ e@@ t@@ i@@ r@@ e@@ m@@ e@@ n@@ t he served as a test pilot and was selected by NASA to serve as a crew member on Apollo 12 a@@ l@@ o@@ n@@ g@@ s@@ i@@ de commander David Scott .
+Alan Shepard was born on N@@ o@@ v 18 , 1923 in New Hampshire , US . He graduated from NWC in 1957 with an M@@ .@@ A . In 1959 he b@@ e@@ g@@ an w@@ o@@ r@@ k@@ i@@ n@@ g for NASA and was a member of Apollo 14 . He died in California .
+Alan Shepard was born on November 1@@ 8@@ t@@ h , 1923 in New Hampshire . He was an American , who graduated from NWC in 1957 with an M@@ .@@ A . He was chosen by NASA in 1959 and he was a crew member of Apollo 11 .
+Alan S@@ h@@ e@@ p@@ h@@ a@@ r@@ d is a US citizen who was born in New Hampshire on November 1@@ 8@@ t@@ h , 1923 . He graduated from NWC with an M@@ A in 1957 . He was chosen by NASA in 1959 and he c@@ r@@ e@@ w@@ e@@ d Apollo 14 .
+Alan Shepard was born on N@@ o@@ v 18 , 1923 in New Hampshire , USA . He graduated from NWC in 1957 with an M@@ .@@ A . He w@@ o@@ r@@ k@@ e@@ d as a test pilot before p@@ a@@ s@@ s@@ i@@ n@@ g away in California .
+American Alan Shepard was born in New Hampshire on N@@ o@@ v 18 , 1923 . He graduated from NWC with a M.A. in 1957 and was a test pilot . He d@@ e@@ c@@ e@@ a@@ s@@ e@@ d and died in California .
+The d@@ e@@ c@@ e@@ a@@ s@@ e@@ d Alan Shepard , a United States national , was born in New Hampshire on 1@@ 9@@ 2@@ 3@@ -@@ 1@@ 1@@ -@@ 1@@ 8 . He graduated from NWC , M.A. in 1957 and served as a T@@ e@@ s@@ t pilot . Alan Shepard died in California .
+Alan Shepard was born on November 18 , 1923 . M@@ u@@ r@@ i@@ o in California . He was A T@@ e@@ s@@ t pilot R@@ e@@ w@@ a@@ r@@ d@@ e@@ d with the Medal of Service Distinguished from The S@@ e@@ a@@ -@@ c@@ o@@ a@@ s@@ t of The United States , Medal of the United States Navy is higher than the Department of Commerce G@@ o@@ l@@ d Medal .
+The test pilot Alan Bean was born in New Hampshire on N@@ o@@ v 1@@ 8@@ t@@ h 1923 . He was awarded the Distinguished Service Medal , which is higher than the d@@ e@@ p@@ a@@ r@@ t@@ m@@ e@@ n@@ t of c@@ o@@ m@@ m@@ e@@ r@@ c@@ e g@@ o@@ l@@ d m@@ e@@ d@@ a@@ l , in the United States Navy . He died in California .
+R@@ e@@ t@@ i@@ red American fighter pilot Buzz Aldrin , also known as E@@ d@@ win E@@ . Aldrin J@@ r@@ . , was born in Glen Ridge , New Jersey . He graduated from M@@ a@@ s@@ s@@ a@@ c@@ h@@ u@@ s@@ e@@ t@@ t@@ s Institute of Technology in 1963 with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in Science and was a crew member on Apollo 11 .
+Buzz Aldrin , whose r@@ e@@ a@@ l name was E@@ d@@ win E Aldrin J@@ r , has now retired . He is an American born in Glen Ridge , New Jersey . A@@ f@@ t@@ e@@ r g@@ r@@ a@@ d@@ u@@ a@@ t@@ i@@ n@@ g from MIT in 1963 with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in s@@ c@@ i@@ e@@ n@@ c@@ e he became a fighter pilot and crew member on Apollo 11 .
+Buzz Aldrin was born in Glen Ridge , E@@ s@@ s@@ e@@ x County , New Jersey . He is a US national , who was a crew member of the NASA operated Apollo 11 p@@ r@@ o@@ g@@ r@@ a@@ m . William Anders was a backup pilot on the Apollo 11 mission . The US leader was Joe Biden .
+Buzz Aldrin was born on J@@ an 20 , 1930 in Glen Ridge , New Jersey . He graduated from MIT with an S@@ c . D in 1963 . He b@@ e@@ g@@ an w@@ o@@ r@@ k@@ i@@ n@@ g for NASA in 1963 was a member of Apollo 11 which was run by NASA . He is now retired .
+Buzz Aldrin , now retired , was born in Glen Ridge , New Jersey on January 2@@ 0@@ t@@ h , 1930 . He graduated from MIT in 1963 with a S@@ c . D@@ . and in 1963 he was p@@ i@@ c@@ k@@ e@@ d by NASA to be part of the Apollo 11 crew .
+Buzz Aldrin was born in Glen Ridge , New Jersey and graduated from M@@ a@@ s@@ s@@ a@@ c@@ h@@ u@@ s@@ e@@ t@@ t@@ s Institute of Technology in 1963 with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in Science . He was a member of the Apollo 11 crew after being selected by NASA in 1963 with William Anders as a backup pilot on Apollo 11 .
+Buzz Aldrin was born in Glen Ridge , New Jersey . He graduated from MIT in 1963 with a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in Science . He was a fighter pilot and b@@ e@@ g@@ an w@@ o@@ r@@ k@@ i@@ n@@ g for NASA in 1963 . Aldrin was a member of Apollo 11 , which was run by NASA and William Anders was the backup pilot .
+Buzz Aldrin was born in Glen Ridge , New Jersey and o@@ b@@ t@@ a@@ i@@ n@@ e@@ d a d@@ o@@ c@@ t@@ o@@ r@@ a@@ t@@ e in Science from MIT in 1963 . He served as a fighter pilot before being h@@ i@@ red by NASA in 1963 and s@@ e@@ r@@ v@@ i@@ n@@ g as a crew member on Apollo 11 with backup pilot William Anders .
+Elliot See was born on July 23 , 1927 in Dallas . He graduated from U of Texas at Austin which is part of the U of Texas system . He w@@ o@@ r@@ k@@ e@@ d as a test pilot before he died in St. Louis .
+Elliot See was born in Dallas on July 23rd , 1927 . He attended UT at Austin , which is affiliated with the University of Texas system . He was a test pilot , who died in St. Louis .
+Elliot See has died in St Louis . He was born in Dallas on 23 July 1927 and graduated from University of Texas at Austin which is affiliated with the University of Texas system p@@ r@@ i@@ or to s@@ e@@ r@@ v@@ i@@ n@@ g as a test pilot .
+Elliot See was born in Dallas on the 23rd of July in 1927 before a@@ t@@ t@@ e@@ n@@ d@@ i@@ n@@ g the University of Texas at Austin . Elliot was a test pilot before p@@ a@@ s@@ s@@ i@@ n@@ g away in St Louis in 1966 .
+T@@ e@@ s@@ t pilot Elliot See , born in Dallas on July 23 , 1927 , graduated from the University of Texas in Austin . He died in St. Louis on February 2@@ 8 , 1966 .
+Elliot See was born on July 23 , 1927 . He was a student at University of Texas at Austin , and later served as a test pilot . Elliot died in St. Louis on February 2@@ 8 , 1966 .
+William Anders ( born on the 1@@ 7@@ t@@ h of October 1933 in British Hong Kong ) graduated from AFIT , M.S. in 1962 . He was a US National and served as a F@@ i@@ g@@ h@@ t@@ e@@ r pilot before he retired on the 1st of September in 1969 .
+William Anders was born in British Hong Kong in October 1@@ 7@@ t@@ h 1933 . William graduated from AFIT , M.S. in 1962 and became a F@@ i@@ g@@ h@@ t@@ e@@ r pilot . William retired in September 1st in 1969 .
+William Anders in an American who was born in British Hong Kong on the 1@@ 7@@ t@@ h of October 1933 . A@@ f@@ t@@ e@@ r g@@ r@@ a@@ d@@ u@@ a@@ t@@ i@@ n@@ g from AFIT with an M.S. in 1962 , he w@@ o@@ r@@ k@@ e@@ d as a test pilot u@@ n@@ t@@ i@@ l he retired on the 1st of September 1969 .
+The M@@ u@@ n@@ i@@ c@@ i@@ p@@ a@@ l@@ i@@ t@@ y of Gettysburg is located in Adams County , Pennsylvania which lies to the south of Cumberland County and to the northwest of C@@ a@@ r@@ r@@ o@@ l@@ l County , Maryland . It is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States .
+The 11th Mississippi Infantry monument which was e@@ r@@ e@@ c@@ t@@ e@@ d in the municipality of Gettysburg , Adams County in 2000 is categorised as a contributing property . Adams County is located south of Cumberland County in the same state , and Carrol County , Maryland is situated to the southeast .
+Ankara is the capital of Turkey where the currency is the Turkish l@@ i@@ r@@ a and the leader is Ahmet Davutoglu . Izmir is located in the country and is the s@@ i@@ t@@ e of the bronze Ataturk Monument which was inaugurated in Izmir on 27 July 1932 , h@@ a@@ v@@ i@@ n@@ g been designed by Pietro Canonica .
+The Atatürk Monument is located in İ@@ z@@ m@@ i@@ r , in the country of Turkey , whose leader is Ahmet D@@ a@@ v@@ u@@ t@@ o@@ ğ@@ l@@ u . The monument is made of bronze , was designed by Pietro Canonica and was inaugurated on the 2@@ 7@@ t@@ h of July , 1932 . Turkey 's capital city is Ankara and the currency is the Turkish l@@ i@@ r@@ a .
+The Turkish l@@ i@@ r@@ a is the currency of Turkey where Ahmet Davutoglu is the leader and Ankara is the capital . The Ataturk Monument designed in bronze by Pietro Canonica is located in Izmir and was inaugurated on 27 July 1932 .
+The National Assembly is the official legislature of Azerbaijan which is lead by a Prime Minister . The capital city is Baku which is the location of the memorial designed in red granite and white marble by Huseyin Butuner and Hilmi Guner . The memorial is dedicated to the Ottoman a@@ r@@ m@@ y soldiers who were killed in the Battle of Baku .
+Baku is the capital of Azerbaijan where the leader 's title is Prime Minister and the legislature is the National Assembly . The city is the location of the Baku Turkish Martyrs memorial which was designed by Huseyin Butuner and Hilmi Guner in red granite and white marble . The memorial is dedicated to the soldiers of the Ottoman a@@ r@@ m@@ y who died in the Battle of Baku .
+H@@ u@@ y@@ s@@ e@@ y@@ in Butuner and Hilmi Guner designed the Baku Turkish Martyrs ' Memorial . It is located in Baku , Azerbaijan , which has legislature of National Assembly , and led by the Prime M@@ i@@ n@@ s@@ t@@ e@@ r . The memorial is made from red granite and white marble , and is dedicated to the Ottoman A@@ r@@ m@@ y S@@ o@@ l@@ d@@ i@@ e@@ r@@ s killed in the Battle of Baku .
+Acharya Institute of Technology 's campus is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore , Karnataka , India – 560090 . The Institute ( president B M Reddy ) was established in 2000 and is affiliated with Visvesvaraya Technological University .
+President B M Reddy is h@@ e@@ a@@ d of the Acharya Institute of Technology located at " In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 . " The Institute was established in the state of Karnataka in 2000 and is affiliated with the Visvesvaraya Technological University .
+The Acharya Institute of Technology 's campus is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore , Karnataka , India , 560090 . It was established in 2000 ; its president is B@@ .@@ M@@ . Reddy and it is affiliated with the Visvesvaraya Technological University .
+In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 is the location of the Acharya Institute of Technology in India which is affiliated with the Visvesvaraya Technological University . The motto of the Institute which was established in the year 2000 is " N@@ u@@ r@@ t@@ u@@ r@@ i@@ n@@ g E@@ x@@ c@@ e@@ l@@ l@@ e@@ n@@ c@@ e " and there are 700 postgraduate students .
+The Acharya Institute of Technology 's campus is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore , India , 560090 . It was established in 2000 and its motto is " N@@ u@@ r@@ t@@ u@@ r@@ i@@ n@@ g E@@ x@@ c@@ e@@ l@@ l@@ e@@ n@@ c@@ e " . It has 700 postgraduate students and it is affiliated to the Visvesvaraya Technological University .
+The Acharya Institute of Technology in Bangalore , India was created in 2000 , has 700 p@@ o@@ s@@ t graduate students and uses as its motto N@@ u@@ r@@ t@@ u@@ r@@ i@@ n@@ g E@@ x@@ c@@ e@@ l@@ l@@ e@@ n@@ c@@ e . It is affiliated with Visvesvaraya Technological University and its full address is In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
+Acharya Institute of Technology in Bangalore , India was established in 2000 and is affiliated with Visvesvaraya Technological University . The school president is B. M@@ . Reddy and its director is Dr. G. P@@ . Prabhukumar . The school 's full address is In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
+The Acharya Institute of Technology is in Bangalore , India was established in 2000 . The president is B@@ .@@ M@@ . Reddy and the director is Dr. G. P@@ . Prabhukumar . The i@@ n@@ s@@ t@@ i@@ t@@ u@@ t@@ e is affiliated with the Visvesvaraya Technological University and the campus is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 . " .
+The Acharya Institute of Technology , affiliated with the Visvesvaraya Technological University , is located in Soldevanahalli , on Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore , India ( 560090 ) . It was established in the year 2000 , and its current president is B@@ .@@ M@@ . Reddy , while its director is Dr. G@@ .@@ P@@ . Prabhukumar .
+Acharya Institute of Technology ( president B M Reddy ) is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore , India – 560090 . The Institute was established in 2000 , has 700 postgraduate students and is affiliated with Visvesvaraya Technological University of Belgaum .
+In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 is the location of the Acharya Institute of Technology in India . The President of the Institute which was established in the year 2000 is B M Reddy and there are 700 postgraduate students . The Institute is affiliated with the Visvesvaraya Technological University .
+The Acharya Institute of Technology was established in the year 2000 in India . Its campus is in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 and its president is B. M@@ . Reddy . It has 700 postgraduate students and is affiliated with the Visvesvaraya Technological University in Belgaum .
+AWH Engineering College in Kuttikkattoor , India is in the state of Kerala which has M@@ a@@ he to its northwest . The school has 250 e@@ m@@ p@@ l@@ o@@ y@@ e@@ e@@ s . India is home to the G@@ a@@ n@@ g@@ e@@ s R@@ i@@ v@@ e@@ r and its largest city is Mumbai .
+India is known for the r@@ i@@ v@@ e@@ r G@@ a@@ n@@ g@@ e@@ s and the largest city being Mumbai is also home to the state of Kerala which is p@@ o@@ s@@ i@@ t@@ i@@ o@@ n@@ e@@ d with M@@ a@@ he to it 's northwest . Kerala is also where AWH Engineering College is located within the city of Kuttikkattoor . The c@@ o@@ l@@ l@@ e@@ g@@ e currently has 250 members of staff .
+The AWH Engineering College in Kuttikkattoor , Kerala , India has an academic staff of 250 . Kerala has M@@ a@@ h@@ é , I@@ n@@ d@@ i@@ a@@ t@@ o its northwest . Mumbai is the largest city in India . The r@@ i@@ v@@ e@@ r G@@ a@@ n@@ g@@ e@@ s r@@ u@@ n@@ s t@@ h@@ r@@ o@@ u@@ g@@ h India .
+1 Decembrie 1918 University is located in the city of Alba I@@ u@@ l@@ i@@ a , Romania . The country 's capital is Bucharest and the leader ( title Prime Minister of Romania ) is Klaus Iohannis . An ethnic group of the country is The G@@ e@@ r@@ m@@ a@@ n@@ s of Romania and the country 's national anthem is D@@ e@@ ș@@ t@@ e@@ a@@ p@@ t@@ ă@@ -@@ t@@ e , r@@ o@@ m@@ â@@ n@@ e !
+The national anthem of Romania is " D@@ e@@ s@@ t@@ e@@ a@@ p@@ t@@ a@@ -@@ t@@ e , r@@ o@@ m@@ a@@ n@@ e ! " and the capital city is Bucharest . The country is lead by Prime Minister Klaus Iohannis and is the location of the 1 Decembrie 1918 University in the city of Alba I@@ u@@ l@@ i@@ a . One of the ethnic groups of the country is the G@@ e@@ r@@ m@@ a@@ n@@ s of Romania .
+The 1 Decembrie 1918 University is located in Alba I@@ u@@ l@@ i@@ a , Romania . Romania 's capital is Bucharest ; its leader is Prime Minister Klaus Iohannis and its ethnic group is the G@@ e@@ r@@ m@@ a@@ n@@ s of Romania . Romania 's capital is Bucharest and its anthem is D@@ e@@ s@@ t@@ e@@ a@@ p@@ t@@ a@@ -@@ t@@ e , R@@ o@@ m@@ a@@ n@@ e !
+In the year 2000 the Acharya Institute of Technology was established in the state of Karnataka , India . The current location is " In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 . " The D@@ i@@ r@@ e@@ c@@ t@@ or is D@@ r G P Prabhukumar and it is affiliated with the Visvesvaraya Technological University in the city of Belgaum .
+The Acharya Institute of Technology 's campus is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore , K@@ a@@ r@@ n@@ a@@ t@@ k@@ a , 560090 . It was established in 2000 and its director is D@@ r G P Prabhukumar . It is affiliated to the Visvesvaraya Technological University in Belgaum .
+Acharya Institute of Technology is affiliated with Visvesvaraya Technological University which is in Belgium . The i@@ n@@ s@@ t@@ i@@ t@@ u@@ t@@ e i@@ t@@ s@@ e@@ l@@ f is in India 's Karnataka state and its full address is In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 . It was created in 2000 and its director is Dr. G. P@@ . Prabhukumar .

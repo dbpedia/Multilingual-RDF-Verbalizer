@@ -1,5 +1,5 @@
 
-data="/home/msobrevillac/Projects/gsoc/Multilingual-RDF-Verbalizer/pytorch/data/en"
+data="/home/msobrevillac/Projects/gsoc/ACL/bleu/Multilingual-RDF-Verbalizer/hierarchical-decoding/data/en"
 
 for split in train dev; do
 	awk '$0="<ordering> "$0' $data/ordering/$split.src > $data/ordering/multi.$split.src
@@ -7,7 +7,9 @@ for split in train dev; do
 	awk '$0="<lexicalization> "$0' $data/lexicalization/$split.src > $data/lexicalization/multi.$split.src
 	awk '$0="<end2end> "$0' $data/end2end/$split.src > $data/end2end/multi.$split.src
 
-	cat $data/ordering/$split.trg $data/structing/$split.trg $data/lexicalization/$split.bpe.1.trg $data/end2end/$split.bpe.1.trg > $data/multi/$split.trg
+	cat $data/ordering/multi.$split.src $data/structing/multi.$split.src $data/lexicalization/multi.$split.src $data/end2end/multi.$split.src > $data/multi/$split.src
+
+	cat $data/ordering/$split.trg $data/structing/$split.trg $data/lexicalization/$split.bpe.trg $data/end2end/$split.bpe.trg > $data/multi/$split.trg
 done
 
 
