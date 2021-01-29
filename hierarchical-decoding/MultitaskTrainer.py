@@ -234,7 +234,7 @@ def run_translate(model, source_vocab, target_vocabs, save_dir, device, beam_siz
                 fout.write(output.replace("<eos>","").strip() + "\n")
         fout.close()
         
-def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filenames, ref_files, max_length, criteria, lower=False):
+def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filenames, ref_files, max_length, criteria, lower=False, tokenize=False):
     '''
         This method builds a model from scratch or using the encoder of a pre-trained model
         model: the model being evaluated
@@ -246,6 +246,7 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
         max_length: max length of a sentence
         criteria: accuracy or bleu
         lower: lowercase or not
+        tokenize: it is necessary to tokenize?
     '''
 
     accuracies = []
@@ -267,11 +268,15 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
                             references[i].append(ref)
 
         # references tokenized
+        print(references)
         references_tok = copy.copy(references)
+        print("weeeeeeeeeeeeeeee")
         for i, refs in enumerate(references_tok):
-            tok_reference = ' '.join(nltk.word_tokenize(ref))
-            references_tok[i] = [tok_reference.lower() if lower else tok_reference for ref in refs]
-        
+            tok_references = [' '.join(nltk.word_tokenize(ref)) if tokenize else ref for ref in refs]
+            references_tok[i] = [ref.lower() if lower else ref for ref in tok_references]
+
+        print(references_tok)
+        print("woooooooooooooo")        
         n = len(eval_name.split("/"))
         name = eval_name.split("/")[n-1]
         print(f'Reading {eval_name}')
@@ -279,6 +284,8 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
             outputs = translate(model, index, f, source_vocab, target_vocabs[index], device, 
                             beam_size=beam_size, max_length=max_length, lower=lower)
 
+        print(len(references_tok))      
+        print(len(outputs))
         if criteria == 2: ## evaluating accuracy
             acc = 0.0
             for j, output in enumerate(outputs):
@@ -421,7 +428,7 @@ def train(args):
                 validation_value = round(math.exp(valid_loss), 3)
 
                 if early_stopping_criteria > 1:
-                    accuracies, bleus = run_evaluation(multitask_model, source_vocabs[0], target_vocabs, device, args.beam_size, args.eval, args.eval_ref, max_length, early_stopping_criteria)
+                    accuracies, bleus = run_evaluation(multitask_model, source_vocabs[0], target_vocabs, device, args.beam_size, args.eval, args.eval_ref, max_length, early_stopping_criteria=early_stopping_criteria, lower=args.lower, tokenize=args.tokenize_eval)
 
                     if early_stopping_criteria == 2:
                         validation_value = round(accuracies[task_id], 3)

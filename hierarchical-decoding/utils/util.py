@@ -37,8 +37,11 @@ def bleu_nltk(references, hypothesis):
             references_.append([ref.split() for ref in refs_])
             hypothesis_.append(hypothesis[i].split())
 
+    print(references_)
+    print(hypothesis_)
     chencherry = SmoothingFunction()
     return corpus_bleu(references_, hypothesis_, smoothing_function=chencherry.method3)
+
 
 
 def count_parameters(model):

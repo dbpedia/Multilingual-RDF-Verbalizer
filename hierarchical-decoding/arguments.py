@@ -114,6 +114,8 @@ parser.add_argument(
 
 parser.add_argument(
 	'-lower','--lower', action='store_true', required=False, help='Lowercase or not')
+parser.add_argument(
+	'-tokenize-eval','--tokenize-eval', action='store_true', required=False, help='Tokenize the reference(s) of the dev set')
 
 
 parser.add_argument(
