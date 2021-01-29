@@ -268,15 +268,11 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
                             references[i].append(ref)
 
         # references tokenized
-        print(references)
         references_tok = copy.copy(references)
-        print("weeeeeeeeeeeeeeee")
         for i, refs in enumerate(references_tok):
             tok_references = [' '.join(nltk.word_tokenize(ref)) if tokenize else ref for ref in refs]
             references_tok[i] = [ref.lower() if lower else ref for ref in tok_references]
-
-        print(references_tok)
-        print("woooooooooooooo")        
+       
         n = len(eval_name.split("/"))
         name = eval_name.split("/")[n-1]
         print(f'Reading {eval_name}')
@@ -284,8 +280,6 @@ def run_evaluation(model, source_vocab, target_vocabs, device, beam_size, filena
             outputs = translate(model, index, f, source_vocab, target_vocabs[index], device, 
                             beam_size=beam_size, max_length=max_length, lower=lower)
 
-        print(len(references_tok))      
-        print(len(outputs))
         if criteria == 2: ## evaluating accuracy
             acc = 0.0
             for j, output in enumerate(outputs):
