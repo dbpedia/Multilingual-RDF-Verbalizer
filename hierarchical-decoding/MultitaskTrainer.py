@@ -428,7 +428,7 @@ def train(args):
                 validation_value = round(math.exp(valid_loss), 3)
 
                 if early_stopping_criteria > 1:
-                    accuracies, bleus = run_evaluation(multitask_model, source_vocabs[0], target_vocabs, device, args.beam_size, args.eval, args.eval_ref, max_length, early_stopping_criteria=early_stopping_criteria, lower=args.lower, tokenize=args.tokenize_eval)
+                    accuracies, bleus = run_evaluation(multitask_model, source_vocabs[0], target_vocabs, device, args.beam_size, args.eval, args.eval_ref, max_length, criteria=early_stopping_criteria, lower=args.lower, tokenize=args.tokenize_eval)
 
                     if early_stopping_criteria == 2:
                         validation_value = round(accuracies[task_id], 3)
