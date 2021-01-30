@@ -399,8 +399,11 @@ def train(args):
         else:
             best_valid_loss = [float(0) for _ in range(n_tasks)]
 
+
+        sub_steps = args.eval_steps
         if n_tasks > 1:
-            print("Patience wont be taken into account in Multitask learning")
+            sub_steps = args.eval_steps // n_tasks
+
 
         for _iter in range(1, args.steps + 1):
 
@@ -414,30 +417,34 @@ def train(args):
                 print_loss_total = 0
                 print(f'Task: {task_id:d} | Step: {_iter:d} | Train Loss: {train_loss:.3f} | Train PPL: {math.exp(train_loss):7.3f}')
 
-
-            if _iter % args.eval_steps == 0:
-                print("Evaluating...")
-                valid_loss = evaluate(multitask_model, dev_loaders[task_id], LossCompute(criterions[task_id], None), \
-                            device, task_id=task_id)
-                validation_value = round(math.exp(valid_loss), 3)
-
-                if early_stopping_criteria > 1:
-                    accuracies, bleus = run_evaluation(multitask_model, source_vocabs[0], target_vocabs, device, args.beam_size, args.eval, args.eval_ref, max_length, criteria=early_stopping_criteria, lower=args.lower, tokenize=args.tokenize_eval)
-
-                    if early_stopping_criteria == 2:
-                        validation_value = round(accuracies[task_id], 3)
-                    else:
-                        validation_value = round(bleus[task_id], 3)
-
-                print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. {args.early_stopping_criteria}: {validation_value:7.3f}')
-                if improved(validation_value, best_valid_loss[task_id], early_stopping_criteria):
-                    print(f'The {args.early_stopping_criteria} improved from {best_valid_loss[task_id]:.3f} to {validation_value:.3f} in the task {task_id}... saving checkpoint')
-                    patience = args.patience
-                    best_valid_loss[task_id] = validation_value
-                    torch.save(multitask_model.state_dict(), args.save_dir + 'model.pt')
-                    print("Saved model.pt")
+            if n_tasks > 1:
+                if sub_steps == 0:
+                    task_id = (0 if task_id == n_tasks - 1 else task_id + 1)
+                    sub_steps = args.eval_steps // n_tasks
                 else:
-                    if n_tasks == 1:
+                    sub_steps -= 1
+
+                if _iter % args.eval_steps == 0:
+                    task_id = 0
+                    sub_steps = args.eval_steps // n_tasks
+
+                    validation_value = [float("inf") for _ in range(n_tasks)] # we only use perplexity in multitask learning
+                    for tid in range(n_tasks):
+                        valid_loss = evaluate(multitask_model, dev_loaders[tid], \
+                            LossCompute(criterions[tid], None), device, task_id=tid)
+                        validation_value[tid] = round(math.exp(valid_loss), 3)
+
+
+                        print(f'Task: {tid:d} | Val. Loss: {valid_loss:.3f} |  Val. {args.early_stopping_criteria}: {validation_value[tid]:7.3f}')
+
+                    if improved(sum(validation_value), sum(best_valid_loss), early_stopping_criteria):
+                        print(f'The {args.early_stopping_criteria} improved from {sum(best_valid_loss):.3f} to {sum(validation_value):.3f} in all tasks... saving checkpoint')
+                        patience = args.patience
+                        best_valid_loss = [val for val in validation_value]
+                        torch.save(multitask_model.state_dict(), args.save_dir + 'model.pt')
+                        print("Saved model.pt")
+
+                    else:
                         if patience == 0:
                             print("The training will stop because it reaches the limit of patience")
                             break
@@ -445,9 +452,38 @@ def train(args):
                             patience -= 1
                             print(f'Patience ({patience}/{args.patience})')
 
-                if n_tasks > 1:
-                    print("Changing to the next task ...")
-                    task_id = (0 if task_id == n_tasks - 1 else task_id + 1)
+            else:
+                if _iter % args.eval_steps == 0:
+                    print("Evaluating...")
+                    valid_loss = evaluate(multitask_model, dev_loaders[task_id], LossCompute(criterions[task_id], None), \
+                            device, task_id=task_id)
+                    validation_value = round(math.exp(valid_loss), 3)
+
+                    if early_stopping_criteria > 1:
+                        accuracies, bleus = run_evaluation(multitask_model, source_vocabs[0], target_vocabs, \
+                            device, args.beam_size, args.eval, args.eval_ref, max_length, \
+                            criteria=early_stopping_criteria, lower=args.lower, tokenize=args.tokenize_eval)
+
+                        if early_stopping_criteria == 2:
+                            validation_value = round(accuracies[task_id], 3)
+                        else:
+                            validation_value = round(bleus[task_id], 3)
+
+                    print(f'Task: {task_id:d} | Val. Loss: {valid_loss:.3f} |  Val. {args.early_stopping_criteria}: {validation_value:7.3f}')
+
+                    if improved(validation_value, best_valid_loss[task_id], early_stopping_criteria):
+                        print(f'The {args.early_stopping_criteria} improved from {best_valid_loss[task_id]:.3f} to {validation_value:.3f} in the task {task_id}... saving checkpoint')
+                        patience = args.patience
+                        best_valid_loss[task_id] = validation_value
+                        torch.save(multitask_model.state_dict(), args.save_dir + 'model.pt')
+                        print("Saved model.pt")
+                    else:
+                        if patience == 0:
+                            print("The training will stop because it reaches the limit of patience")
+                            break
+                        else:
+                            patience -= 1
+                            print(f'Patience ({patience}/{args.patience})')
 
     try:
         multitask_model.load_state_dict(torch.load(args.save_dir + 'model.pt'))
